@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+    <meta charset='UTF-8'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+    <title>Visualization Directory Index</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; line-height: 1.6; }
+        h1 { color: #333; }
+        details { margin-bottom: 10px; }
+        summary { cursor: pointer; font-weight: bold; color: #444; padding: 8px; }
+        summary:hover { background-color: #f5f5f5; }
+        ul { list-style-type: none; padding-left: 20px; margin-top: 5px; }
+        li { margin: 5px 0; }
+        a { color: #0066cc; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+        .file { }
+        .folder-path { font-weight: bold; color: #555; }
+        .container { max-width: 1200px; margin: 0 auto; }
+        .level-1 { margin-left: 0px; }
+        .level-2 { margin-left: 20px; }
+        .level-3 { margin-left: 40px; }
+        .level-4 { margin-left: 60px; }
+        .level-5 { margin-left: 80px; }
+        .level-6 { margin-left: 100px; }
+        .level-7 { margin-left: 120px; }
+        .level-8 { margin-left: 140px; }
+        .open-all-btn {
+            background-color: #4CAF50;
+            color: white;
+            padding: 5px 10px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            margin: 5px 0;
+            font-size: 14px;
+        }
+        .open-all-btn:hover {
+            background-color: #45a049;
+        }
+    </style>
+    <script>
+        function openAllFiles(folderId) {
+            const links = document.querySelectorAll('#' + folderId + ' a');
+            links.forEach(link => {
+                window.open(link.href, '_blank');
+            });
+        }
+    </script>
+</head>
+<body>
+    <div class='container'>
+        <h1>Visualization Directory Index</h1>
+<details class='level-1' open>
+    <summary class='folder-path'>Root</summary>
+    <details class='level-2' >
+        <summary class='folder-path'>assets</summary>
+        <button class='open-all-btn' onclick="openAllFiles('folder_0')">Open All Files</button>
+        <ul id='folder_0'>
+            <li class='file'><a href='assets\index.css'>index.css</a></li>
+            <li class='file'><a href='assets\index.html'>index.html</a></li>
+            <li class='file'><a href='assets\index.js'>index.js</a></li>
+        </ul>
+    </details>
+    <details class='level-2' >
+        <summary class='folder-path'>feature_index\Llama-3.2-1B\sae-Llama-3.2-1B-131k</summary>
+        <button class='open-all-btn' onclick="openAllFiles('folder_1')">Open All Files</button>
+        <ul id='folder_1'>
+            <li class='file'><a href='feature_index\Llama-3.2-1B\sae-Llama-3.2-1B-131k\feature_25.html'>feature_25.html</a></li>
+        </ul>
+    </details>
+    <details class='level-2' >
+        <summary class='folder-path'>lape\meta-llama\Llama-3.2-1B\EleutherAI\sae-Llama-3.2-1B-131k</summary>
+        <details class='level-3' >
+            <summary class='folder-path'>lape_neuron</summary>
+            <button class='open-all-btn' onclick="openAllFiles('folder_2')">Open All Files</button>
+            <ul id='folder_2'>
+                <li class='file'><a href='lape\meta-llama\Llama-3.2-1B\EleutherAI\sae-Llama-3.2-1B-131k\lape_neuron\lape.html'>lape.html</a></li>
+            </ul>
+        </details>
+        <details class='level-3' >
+            <summary class='folder-path'>sae_features</summary>
+            <details class='level-4' >
+                <summary class='folder-path'>lape_all</summary>
+                <button class='open-all-btn' onclick="openAllFiles('folder_3')">Open All Files</button>
+                <ul id='folder_3'>
+                    <li class='file'><a href='lape\meta-llama\Llama-3.2-1B\EleutherAI\sae-Llama-3.2-1B-131k\sae_features\lape_all\lape.html'>lape.html</a></li>
+                </ul>
+            </details>
+            <details class='level-4' >
+                <summary class='folder-path'>lape_top_1_per_layer_by_entropy</summary>
+                <button class='open-all-btn' onclick="openAllFiles('folder_4')">Open All Files</button>
+                <ul id='folder_4'>
+                    <li class='file'><a href='lape\meta-llama\Llama-3.2-1B\EleutherAI\sae-Llama-3.2-1B-131k\sae_features\lape_top_1_per_layer_by_entropy\lape.html'>lape.html</a></li>
+                </ul>
+            </details>
+            <details class='level-4' >
+                <summary class='folder-path'>lape_top_1_per_layer_by_freq</summary>
+                <button class='open-all-btn' onclick="openAllFiles('folder_5')">Open All Files</button>
+                <ul id='folder_5'>
+                    <li class='file'><a href='lape\meta-llama\Llama-3.2-1B\EleutherAI\sae-Llama-3.2-1B-131k\sae_features\lape_top_1_per_layer_by_freq\lape.html'>lape.html</a></li>
+                </ul>
+            </details>
+            <details class='level-4' >
+                <summary class='folder-path'>lape_top_10_by_entropy</summary>
+                <button class='open-all-btn' onclick="openAllFiles('folder_6')">Open All Files</button>
+                <ul id='folder_6'>
+                    <li class='file'><a href='lape\meta-llama\Llama-3.2-1B\EleutherAI\sae-Llama-3.2-1B-131k\sae_features\lape_top_10_by_entropy\lape.html'>lape.html</a></li>
+                </ul>
+            </details>
+            <details class='level-4' >
+                <summary class='folder-path'>lape_top_10_by_freq</summary>
+                <button class='open-all-btn' onclick="openAllFiles('folder_7')">Open All Files</button>
+                <ul id='folder_7'>
+                    <li class='file'><a href='lape\meta-llama\Llama-3.2-1B\EleutherAI\sae-Llama-3.2-1B-131k\sae_features\lape_top_10_by_freq\lape.html'>lape.html</a></li>
+                </ul>
+            </details>
+        </details>
+    </details>
+    <details class='level-2' >
+        <summary class='folder-path'>ppl\meta-llama\Llama-3.2-1B\openlanguagedata\flores_plus</summary>
+        <details class='level-3' >
+            <summary class='folder-path'>neuron_intervention</summary>
+            <button class='open-all-btn' onclick="openAllFiles('folder_8')">Open All Files</button>
+            <ul id='folder_8'>
+                <li class='file'><a href='ppl\meta-llama\Llama-3.2-1B\openlanguagedata\flores_plus\neuron_intervention\ppl_change_matrix.html'>ppl_change_matrix.html</a></li>
+            </ul>
+        </details>
+        <details class='level-3' >
+            <summary class='folder-path'>sae_intervention</summary>
+            <details class='level-4' >
+                <summary class='folder-path'>all\entropy\max</summary>
+                <details class='level-5' >
+                    <summary class='folder-path'>mult_0.2</summary>
+                    <button class='open-all-btn' onclick="openAllFiles('folder_9')">Open All Files</button>
+                    <ul id='folder_9'>
+                        <li class='file'><a href='ppl\meta-llama\Llama-3.2-1B\openlanguagedata\flores_plus\sae_intervention\all\entropy\max\mult_0.2\ppl_change_matrix.html'>ppl_change_matrix.html</a></li>
+                    </ul>
+                </details>
+                <details class='level-5' >
+                    <summary class='folder-path'>mult_-0.2</summary>
+                    <button class='open-all-btn' onclick="openAllFiles('folder_10')">Open All Files</button>
+                    <ul id='folder_10'>
+                        <li class='file'><a href='ppl\meta-llama\Llama-3.2-1B\openlanguagedata\flores_plus\sae_intervention\all\entropy\max\mult_-0.2\ppl_change_matrix.html'>ppl_change_matrix.html</a></li>
+                    </ul>
+                </details>
+            </details>
+            <details class='level-4' >
+                <summary class='folder-path'>top_1_per_layer</summary>
+                <details class='level-5' >
+                    <summary class='folder-path'>entropy</summary>
+                    <details class='level-6' >
+                        <summary class='folder-path'>avg</summary>
+                        <details class='level-7' >
+                            <summary class='folder-path'>mult_1</summary>
+                            <button class='open-all-btn' onclick="openAllFiles('folder_11')">Open All Files</button>
+                            <ul id='folder_11'>
+                                <li class='file'><a href='ppl\meta-llama\Llama-3.2-1B\openlanguagedata\flores_plus\sae_intervention\top_1_per_layer\entropy\avg\mult_1\ppl_change_matrix.html'>ppl_change_matrix.html</a></li>
+                            </ul>
+                        </details>
+                        <details class='level-7' >
+                            <summary class='folder-path'>mult_-1</summary>
+                            <button class='open-all-btn' onclick="openAllFiles('folder_12')">Open All Files</button>
+                            <ul id='folder_12'>
+                                <li class='file'><a href='ppl\meta-llama\Llama-3.2-1B\openlanguagedata\flores_plus\sae_intervention\top_1_per_layer\entropy\avg\mult_-1\ppl_change_matrix.html'>ppl_change_matrix.html</a></li>
+                            </ul>
+                        </details>
+                    </details>
+                    <details class='level-6' >
+                        <summary class='folder-path'>max</summary>
+                        <details class='level-7' >
+                            <summary class='folder-path'>mult_0.2</summary>
+                            <button class='open-all-btn' onclick="openAllFiles('folder_13')">Open All Files</button>
+                            <ul id='folder_13'>
+                                <li class='file'><a href='ppl\meta-llama\Llama-3.2-1B\openlanguagedata\flores_plus\sae_intervention\top_1_per_layer\entropy\max\mult_0.2\ppl_change_matrix.html'>ppl_change_matrix.html</a></li>
+                            </ul>
+                        </details>
+                        <details class='level-7' >
+                            <summary class='folder-path'>mult_-0.2</summary>
+                            <button class='open-all-btn' onclick="openAllFiles('folder_14')">Open All Files</button>
+                            <ul id='folder_14'>
+                                <li class='file'><a href='ppl\meta-llama\Llama-3.2-1B\openlanguagedata\flores_plus\sae_intervention\top_1_per_layer\entropy\max\mult_-0.2\ppl_change_matrix.html'>ppl_change_matrix.html</a></li>
+                            </ul>
+                        </details>
+                    </details>
+                </details>
+                <details class='level-5' >
+                    <summary class='folder-path'>freq\avg\mult_-1</summary>
+                    <button class='open-all-btn' onclick="openAllFiles('folder_15')">Open All Files</button>
+                    <ul id='folder_15'>
+                        <li class='file'><a href='ppl\meta-llama\Llama-3.2-1B\openlanguagedata\flores_plus\sae_intervention\top_1_per_layer\freq\avg\mult_-1\ppl_change_matrix.html'>ppl_change_matrix.html</a></li>
+                    </ul>
+                </details>
+            </details>
+            <details class='level-4' >
+                <summary class='folder-path'>top_10\entropy\max</summary>
+                <details class='level-5' >
+                    <summary class='folder-path'>mult_0.2</summary>
+                    <button class='open-all-btn' onclick="openAllFiles('folder_16')">Open All Files</button>
+                    <ul id='folder_16'>
+                        <li class='file'><a href='ppl\meta-llama\Llama-3.2-1B\openlanguagedata\flores_plus\sae_intervention\top_10\entropy\max\mult_0.2\ppl_change_matrix.html'>ppl_change_matrix.html</a></li>
+                    </ul>
+                </details>
+                <details class='level-5' >
+                    <summary class='folder-path'>mult_-0.2</summary>
+                    <button class='open-all-btn' onclick="openAllFiles('folder_17')">Open All Files</button>
+                    <ul id='folder_17'>
+                        <li class='file'><a href='ppl\meta-llama\Llama-3.2-1B\openlanguagedata\flores_plus\sae_intervention\top_10\entropy\max\mult_-0.2\ppl_change_matrix.html'>ppl_change_matrix.html</a></li>
+                    </ul>
+                </details>
+            </details>
+        </details>
+    </details>
+    <details class='level-2' >
+        <summary class='folder-path'>umap\meta-llama\Llama-3.2-1B\EleutherAI\sae-Llama-3.2-1B-131k</summary>
+        <details class='level-3' >
+            <summary class='folder-path'>model.layers.0.mlp</summary>
+            <button class='open-all-btn' onclick="openAllFiles('folder_18')">Open All Files</button>
+            <ul id='folder_18'>
+                <li class='file'><a href='umap\meta-llama\Llama-3.2-1B\EleutherAI\sae-Llama-3.2-1B-131k\model.layers.0.mlp\umap.html'>umap.html</a></li>
+            </ul>
+        </details>
+        <details class='level-3' >
+            <summary class='folder-path'>model.layers.1.mlp</summary>
+            <button class='open-all-btn' onclick="openAllFiles('folder_19')">Open All Files</button>
+            <ul id='folder_19'>
+                <li class='file'><a href='umap\meta-llama\Llama-3.2-1B\EleutherAI\sae-Llama-3.2-1B-131k\model.layers.1.mlp\umap.html'>umap.html</a></li>
+            </ul>
+        </details>
+        <details class='level-3' >
+            <summary class='folder-path'>model.layers.2.mlp</summary>
+            <button class='open-all-btn' onclick="openAllFiles('folder_20')">Open All Files</button>
+            <ul id='folder_20'>
+                <li class='file'><a href='umap\meta-llama\Llama-3.2-1B\EleutherAI\sae-Llama-3.2-1B-131k\model.layers.2.mlp\umap.html'>umap.html</a></li>
+            </ul>
+        </details>
+        <details class='level-3' >
+            <summary class='folder-path'>model.layers.3.mlp</summary>
+            <button class='open-all-btn' onclick="openAllFiles('folder_21')">Open All Files</button>
+            <ul id='folder_21'>
+                <li class='file'><a href='umap\meta-llama\Llama-3.2-1B\EleutherAI\sae-Llama-3.2-1B-131k\model.layers.3.mlp\umap.html'>umap.html</a></li>
+            </ul>
+        </details>
+        <details class='level-3' >
+            <summary class='folder-path'>model.layers.4.mlp</summary>
+            <button class='open-all-btn' onclick="openAllFiles('folder_22')">Open All Files</button>
+            <ul id='folder_22'>
+                <li class='file'><a href='umap\meta-llama\Llama-3.2-1B\EleutherAI\sae-Llama-3.2-1B-131k\model.layers.4.mlp\umap.html'>umap.html</a></li>
+            </ul>
+        </details>
+        <details class='level-3' >
+            <summary class='folder-path'>model.layers.5.mlp</summary>
+            <button class='open-all-btn' onclick="openAllFiles('folder_23')">Open All Files</button>
+            <ul id='folder_23'>
+                <li class='file'><a href='umap\meta-llama\Llama-3.2-1B\EleutherAI\sae-Llama-3.2-1B-131k\model.layers.5.mlp\umap.html'>umap.html</a></li>
+            </ul>
+        </details>
+        <details class='level-3' >
+            <summary class='folder-path'>model.layers.6.mlp</summary>
+            <button class='open-all-btn' onclick="openAllFiles('folder_24')">Open All Files</button>
+            <ul id='folder_24'>
+                <li class='file'><a href='umap\meta-llama\Llama-3.2-1B\EleutherAI\sae-Llama-3.2-1B-131k\model.layers.6.mlp\umap.html'>umap.html</a></li>
+            </ul>
+        </details>
+        <details class='level-3' >
+            <summary class='folder-path'>model.layers.7.mlp</summary>
+            <button class='open-all-btn' onclick="openAllFiles('folder_25')">Open All Files</button>
+            <ul id='folder_25'>
+                <li class='file'><a href='umap\meta-llama\Llama-3.2-1B\EleutherAI\sae-Llama-3.2-1B-131k\model.layers.7.mlp\umap.html'>umap.html</a></li>
+            </ul>
+        </details>
+        <details class='level-3' >
+            <summary class='folder-path'>model.layers.8.mlp</summary>
+            <button class='open-all-btn' onclick="openAllFiles('folder_26')">Open All Files</button>
+            <ul id='folder_26'>
+                <li class='file'><a href='umap\meta-llama\Llama-3.2-1B\EleutherAI\sae-Llama-3.2-1B-131k\model.layers.8.mlp\umap.html'>umap.html</a></li>
+            </ul>
+        </details>
+        <details class='level-3' >
+            <summary class='folder-path'>model.layers.9.mlp</summary>
+            <button class='open-all-btn' onclick="openAllFiles('folder_27')">Open All Files</button>
+            <ul id='folder_27'>
+                <li class='file'><a href='umap\meta-llama\Llama-3.2-1B\EleutherAI\sae-Llama-3.2-1B-131k\model.layers.9.mlp\umap.html'>umap.html</a></li>
+            </ul>
+        </details>
+        <details class='level-3' >
+            <summary class='folder-path'>model.layers.10.mlp</summary>
+            <button class='open-all-btn' onclick="openAllFiles('folder_28')">Open All Files</button>
+            <ul id='folder_28'>
+                <li class='file'><a href='umap\meta-llama\Llama-3.2-1B\EleutherAI\sae-Llama-3.2-1B-131k\model.layers.10.mlp\umap.html'>umap.html</a></li>
+            </ul>
+        </details>
+        <details class='level-3' >
+            <summary class='folder-path'>model.layers.11.mlp</summary>
+            <button class='open-all-btn' onclick="openAllFiles('folder_29')">Open All Files</button>
+            <ul id='folder_29'>
+                <li class='file'><a href='umap\meta-llama\Llama-3.2-1B\EleutherAI\sae-Llama-3.2-1B-131k\model.layers.11.mlp\umap.html'>umap.html</a></li>
+            </ul>
+        </details>
+        <details class='level-3' >
+            <summary class='folder-path'>model.layers.12.mlp</summary>
+            <button class='open-all-btn' onclick="openAllFiles('folder_30')">Open All Files</button>
+            <ul id='folder_30'>
+                <li class='file'><a href='umap\meta-llama\Llama-3.2-1B\EleutherAI\sae-Llama-3.2-1B-131k\model.layers.12.mlp\umap.html'>umap.html</a></li>
+            </ul>
+        </details>
+        <details class='level-3' >
+            <summary class='folder-path'>model.layers.13.mlp</summary>
+            <button class='open-all-btn' onclick="openAllFiles('folder_31')">Open All Files</button>
+            <ul id='folder_31'>
+                <li class='file'><a href='umap\meta-llama\Llama-3.2-1B\EleutherAI\sae-Llama-3.2-1B-131k\model.layers.13.mlp\umap.html'>umap.html</a></li>
+            </ul>
+        </details>
+        <details class='level-3' >
+            <summary class='folder-path'>model.layers.14.mlp</summary>
+            <button class='open-all-btn' onclick="openAllFiles('folder_32')">Open All Files</button>
+            <ul id='folder_32'>
+                <li class='file'><a href='umap\meta-llama\Llama-3.2-1B\EleutherAI\sae-Llama-3.2-1B-131k\model.layers.14.mlp\umap.html'>umap.html</a></li>
+            </ul>
+        </details>
+        <details class='level-3' >
+            <summary class='folder-path'>model.layers.15.mlp</summary>
+            <button class='open-all-btn' onclick="openAllFiles('folder_33')">Open All Files</button>
+            <ul id='folder_33'>
+                <li class='file'><a href='umap\meta-llama\Llama-3.2-1B\EleutherAI\sae-Llama-3.2-1B-131k\model.layers.15.mlp\umap.html'>umap.html</a></li>
+            </ul>
+        </details>
+    </details>
+</details>
+    </div>
+</body>
+</html>

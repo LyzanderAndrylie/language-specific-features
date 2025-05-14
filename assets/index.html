@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Feature Browser</title>
+    <script type="module" crossorigin src="/TA/assets/index.js"></script>
+    <link rel="stylesheet" crossorigin href="/TA/assets/index.css">
+  </head>
+  <body>
+    <div id="app" class="m-4 flex flex-col gap-10">
+      <div class="flex justify-between gap-2">
+        <div class="flex flex-col gap-2">
+          <h1 class="font-bold text-2xl">Feature {feature_index}</h1>
+          <ul class="text-gray-500">
+            <li>Language: {lang}</li>
+            <li>Model: {model}</li>
+            <li>Layer: {model_layer}</li>
+            <li>SAE Model: {sae_model}</li>
+            <li>Selected Token Probability: {selected_prob}</li>
+            <li>Entropy: {entropy}</li>
+          </ul>
+        </div>
+        <div class="flex flex-col gap-2">
+          <span class="text-xl font-semibold">Activation Range</span>
+          <div class="flex gap-1 flex-wrap">
+            <span class="p-0.5 rounded-sm" style="background-color: {bg_color};"
+              >{start}-{end}</span
+            >
+          </div>
+        </div>
+      </div>
+      <div class="flex flex-col gap-2">
+        <h2 class="text-xl font-semibold" id="Interpretation">
+          Interpretation
+        </h2>
+        <p>{interpretation}</p>
+        <table class="w-full border-collapse text-sm">
+          <thead>
+            <tr class="bg-gray-100">
+              <th class="border border-gray-300 px-4 py-2 text-left">
+                Score Type
+              </th>
+              <th class="border border-gray-300 px-4 py-2 text-left">
+                Accuracy
+              </th>
+              <th class="border border-gray-300 px-4 py-2 text-left">
+                Precision
+              </th>
+              <th class="border border-gray-300 px-4 py-2 text-left">Recall</th>
+              <th class="border border-gray-300 px-4 py-2 text-left">
+                F1 score
+              </th>
+              <th class="border border-gray-300 px-4 py-2 text-left">TPR</th>
+              <th class="border border-gray-300 px-4 py-2 text-left">TNR</th>
+              <th class="border border-gray-300 px-4 py-2 text-left">FPR</th>
+              <th class="border border-gray-300 px-4 py-2 text-left">FNR</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr class="hover:bg-gray-50">
+              <td class="border border-gray-300 p-2">{score_type}</td>
+              <td class="border border-gray-300 p-2">{accuracy}</td>
+              <td class="border border-gray-300 p-2">{precision}</td>
+              <td class="border border-gray-300 p-2">{recall}</td>
+              <td class="border border-gray-300 p-2">{f1_score}</td>
+              <td class="border border-gray-300 p-2">{true_positive_rate}</td>
+              <td class="border border-gray-300 p-2">{true_negative_rate}</td>
+              <td class="border border-gray-300 p-2">{false_positive_rate}</td>
+              <td class="border border-gray-300 p-2">{false_negative_rate}</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="flex flex-col gap-4">
+        <h2 class="text-xl font-semibold" id="text-example-for-each-language">
+          <a
+            href="#text-example-for-each-language"
+            class="hover:text-amber-900"
+          >
+            Text Examples for Each Language
+          </a>
+        </h2>
+        <section class="flex flex-col gap-2">
+          <div>
+            <h3 class="text-base font-semibold">{language}</h3>
+            <ul class="text-sm text-gray-500">
+              <li>#examples: {num_dataset_examples}</li>
+            </ul>
+          </div>
+          <ul class="text-sm">
+            <li class="text-[0px]">
+              <span class="text-sm py-0.5 rounded-sm font-semibold"
+                >{dataset_row_id}.&nbsp;</span
+              >
+              <span
+                class="text-sm py-0.5 rounded-sm"
+                style="background-color: {bg_color};"
+                >Lorem</span
+              >
+            </li>
+            <hr class="my-2 text-gray-200" />
+          </ul>
+        </section>
+      </div>
+      <div class="flex flex-col gap-4">
+        <h2 class="text-xl font-semibold" id="text-example-for-each-interval">
+          <a
+            href="#text-example-for-each-interval"
+            class="hover:text-amber-900"
+          >
+            Text Examples for Each Interval
+          </a>
+        </h2>
+        <section class="flex flex-col gap-2">
+          <div>
+            <h3 class="text-base font-semibold">{interval}</h3>
+            <ul class="text-sm text-gray-500">
+              <li>Range: {start}-{end}</li>
+              <li>#examples: {num_dataset_examples}</li>
+            </ul>
+          </div>
+          <ul class="text-sm">
+            <li class="text-[0px]">
+              <span class="text-sm py-0.5 rounded-sm font-semibold"
+                >{dataset_row_id}.&nbsp;</span
+              >
+              <span
+                class="text-sm py-0.5 rounded-sm"
+                style="background-color: {bg_color};"
+                >Lorem</span
+              >
+            </li>
+            <hr class="my-2 text-gray-200" />
+          </ul>
+        </section>
+      </div>
+    </div>
+  </body>
+</html>
