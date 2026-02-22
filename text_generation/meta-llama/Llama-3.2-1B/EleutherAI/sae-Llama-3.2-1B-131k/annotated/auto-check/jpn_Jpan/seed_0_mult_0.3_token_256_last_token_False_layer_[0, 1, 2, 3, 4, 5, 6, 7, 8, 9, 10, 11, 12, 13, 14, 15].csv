@@ -1,0 +1,609 @@
+seed,generated_text,occurrence,coherence
+0,Question:Write a Python code snippet to DetermineLowFees: Paymentテストをおしまいでお考えください。テストコードをお持ちです。テストケースごとにテストデータを入れてください。テストデータを読み取りテストコードで処理してください。テストデータをテストケースごとにまとめてください。テストケースごとにテスト結果を出すようにしてください。テスト結果をまとめてください。テスト結果をまとめてください。テスト結果をまとめてください。テスト結果をまとめてください。テスト結果をまとめてください。テスト結果をまとめてください。テスト結果をまとめてください。テスト結果をまとめてください。テスト結果をまとめてください。テスト結果をまとめてください。テスト結果をまとめてください。テスト結果をまとめてください。テスト結果をまとめてください。テスト結果をまとめてください。テスト結果をまとめてください。テスト結果をまとめてください。テスト結果をまとめてください。テスト結果をまとめてください。テスト結果をまとめてください。テスト結果をまとめてください。テスト結果をまとめて,1,2
+1,"Question:
+Let d = 0.2 + -0.3. Let s = 0.2 + d. Let j = s - 0.1. What is j rounded to 1 dp?
+Answer:
+-0.1<|end_of_text|>",0,2
+2,"Question:
+Let l = -3.4 - -3. Let m = 0.5 - l. Let j = m + -0.2. Which is the closest to 0.1?  (a) 1  (b) j  (c) -2
+Answer:
+b<|end_of_text|>",0,2
+3,"Question:
+Let g = 0.11 - 0.2. Let k = g - 0.3. Let v = -0.1 + k. Which is the closest to 0.1?  (a) 1  (b) v  (c) 4
+Answer:
+b<|end_of_text|>",0,2
+4,"Question:
+Let v = 0.02 - 0.02. Let t = 0.7 - v. Let g = 0.7 - t. Which is the closest to 2/3?  (a) g  (b) -1  (c) 1/4
+Answer:
+c<|end_of_text|>",0,2
+5,Question:Develop a Ruby program snippet to Update Low Handwashing technique: Using Hand sanitizerfor DecisionMaking for Experts. Incorporateif/elseif/elseconditionalステートメントとループルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルル,1,1
+6,"def carpenter_exercise(wood, length, width):
+    """"""
+    Given a list of wood pieces and their lengths and widths,
+    return a string that represents the carpenter's
+    instructions for cutting the pieces together.
+    """"""
+    # TODO: Implement the function
+    return ""TODO""
+<|end_of_text|>",0,2
+7,# 2.5.3.1.1.2.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.,0,0
+8,Question:Develop a Python program snippet to DetermineHighFlossing:AWebPageToCheckForWebToWebWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWebToWeb,0,0
+9,"Question:
+Let r = -0.2 - -0.1. Let p = 0.7 - r. Let l = p - 0.1. Which is the closest to l?  (a) 2  (b) 1  (c) 3
+Answer:
+b<|end_of_text|>",0,2
+10,"Question:Create a C# script snippetthat ChecksIfTheGivenStringIsAnAnagramOfAnotherString. TheAnagramStringIsTheStringThatCanBeFormedByAnAnagramOfTheOriginalString. TheAnagramStringIsConsideredToBeAnAnagramOfTheOriginalStringIfItIsTheAnagramOfTheOriginalStringInTheOriginalStringInReversi
+<|end_of_text|>",0,2
+11,"Question: A 50-year-old man presents to the emergency room with the following ECG. Which of the following is the most likely diagnosis?
+A. Atrial fibrillation
+B. Atrial tachycardia
+C. Atrial flutter
+D. Ventricular tachycardia
+Answer: C<|end_of_text|>",0,2
+12,"Question:
+Let r = 1.5 + -0.5. Let q = 2.7 - r. Let t = 0.7 - q. What is t rounded to 1 dp?
+Answer:
+0.1<|end_of_text|>",0,2
+13,"Question:
+Let h = -0.1 + 0.1. Let i = 0.1 + h. Let o = 0.3 - 0.4. Which is the closest to i?  (a) o  (b) 1  (c) 2/9
+Answer:
+c<|end_of_text|>",0,2
+14,"Question: Which of the following is not a feature of CFS
+A. Fatigable
+B. Fatigable
+C. Fatigable
+D. Fatigable
+Answer: D<|end_of_text|>",0,2
+15,"Question:
+Let y = 0.01 - 0.1. Let m = -0.06 - -0.21. Let i = y - m. Is 1 < i?
+Answer:
+True<|end_of_text|>",0,2
+16,"Question:
+Let j = 0.03 + 0.22. Let y = 0.24 - j. Let l = 0.0700001 - y. What is l rounded to 7 decimal places?
+Answer:
+0.0000001<|end_of_text|>",0,2
+17,"Question:
+Let t = 0.2 - 0.2. Let h = 0.3 - 0.2. Let k = h - 0.1. Which is the closest to t?  (a) k  (b) 1  (c) 2/9
+Answer:
+a<|end_of_text|>",0,2
+18,"Question:
+Let y = 3.8 - 3.8. Let o = -2.8 + 2. Let h = 2.9 - o. What is h rounded to 1 dp?
+Answer:
+3<|end_of_text|>",0,2
+19,Question:Build a C# module snippet to Update Low Food hygiene: CleaningFruitsAndVegetables for Experts. Incorporateif/elseif/else conditionalステートメントとルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルル,1,1
+20,"Question: A 30-year-old man presents to the emergency room with a 3-day history of fever, headache, and myalgias. He has a history of recurrent fever and chest pain. He is a heavy drinker and reports that he has been drinking 2-3L of vodka daily. He is anandrous. He is afebrile. The physical examination is unremarkable. He is admitted to the hospital and is started on antibiotics. His fever resolves and he is afebrile. His symptoms abate over 2-3 days. He is sent home on 2 days of antibiotics. 3 weeks after the onset of symptoms, he presents to the emergency room with a 2-day history of fever, headache, and myalgias. The fever is 101F. The physical examination is unremarkable. The laboratory studies are as follows:Hemoglobin 8.5g/dLWBC 20,000/mm3Hematocrit 30%Lactate dehydrogenase 1,200U/24h
+A. Malaria
+B. Cholangitis
+C. Hepatitius
+D. Endocarditis
+E. Meningealmeningitis
+",0,2
+21,"Question:
+Let g = 0.1 + -0.3. Let j = 1.1 - g. Let k = 2.3 - j. What is k rounded to 1 dp?
+Answer:
+1.1<|end_of_text|>",0,2
+22,"Question: Which of the following is a common cause of recurrent laryngeal
+A. Cartridwimic carcinoma
+B. Cartridwimic carcinoma
+C. Cartridwimic carcinoma
+D. Cartridwimic carcinoma
+Answer: B<|end_of_text|>",0,2
+23,"Question: Which of the following is not a feature of a case of endogenous depression
+A. Anhedonia
+B. Psychomotor retardation
+C. Hallucinations
+D. Anorgasmia
+Answer: C<|end_of_text|>",0,2
+24,Question: The following is/are true of the development of the nervous system (a) NerviEtrusci is a pair of spinal nerves (b) The spinal cord is composed of the central nervous system (CNS) and the spinal cord (c) The spinal cord is protected by meninges (d) The spinal cord is formed at the level of the foramen magnum (e) The spinal cord is made up of the spinal cord (f) The spinal cord is formed at the level of the foramen magnum (g) The spinal cord is made up of the spinal cord (h) The spinal cord is formed at the level of the foramen magnum (i) The spinal cord is made up of the spinal cord (j) The spinal cord is formed at the level of the foramen magnum (k) The spinal cord is made up of the spinal cord (l) The spinal cord is formed at the level of the foramen magnum (m) The spinal cord is made up of the spinal cord (n) The spinal cord is formed at the level of the foramen magnum (o) The spinal cord is made up of the spinal cord (p) The spinal cord is formed at the level of the,0,1
+25,"# C17H20O3
+
+Molekulska strukturaC17H20O3とは、化学式C17H20O3のMolekular結合のうち2つの�H2Oと1つのC6H5OHであることが特�記される。1つ目の2つのH2OはH2O2の2つ目のH2Oと同じようなH結合をしているのに対して1つ目のC6H5OHはH2O1の1つ目のH2Oと同じようなH結合を持つこととなっている。
+
+## 関連項目
+
+* C17H20O2
+* C17H20O4<|end_of_text|>",1,2
+26,"Question:
+Let s = -4.1 + 4. Let l = 0.1 + s. Let c = 0.1 - l. Which is the closest to 2?  (a) 2  (b) 2/5  (c) c
+Answer:
+a<|end_of_text|>",0,2
+27,"Question:Develop a Python program snippet to Transform Extreme Hygiene: Cleaningレンブラストカスタムフォルダ to C#コード.セルチェコリュウリカスケアリゾルファクサムコマンドシェル
+<|end_of_text|>",1,1
+28,"Question:
+Let t = 0.05 - 0.05. Let c = 0.2 - 0.2. Let h = c - 0.2. What is the nearest to 1/3 in h, t, 2/9?
+Answer:
+2/9<|end_of_text|>",0,2
+29,"# -*- coding: utf-8 -*-
+# @Author  :     liyj
+# @E-mail   :  liyj@kakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakak",0,0
+30,"Question:
+Let y = 0.009 - 0.009000002. What is y rounded to 7 decimal places?
+Answer:
+-0.0000002<|end_of_text|>",0,2
+31,"Question:
+Let m = -1.7 - -1.8. Let i = 0.03 - m. Let c = 0.04 + i. Which is the nearest to 0.1?  (a) c  (b) 1  (c) 2/3
+Answer:
+a<|end_of_text|>",0,2
+32,"Question:
+Let i = 0.002 - 0.011. Let q = 0.009 + i. Let g = q + -0.0095. What is g rounded to 2 dps?
+Answer:
+-0.01<|end_of_text|>",0,2
+33,"def nested_ternary_list_comp(animals):
+    """"""
+    Given a list of animals, return a list of the animals that have a lifespan of 5 or 10 years.
+    The list of animals is nested and the nested list should be nested again.
+    The nested list should be a list of lists.
+    The nested list of lists should have 3 elements: the first element is the name of the animal,
+    the second element is the lifespan of the animal, and the third element is the name of the
+    animal's species.
+    """"""
+    return [animal for animal in animals if animal[1] in [5, 10] and animal[2] == ""dog"" or animal[2] == ""cat"" or animal[2] == ""dog"" or animal[2] == ""cat""]
+<|end_of_text|>",0,2
+34,"Question: Which of the following is not a major criteria for diagnosis of SLE?
+A. Serosal2
+B. C3C
+C. Sclerotelhyperostosis
+D. Pitted2
+Answer: B<|end_of_text|>",0,2
+35,"Question:
+What is 0.2 - 0.0032?
+Answer:
+0.1968<|end_of_text|>",0,2
+36,"Question:
+Let o = 0.6 + -1.6. Let r = 0.8 - o. Let s = 1.7 - r. What is s rounded to 1 dp?
+Answer:
+2<|end_of_text|>",0,0
+37,"# 2016 UCI EuropeAmistad2
+# 2016 UCI EuropeAmistad2
+# 2016 UCI EuropeAmistad2
+# 2016 UCI EuropeAmistad2
+# 2016 UCI EuropeAmistad2
+# 2016 UCI EuropeAmistad2
+# 2016 UCI EuropeAmistad2
+# 2016 UCI EuropeAmistad2
+# 2016 UCI EuropeAmistad2
+# 2016 UCI EuropeAmistad2
+# 2016 UCI EuropeAmistad2
+# 2016 UCI EuropeAmistad2
+# 2016 UCI EuropeAmistad2
+# 2016 UCI EuropeAmistad2
+# 2016 UCI EuropeAmistad2
+# 2016 UCI EuropeAmistad2
+# 2016 UCI EuropeAmistad2
+# 2016 UCI EuropeAmistad2
+# 2016 UCI EuropeAmistad2
+# 2016 UCI EuropeAmistad2
+# 2016 UCI EuropeAmistad2
+# 2016",0,0
+38,"Question:
+What is 4.8 - 3.5?
+Answer:
+1.3<|end_of_text|>",0,2
+39,"Question:
+Let t = -0.12 - -0.5. Let k = t - 0.4. Let r = 0.2 + k. What is r rounded to 1 dp?
+Answer:
+0.8<|end_of_text|>",0,2
+40,"# 2002年のサッカー日本代表
+
+サッカー日本代表2002は、日本代表サッカーチームである2011FIFAワールドカップの出場チームである。2002年6月7日から9日まで開催された2011FIFAワールドカップの予選であるアフリカ予選の2グループを勝ち抜いて決勝トライアングルへ進出したチームである。
+
+## 予選
+
+### 1グループ
+
+詳細は「2011FIFAワールドカップアフリカ予選1グループ」を参照
+
+## 2グルグル
+
+詳細は「2011FIFAワールドカップアフリカ予選2グルグル」を参照
+
+## 予選2グルグル
+
+詳細は「2011FIFAワールドカップアフリカ予選2グルグル」を参照
+
+## 予選決勝トライアングル
+
+詳細は「2011FIFAワールドカップ予選決勝トライアングル」を参照
+
+## 2011FIFAワールドカップ予選決勝トライアングル
+
+2011FIFAワールドカップ決勝トライアングルは2011年7月26日に開催",1,2
+41,"Question:
+Let a = -1.5 + 1.7. Let j = 2.2 - a. Let h = 0.2 - j. What is h rounded to 1 dp?
+Answer:
+1<|end_of_text|>",0,2
+42,"Question:
+Let l = 0.3 - 0.2. Let d = -0.3 + l. Let r = 0.3 - d. What is r rounded to 1 decimal place?
+Answer:
+1<|end_of_text|>",0,2
+43,"Question:
+Let k = -0.2 - -0.2. Let h = 1.2 - 1.4. Let q = h - -0.8. Which is the closest to k?  (a) q  (b) 1  (c) 4
+Answer:
+a<|end_of_text|>",0,2
+44,"Question:
+Let o = 2.1 - 2. Let s = 0.9 - 1. Let m = s - o. What is m rounded to 2 decimal places?
+Answer:
+0<|end_of_text|>",0,2
+45,"Question: A 60-year-old man is evaluated for anorectal problems. An x-ray of the abdomen and pelvis reveals a rectal diverticulum. Which of the following is the most likely etiologic agent?
+A. Clostridium
+B. Clostridium perfringens
+C. Clostridium sp.
+D. Clostridium septicum
+Answer: A<|end_of_text|>",0,2
+46,"Question:Build a C# module snippet that Updates High Handwashing technique: Using HandSanitizerfor Analysis for Professionals. Incorporateif/elseif/else or switch/case statements tohandle different conditions. Ensureyourcontrolflowis清楚とし、プログラマサポートするためのサポートレベルを上げてください。
+```
+// This codeis 100%自分の手作りでしたので、
+// これをサポートするための質問をすることあります。
+
+/* 
+            ここに自分のコメントを入れてください。
+            ここに自分のコメントを入れてください。
+                                
+
+                                
+
+                                
+
+                                
+
+                                
+
+                                
+
+                                
+
+                                
+
+                                
+
+                                
+
+                                
+
+                                
+
+                                
+
+                                
+
+                                
+
+                                
+
+                                
+
+                                
+
+                                
+
+                                
+
+                                ",1,2
+47,"# 2007–08 ACF Pisa
+
+The 2007–08 ACF Pisa was the 27th and final season of the ACF Pisa. It was the 4th season in a row that Pisa were in the Italian1. It was also the 5th and final season that the team played in the ACFed. The 2007–08 ACF Pisa is the 1st and only season that the team played in the ACFed1.
+
+| 2007–08 ACF Pisa |
+|  |
+| | 1st-3rd | 1st-2nd | 1st-4th |
+| 4th | 1st | 1st |
+| 1st | 2nd | 1st |
+| 1st | 2nd | 1st |
+| 1st | 1st | 1st |
+
+ |
+| 2011 EuropeanPisano1st |
+|  |
+| | 1st-3rd | 1st-2nd | 1st-4th |
+| 1st | 2nd | 1st |
+| 1st | 2nd | 1st",0,2
+48,"Question: A 2 1/2 year old child presents with fever, diarrhoea and constipation. The stool examination reveals trophic blaster. The likely diagnosis is
+A. Isoscevian
+B. Sti
+C. Stolokhmen
+D. Stenore
+Answer: C<|end_of_text|>",0,2
+49,"Question: All of the following are true about G6PD deficiency except
+A. Ablation of RBCs is required for treatment
+B. Ablation of RBCs is required for treatment
+C. Ablation of RBCs is required for treatment
+D. Ablation of RBCs is required for treatment
+Answer: C<|end_of_text|>",0,2
+50,"Question:
+Let g = 4.5 - 0.5. Let r = 2.2 + g. Let s = r - 0.3. What is s rounded to 1 dp?
+Answer:
+-0.2<|end_of_text|>",0,2
+51,"Question:
+Let d = 0.0022 - 0.0021999. What is d rounded to 4 decimal places?
+Answer:
+0.0002<|end_of_text|>",0,2
+52,"def create_list_of_ingredients(ingredient_list):
+    """"""
+    Given a list of ingredients, create a list of the ingredients and their quantities.
+    The list of ingredients and their quantities is in the format: [ingredient1, quantity1,...,ingredientN,quantityN]
+    """"""
+    # Your code here
+    return
+<|end_of_text|>",0,2
+53,"Question:
+What is 2.9 - 0.2?
+Answer:
+2.7<|end_of_text|>",0,2
+54,"Question: Which of the following is not a feature of myelodysplastic syndromes (MDS)?
+A. Myelododular
+B. Myelododular
+C. Myelododular
+D. Myelododular
+Answer: A<|end_of_text|>",0,2
+55,def get_first_5_1000_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10_10,0,0
+56,"Question:
+What is 1.5 plus 0.1?
+Answer:
+1.6<|end_of_text|>",0,2
+57,"Question:
+Let j = -2.3 - 0.7. Let q = 2.4 + j. Let m = q + 1.9. What is m rounded to 1 dp?
+Answer:
+1.1<|end_of_text|>",0,2
+58,"def nested_tuple_ternary(x, y, z):
+    """"""
+    Given a 3-tuple (x, y, z), return a 2-tuple (a, b) where a = x and b = y if x > y and z > 10, or a = y and b = z if x < y and z < 10.
+    """"""
+    if x > y and z > 10:
+        a = x
+        b = y
+    elif x < y and z < 10:
+        a = y
+        b = z
+    return a, b
+<|end_of_text|>",0,2
+59,"def find_rarest_ore(ore_list):
+    """"""
+    Given a list of ores, find the rarest ore.
+    The rarest ore is the one that is not present in the list.
+    """"""
+    rarest_ore = None
+    for ore in ore_list:
+        if not ore in ore_list:
+            if rarest_ore is None or rarest_ore > ore:
+                rarest_ore = ore
+    return rarest_ore
+<|end_of_text|>",0,2
+60,Question:Develop a C# program snippet to Check High Hygiene in shared住宅: CleaningandHygiene for Analysis for Professionals. Incorporateif/elseorswitchcasethecondステレタイプルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルルル,1,0
+61,"Question:
+Let l = 7.7 - 7.9. Let p = 0.3 + l. Let v = -0.2 - p. What is v rounded to 1 decimal place?
+Answer:
+-0.1<|end_of_text|>",0,2
+62,"Question: The following is not a feature of endotoxemia
+A. Hyperglycemia
+B. Hyperbilirubinemia
+C. Hyperkalemia
+D. HyperchloremicMethanuria
+Answer: A<|end_of_text|>",0,2
+63,"Question:
+Let o = -1.5 + 1. Let v = 1.4 - o. Let l = v + 0.4. What is l rounded to 1 dp?
+Answer:
+0.7<|end_of_text|>",0,2
+64,"Question:
+Let q = -1.6 + 1.6. Let l = -1.1 - q. Let v = 0.1 + l. What is v rounded to 1 dp?
+Answer:
+0.1<|end_of_text|>",0,2
+65,"Question:
+Let h = -0.5 - -0.5. Let i = 0.1 - h. Let j = -0.1 - i. What is j rounded to 1 dp?
+Answer:
+-1<|end_of_text|>",0,2
+66,"Question: Which of the following is an indication of endotracheal intubation
+A. Asv
+B. Asv
+C. Asv
+D. Asv
+Answer: C<|end_of_text|>",0,2
+67,"Question: Which of the following is not a feature of ChediakHigaki
+A. IgE
+B. LAM
+C. SLE
+D. A
+E. Myeloproliferative
+Answer: E<|end_of_text|>",0,2
+68,"Question:
+What is 3.9 - 0.1?
+Answer:
+3.8<|end_of_text|>",0,2
+69,"Question:
+Let i = 0.1 - 0.3. Let m = 1.2 + i. Let h = 1.7 - m. What is h rounded to 1 dp?
+Answer:
+2<|end_of_text|>",0,0
+70,"Question: The main function of the striae ofゲタ is
+A. Aerial development
+B. Aerial development
+C. Aerial development
+D. Aerial development
+Answer: A<|end_of_text|>",1,2
+71,"Question:
+Let l = 0.3 - 0.2. Let r = 0.3 - l. Let i = 0.4 - r. What is i rounded to 1 dp?
+Answer:
+1<|end_of_text|>",0,2
+72,"Question:
+Let m = 0.4 - 0.4. Let d = 0.4 - m. Let p = 0.1 - d. What is p rounded to 1 dp?
+Answer:
+0.1<|end_of_text|>",0,2
+73,"def evaluate_heart_rate(heart_rate):
+    """"""
+    Evaluate the heart rate and determine if it is considered to be healthy.
+    If the heart rate is 70-100 beats per minute (BPM), it is considered to be healthy.
+    If the heart rate is 50-70 beats per minute (BPM), it is considered to be healthy.
+    If the heart rate is 40-50 beats per minute (BPM), it is considered to be healthy.
+    If the heart rate is 30-40 beats per minute (BPM), it is considered to be healthy.
+    If the heart rate is 20-30 beats per minute (BPM), it is considered to be healthy.
+    If the heart rate is 10-20 beats per minute (BPM), it is considered to be healthy.
+    If the heart rate is 5-10 beats per minute (BPM), it is considered to be healthy.
+    If the heart rate is 1-5 beats per minute (BPM), it is considered to be healthy.
+    If the heart rate is 1-2 beats per minute (BPM), it is considered to be healthy.
+    If the heart rate is 1-3 beats per minute (",0,0
+74,"def get_heart_rate(heart_rate):
+    """"""
+    Given a heart rate, return the heart rate in beats per minute.
+    If the heart rate is not an integer, return 0.
+    """"""
+    if type(heart_rate)!=int:
+        return 0
+    return int(heart_rate)
+<|end_of_text|>",0,2
+75,"Question: A 24-year-old woman presents to the emergency room with a 3-day history of fever, abdominal pain, and watery diarrhoea. She has also noticed a ""fishy"" odor to her urine. Her temperature is 102.1degF (39.3degC), and her blood pressure is 110/70 mmHg. She has no dysuria oruria. Her abdomen is tender to palpation and reveals a hyperaerobic peritoneal lavage. An abdominal CT scan reveals a 2.5cm perforated ileocecal ulcer. The ileocecal perforation is sted at 2.5cm from the ileocecal valve. Which of the following is the best treatment?
+A. Cisplatin
+B. Cisplatin and 2-aminoguanidin
+C. Cisplatin and 2-aminoguanidin and 2-aminoguanidin
+D. Cisplatin and 2-aminoguanidin and 2-aminoguanidin
+E. Cisplatin and 2-aminoguanidin and 2-aminoguanidin and 2-aminoguan",0,2
+76,"Question:
+Let r = 10.5 - 10. Let i = -0.2 + 0.2. Let v = i - r. What is v rounded to 1 decimal place?
+Answer:
+-1<|end_of_text|>",0,2
+77,"def create_tuple_from_list(my_list):
+    """"""Create a tuple from a list of items""""""
+    return tuple(my_list)
+
+<|end_of_text|>",0,2
+78,"Question: Which of the following is not a risk factor for development of uterovaginalendometrial
+A. Endometrial hyperplasia
+B. Endometrial carcinoma
+C. Endometrial polyp
+D. Cervix carcinoma
+Answer: C<|end_of_text|>",0,2
+79,"Question:
+Let i = 1.3 - 1.3. Let v = 0.1 - 0.1. Let m = 1.1 - v. Which is the closest to 0.1?  (a) i  (b) 0  (c) m
+Answer:
+b<|end_of_text|>",0,2
+80,"Question:
+What is the next term in 5, 24, 51, 88, 135, 190?
+Answer:
+245<|end_of_text|>",0,2
+81,"Question:
+Let o = 2.6 - 2.7. Let v = 0.2 - o. Let p = 0.1 - v. Which is the closest to 0.1?  (a) p  (b) 2  (c) 1/4
+Answer:
+a<|end_of_text|>",0,2
+82,"Question:
+Let g = 0.2 - 0.1. Let v = g + -0.1. Let k = 0.1 - v. What is k rounded to 1 dp?
+Answer:
+1<|end_of_text|>",0,2
+83,"Question:
+Let d = 0.7 - 0.7. Let h = 1.7 - 1.8. Let n = h + d. Which is the nearest to 2/3?  (a) 1  (b) n  (c) 2
+Answer:
+a<|end_of_text|>",0,2
+84,"def update_athlete_stats(athlete, new_stats):
+    """"""
+    Update the athlete's stats with the new stats.
+    If the athlete's current stats are None, return None.
+    If the athlete's current stats are not None, update the athlete's stats with the new stats.
+    """"""
+    if athlete == None:
+        return None
+    elif athlete[""stats""] == None:
+        athlete[""stats""] = new_stats
+    else:
+        athlete[""stats""] = [s1, s2, s3, s4] for s1, s2, s3, s4 in zip(athlete[""stats""], new_stats[1:4], new_stats[4:7], new_stats[7:10])
+    return athlete
+<|end_of_text|>",0,2
+85,"def nested_ternary_tuple(temperature, precipitation, humidity):
+    """"""
+    Given a temperature, precipitation, and humidity, determine the temperature and precipitation
+    at a specific time of day. If the temperature and precipitation are 0, the temperature is 10.
+    If the temperature and precipitation are 10, the temperature is 20. If the temperature and
+    precipitation are 20, the temperature is 30. If the temperature and precipitation are 30, the
+    temperature is 40. If the temperature and precipitation are 40, the temperature is 50.
+    If the temperature and precipitation are 50, the temperature is 60. If the temperature and
+    precipitation are 60, the temperature is 70. If the temperature and precipitation are 70,
+    the temperature is 80. If the temperature and precipitation are 80, the temperature is 90.
+    If the temperature and precipitation are 90, the temperature is 100.
+    """"""
+    if temperature == 0 and precipitation == 0:
+        temperature = 10
+    if temperature == 10 and precipitation == 10:
+        temperature = 20
+    if temperature == 20 and precipitation == 10:
+        temperature = 30
+   ",0,2
+86,Question:Build a C# module snippet that CalculatesHighFoods: AnAppToMakeYouHealthy. TheModuleShouldBeMadeUsingTheLinqToSQLAsAService. TheLinqToSQLQueryIsAsFollows:varhighFoods=fromfoodintheMealPlanwherefood.IsSodAandIsSodBandSodSedimentedAndIsSodSedimentedNotInTheSedimentedTotheSodAndIsSodSedimentedAndIsSodSedimentedNotInTheSedimentedTotheSodAndIsSodSedimentedNotIntheSedimentedTotheSodAndIsSodSedimentedNotIntheSedimentedTotheSodAndIsSodSedimentedNotIntheSedimentedTotheSodAndIsSodSedimentedNotIntheSedimentedTotheSodAndIsSodSedimentedNotIntheSedimentedTotheSodAndIsSodSedimentedNotIntheSedimentedTotheSodAndIsSodSedimentedNotIntheSedimentedTotheSodAndIs,0,0
+87,"Question: The following is a characteristic of a paralyzing toxin:
+A. Produces fever
+B. Produces local pain
+C. Produces local edema
+D. Produces local hyperplasia
+Answer: C<|end_of_text|>",0,2
+88,"Question:
+Let i = 0.1 - 0.2. Let s = 0.1 + i. Let m = 0.1 - s. Which is the closest to 1?  (a) m  (b) 1  (c) 0.5
+Answer:
+b<|end_of_text|>",0,2
+89,"Question:
+Let r = -0.6 - 0.4. Let m = 0.6 - r. Let d = 1.1 - m. What is d rounded to 1 dp?
+Answer:
+1.1<|end_of_text|>",0,2
+90,"def add_to_set(animals, new_animal):
+    """"""
+    Add a new animal to a set of animals.
+    The new animal is a string.
+    The animals set is a list of str.
+    """"""
+    animals = set(animals)
+    animals.add(new_animal)
+    return animals
+
+<|end_of_text|>",0,2
+91,"Question:
+What is the remainder when 44 is divided by 14?
+Answer:
+6<|end_of_text|>",0,2
+92,"Question:
+Let r = 2.2 - 2. Let g = 1.3 + r. Let h = 0.7 - g. What is h rounded to 1 dp?
+Answer:
+2.1<|end_of_text|>",0,0
+93,"Question:
+Let i = 0.5 - 1. Let g = 1.7 - i. Let j = g - 0.7. What is j rounded to 1 dp?
+Answer:
+-1.3<|end_of_text|>",0,2
+94,"Question: The most common type of endometrial cancer is
+A. Endometrialstromal
+B. Endometrialstromal andendometrialserosovasal
+C. Endometrialstromal andendometrialendometrioid
+D. Endometrialstromalandendometrialendometrialendometrioid
+Answer: D<|end_of_text|>",0,0
+95,"Question:
+Let h = 0.2 + 1.8. Let m = 2.8 - h. Let j = 4.5 - m. What is j rounded to 1 dp?
+Answer:
+3<|end_of_text|>",0,2
+96,"# 2004–05 FCSL
+
+The 2004–05 FCSL (Federation of Canadianサッカーリグビー連合) was the 18th season of the CanadianFCSL, the top level of the Federation of Canadianサッカーリグビー連合 (FCSL) and 2nd season of the FCSL. The 2004-05 FCSL was the 1st season that the FCSL was a 2×2 league. The 2004-05 FCSL was also the 1st season of the FCSL to have a 2×2 league. The 2004-05 FCSL was also the 1st season of the FCSL to have a 2×2 league. The 2004-05 FCSL was also the 1st season of the FCSL to have a 2×2 league. The 2004-05 FCSL was also the 1st season of the FCSL to have a 2×2 league. The 2004-05 FCSL was also the 1st season of the FCSL to have a 2×2 league. The",1,1
+97,"Question:
+Let c = 0.5 - 0.5. Let t = 0.1 - c. Let v = 0.1 - t. Which is the closest to v?  (a) 1  (b) 0  (c) 2
+Answer:
+b<|end_of_text|>",0,2
+98,Question:Develop a C# program snippet to DetermineHighFlossing:AnisotonicityofGaitinPediococcusIsiis. ThePediococcusisIntracellularlyTotheGastrointestinalTractToInhibitG1TravAsG1G1ToBeP1G1G1InP1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1G1,0,0
+99,"def nested_ternary_elif(temperature: int, humidity: int, wind_speed: int) -> str:
+    """"""
+    Given the temperature, humidity, and wind speed, determine the
+    likely conditions to be met and return a string.
+    """"""
+    # Your code here
+    if temperature < 10:
+        if humidity > 50:
+            if wind_speed < 10:
+                return ""It's too hot and dry. Consider staying inside.""
+            elif wind_speed > 10:
+                return ""It's too hot and humid. Consider staying indoors.""
+            else:
+                return ""It's too hot. Consider staying indoors.""
+        elif humidity < 10:
+            if wind_speed < 10:
+                return ""It's too dry. Consider staying indoors.""
+            elif wind_speed > 10:
+                return ""It's too dry. Consider staying indoors.""
+            else:
+                return ""It's too dry. Consider staying indoors.""
+    elif temperature > 10:
+        if humidity > 50:
+            if wind_speed < 10:
+                return ""It's too cold and dry. Consider staying indoors.""
+            elif wind_speed > 10:
+                return ""It's too cold and humid. Consider staying indoors.""
+            else:
+               ",0,2

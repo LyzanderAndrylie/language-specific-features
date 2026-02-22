@@ -1,0 +1,429 @@
+seed,generated_text,occurrence,coherence
+0,Question:Write a Python code snippet to Display Low Weather Forecastे के लिए इसे से ले जेाेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेे,1,0
+1,"Question:
+Let d = 0.03 + -0.13. Let s = 0.02 - 0.3. Let m = s + 0.1. Which is the nearest to 0?  (a) m  (b) d  (c) 0.4
+Answer:
+b<|end_of_text|>",0,2
+2,"Question:
+Let l = -3 + 5. Let c = 0.03 - 0.4. Let i = 0.1 - c. Which is the nearest to -0.1?  (a) l  (b) 0  (c) i
+Answer:
+c<|end_of_text|>",0,2
+3,"Question:
+Let x = 0.11 - -0.49. Let f = -0.04 - 0.03. Let y = f + 0.17. Which is the closest to 0?  (a) x  (b) 0  (c) y
+Answer:
+c<|end_of_text|>",0,2
+4,"Question:
+Let v = 0.02 - 0.1. Let s = 0.17 - 0.3. Let l = s - -0.05. What is the smallest value in l, v, 0?
+Answer:
+v<|end_of_text|>",0,2
+5,Question:Build a Python moduleाेाेाााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााा,1,0
+6,"def analyze_chemical_compound(chemical_compound):
+    """"""
+    Analyze a chemical compound and determine if it is safe or unsafe.
+    If the compound is safe, print ""The chemical is safe"".
+    If the compound is unsafe, print ""The chemical is unsafe"".
+    If the compound is invalid, print ""Invalid input"".
+    """"""
+    if (chemical_compound % 2 == 0) == (chemical_compound % 2 == 0) == (chemical_compound % 2 == 0):
+        print(""The chemical is safe"")
+    else:
+        print(""The chemical is unsafe"")
+<|end_of_text|>",0,2
+7,# 2-डे ही लिए काेकेेाााेाेााेााेाेाेााेाेााेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाे,1,0
+8,Question:Build a Python moduleेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेे,0,0
+9,"Question:
+Let x = -0.1 - -0.1. Let p = 0.7 - 0.4. Let d = 0.1 - p. What is the nearest to x in 0.1, 0.5, d?
+Answer:
+0.1<|end_of_text|>",0,2
+10,Question:Create a Python script snippet that Transforms High Socialीाकरेेाडा केेाडेेेाेेाेेेेााेेेेेेााेेाेेाेेेाेेााेेाेेेााेेेाेेााेेाेेेााेेाेेााेेेेााेेााेेेेााेेाेेााेेाााेेााेेााेेाााेेाााेेााेेााेेाााेेााेेाााेााेेााेेााेेााेेाााेेाााेेााेेाााेेाााेेाााेेाााेेााेेाााेेाााेाााेेााेेाााेाााेेाााेेााेेााेेाा,1,0
+11,Question: A 25-year-old pregnant woman is diagnosed with pneumocया परे लिया का सिरे में दरीाे से के वाये होने के लकेेे के बारे की सेंेेा का बारे से बारे से बारे से बारे से बारे से बारे से बारे से बारे से बारे से बारे से बारे से बारे से बारे से बारे से बारे से बारे से बारे से बारे से बारे से बारे से बारे से बारे से बारे से बारे से बारे से बारे से बारे से बारे से बारे से बारे से बारे से बारे से बारे से बारे से बारे से बारे से बारे से बारे से बारे स,1,1
+12,"Question:
+Let n = 0.5 + -0.3. Let f = 0.3 - n. Let l = -0.3 - f. Which is the nearest to 0?  (a) 0  (b) 1  (c) l
+Answer:
+a<|end_of_text|>",0,2
+13,"Question:
+Let h = -0.05 + 0.05. Let i = 0.07 + 0.3. Let y = i - 0.3. Which is the closest to -2?  (a) h  (b) y  (c) 0.2
+Answer:
+c<|end_of_text|>",0,2
+14,Question:Build a Python module \_e_�_����������_���_��_�_� ���ी�ा�ा��� ���ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा,1,0
+15,"Question:
+Let y = 0.01 - 0.1. Let f = -0.06 - -0.8. Let s = f - -0.4. Which is the closest to y?  (a) 0  (b) s  (c) -2/11
+Answer:
+a<|end_of_text|>",0,2
+16,"Question:
+Let s = -0.03 + 0.2. Let y = 0.17 + -0.27. Let p = 0.08 - y. Which is the nearest to 0.1?  (a) s  (b) 0  (c) p
+Answer:
+c<|end_of_text|>",0,2
+17,"Question:
+Let u = 0.03 - 0.04. Let x = 0.02 - 0.2. Let s = 0.8 - 0.6. Which is the closest to u?  (a) s  (b) x  (c) 0
+Answer:
+b<|end_of_text|>",0,2
+18,"Question:
+Let y = 3.8 - 3.4. Let o = -2.8 + 0.8. Let i = -0.4 - o. Which is the nearest to 0?  (a) y  (b) 0  (c) i
+Answer:
+b<|end_of_text|>",0,2
+19,Question:Build a Python module को लिखने के लिए वो के लिए एक डेटा से एका से में बदला वाला प्रिया से वे के में के जे से वे के के ले वे के में से के से में से के से के से के से के से के से के से के से के से के से के से के से के से के से के से के से के से के से के से के से के से के से के से के से के से के से के से के से के से के से के से के से के से के से के से के से के से के से के से के से के से के से के से के से के स,1,1
+20,Question:Build a Python module के साथे की सुवाये के बारे के सोेने के बिना एके बारे के सेेेेेाेेेाेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेे,1,0
+21,"Question:
+Let i = 0.1 + -0.3. Let y = 1.1 + i. Let h = 0.3 + y. Round h to 0 decimalया बारे के लिए दरे वाला अटा के पे लिए दरे वाला अटा का से के लिए दरे वाला अटा का के के बोरे का लिए दरे वाला अटा के बोरे का ले के लिए दरे वाला अटा के का ले के के बोरे के ले के बोरे के बोरे के बोरे के ले के बोरे के के बोरे के ले के बोरे के बोरे के बोरे के बोरे के बोरे के बोरे के बोरे के बोरे के बोरे के बोरे के बोरे के बोरे के बोरे के बोरे के बोर",1,1
+22,Question:Build a Python module snippet that Transforms High Dental सेेेेाडाेेेेाेाेेाेाेेाेाेेाेाेाेाेेाेाेाेाेेाेाेेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाे,1,0
+23,"Question: Which is the largest muscle of leg?
+A. Tibुरा गठा काे अटाेााा
+B. Legेााााााााा
+C. साेााााााा
+D. पाेा
+Answer: C<|end_of_text|>",1,0
+24,"Question:Write a Python code that checks if a given date is leap day.
+Hint: Use %े पाे राे के लेे काे साे वाे हाे काे काे काे साे केाे काे केाे केाे केाे केाे केाे केाे केाे केाे केाे केाे केाे केाे केाे केाे केाे केाे केाे केाे केाे केाे केाे केाे केाे केाे केाे केाे केाे केाे केाे केाे केाे केाे केाे केाे केाे केाे केाे केाे केाे केाे केाे केाे केाे केाे केाे केाे केाे केाे क",1,1
+25,"Question:Build a Python module (library) that uses MongoDB and allows users to add, update, delete and read data on a MongoDB database. 
+- The database should have 2 Tables: 
+  - Users (table)
+  - Posts (table)
+  - Users should have 3 columns: 
+  - id (Primary Key)
+  - name
+  - Email
+  - Password 
+  - Posts should have 2 columns: 
+  - id (Primary Key)
+  - post (text)
+  - image (optional)
+  - date (date)
+  - users should be able to add, update, delete and read data on users
+  - users should be able to add, update, delete and read data on posts
+  - users should be able to add, update, delete and read data on users
+  - users should be able to add, update, delete and read data on posts
+  - users should be able to add, update, delete and read data on users
+  - users should be able to add, update, delete and read data on posts
+  - users should be able to add, update, delete and read data on users
+  - users should be able to add, update, delete and read",0,2
+26,"Question:
+Let s = -4.25 + 0.25. Let x = 0.8 + 0.1. Let v = x + -0.3. Which is the closest to s?  (a) 2  (b) 0  (c) v
+Answer:
+b<|end_of_text|>",0,2
+27,Question:Develop a Python program that Transforms Low Dental से के लिए को बढा�ाने के लिए एक के लिए के से के ले के ले के से के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ल,1,1
+28,"Question:
+Let n = 0.05 - 0.2. Let c = 0.2 - n. Let r = -0.11 - c. Round r to 0 decimalाेरे.
+Answer:
+-1<|end_of_text|>",1,1
+29,Question:Write a Python code snippet to Display Low Fitness: Heart Rate Zoneिखायेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेे,1,0
+30,"Question:
+Let n = 0.02 - -0.18. Let s = 0.28 - n. Let u = -0.2 - s. What is u rounded to 0 decimal तका?
+Answer:
+-0<|end_of_text|>",1,2
+31,"Question:
+Let m = -1.07 - -0.07. Let i = 0.03 + -0.8. Let h = i + -0.4. Which is the closest to -0.1?  (a) 0  (b) h  (c) m
+Answer:
+c<|end_of_text|>",0,2
+32,"Question:
+Let i = 0.002 - -0.094. Let x = 0.095 - 0.0941. Let s = x + 0.01. What is s rounded to 3 decimalेेरे?
+Answer:
+0.01<|end_of_text|>",1,1
+33,"def analyze_ancient_archaeological_site(archaeological_site):
+    """"""
+    Analyेेेेाेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेे",1,0
+34,"Question: Which of the following is not part of 'National Programme'?
+A. INSPIRE
+B. ICARE
+C. INSPIRE
+D. EASE
+Answer: A<|end_of_text|>",0,2
+35,"Question:
+Let s = 0.2 - 0.2. Let i = 0.3 - 0.3. Suppose 0 = -0*r + 3*r - 2*i. Which is the closest to 0?  (a) -0.3  (b) s  (c) r
+Answer:
+a<|end_of_text|>",0,2
+36,"Question:
+Let o = 0.6 + -0.2. Let r = 0.1 - o. Let s = -0.1 - -0.2. Which is the nearest to s?  (a) -0.1  (b) 2/7  (c) r
+Answer:
+a<|end_of_text|>",0,2
+37,# 1996ााे कााााे केााे केााे पेााे तेााे केााे केााे पेााे तेााे केााे पेााे तेााे केााे पेााे तेााे केााे पेााे तेााे केााे पेााे तेााे केााे पेााे तेााे केााे पेााे तेााे केााे पेााे तेााे केााे पेााे तेााे केााे पेााे तेााे केााे पेााे तेााे केााे पेााे तेााे केााे पेााे तेााे केााे पेााे तेााे केााे पेा,1,0
+38,"Question:
+What is 4.8 take the whole 100?
+Answer:
+100<|end_of_text|>",0,0
+39,"Question:
+Let c = -0.12 - -0.5. Let x = -0.28 + c. Let n = 0.04 + x. What is n rounded to 0 decimal जगहे?
+Answer:
+0<|end_of_text|>",1,2
+40,# 2002 फिलाडे कााााेीााााेाााेााााेाााााााेााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााा,1,0
+41,"Question:
+Let a = -1.1 + 0.7. Let i = -2.2 + 0.2. Let c = i - -0.3. What is the nearest to -0.1 in -0.2, c, a?
+Answer:
+-0.2<|end_of_text|>",0,2
+42,"Question:
+Let l = 0.13 - 0.1. Let s = -0.3 + 0.3. Which is the nearest to s?  (a) 1  (b) -2/7  (c) l
+Answer:
+c<|end_of_text|>",0,2
+43,"Question:
+Let u = -0.2 + 0.2. Let w = 0.1 - 0.4. Let o = 0.4 + w. Which is the closest to 0?  (a) o  (b) u  (c) 0.3
+Answer:
+a<|end_of_text|>",0,2
+44,"Question:
+Let o = 2.1 + 0.1. Let x = -0.8 - o. Let n = 0.4 + -0.1. Which is the closest to 0.1?  (a) n  (b) -2  (c) x
+Answer:
+a<|end_of_text|>",0,2
+45,Question:Create a Python script snippet that Transforms High Earीची दीवा�ााीेाीेेेाीेेाीेेाीेेेाीेेाीेेाीेेाीेेाीेेाीेेाीेेाीेेाीेेाीेेाीेेाीेेाीेेाीेेाीेेाीेेाीेेाीेेाीेेाीेेाीेेाीेेाीेेाीेेाीेेाीेेाीेेाीेेाीेेाीेेाीेेाीेेाीेेाीेेाीेेाीेेाीेेाीेेाीेेाीेेाीेेाीेेाीेेाीेेाीेेाीेेाीेेाीेेाीेेाीेेाीेेाीेेाीेेाीेे,1,0
+46,Question:Build a Python module snippet that Transforms High Dental सेकरा दुराेारे के पेेाडाेेाेाेेेेेेेाेेेेेेेेेाेेेाेेेेेेेाेेेाेेेेेेेेेाेेेाेेेेाेेाेेेेेेाेेेाेेेेेेेाेेेाेेेेेेेाेेेाेेेेेेेाेेेाेेेेेेेेाेेेाेेेेेेेेाेेेाेेेेेेेेाेेेाेेेेेेेाेेेाेेेेेेेेाेेेाेेेेेेेाेेेाेेेेेेेाेेेाेेेेेेेाेेेाेेेेेेेाेेेाेेेेे,1,0
+47,# 10 का व्यापारा के का निका पी के बोझी के के ले पारे से के सा के ही से के बा जे के वा जे के वा जे के वा जे के वा जे के वा जे के वा जे के वा जे के वा जे के वा जे के वा जे के वा जे के वा जे के वा जे के वा जे के वा जे के वा जे के वा जे के वा जे के वा जे के वा जे के वा जे के वा जे के वा जे के वा जे के वा जे के वा जे के वा जे के वा जे के वा जे के वा जे के वा जे के वा जे के वा जे के वा जे,1,1
+48,Question:Build a Python module बाजे के साथ जुड़ावाााााे का पारे काे लोगे लेंटे की सोचे काे के से में कााााे की काे कााे के वााााे काााे कााे कााे काााे कााे काााे कााे काााे काााे कााे कााे काााे कााे कााे कााे कााे कााे कााे कााे कााे कााे कााे कााे कााे कााे कााे कााे कााे कााे कााे कााे कााे कााे कााे कााे कााे कााे कााे कााे कााे कााे कााे कााे काा,1,1
+49,Question:Create a Python script snippet that Transforms High Dental सेााााेााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााा,1,1
+50,"Question:
+Let s = 0.01 - 0.1. Let z = 0.2 + s. Let u = 0.4 - z. Round u to 1 decimalा।
+Answer:
+0<|end_of_text|>",1,2
+51,Question:Create a Python script snippet that Checks Low Dental hygiene: Brushing टूठे हो चे के से पर बाकारे की जो रिशे करे का से पर बारे के लिए के बी का से पर बारे के से के बी के के से का से के के बे से का से के से के बे से के से के बे से के से के बे से के से के बे से के से के बे से के से के बे से के से के बे से के से के बे से के से के बे से के से के बे से के से के बे से के से के बे से के से के बे से के से के बे से के से के बे से के से के बे से क,1,1
+52,"def find_first_letter(s):
+    """"""
+    Find the first letter of the provided string.
+    """"""
+    return s[0]
+
+
+<|end_of_text|>",0,2
+53,"Question:
+Let n = 3 + -3. Suppose -s - 4*s = -0*s. Suppose -3*y + 5*a + 24 = 0, 0 = -3*y + 3*a + 3 + 6. Which is the biggest value?  (a) y  (b) s  (c) n
+Answer:
+c<|end_of_text|>",0,2
+54,Question:Create a Python script snippet that Transforms Low Dental सेेेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाे,1,0
+55,"def count_cows(animals):
+    """"""
+    Count the total number of cows in the list of animals.
+    """"""
+    count = 0
+    for animal in animals:
+        if ""cow"" == animal:
+            count += 1
+    return count
+<|end_of_text|>",0,2
+56,"Question:
+What is 0.0000000000000341 rounded to 7 decimalे?
+Answer:
+0.000000<|end_of_text|>",1,1
+57,"Question:
+Let w = -0.0017 + 0.1020. Let i = 0.102 - 0.102. Which is the nearest to -0.1?  (a) -0.3  (b) i  (c) w
+Answer:
+a<|end_of_text|>",0,2
+58,"def evaluate_chemical_compounds(chemicals):
+    """"""
+    Evaluate the chemical compounds based on their composition.
+    """"""
+    # Use a list comprehension to create a new list of compounds
+    new_comp = [compound_1 | compound_2 |... | compound_n]
+    # Use a nested ternative operator to check if any compound is present
+    if any(comp_1 | comp_2 |... | comp_n) == 0:
+        print(""The entire compound is empty."")
+    else:
+        print(""Some compound is present."")
+<|end_of_text|>",0,2
+59,"def find_primes(n):
+    """"""
+    Returns a list of prime numbers <= n
+    """"""
+    # Check if the input is prime
+    if not is_prime(n):
+        return []
+
+    # Initialise an empty list
+    prime_list = []
+
+    # Traverse the entire list
+    for i in range(0, n):
+        # Check if the current element is prime
+        if is_prime(i):
+            # Add the prime number to the list
+            prime_list.append(i)
+    return
+
+<|end_of_text|>",0,2
+60,"Question: Which of the following is not a complication of hepatitis?
+A. Hepथला सी रा�ाेला
+B. में पीठा दरने के सा�ाेाेाेाेााेा
+C. में बुराेाााेाेाेााेेाेा
+D. में दरी से बोेाााेााेाेाेा
+Answer: A<|end_of_text|>",1,0
+61,"Question:
+Let l = 0.031 - 0.03099992. Round l to 6 decimalों के साथ.
+Answer:
+-0.000001<|end_of_text|>",1,2
+62,"Question: The most common cause of blindness due to catarे की रेंटा ही एका ना होती ही हैं?
+A. सेंे की दरके बेहने के का के के का का से के बेला जा से के ले मे से मे के के के के के से के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के",1,0
+63,"Question:
+Let o = -0.1 + 0.1. Let x = 0.6 - 0.6. Let r = -0.2 + 0.3. Which is the nearest to o?  (a) r  (b) -0.3  (c) x
+Answer:
+c<|end_of_text|>",0,2
+64,"Question:
+Let i = -0.25 + 0.29. Let l = -0.07 - i. Let v = 0.2 + 0.2. Which is the closest to l?  (a) 0.2  (b) 1/3  (c) v
+Answer:
+a<|end_of_text|>",0,2
+65,"Question:
+Let c = -0.06 - -0.2. Let i = 0.1 - c. Let s = -0.06 - 0.4. What is s rounded to 0 decimalे?
+Answer:
+-1<|end_of_text|>",1,2
+66,Question:Build a Python module package named “pyfavourites” that implements a function named “add_favourite” which accepts 3-4 inputs: (1) movie name (2) actor/actress (3) movie details (4) Actor/Actresess details. The output should be “Added into favourites” (1-2-3-4-0-1-2-3-0-2-3-0-0-2-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-,0,1
+67,Question:Build a Python module के साेेेेाााेेेेाााेाेेाााेेााााेेाााेाेाााेााेााेााेााेाेााााेाेााेाााेााेाेाााेाेााााेाेााेाााेाेाााेाााेाेाााेाेाााेाााााेाेाााेाााेाााेाााेाााााेाेााेााााेााााेाााााेाााेााााेाााेााााेाााेाााााेााााेााााेाााेााााेााााेााााेााााेाााााेाााेााााेाााे,1,0
+68,"Question:
+What is 0.000007094 rounded to 6 decimalोंे में?
+Answer:
+0.000007<|end_of_text|>",1,2
+69,"Question:
+Let i = 0.1 - 0.3. Let w = 1.3 + -1.4. Let m = 0.1 - w. Which is the nearest to 0?  (a) i  (b) -1  (c) m
+Answer:
+c<|end_of_text|>",0,2
+70,"Question: Which of the following is a cause of hypercholeterateria?
+A. Hypervना
+B. Hypुरेा
+C. Hypेरे
+D. हाइथना से लोगा
+Answer: A<|end_of_text|>",1,1
+71,"Question:
+Let l = 0.3 - 0.2. Let r = 0.3 - 0.2. Let v = 0.5 - 0.3. Which is the nearest to l?  (a) v  (b) 0  (c) r
+Answer:
+b<|end_of_text|>",0,2
+72,"Question:
+Let i = 0.4 + 0.6. Let x = 0.02 - -0.08. Let s = x + -0.03. Which is the nearest to 0?  (a) i  (b) -1  (c) s
+Answer:
+c<|end_of_text|>",0,2
+73,"def evaluate_chemical_compounds(chemical_compound):
+    """"""
+    Evaluate a chemical compound based on its constituent components and their proportions.
+    The output should be a list of the constituent compounds and their proportions.
+    """"""
+    # Split the chemical compound into its constituent components
+    components = chemical_compound.split()
+
+    # Initialize a list to store the constituent compounds
+    constituent_comp = []
+
+    # Iterate through the components and add them to the list
+    for comp in components:
+        if comp == ""का"":
+            constituent_comp.append(""का"")
+        elif comp == ""का"":
+            constituent_comp.append(""का"")
+        elif comp == ""का"":
+            const = constituent_comp[-1]
+            if const == ""का"":
+                constituent_comp.append(""का"")
+        else:
+            const = const + ""े""
+            if const == ""का"":
+                constituent_comp.append(""का"")
+        else:
+            const = const + ""े""
+            if const == ""का"":
+                constituent_comp.append(""का"")
+        else:
+            const = const + ""े""
+            if const == ""का"":
+                const = ""का""
+        const = const + ""े""
+        if const == ""क",1,0
+74,"def find_uniques(list):
+  """"""
+  This function takes a list and returns a set containing all the unique elements
+  of the list.
+  """"""
+  uniques = set()
+  for obj in list:
+    if obj not in uniques:
+      uniques.add(obj)
+  return uniques
+<|end_of_text|>",0,2
+75,Question:Build a Python module snippet that Updates Low Socialीेकरे पर एक पूरा निकाले के लिए की लिया का जा कर के की ली के लिए के लिए के के लिए के ले के ले के के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले,1,1
+76,"Question:
+Let r = 0.094 - -0.0044. Let s = -0.10 - 0.08. Let x = r + s. Round x to 2 decimalेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेे",1,1
+77,"def create_a_tuple_from_a_list(athlete):
+    """"""Create a tuple from a list of tuples, where each tuple is a 3-legged arrowhead""""""
+
+    # step 1: create a list of tuples
+    tuples = []
+    for i in range(0, 2):
+        tuples.append(athlete[i])
+
+    # step 2: create a tuple of tuples
+    result = tuple()
+    for i in range(0, 2):
+        result = result + tuples[i]
+
+    return result
+<|end_of_text|>",0,2
+78,"Question: Which of the following is not true about hepatitis?
+A. Hepatitis A is transmitted by food
+B. Hepatitis C is transmitted by sex
+C. Hepatitis E is transmitted by sex
+D. Hepatitis C is transmitted by sex
+Answer: D<|end_of_text|>",0,2
+79,"Question:
+Let x = 0.023 - 0.063. Let s = 0.03 - 0.1. Let n = s + -0.04. Which is the nearest to 0?  (a) 0.5  (b) x  (c) n
+Answer:
+b<|end_of_text|>",0,2
+80,"Question:
+What is the next term in 12, 24, 36, 48?
+Answer:
+60<|end_of_text|>",0,2
+81,"Question:
+Let o = 0.016 - 0.056. Let x = 0.02 - o. Let p = -0.16 - x. Round p to zero decimal places.
+Answer:
+-0<|end_of_text|>",0,2
+82,"Question:
+Let c = 0.036 - 0.136. Let v = 0.0000019 - c. Round v to 6 decimalने.
+Answer:
+0.000002<|end_of_text|>",1,1
+83,"Question:
+Let w = 0.017 - 0.058. Let h = 0.03 + 0.04. Let n = h + 0.27. What is the nearest to -1 in w, 0.4, n?
+Answer:
+w<|end_of_text|>",0,2
+84,def update_wood_woodाटे का जोडा का सिले का वाला से पीीेेेेा की से के के से के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के क,1,1
+85,"def nested_ternary_operator(temperature):
+    """"""
+    Write a program that uses nested ternary operators to check if the temperature is above 100°C,
+     then print ""Hot"", else print ""Cold"".
+     If the temperature is 0°C or below, then print ""Cold"".
+    """"""
+    return ""Hot"" if temperature > 100 else ""Cold"" if temperature < 0 else ""Cold""
+<|end_of_text|>",0,2
+86,Question:Build a Python module archive (package) that provides a method named get_earlier_evergreen_aware_actors() which accepts a single parameter denoting a date (earlier than 10 July 2000) and returns a list of actors who were alive on that date. (Hint: Use the \ीााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााा,1,0
+87,Question:Create a Python script snippet that Updates High Eye से जाेेेेेेेेेेाेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेे,1,0
+88,"Question:
+Let i = 0.1 - -0.1. Let s = 0.1 + i. Let o = 0.01 - s. Round o to 0 decimalाएे.
+Answer:
+0<|end_of_text|>",1,1
+89,"Question:
+Let n = -0.031 - 0.169. Let m = 0.18 - n. Let o = 0.031 - m. Round o to 0 decimal तका को से के लिए करें का साे केेेारा केेेाेरा केेेाेरा केेेाेेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाे",1,0
+90,"def add_to_set(set_a, set_b):
+    """"""
+    Given two sets, add them into a new set.
+    """"""
+    new_set = set_a | set_b
+    return new_set
+<|end_of_text|>",0,2
+91,"Question:
+What is the remainder when 44 is divided by 12?
+Answer:
+0<|end_of_text|>",0,2
+92,"Question:
+Let s = 2.2 - 0.2. Let h = -0.4 - 0.6. Let x = -0.2 + h. What is the nearest to 0.1 in s, x, -0.1?
+Answer:
+-0.1<|end_of_text|>",0,2
+93,"Question:
+Let i = 0.016 - -1.984. Let l = 2.11 + i. Let f = -0.14 - 0.02. Which is the nearest to 0?  (a) l  (b) 0  (c) f
+Answer:
+b<|end_of_text|>",0,2
+94,"Question:Build a Python module package (mainly) that provides a function (s) that implements a simple, but robust, form of linear interpolation (linear, logaritharith, exponential) between two given values (a, b), where (0 ≤ a ≤ b) = 0.0. Please note that this should not be done via interpolation based on cubic spline or any other such method.
+     * Please note: Please do not use any sort of interpolation method, such as cubic spline, cubic spline interpolation, cubic spline interpolation, cubic spline interpolation, cubic spline interpolation, cubic spline interpolation, cubic spline interpolation, cubic spline interpolation, cubic spline interpolation, cubic spline interpolation, cubic spline interpolation, cubic spline interpolation, cubic spline interpolation, cubic spline interpolation, cubic spline interpolation, cubic spline interpolation, cubic spline interpolation, cubic spline interpolation, cubic spline interpolation, cubic spline interpolation, cubic spline interpolation, cubic spline interpolation, cubic spline interpolation, cubic spline interpolation, cubic spline interpolation, cubic spline interpolation, cubic spline interpolation, cubic spline interpolation, cubic spline interpolation, cubic spline interpolation, cubic spline interpolation, cubic spline interpolation, cubic spline interpolation, cubic spline interpolation, cubic spline interpolation, cubic spline interpolation, cubic spline interpolation, cubic spline interpolation, cubic spline interpolation",0,1
+95,"Question:
+Let o = 0.2 + 0.2. Let s = 0.1 - o. Let x = 0.2 - 0.1. Which is the closest to s?  (a) x  (b) 0  (c) 0.2
+Answer:
+b<|end_of_text|>",0,2
+96,# 2000–01ा काे ब्लाके बा�े काे बा�े काे काे बा�े काे बा�े काे बा�े काे बा�े काे बा�े काे बा�े काे बा�े काे बा�े काे बा�े काे बा�े काे बा�े काे बा�े काे बा�े काे बा�े काे बा�े काे बा�े काे बा�े काे बा�े काे बा�े काे बा�े काे बा�े काे बा�े काे बा�े काे बा�े काे बा�े काे बा�े काे बा�े काे बा�े काे बा�े काे बा�े काे बा�े काे बा�े काे बा,1,0
+97,"Question:
+Let c = 0.5 - -0.3. Let u = 0.3 - c. Let x = 0.5 + -0.2. Which is the closest to 0?  (a) -0.5  (b) u  (c) x
+Answer:
+c<|end_of_text|>",0,2
+98,Question:Develop a Python program that Transforms a given String into a ZIPे वाला बिना का रूपा दीा का लिखना ही से केा से केेेा रे केा केेा लो लो काा का का का का का का का का का का का का का का का का का का का का का का का का का का का का का का का का का का का का का का का का का का का का का का का का का का का का का का का का का का का का का का का का का का का का का का का का का का का का का का का का का का का का का का का का का का का का का का का,1,0
+99,"def psychologist_exercise(people):
+    """"""
+    Write a program that takes a list of people (represented by their identity) and 
+    returns a new list of people whose identity is related to the first identity 
+    in the original list. The identity must be related to the first identity 
+    through any permutation of the identity (e.g. if the first identity is ""केााेााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााा",1,0

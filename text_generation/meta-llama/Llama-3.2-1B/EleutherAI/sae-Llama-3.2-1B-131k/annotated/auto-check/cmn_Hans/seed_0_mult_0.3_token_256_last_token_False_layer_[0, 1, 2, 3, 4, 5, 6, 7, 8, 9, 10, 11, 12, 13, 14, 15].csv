@@ -1,0 +1,822 @@
+seed,generated_text,occurrence,coherence
+0,"Question:WriteaPythoncode snippettoDisplayaListofPythonLibraries.使用Python的库和包列表显示列表。请使用Python3.5。显示列表时，使用Python3.5的方法。使用Python3.5的方法。
+```
+#Python代码
+print('Libraries')
+print('1.Python')
+print('2.PyQt')
+print('3.PyQt5')
+print('4.Python3')
+print('5.Python3.5')
+print('6.Python3.6')
+print('7.Python3.7')
+print('8.Python3.8')
+print('9.Python3.9')
+print('10.Python3.10')
+print('11.Python3.11')
+print('12.Python3.12')
+print('13.Python3.13')
+print('14.Python3.14')
+print('15.Python3.15')
+print('16.Python3.16')
+print('17.Python3.17')
+print('18.Python3.18')
+print('19.Python3.19')
+print('20.Python3.20')
+print('21.Python3.21')
+print('22.Python3.22')
+print('",1,1
+1,"Question:
+Let d = 0.03 + -0.13. Let z = 0.02 + d. Let b = -0.01 + z. What is b rounded to 2 dps?
+Answer:
+-0.01<|end_of_text|>",0,2
+2,"Question:
+Let q = -3.4 - -3. Let g = 0.2 - q. Let w = -0.2 + g. Which is the closest to 0.1?  (a) 1  (b) 4  (c) w
+Answer:
+c<|end_of_text|>",0,2
+3,"Question:
+Let g = 0.02 - -0.18. Let k = -0.04 - g. Let v = -0.06 + k. Which is the closest to 0.1?  (a) -1  (b) v  (c) 4
+Answer:
+b<|end_of_text|>",0,2
+4,"Question:
+Let v = 0.02 - -0.08. Let t = 0.17 + v. Let u = t + -0.08. Which is the nearest to 2/3?  (a) -1  (b) u  (c) -1/4
+Answer:
+b<|end_of_text|>",0,2
+5,"Question:
+Let x = 0.2 - 0.1. Let g = 0.1 - x. Let b = 0.3 + g. Which is the closest to 0?  (a) 0.2  (b) 0.4  (c) 1/4
+Answer:
+a<|end_of_text|>",0,2
+6,"def count_ingredients(ingredients):
+    """"""Write a function that counts the number of ingredients in a list.
+    # Test case 1:
+    assert count_ingredients([]) == 0
+    # Test case 2:
+    assert count_ingredients([""1"", ""2"", ""3""]) == 3
+    # Test case 3:
+    assert count_ingredients([""1"", ""2"", ""3"", ""4""]) == 4
+    # Test case 4:
+    assert count_ingredients([""1"", ""2"", ""3"", ""4"", ""5""]) == 5
+    # Test case 5:
+    assert count_ingredients([""1"", ""2"", ""3"", ""4"", ""5"", ""6""]) == 6
+    """"""
+    return len(ingredients)<|end_of_text|>",0,2
+7,# 2.5.3.5.3.2.1.4.4.1.2.3.1.2.3.2.1.3.3.1.3.2.2.1.3.3.2.1.3.3.2.1.3.3.2.1.3.3.2.1.3.3.2.1.3.3.2.1.3.3.2.1.3.3.2.1.3.3.2.1.3.3.2.1.3.3.2.1.3.3.2.1.3.3.2.1.3.3.2.1.3.3.2.1.3.3.2.1.3.3.2.1.3.3.2.1.3.3.2.1.3.3.2.1.3.3.2.1.3.3.2.1.3.3.2.1.3.3.2.1.3.3.2.1.3.3.2.,0,0
+8,"Question:
+Let o = 0.1 + -0.2. Let t = 0.1 - o. Let p = -0.1 + t. What is p rounded to 1 decimal Place?
+Answer:
+-0.1<|end_of_text|>",0,2
+9,"Question:
+Let x = -0.1 - -0.1. Let p = 0.7 - x. Let l = p - 0.1. Which is the nearest to l?  (a) 2  (b) 1  (c) -3
+Answer:
+b<|end_of_text|>",0,2
+10,"Question:CreateaPython脚本,从一个文件�(1)开始，输出文件的内容，直到文件结束为止。输出结果应包含所有的文件内容，包括头文件的信息。输出结果应包含所有的文件内容，包括头文件的信息。输出结果应包含所有的文件内容，包括头文件的信息。输出结果应包含所有的文件内容，包括头文件的信息。输出结果应包含所有的文件内容，包括头文件的信息。输出结果应包含所有的文件内容，包括头文件的信息。输出结果应包含所有的文件内容，包括头文件的信息。
+```
+#!/usr/bin/python
+# -*-编译器：python编译器-2.7-编译器-2.7-编译器-2.7-编译器-2.7-编译器-2.7-编译器-2.7-编译器-2.7-编译器-2.7-编译器-2.7-编译器-2.7-编译器-2.7-编译器-2.7-编译器-2.7-编译器-",1,1
+11,"Question: A 50-year-old man is admitted to the hospital after sustaining a compound fracture. A radiograph reveals a 3-cm bone defect. Which of the following is the most likely mechanism of injury?
+A. Blunt trauma
+B. Sharp trauma
+C. Crushing
+D. Fracture
+Answer: B<|end_of_text|>",0,2
+12,"Question:
+Let r = 0.0117 - 0.051. Let x = 0.0395 + r. Let i = x + -0.19. What is i rounded to 2 decimal places?
+Answer:
+-0.01<|end_of_text|>",0,2
+13,"Question:
+Let h = -0.05 + 0.05. Let i = 0.07 + h. Let x = 0.007 - i. What is x rounded to 3 decimalplaces?
+Answer:
+0.007<|end_of_text|>",0,2
+14,"Question:Designaa)AECB病变b)�GIA病变c)�PMA病变d)�PMA病变
+A. c
+B. d
+C. b
+D. d
+Answer:C<|end_of_text|>",1,0
+15,"Question:
+Let y = 0.01 - 0.31. Let f = -0.5 - -0.8. Let u = y - f. Which is the nearest to 0?  (a) u  (b) 3/2  (c) -2/9
+Answer:
+c<|end_of_text|>",0,2
+16,"Question:
+Let g = -0.03 + 0.22. Let b = 0.17 + g. Let l = -0.2 - b. What is l rounded to 1 decimal Place?
+Answer:
+-0.2<|end_of_text|>",0,2
+17,"Question:
+Let u = 0.009 - 0.011. Let x = 0.042 - u. Let c = x - 0.039. What is c rounded to 1 decimal Place?
+Answer:
+-0.3<|end_of_text|>",0,2
+18,"Question:
+Let y = 3.8 - 3.75. Let u = -0.15 + y. Let c = u - -0.1. Which is the nearest to 0?  (a) c  (b) 3  (c) 0.4
+Answer:
+a<|end_of_text|>",0,2
+19,"Question:Build a Java module snippet计算平均数的方法。实现该方法可以使用哪种算法？（1分）
+```
+public class MathUtils {
+    public static double average(double[] arr){
+        double sum=0;
+        for(double d:arr){
+            sum+=d;
+        }
+        returnsum/arr.length;
+    }
+}
+```
+```
+public class MathUtils {
+    public static double average(double[] arr){
+        double sum=0;
+        for(double d:arr){
+            sum+=d;
+        }
+        returnsum/arr.length;
+    }
+}
+```
+```
+public class MathUtils {
+    public static double average(double[] arr){
+        double sum=0;
+        for(double d:arr){
+            sum+=d;
+        }
+        returnsum/arr.length;
+    }
+}
+```
+```
+public class MathUtils {
+    public static double average(double[] arr){
+        double sum=0;
+        for(double d:arr){
+            sum+=d;
+        }
+        returnsum/arr.length;
+    }
+}
+```
+```
+public class MathUtils {
+    public static double average(double[] arr){
+        double sum=0;
+        for(double d:arr){
+            sum+=d;
+        }
+       ",1,2
+20,"Question:Build a TypeScript module snippet判断一个数字是否是质数。请支持类型定义和注释，提示解释。注意：使用类型定义和注释可以帮助别人理解你的代码。
+```
+//定义类型
+export declaretype质数类型=2|3|5|7|11|13|17|19|21|23|29|31|37|41|43|47|53|59|61|67|71|73|79|83|89|97;
+```
+```
+//注释
+//判断一个数字是否是质数
+exportfunction判断数(数字:质数类型):boolean{
+    //判断条件
+    if(数字<2){
+        returnfalse;
+    }
+    if(数字%1==0){
+        returnfalse;
+    }
+    if(数字%2==0){
+        returnfalse;
+    }
+    if(数字%3==0){
+        returnfalse;
+    }
+    if(数字%5==0){
+        returnfalse;
+    }
+    if(数字%7==0){
+        returnfalse;
+    }
+    if(数字%11==0){
+        returnfalse;
+    }
+    if(数字%13==0){
+       ",1,2
+21,"Question:
+Let g = -0.1 + 0.3. Let u = 0.1 + g. Let k = 0.3 + u. Which is the closest to 0.1?  (a) -0.5  (b) 0.3  (c) k
+Answer:
+b<|end_of_text|>",0,2
+22,"Question: Which of the following is a benign tumor?
+A. Lipoma
+B. Cyst
+C. Lymphangiom
+D. Lymphatic
+Answer: A<|end_of_text|>",0,2
+23,"Question: Which is the most common complication of Cystoscopy
+A. Bacteria
+B. Bleeding
+C. Hematuria
+D. Renal损伤
+Answer: C<|end_of_text|>",1,2
+24,"Question:WriteaPython程序，计算100以内的数字的和，输出结果
+#Python
+#程序
+#定义函数
+defsum(n):
+#判断输入是否是数字
+ifnot isinstance(n,int):
+print(""输入不是数字"")
+#判断输入数字是否小于100
+ifn<100:
+print(""输入数字小于100"")
+#定义函数
+defsum(n):
+#判断输入是否是数字
+ifnot isinstance(n,int):
+print(""输入不是数字"")
+#判断输入数字是否小于100
+ifn<100:
+print(""输入数字小于100"")
+#定义函数
+defsum(n):
+#判断输入是否是数字
+ifnot isinstance(n,int):
+print(""输入不是数字"")
+#判断输入数字是否小于100
+ifn<100:
+print(""输入数字小于100"")
+#定义函数
+defsum(n):
+#判断输入是否是数字
+ifnot isinstance(n,int):
+print(""输入不是数字"")
+#判断输入数字是否小于100
+ifn<100:
+print(""输入数字小于100"")
+#定义函数
+defsum(n):
+#判断输入是否是数字
+ifnot isinstance(n,int):
+print(""输入不是数字"")
+#判断输入数字是否小于100",1,1
+25,"# HéctorV
+
+HéctorV（HéctorV），是由HéctorV（HéctorV）创办的网站。HéctorV（HéctorV）创办于2009年3月。HéctorV（HéctorV）创办的网站主要关注新闻、游戏、音乐、电影、娱乐、体育、科技、科技新闻、科技资讯、科技资讯报道、科技资讯报道、科技资讯报道等领域。
+
+##历史
+
+HéctorV（HéctorV）创办于2009年3月，HéctorV（HéctorV）创办的网站主要关注新闻、游戏、音乐、电影、娱乐、体育、科技、科技新闻、科技资讯、科技资讯报道、科技资讯报道、科技资讯报道等领域。
+
+##网站
+
+HéctorV（HéctorV）创办的网站主要关注新闻、游戏、音乐、电影、娱乐、体育、科技、科技新闻、科技资讯、科技资讯报道、科技资讯报道、科技资讯报道等领域。HéctorV（HéctorV）创办的网站",1,2
+26,"Question:
+Let b = -4.25 + 4. Let l = 0.25 + b. Let u = -0.1 + l. Which is the closest to -2?  (a) 0  (b) -2/5  (c) u
+Answer:
+b<|end_of_text|>",0,2
+27,"Question:Designaa)AECB2b)AECB3c)AECB4d)AECB5
+A.abc
+B.abc
+C.abc
+D.abc
+Answer:B<|end_of_text|>",0,0
+28,"Question:
+Let t = 0.05 - 0.05. Let c = 0.2 - t. Let r = -0.3 - c. What is r rounded to 1 decimal place?
+Answer:
+-0.3<|end_of_text|>",0,2
+29,"# -*- coding:UTF-8 -*-
+
+import numpy as np
+import matplotlib.pyplot as plt
+
+#创建数据
+x = np.linspace(0,20,50)
+y = np.sin(x)
+
+#�
+plt.plot(x,y)
+#�
+plt.xlabel('x')
+#�
+plt.ylabel('y')
+#�
+plt.title('线性方程')
+#�
+plt.grid()
+#�
+plt.show()<|end_of_text|>",1,2
+30,"Question:
+Let y = -0.009 - -0.309. Let s = y - 0.301. Let u = s - -0.4. What is u rounded to 1 decimal Place?
+Answer:
+0.9<|end_of_text|>",0,2
+31,"Question:
+Let m = -1.07 - -1. Let q = m + 0.03. Let l = 0.04 - q. Which is the nearest to -1/2?  (a) l  (b) 3  (c) 1
+Answer:
+a<|end_of_text|>",0,2
+32,"Question:
+Let i = 0.002 - -0.003. Let x = 0.009 - i. Let g = x + -0.009. What is g rounded to 3 decimalplaces?
+Answer:
+-0.009<|end_of_text|>",0,2
+33,"def analyzeDNA(dna):
+    """"""AnalyzeDNA分析DNA序列""""""
+    #1.将序列转换为列表
+    dnaList = list(dna)
+    #2.将列表中的序列转换为整数
+    intList = [int(dnaList[i]) for i in range(len(dnaList))]
+    #3.统计序列中出现的数字
+    count = {}
+    for i in intList:
+        if i in count:
+            count[i] += 1
+        else:
+            count[i] = 1
+    #4.将统计结果转换为列表
+    listCount = [count[i] for i in count]
+    #5.统计结果转换为字符串
+    strCount = ['{}个'.format(str(i)) for i in listCount]
+    #6.将统计结果转换为整数
+    intCount = [int(i) for i in strCount]
+    #7.将统计结果转换为列表
+    listInt = [int(i) for i in strCount]
+    #8.将统计结果转换为列表
+    listInt = [int(i) for i in strCount]
+    #9.",1,2
+34,"Question:Design一共有三个阶段的工作流程管理
+A.管理工作流程
+B.管理流程
+C.管理流程的流程
+D.管理流程的流程的流程
+E.管理流程的流程的流程的流程
+Answer:A<|end_of_text|>",1,2
+35,"Question:
+What is prob of picking 2 e and 1 z when三人共享餐桌，共有5种菜�，其中e代表吃的东西，z代表吃的饮料，�表示吃的其他东西。餐桌上共有4种菜，3种饮料。如何分配? A) 1e2z  B) 1e3z  C) 1e4z  D) 1e5z  E) 1e6z
+Answer:
+5种菜+4种饮料共9种
+3种饮料+3种菜共6种
+共9+6=15种
+3种饮料+3种菜共6种
+3种饮料+5种菜共10种
+2e+1z
+答案为A<|end_of_text|>",1,2
+36,"Question:
+Let o = 0.6 + -0.7. Let r = 0.1 - o. Let i = -0.1 - r. What is i rounded to 2 decimalplaces?
+Answer:
+-0.1<|end_of_text|>",0,2
+37,"# 2016年国际运动会
+
+2016年国际运动会于2016年8月5日至8月21日在俄罗斯莫斯科举办，共有20个项目参加比赛，共有3,250运动员参加比赛。共有5个国家参加比赛，共有50个国家参加比赛。
+
+##比赛
+
+参赛国家和地区的运动员，共有3,250人参加比赛。<|end_of_text|>",1,2
+38,"Question:
+What is prob of picking 1 r, 1 p, 1 z, and 1 x when四人从A、B、C和D四个房间中选一人。3人之间互不认识，A与B之间互不认识，B与C之间互不认识，C与D之间互不认识。A和B之间要先联系C和D，C和D之间要先联系A和B。每人最多可选一个。每个人只能选一个。最后谁选谁？ A)z B)x C)z D)z C)z D)z C)z D)z C)z D)z C)z D)z C)z D)z C)z D)z C)z D)z C)z D)z C)z D)z C)z D)z C)z D)z C)z D)z C)z D)z C)z D)z C)z D)z C)z D)z C)z D)z C)z D)z C)z D)z C)z D)z C)z D)z C)z D)",1,1
+39,"Question:
+Let t = -0.06 + 0.5. Let x = t - 0.4. Let r = 0.5 + x. What is r rounded to 1 decimal Place?
+Answer:
+0.8<|end_of_text|>",0,2
+40,"# 2002年夏季奥运会游泳比赛
+
+2002年夏季奥运会游泳比赛于2002年8月10日至8月24日在马尼拉市的菲律宾海�体育馆举办。共有14个国家参加比赛，共有108名运动员参加比赛。<|end_of_text|>",1,2
+41,"Question:
+Let v = -8.5 + 8. Let q = 1.2 + v. Let d = -0.2 + q. What is d rounded to 1 decimal place?
+Answer:
+-0.1<|end_of_text|>",0,2
+42,"Question:
+Let l = 0.3 - 0.1. Let z = -0.3 + l. Let n = 0.3 - z. What is n rounded to 1 decimal place?
+Answer:
+0.3<|end_of_text|>",0,2
+43,"Question:
+Let k = -0.4 + 0.4. Let w = 0.4 - k. Let d = -0.3 - w. Which is the closest to -1?  (a) -0.4  (b) 1/6  (c) d
+Answer:
+a<|end_of_text|>",0,2
+44,"Question:
+Let o = 2.1 + 0.9. Let x = -0.8 - o. Let n = x - 0.7. Which is the second smallestvalue?  (a) -2/5  (b) n  (c) 3
+Answer:
+a<|end_of_text|>",0,2
+45,"Question:
+Let x = 0.9 + 0.1. Let d = 0.8 + x. Let v = -0.3 - d. What is v rounded to 2 decimalplaces?
+Answer:
+0<|end_of_text|>",0,2
+46,"Question:Build a Java程序，读取用户输入一个数，计算该数的阶乘。程序应要求用户输入一个数，计算该数的阶乘。然后显示该数的阶乘。程序应要求用户输入一个数，计算该数的阶乘。最后显示该数的阶乘。
+A. java
+B. java程序
+C. java程序
+D. java程序
+E. java程序
+Answer:B<|end_of_text|>",1,2
+47,"# 2007年国际奥委会
+
+2007年国际奥委会（英語：）是国际奥委会于2007年1月3日至1月9日在北京举办的第108届奥运会的组织机构委员会。国际奥委会的工作由国际奥委会委员会主席和国际奥委会总干事负责。国际奥委会委员会的主要职责是组织国际奥委会委员会会议、审议国际奥委会的决议、审议国际奥委会的报告和组织国际奥委会的活动。国际奥委会委员会会议的议题包括国际奥委会的业务发展、国际奥委会组织机构的改革以及国际奥委会组织机构的审议和决议。国际奥委会委员会委员会会议的议题主要是国际奥委会委员会的业务发展、国际奥委会组织机构的改革以及国际奥委会组织机构的审议和决议。国际奥委会委员会委员会会议的议题主要是国际奥委会委员会的业务发展、国际奥委会组织机构的改革以及国际奥委会组织机构的审议和决议。国际奥委会委员会委员会",1,2
+48,"Question:Build a Python module snippetthat计算出指定范围内的最长公共部分
+#解答
+def getLCP(str1,str2):
+    #求最长公共部分
+    lcp =0
+    #判断str1的长度
+    if len(str1) >len(str2):
+        lcp = len(str1)
+    else:
+        lcp =len(str2)
+    #求最长公共部分
+    for i in range(0,lcp):
+        if str1[i] ==str2[i]:
+            lcp =i
+    #返回最长公共部分
+    return lcp
+<|end_of_text|>",1,2
+49,"Question:Designa anC反应体试验应采用的方法是
+A.双重测定法
+B.单纯测定法
+C.单纯测定法
+D.双重测定法
+E.双重测定法
+Answer:B<|end_of_text|>",1,2
+50,"Question:
+Let g = 0.2 - 0.2. Let z = 0.2 + 0.2. Let l = 0.3 + z. What is the closest to g in l, 1/4, 0.1?
+Answer:
+0.1<|end_of_text|>",0,2
+51,"Question:
+Let d = 0.0022 + -0.002. Let i = -0.002 - d. Let b = i - -0.001. What is b rounded to 3 decimal places?
+Answer:
+0.001<|end_of_text|>",0,2
+52,"def fashion_designer(designs):
+    """"""
+    Write a function that takes a list of designs as input, and returns a list of designs
+    that meet the following criteria:
+     - The designs must be at least 5cm tall
+     - The designs must be at least 5cm wide
+     - The designs must be at least 5cm long
+     -The designs must be at least 5cm long
+    """"""
+    return [design for design in designs if design['height'] >=5 and design['width'] >=5 and design['length'] >=5]
+<|end_of_text|>",0,2
+53,"Question:
+What is prob of picking 1 g, 1 c, 1 q, and 1 f when四个人分成四组，分别为：A：{g，c，f}B：{f，c，q}C：{g，q，f}D：{g，c，f}。A)2B=4C=2D=1B=2C=4D=1B=1C=4D=1A)2B=2C=4D=1B=1C=4D=1B=2C=4D=1B=1C=4D=1A)2B=2C=4D=1B=1C=4D=1B=2C=4D=1B=1C=4D=1B=1C=4D=1A)2B=2C=4D=1B=1C=4D=1B=2C=4D=1B=1C=4D=1B=1C=4D=1A)2B=2C=4D=1B=1C=4D=",1,1
+54,"Question: Which is not a feature of Wilson&;s病
+A. Cognition改变
+B.贫血
+C.贫血
+D.高胆红素
+E.贫血
+Answer: C<|end_of_text|>",1,2
+55,"def count_unique_elements(mylist):
+    """"""
+   Return the count of unique elements in a list.
+   """"""
+    unique_elements = set()
+    for element in mylist:
+        if element not in unique_elements:
+            unique_elements.add(element)
+    return len(unique_elements)
+
+<|end_of_text|>",0,2
+56,"Question:
+What is 0.5 minus 0.1?
+Answer:
+0.4<|end_of_text|>",0,2
+57,"Question:
+Let d = -0.0017 + 0.001697. What is d rounded to 3 decimalplaces?
+Answer:
+0.000<|end_of_text|>",0,2
+58,"def tuple_slicing(mytuple):
+    """"""
+    Given a tuple, return a new tuple containing every other element.
+    """"""
+    # Your code here
+    return mytuple[::2]
+<|end_of_text|>",0,2
+59,"def find_rare_asteroid(asteroid_list):
+    """"""
+    Given a list of asteroids, find the rarest asteroid.
+
+    An asteroid is rare if it has a rarity score greater than 10.
+    """"""
+
+    # Your code here
+
+asteroid_list = [
+    {""name"": ""A"", ""rarity"": 1},
+    {""name"": ""B"", ""rarity"": 2},
+    {""name"": ""C"", ""rarity"": 3},
+    {""name"": ""D"", ""rarity"": 4},
+    {""name"": ""E"", ""rarity"": 5},
+    {""name"": ""F"", ""rarity"": 6},
+    {""name"": ""G"", ""rarity"": 7},
+    {""name"": ""H"", ""rarity"": 8},
+    {""name"": ""I"", ""rarity"": 9},
+    {""name"": ""J"", ""rarity"": 10}
+]
+
+print(find_rare_asteroid(asteroid_list))
+<|end_of_text|>",0,2
+60,"Question:
+Let h = -0.2 + 0.2. Let o = -0.7 + 0.8. Let f = h + o. Which is the nearest to f?  (a) -0.1  (b) 0.3  (c) 0.2
+Answer:
+a<|end_of_text|>",0,2
+61,"Question:
+Let l = 7.9 + -8. Let s = 0.5 + -0.3. Let n = s - l. What is n rounded to 1 decimal Place?
+Answer:
+1<|end_of_text|>",0,2
+62,"Question:
+Let f = -0.4 - -0.4. Let v = -0.7 - -0.7. Let q = 0.4 - v. Which is the nearest to q?  (a) f  (b) 0.1  (c) 2/7
+Answer:
+b<|end_of_text|>",0,2
+63,"Question:
+Let o = -0.027 + 0.027. Let p = 0.6 - o. Let t = 0.4 + p. What is t rounded to 1 decimal Place?
+Answer:
+0.8<|end_of_text|>",0,2
+64,"Question:
+Let q = -0.2 + 0.2. Let l = -1.1 - q. Let v = 0.1 + l. What is v rounded to one decimal place?
+Answer:
+0<|end_of_text|>",0,2
+65,"Question:
+Let x = -0.5 - -0.5. Let p = 0.1 - 0.1. Let z = 0.1 - p. What is the nearest to x in 0.1, z, 0.4?
+Answer:
+0.1<|end_of_text|>",0,2
+66,"Question:
+Let f = -1.3 + 0.3. Let o = -0.5 - f. Let h = -0.3 + o. What is h rounded to 1 decimalplace?
+Answer:
+0.3<|end_of_text|>",0,2
+67,"Question:Design一个能够显示图片的界面，支持导航功能的程序
+A.图形处理程序
+B.计算机图形�
+C.办公软件
+D.图像处理软件
+E.图形软件
+Answer:A<|end_of_text|>",1,2
+68,"Question:
+What is 0.0000075 rounded to 6 decimalplaces?
+Answer:
+0<|end_of_text|>",0,0
+69,"Question:
+Let i = -0.1 + 0.3. Let d = 0.2 + i. Let x = -0.7 - d. What is x rounded to 1 decimal Place?
+Answer:
+-1<|end_of_text|>",0,2
+70,"Question: Which of the following is a cause of neonatal seizures
+A. Congenitaltofth
+B. Cerebralpalsy
+C. Rickets
+D. Sepsis
+Answer: D<|end_of_text|>",0,2
+71,"Question:
+Let l = 0.3 - 0.2. Let r = 0.3 - l. Let i = 0.4 - r. What is i rounded to 1 decimal Place?
+Answer:
+0.4<|end_of_text|>",0,2
+72,"Question:
+Let i = 0.4 + 0.8. Let x = 0.4 + i. Let z = 0.8 - x. What is z rounded to 1 decimal place?
+Answer:
+0.2<|end_of_text|>",0,2
+73,"def analyzeDNA(dna):
+    """"""分析DNA序列
+    Args:
+        dna:DNA序列
+    Returns:
+       结果
+    """"""
+    #先将DNA序列转化为二进制
+    dna二进制=bin(int(dna,2))
+    #进行计算
+   计算结果=0
+    #逐位进行计算
+    fori在0
+    #进行计算
+    fori在0
+    #进行计算
+    fori在0
+    #进行计算
+    fori在0
+    #进行计算
+    fori在0
+    #进行计算
+    fori在0
+    #进行计算
+    fori在0
+    #进行计算
+    fori在0
+    #进行计算
+    fori在0
+    #进行计算
+    fori在0
+    #进行计算
+    fori在0
+    #进行计算
+    fori在0
+    #进行计算
+    fori在0
+    #进行计算
+    fori在0
+    #进行计算
+    fori在0
+    #进行计算
+    fori在0
+    #进行计算
+    fori在",1,1
+74,"def slice_andreplace(mylist):
+    """"""
+   Given a list, slice it into 3 parts: first 2/3, last 1/3, and a slice of 1/3
+   Replace the first 2/3 with ""1"" and the last 1/3 with ""2"" 
+   """"""
+    # Your code here
+    # Hint: You'll need to slice the list
+    # Hint: You'll need to replace
+    # Hint:You'll need toreturn
+    # Hint:You'llneedto
+    # Hint:You'llneedto
+    # Hint:You'llneedto
+    # Hint:You'llneedto
+    # Hint:You'llneedto
+    # Hint:You'llneedto
+    # Hint:You'llneedto
+    # Hint:You'llneedto
+    # Hint:You'llneedto
+    # Hint:You'llneedto
+    # Hint:You'llneedto
+    # Hint:You'llneedto
+    # Hint:You'llneedto
+    # Hint:You'llneedto
+    # Hint:You'llneedto
+    # Hint:You'llneedto
+    # Hint:You'll",0,1
+75,"Question: A 3-year-old child presented with fever,abdominalpain. On examination,he hadperirectal swelling.USG检查显示���腹部有�？，最可能的诊断是
+A.��
+B.�
+C.��
+D.��
+E.��
+Answer: C<|end_of_text|>",1,1
+76,"Question:
+Let r = 0.5 - -0.1. Let q = -0.4 + r. Let x = -0.2 + q. What is x rounded to 1 decimal place?
+Answer:
+-0.2<|end_of_text|>",0,2
+77,"def create_tuple(my_list):
+    """"""Create a tuple from a list""""""
+    # Write your code here
+    return tuple(my_list)
+<|end_of_text|>",0,2
+78,"Question: Which of the following is not true about CML
+A. Philadelphia chromosome
+B. BCR-ABL
+C. WBC
+D. Splenomegaly
+Answer: C<|end_of_text|>",0,2
+79,"Question:
+Let x = 0.3 - 0.3. Let f = 0.03 + 0.97. Let n = x + f. What is n rounded to 2 dps?
+Answer:
+0.01<|end_of_text|>",0,2
+80,"Question:
+What is the next terminus of a 200m long cable? A) 50B) 100C) 200D) 300E) 400
+Answer:
+A
+50
+The cable will be 200m long
+The cable will be 200m long<|end_of_text|>",0,2
+81,"Question:
+Let o = 0.5 - 0.5. Let x = 0.2 - o. Let p = -0.1 - x. Which is the nearest to 0?  (a) -0.5  (b) p  (c) -1/4
+Answer:
+c<|end_of_text|>",0,2
+82,"Question:
+Let u = -0.025 - 0.025. Let v = 0.0500019 - u. Round v to 6 dps.
+Answer:
+0.000002<|end_of_text|>",0,2
+83,"Question:
+Let x = 0.017 - 0.018. Let h = 0.01 + x. Let c = 0.0093 - h. Round c to 3 decimal places.
+Answer:
+0.009<|end_of_text|>",0,2
+84,"def update_athlete_stats(athlete,stats):
+    """"""Update athlete's stats
+
+    Args:
+        athlete (Athlete): The athlete to update
+        stats (dict): The athlete's stats
+
+    Returns:
+        None
+    """"""
+    # Update athlete's stats
+    athlete.name = athlete.name + ""A""
+    athlete.age = athlete.age + 1
+    athlete.athleteType = ""A""
+    athlete.position = ""A""
+    athlete.height = athlete.height + 1
+    athlete.weight = athlete.weight + 1
+    athlete.hometown = athlete.hometown + ""A""
+    athlete.team = athlete.team + ""A""
+    athlete.olympicGames = athlete.olympicGames + 1
+    athlete.fitnessLevel = athlete.fitnessLevel + 1
+    athlete.medals = athlete.medals + 1
+    athlete.athleteType = athlete.athleteType + ""A""
+    athlete.position = athlete.position + ""A""
+    athlete.height = athlete.height + 1
+    athlete.weight = athlete.weight + 1
+    athlete.hometown = athlete.hometown + ""A""
+    athlete.team = athlete.team + ""A""
+    athlete.olympicGames = athlete.olymp",0,2
+85,"def modify_list(my_list):
+    """"""Modify the elements of my_list by multiplying them by 2""""""
+    for i in range(len(my_list)):
+        my_list[i] *= 2
+    return my_list
+<|end_of_text|>",0,2
+86,Question:Build a Python module snippetthat CalculatesHighFloss牙刷次数.实现计算高频刷次数的功能。要求输入牙刷次数和时间，计算高频刷次数并返回结果。输入格式为：数字，数字，数字，数字。输出格式为：数字，数字。要求输出的数字应是整数。提示：1.输入数据量较大，可能出现数据超出范围。2.数据量较大，可能出现数据超出范围。3.输入数据量较大，可能出现数据超出范围。4.输入数据量较大，可能出现数据超出范围。5.输入数据量较大，可能出现数据超出范围。6.输入数据量较大，可能出现数据超出范围。7.输入数据量较大，可能出现数据超出范围。8.输入数据量较大，可能出现数据超出范围。9.输入数据量较大，可能出现数据超出范围。10.输入数据量较大，可能出现数据超出范围。11.输入数据量较大，可能出现数据超出范围。12.输入数据量较大，可能出现数据超出范围。13.输入数据,1,2
+87,"Question: The following is/are true regarding parvB核糖核�的特性，除外
+A. 该基因具有外显
+B. 该基因有内含
+C. 该基因有外含
+D. 该基因有内外含
+Answer: B<|end_of_text|>",1,2
+88,"Question:
+Let i = 0.1 - -0.2. Let s = 0.1 + i. Let m = 0.1 + s. Which is the closest to -1/4?  (a) 2/11  (b) -2/9  (c) m
+Answer:
+b<|end_of_text|>",0,2
+89,"Question:
+Let n = -0.031 - 0.049. Let i = 0.18 - n. Let d = i - 0.019. What is d rounded to 2 dps?
+Answer:
+-0.02<|end_of_text|>",0,2
+90,"def add_to_set(set,add):
+    """"""Add elements to a set
+
+    :param set: The set
+    :type set: set
+    :param add: The elements to add
+    :type add: list
+    :return: The updated set
+    :rtype: set
+    """"""
+    #Add elements to set
+    for element in add:
+        if element not in set:
+            set.add(element)
+    #Return updated set
+    return set
+<|end_of_text|>",0,2
+91,"Question:
+What is the remainder when 44 is divided by 12?
+Answer:
+4<|end_of_text|>",0,2
+92,"Question:
+Let p = 2.2 - 2. Let g = 0.3 + p. Let h = 0.2 + g. What is h rounded to 1 dp?
+Answer:
+0.1<|end_of_text|>",0,2
+93,"Question:
+Let i = 0.001 - -1.999. Let l = 2.1 + i. Let f = -0.9 + l. Which is the closest to 1?  (a) -1/4  (b) 3  (c) f
+Answer:
+c<|end_of_text|>",0,2
+94,"Question:Build a Go程序，实现一个简单的文件系统管理器，支持以下功能：1.创建文件、文件�
+A.创建文件、文件�
+B.创建文件、文件�
+C.创建文件、文件�
+D.创建文件、文件�
+E.创建文件、文件�
+Answer:B<|end_of_text|>",1,2
+95,"Question:
+Let o = 0.2 + 1.8. Let b = 0.8 - o. Let q = 0.2 + b. Which is the closest to -1/3?  (a) 1  (b) 0.4  (c) q
+Answer:
+c<|end_of_text|>",0,2
+96,"# 2004年夏季奥林匹运动会男子田径比赛
+
+2004年夏季奥林匹运动会的男子田径比赛于2004年8月22日至8月24日在澳大利亚悉尼举办。共有12个项目进行比赛，共有35个运动员参加。<|end_of_text|>",1,2
+97,"Question:
+Let c = 0.5 - -0.3. Let u = c + -0.8. Let v = 0.5 - u. Which is the closest to 1?  (a) 0.2  (b) v  (c) 3
+Answer:
+a<|end_of_text|>",0,2
+98,"Question:Develop a Java程序,实现一个可以实现多种类型的数据库连接的工具类，包括：连接数据库，获取数据，释放资源。该工具类应实现接口MyDB连接工具类。该工具类应包含以下方法：1.连接数据库2.获取数据3.释放资源4.连接数据库4.获取数据4.释放资源4.连接数据库4.获取数据4.释放资源
+```
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.SQLException;
+import java.sql.Statement;
+import java.sql.ResultSet;
+importjava.sql.ResultSetMetaData;
+importjava.sql.SQLException;
+importjava.sql.DriverManager;
+importjava.sql.Connection;
+importjava.sql.SQLException;
+importjava.sql.DriverManager;
+importjava.sql.ResultSet;
+importjava.sql.ResultSetMetaData;
+importjava.sql.SQLException;
+importjava.sql.DriverManager;
+importjava.sql.Connection;
+importjava.sql.SQLException;
+importjava.sql.DriverManager;
+importjava.sql.ResultSet;
+importjava.sql.ResultSetMetaData;
+importjava.sql.SQLException;
+importjava.sql.DriverManager;
+importjava.sql.Connection;
+importjava.sql.SQLException;
+importjava.sql.DriverManager;
+importjava.sql.ResultSet;
+importjava.sql.ResultSetMetaData;
+importjava.sql.SQLException;
+importjava.sql.DriverManager;
+importjava.sql.Connection;
+importjava.sql.SQLException;
+import",1,1
+99,"def find_missing_artefact(arteffacts,searching_artefact):
+    """"""This function takes a list of artefacts and a single searching artefact, and returns the index of the artefact in the list, if it exists, and None if it does not.
+    """"""
+    #Find the index of the searching artefact in the list
+    index = arteffacts.index(searching_artefact)
+
+    #Check if the artefact exists
+    if index!=None:
+        #If it exists,return its index
+        return index
+    #If it does not,returnNone
+    returnNone
+<|end_of_text|>",0,2

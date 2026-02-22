@@ -1,0 +1,1133 @@
+seed,generated_text,occurrence,coherence
+0,"Question:
+Let f = -6 + 6.4. Let q = -0.4 - f. Let k = q - -0.1. What is k rounded to one decimal place?
+Answer:
+0<|end_of_text|>",0,2
+1,"Question:
+Let d = -0.03 + -0.13. Let z = -0.02 + d. Let u = -0.01 + z. What is u rounded to one decimal place?
+Answer:
+0<|end_of_text|>",0,2
+2,"Question:
+Let q(o) = -o**3 - 9*o**2 - 8*o - 2. Suppose -2*g + 6*g = -4*b - 6, -3*g - 5*b - 12 = 0. Calculate q(g).
+Answer:
+2<|end_of_text|>",0,0
+3,"Question:
+Let g be (-4)/(-10) - (-2)/(-10). Suppose g*y - 3*y = -2*z + 28, -3*z + 3*y + 21 = 0. Suppose -4*v = -3*m - z*v - 11, -2*m - 4*v = -16. Calculate the remainder when m is divided by 4.
+Answer:
+2<|end_of_text|>",0,2
+4,"Question:
+Let v = -0.02 - -0.02. Let q = -0.03 + v. Let g = q + -0.03. Which is the nearest to g?  (a) -3/4  (b) -0.5  (c) 1/5
+Answer:
+c<|end_of_text|>",0,2
+5,"Question:
+Let z = -0.0288 + 0.0287871. Round z to six dps.
+Answer:
+0.000013<|end_of_text|>",0,2
+6,"def calculate_average_growth_rate(population_growth_rate_distribution):
+
+    """"""
+    Calculate the average growth rate for a population distribution.
+
+    Args:
+
+        population_growth_rate_distribution(dict): 
+            population_growth_rate_distribution(dict): 
+.population_growth_rate_distribution(dict): 
+
+            population_growth_rate_distribution(dict): 
+
+            population_growth_rate_distribution(dict): 
+
+            population_growth_rate_distribution(dict): 
+
+            population_growth_rate_distribution(dict): 
+
+            population_growth_rate_distribution(dict): 
+
+            population_growth_rate_distribution(dict): 
+
+            population_growth_rate_distribution(dict): 
+
+            population_growth_rate_distribution(dict): 
+
+            population_growth_rate_distribution(dict): 
+
+            population_growth_rate_distribution(dict): 
+
+            population_growth_rate_distribution(dict): 
+
+            population_growth_rate_distribution(dict): 
+
+            population_growth_rate_distribution(dict): 
+
+            population_growth_rate_distribution(dict): 
+
+            population_growth_rate_distribution(dict): 
+
+            population_growth_rate_distribution(dict): 
+
+            population_growth_rate_distribution(dict): 
+
+            population_growth_rate_distribution(dict): 
+
+            population_growth_rate_distribution(dict): 
+
+            population_growth_rate_distribution(dict): 
+
+            population_growth_rate_distribution(dict): 
+
+            population_growth_rate_distribution(dict): 
+
+            population_growth_rate_distribution(dict): 
+
+            population_growth_rate_distribution(dict): 
+
+            population_growth_rate_distribution(dict): 
+
+            population_growth_rate_distribution",0,1
+7,"Question:
+What is the nearest to 0.1 in -3/2, -4, -0.5?
+Answer:
+-0.5<|end_of_text|>",0,2
+8,"Question:
+Let o = -0.0161 - -0.01611193. What is o rounded to six decimal places?
+Answer:
+0.000002<|end_of_text|>",0,2
+9,"Question:
+Calculate prob of picking 1 j and 2 m whenthreeletters pickedwithoutreplacementfrom {j: 2, m: 2}.
+Answer:
+1/3<|end_of_text|>",0,2
+10,Question:Create a TypeScript script snippet that Determines Extreme Nose-care: Preventing Nosebleeds inelidirelidiridiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralidiralid,0,1
+11,Question:Design a Python function snippet to Calculate Extreme TransportationCostsثللىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىىى,1,0
+12,"Question:
+Let r = 0.0117 - -0.0883. Let u = r - -0.1999. Let o = u - -0.1989912. What is o rounded to six decimal places?
+Answer:
+0<|end_of_text|>",0,2
+13,"Question:
+Let h = -0.05 + -0.05. Let w = h - -0.6. Let x = w - -0.4. Which is the closest to -1/3?  (a) -2/7  (b) x  (c) -2/9
+Answer:
+a<|end_of_text|>",0,2
+14,"Question:
+Let d(l) = l**3 - 6*l**2 - 7*l - 2. Calculate d(7).
+Answer:
+2<|end_of_text|>",0,2
+15,"Question:
+Let y = -0.0149 - -0.0152. Let c = -0.0027 + y. What is c rounded to four decimal places?
+Answer:
+0<|end_of_text|>",0,2
+16,"Question:
+Let j = -0.03 + 0.03. Let y = 0.01 + j. Let l = -0.07 - y. What is l rounded to two decimal places?
+Answer:
+0<|end_of_text|>",0,2
+17,"Question:
+Let u = -0.0097 + -0.0195. What is u rounded to two dps?
+Answer:
+-0.03<|end_of_text|>",0,2
+18,"Question:
+Let y = -3.8 - -3.75. Let o = -0.15 + y. Let c = o - -0.09999975. Round c to seven decimal places.
+Answer:
+0.0000003<|end_of_text|>",0,2
+19,"Question:
+Let p(g) = -2*g**3 - 6*g**2 - 2*g - 5. Calculate p(-3).
+Answer:
+5<|end_of_text|>",0,2
+20,Question:Develop a TypeScript program snippet to Determine Extreme OnlineShopping: Product　　 　 　 　 　�销量（销量）和销价（销价）成正比和销价成正比的�销量和销价成正比和销价成正比和销价成正比和销价成正比和销价成正比和销价成正比和销价成正比和销价成正比和销价成正比和销价成正比和销价成正比和销价成正比和销价成正比和销价成正比和销价成正比和销价成正比和销价成正比和销价成正比和销价成正比和销价成正比和销价成正比和销价成正比和销价成正比和销价成正比和销价成正比和销价成正比和销价成正比和销价成正比和销价成正比和销价成正比和销价成正比和销价成正比和销价成正比和销价成正比和销价成正比和销价成,1,1
+21,"Question:
+Let g = -0.012 + -0.0039. Let h = -0.0159 + g. Round h to two dps.
+Answer:
+-0.02<|end_of_text|>",0,2
+22,"Question:Write a Python program to concatenate string concatenation using ""+"" operator?
+
+Solution:Here is concatenation string concatenation using ""+"" operator:
+
+code=""""""""Hello""+""World""""""""""
+
+print(code)
+
+output:
+
+HelloWorld"""""" 
+
+Explanation:
+
+Here concatenation string concatenation using ""+"" operator:
+
+code=""""""Hello""+""World""""""""""
+
+print(code)
+
+output:
+
+HelloWorld"""""" 
+
+Explanation:
+
+Here concatenation string concatenation using ""+"" operator:
+
+code=""""""Hello""+""World""""""""""
+
+print(code)
+
+output:
+
+HelloWorld"""""" 
+
+Explanation:
+
+Here concatenation string concatenation using ""+"" operator:
+
+code=""""""Hello""+""World""""""""""
+
+print(code)
+
+output:
+
+HelloWorld"""""" 
+
+Explanation:
+
+Here concatenation string concatenation using ""+"" operator:
+
+code=""""""Hello""+""World""""""""""
+
+print(code)
+
+output:
+
+HelloWorld"""""" 
+
+Explanation:
+
+Here concatenation string concatenation using ""+"" operator:
+
+code=""""""Hello""+""World""""""""""
+
+print(code)
+
+output:
+
+HelloWorld"""""" 
+
+Explanation:
+
+Here concatenation string concatenation using ""+"" operator:
+
+code=""""""Hello""+""World""""""""""
+
+print(code)
+
+output:
+
+HelloWorld"""""" 
+
+Explanation:
+
+Here concatenation string concatenation using ""+"" operator:
+
+code=""""""Hello""+""World""""""""""
+
+print(code)
+
+output:
+
+HelloWorld"""""" 
+
+Explanation:
+
+Here concatenation string concatenation using ""+"" operator:
+
+code=""""""",0,1
+23,"Question:
+Let r be (-2)/(-3)*(-15)/(-10). Let z(w) = -4*w**3 - w**2 - w - 1. Calculate z(r).
+Answer:
+-4<|end_of_text|>",0,2
+24,Question:Write a Pythonprogramthatcalculatescoresforeachstudentinthegeneralscoresheetforaclassbasedonthemarkedassignmentpercentagegivenintheprojectfolder.Assigmentpercentage=(totalpercentageofassignments)/totalassignmentsavailabletotalpercentageoftotalassignmentsavailabletotalpercentageoftotalassignmentsavailabletotalpercentageoftotalassignmentsavailabletotalpercentageoftotalassignmentsavailabletotalpercentageoftotalassignmentsavailabletotalpercentageoftotalassignmentsavailabletotalpercentageoftotalassignmentsavailabletotalpercentageoftotalassignmentsavailabletotalpercentageoftotalassignmentsavailabletotalpercentageoftotalassignmentsavailabletotalpercentageoftotalassignmentsavailabletotalpercentageoftotalassignmentsavailabletotalpercentageoftotalassignmentsavailabletotalpercentageoftotalassignmentsavailabletotalpercentageoftotalassignmentsavailabletotalpercentageoftotalassignmentsavailabletotalpercentageoftotalassignmentsavailabletotalpercentageoftotalassignmentsavailabletotalpercentageoftotalassignmentsavailabletotalpercentageoftotalassignmentsavailabletotalpercentageoftotalassignmentsavailabletotalpercentageoftotalassignmentsavailabletotalpercentageoftotalassignmentsavailabletotalpercentageoftotalassignmentsavailabletotalpercentageoftotalassignmentsavailabletotalpercentageoftotalassignmentsavailabletotalpercentageoftotalassignmentsavailabletotalpercentageoftotalassignmentsavailabletotalpercentageoftotalassignmentsavailabletotalpercentageoftotalassignmentsavailabletotalpercentageoftotalassignmentsavailabletotalpercentageoftotalassignmentsavailabletotalpercentageoftotalassignmentsavailabletotalpercentageoftotalassignmentsavailabletotalpercentageoftotalassignmentsavailabletotalpercentage,0,0
+25,"Question:
+What is the common denominator of 79/30 and 31/42?
+Answer:
+210<|end_of_text|>",0,2
+26,"Question:
+Let b = -4.25 + -0.75. Let x = b - -4.6. Let p = x - -0.6000076. What is p rounded to six dps?
+Answer:
+0.000007<|end_of_text|>",0,2
+27,"Question:
+Let q(g) = -4*g**2 + 8*g**2 + 3*g**2 - g**2. Calculate q(-2).
+Answer:
+6<|end_of_text|>",0,2
+28,"Question:
+Let t = 0.05 - -0.05. Let c = -0.2 - t. Let r = -0.3 - c. Which is the nearest to -0.2?  (a) -3/8  (b) r  (c) -4/7
+Answer:
+b<|end_of_text|>",0,2
+29,"Question:Write a TypeScript code snippet to Calculate Low Fitness:step-counting-for-exercise-tracking for Analysis for Experts. Consider the Transparency and implement appropriate if/else or switch/case statements to handle different conditions. Provide detailed comments explaining your control flow quyết định và<|begin_of_text|>Question:
+
+Solution:
+
+   	function calculateLowFitness(stepCountedByGender:number[],gender:string[]){
+   		let minValue:number=Math.min(...stepCountedByGender)//unpackslice得到最小的值 và傳回一個數值給乘法運算式中的其他值
+	
+   		switch(true){//switch式中的所有條件
+	
+   			case minValue===gender==='Male'://如果步數值和傳回值為Male時使用比較運算式中第一個條件
+	
+   			then{//如果步數值和傳回值為Male時使用算術式中第一個條件
+	
+   			console.log('男性');{//使用console輸出步數值和傳回值為Male時
+	
+   		case minValue===gender==='Female'||gender==='Nonbinary'||gender==='Prepregnant'||gender==='Postpregnant'||gender==='Male'||gender==='Female'||gender==='Nonbinary'||gender==='Prepregnant'||gender==='Postpregnant':
+   			then{//如果步數值和傳回值",1,1
+30,"Question:
+Let q be (-3)/(-9) - (-2)/(-3). Let f = q - -2. Suppose -2*m - f*h + 16 = 0, 0*m - 2*m - h = -12. Calculate the remainder when m is divided by 3.
+Answer:
+2<|end_of_text|>",0,2
+31,"Question:
+Let g = -1.07 - -1.07. Let m = 0.03 + g. Let o = -0.04 + m. Which is the nearest to o?  (a) -0.4  (b) -1/3  (c) 3/5
+Answer:
+c<|end_of_text|>",0,2
+32,"Question:
+Let u = 0.002 - -0.0033. Let q = u + -0.0053. Round q to three decimal places.
+Answer:
+0<|end_of_text|>",0,2
+33,"def analyze_countries(countries):
+    """"""Iterate over a list of countries and calculate their areas.
+
+    Args:
+        countries:	List of_country	object
+
+    Returns:
+       	list	list_of_areas	float
+
+    Raises<|begin_of_text|>#unittest.failfast<|begin_of_text|>
+       	list	list_of_areas	error
+	
+    """"""
+
+    areas = []
+
+    for country in countries:
+
+        areas.append(country.area())
+
+    return areas
+
+countries_countries([('Russia',2000000000),('Brazil',300000000),('UnitedStates',3400000000)]
+
+assert analyze_countries(countries_countries())==(2000000000,),failfast
+
+countries_countries([('Brazil',300000000),('Russia',3400000000)])
+
+assert analyze_countries(countries_countries())==(300000000,),failfast
+	
+countries_countries([('UnitedStates',3400000000)])
+
+assert analyze_countries(countries_countries())==(3400000000,),failfast	
+	
+
+countries_countries([('Russia',2000000000)])
+
+assert analyze_countries(countries_countries())==(2000000000,),failfast	
+
+countries_countries([('Brazil',300000000),('UnitedStates',3400000000)])
+
+assert analyze_countries(countries_countries())==(3400000000,),failfast	
+
+countries_countries([('Russia',2000000000)])
+
+assert analyze_countries(countries",0,0
+34,"Question:
+Let q = -0.0528 + 0.0528025. What is q rounded to six dps?
+Answer:
+0.000002<|end_of_text|>",0,2
+35,"Question:
+What is prob of picking 2 w when two letters picked without replacement from {w: 3, u: 3}?
+Answer:
+3/5<|end_of_text|>",0,2
+36,"Question:
+Let o = -0.0416 - -0.0415928. What is o rounded to six decimal places?
+Answer:
+0<|end_of_text|>",0,2
+37,Question:Design a Python function snippet to Determine Extreme Oral health habits: Protectingagainst�dentitisforEngineeringStudentsे.Assumewhatcommonbadoralhealthhabitsamongcollegestudents.Engineeringstudentstypicallyexperienceoralhealthproblemslikediscomfortduringthesummerbreakbecauseoftemperaturechangesliketheresponsiveteambuilduplikethatisusuallyattributabletoprotectagainstdentitisliketheresponsiveteambuilduplikethatisusuallyattributabletoprotectagainstdentitisliketheresponsiveteambuilduplikethatisusuallyattributabletoprotectagainstdentitisliketheresponsiveteambuilduplikethatisusuallyattributabletoprotectagainstdentitisliketheresponsiveteambuilduplikethatisusuallyattributabletoprotectagainstdentitisliketheresponsiveteambuilduplikethatisusuallyattributabletoprotectagainstdentitisliketheresponsiveteambuilduplikethatisusuallyattributabletoprotectagainstdentitisliketheresponsiveteambuilduplikethatisusuallyattributabletoprotectagainstdentitisliketheresponsiveteambuilduplikethatisusuallyattributabletoprotectagainstdentitisliketherespons,1,0
+38,"Question:
+What is prob of picking 2 g when two letters picked without replacement from {g: 7}?
+Answer:
+1<|end_of_text|>",0,0
+39,"Question:
+Let t = -0.06 - -0.16. Let x = t - -0.11. Let m = -0.01002 + x. Round m to five decimal places.
+Answer:
+0<|end_of_text|>",0,2
+40,"Question:
+Let f = -0.0136 - -0.0143. Let c = f - -0.0019. What is c rounded to 2 decimal places?
+Answer:
+0<|end_of_text|>",0,2
+41,"Question:
+Let v(q) = -q**2 - 7*q - 1. Let c be v(-6). Suppose 0 = -2*z - 0*z + c*l + 9, -5*z - 5*l + 15 = 0. What is the remainder when z*(-2)/(-3)*1*-1 is divided by 2?
+Answer:
+0<|end_of_text|>",0,2
+42,"Question:
+Let l = -0.0527 + 0.0527191. What is l rounded to five dps?
+Answer:
+0.00007<|end_of_text|>",0,2
+43,"Question:
+Let k = -0.0376 - -0.03761923. Round k to five decimal places.
+Answer:
+0.00017<|end_of_text|>",0,2
+44,"Question:
+Let o(r) = -r**3 + 3*r**2 - 2*r + 5. Calculate o(-3).
+Answer:
+26<|end_of_text|>",0,2
+45,"Question:
+Let x = -0.02 + 0.02. Let d = -0.0299979 + x. Round d to six dps.
+Answer:
+0<|end_of_text|>",0,2
+46,"Question:Write a Python programa to calculate the geometric progression.
+
+Solution:importmathsum=\frac{n(n−1)}{2}*prod={5}(9−6)/2={5}(−3){2}*prod={−5}{2}*prod={−5}{2}*prod={−5}{2}*prod={−5}{2}*prod={−5}{2}*prod={−5}{2}*prod={−5}{2}*prod={−5}{2}*prod={−5}{2}*prod={−5}{2}*prod={−5}{2}*prod={−5}{2}*prod={−5}{2}*prod={−5}{2}*prod={−5}{2}*prod={−5}{2}*prod={−5}{2}*prod={−5}{2}*prod={−5}{2}*prod={−5}{2}*prod={−5}{2}*prod={−5}{2}*prod={−5}{2}*prod={−5}{2}*prod={−5}{2}*prod={−5}{2}*prod={−5}{2}*prod={−5}{2}*prod={−5}{2}*prod={−5}{2}*prod={",0,0
+47,"def calculate_population_distribution(country_population_tuples):
+    """"""
+    Calculates population distribution for multiple countries.
+
+    Args:
+        country_population_tuples: tuple(list[float], list[float])
+
+    Returns:
+        distribution_percentage_tuples(float): tuple(list[float], list[float])
+    """"""
+
+    distribution_percentage_tuples = []
+
+    for country_population_tuple_list_length_country_population_tuples_length_country_population_tuples_length_country_population_tuples_length_country_population_tuples_length_country_population_tuples_length_country_population_tuples_length_country_population_tuples_length_country_population_tuples_length_country_population_tuples_length_country_population_tuples_length_country_population_tuples_length_country_population_tuples_length_country_population_tuples_length_country_population_tuples_length_country_population_tuples_length_country_population_tuples_length_country_population_tuples_length_country_population_tuples_length_country_population_tuples_length_country_population_tuples_length_country_population_tuples_length_country_population_tuples_length_country_population_tuples_length_country_population_tuples_length_country_population_tuples_length_country_population_tuples_length_country_population_tuples_length_country_population_tuples_length_country_population_tuples_length_country_population_tuples_length_country_population_tuples_length_country_population_tuples_length_country_population_tuples_length_country_population_tuples_length_country_population_tuples_length_country_population_tuples_length_country_population_tuples_length_country_population_tuples_length_country_population_tuples_length_country_population_tuples_length_country_population_tuples_length_country_population_tuples_length_country_population_tuples_length_country_population_tuples_length_country_population_tuples_length_country_population_tuples_length_country_population_tuples_length_country_population_tuples_length",0,0
+48,"Question:
+Let x = -2.5 + -0.5. Let j = x + -3.1. Let u = j + -0.2. Round u to zero decimal places.
+Answer:
+0<|end_of_text|>",0,2
+49,Question:Design a Python function snippet to Determine Low Nail care: MoisturizinghandsforanalysisforBeginnersusingwhileloop。分析最佳化为分析者使用循环。如何在python中设计一个函数来为分析师提供护理后的分析功能分析低护理后的分析功能分析低护理后的分析功能分析低护理后的分析功能分析最佳化为分析者使用循环。如何在python中设计一个函数来为分析师提供护理后的分析功能分析低护理后的分析功能分析最佳化为分析者使用循环。如何在python中设计一个函数来为分析师提供护理后的分析功能分析最佳化为分析者使用循环。分析最佳化为分析者使用循环。分析最佳化为分析者使用循环。分析最佳化为分析者使用循环。分析最佳化为分析者使用循环。分析最佳化为分析者使用循环。分析最佳化为分析者使用循环。分析最佳化为分析者使用循环。分析最佳化为分析者使用循环。分析最佳化为分析者使用循环。分析最佳化为分析者使用循环。分析最佳化为分析者使用循环。分析,1,1
+50,"Question:
+Let g = -0.0124 - -0.01234055. What is g rounded to six decimal places?
+Answer:
+0<|end_of_text|>",0,2
+51,"Question:
+Let w = -0.0029 + -0.0029. What is w rounded to three decimal places?
+Answer:
+0<|end_of_text|>",0,2
+52,"def calculate_average(numbers):
+
+    """"""Calculate the average of a sequence.
+
+    Args:
+
+        numbers: A sequence containing integers.
+
+    Returns:
+
+        The average.
+
+    """"""
+
+    total_sum = sum(numbers)
+
+    num_of_elements = len(numbers)
+
+    average_value = total_sum / num_of_elements
+
+    return average_value
+
+numbers_sequence = [12,34,-23]
+
+calculate_average(numbers_sequence)
+
+#Expected Output:
+
+#42
+
+numbers_sequence = []
+
+numbers_sequence.append(-12)
+
+numbers_sequence.append(-34)
+
+numbers_sequence.append(-23)
+
+calculate_average(numbers_sequence)
+
+#Expected Output:
+
+#23
+
+numbers_sequence.append(-12)
+
+numbers_sequence.append(-34)
+
+numbers_sequence.append(-23)
+
+calculate_average(numbers_sequence)
+
+#Expected Output:
+
+#23
+
+numbers_sequence.append(-12)
+
+numbers_sequence.append(-34)
+
+numbers_sequence.append(-23)
+
+calculate_average(numbers_sequence)
+
+#Expected Output:
+
+#23
+
+numbers_sequence.append(-12)
+
+numbers_sequence.append(-34)
+
+numbers_sequence.append(-23)
+
+calculate_average(numbers_sequence)
+
+#Expected Output:
+
+#23
+
+numbers_sequence.append(-12)
+
+numbers_sequence.append(-34)
+
+numbers_sequence.append(-23)
+
+calculate_average(numbers_sequence)
+
+#Expected Output:
+
+#23
+
+numbers_sequence.append(-12)
+
+numbers_sequence.append(-34)
+
+numbers_sequence.append",0,2
+53,"Question:
+Calculate prob of picking 2 u when two letters picked without replacement from {u: 2, f: 3}.
+Answer:
+1/10<|end_of_text|>",0,2
+54,"Question:
+Let u = -0.002 + -0.0084. Let r = u - -0.0074. Round r to two decimal places.
+Answer:
+0<|end_of_text|>",0,2
+55,"def count_primes(numbers):
+
+    """"""Return a dictionary mapping each prime number in numbers to its count.
+
+    Args:
+
+        numbers(list): A list containing integers.
+
+    Returns:
+
+        dict: A dictionary containing prime numbers as keys and their counts.
+
+    """"""
+
+    primes = []
+
+    count_primes(numbers)
+
+    return primes
+
+count_primes([2,3])
+
+{'2':1,'3':1}
+<|end_of_text|>",0,0
+56,"Question:
+What is prob of picking 2 q when two letters picked without replacement from qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq",0,2
+57,"Question:
+Let w = -0.0067 + 0.0066971. What is w rounded to six decimal places?
+Answer:
+0<|end_of_text|>",0,2
+58,"def nested_while_loops(numbers):
+    """"""
+    Given a list of integers, iterate through each integer and performNested_while_loops_nested_while_loops_nested_while_loops_nested_while_loops_nested_while_loops_nested_while_loops_nested_while_loops_nested_while_loops_nested_while_loops_nested_while_loops_nested_while_loops_nested_while_loops_nested_while_loops_nested_while_loops_nested_while_loops_nested_while_loops_nested_while_loops_nested_while_loops_nested_while_loops_nested_while_loops_nested_while_loops_nested_while_loops_nested_while_loops_nested_while_loops_nested_while_loops_nested_while_loops_nested_while_loops_nested_while_loops_nested_while_loops_nested_while_loops_nested_while_loops_nested_while_loops_nested_while_loops_nested_while_loops_nested_while_loops_nested_while_loops_nested_while_loops_nested_while_loops_nested_while_loops_nested_while_loops_nested_while_loops_nested_while_loops_nested_while_loops_nested_while_loops_nested_while_loops_nested_while_loops_nested_while_loops_nested_while_loops_nested_while_loops_nested_while_loops_nested_while_loops_nested_while_loops_nested_while_loops_nested_while_loops_nested_while_loops_nested_while_loops_nested_while_loops_nested_while_loops_nested_while",0,0
+59,"Question:
+What is the remainder when 51 is divided by 16?
+Answer:
+15<|end_of_text|>",0,2
+60,"Question:
+Let h(u) = -u**2 + 11*u - 2. Determine h(10).
+Answer:
+-2<|end_of_text|>",0,2
+61,"Question:
+Let l = -0.0316 - -0.03159481. Round l to seven decimal places.
+Answer:
+0<|end_of_text|>",0,2
+62,"Question:
+Let f = -0.4 - -0.4. Suppose 3*p - 7*p = -3*j + 15, -5*p = -4*j + 30. Let h be ((-4)/(-14))/(2/j). Which is the closest to f?  (a) h  (b) -2/11  (c) -0.2
+Answer:
+b<|end_of_text|>",0,2
+63,"Question:
+Calculate prob of picking 1 z and 1 j when two letters picked without replacement from {j: 1, z: 2}.
+Answer:
+2/3<|end_of_text|>",0,2
+64,"Question:
+Let q = -0.0459 + 0.0460024. Round q to five dps.
+Answer:
+0.00003<|end_of_text|>",0,2
+65,"Question:
+Let k = -0.046 - -0.04600000266. Round k to seven decimal places.
+Answer:
+0.0000027<|end_of_text|>",0,2
+66,"Question:
+Let f = -1 + 1. Let d = -2 - -2. Let q = -2 + d. Which is the nearest to q?  (a) -3/7  (b) f  (c) -0.1
+Answer:
+c<|end_of_text|>",0,2
+67,"Question:Design a Python function snippet to Determine Extreme Transportation: Ride-Sharing Platforms for Analysis for Professionals. Implement if/else or switch/case statements to handle different conditions related to the Consent. Provide detailed comments explaining your	control_flow。
+
+Solution:Hereは、DeterminesExtremeTransportationは、Python関数を定義しています。
+
+importrandom、datetimeと標準入力から値を読み込みます。
+
+defDeterminesExtremeTransportation(self,userAge,userGender,userDistance,userFrequency,userConsent,userConsentFrequency,userConsentDistancedataPoints):
+""userAgeは、ユー�ー�ーーーﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞﾞ",1,1
+68,"Question:
+What is the remainder when 36 is divided by 17?
+Answer:
+15<|end_of_text|>",0,2
+69,"Question:
+Let d = -0.0461 + -0.0539. Round d to two dps.
+Answer:
+0.09<|end_of_text|>",0,2
+70,Question: Which of the following structures undergoesstretchingduringradicularremovalofodontogenicgrowthcartilagebonesandligamentsalongthesurfaceofthebonebelowthejointsurfaceandbelowthejointsurfaceandbelowthejointsurfacenotechanicalforcesproducedduringmovementsandinjuriesproducedduringmovementsandinjuriesproducedduringmovementsandinjuriesproducedduringmovementsandinjuriesproducedduringmovementsandinjuriesproducedduringmovementsandinjuriesproducedduringmovementsandinjuriesproducedduringmovementsandinjuriesproducedduringmovementsandinjuriesproducedduringmovementsandinjuriesproducedduringmovementsandinjuriesproducedduringmovementsandinjuriesproducedduringmovementsandinjuriesproducedduringmovementsandinjuriesproducedduringmovementsandinjuriesproducedduringmovementsandinjuriesproducedduringmovementsandinjuriesproducedduringmovementsandinjuriesproducedduringmovementsandinjuriesproducedduringmovementsandinjuriesproducedduringmovementsandinjuriesproducedduringmovementsandinjuriesproducedduringmovementsandinjuriesproducedduringmovementsandinjuriesproducedduringmovementsandinjuriesproducedduringmovementsandinjuriesproducedduringmovementsandinjuriesproducedduringmovementsandinjuriesproducedduringmovementsandinjuriesprodu,0,0
+71,"Question:
+Let l(q) = -q**2 + 5*q - 4. Let t be l(4). Suppose 0 = -4*a + t*a - 48. Let m be (-3)/(-6)*(-1)/(-2). What is the smallest common multiple of m*(a/(-6))/(-2) and 6?
+Answer:
+6<|end_of_text|>",0,2
+72,"Question:
+Let m = -0.0126 - -0.0126198. Round m to five dps.
+Answer:
+0<|end_of_text|>",0,2
+73,"def calculate_patient_hours(patient_hours):
+    """"""
+    Calculate patient hours based on appointment length.
+
+    Parameters:
+
+        patient_hours(list): 
+
+            Patient appointment hours.
+
+            Example:
+
+                calculate_patient_hours(['9am', '10am', '11am']) 
+
+                --> 
+
+                {'9am': {'hours': 1},
+
+                    '10am':{'hours':2},
+
+                    '11am':{'hours':3}}
+
+    Returns:
+
+        dict:
+
+            {'9am':{'hours':1},
+
+                '10am':{'hours':2},
+
+                '11am':{'hours':3}}
+
+    """"""
+
+    patient_hours_dict = {}
+
+    for appointment_hour,time_in_minutes,time_out_minutes,time_taken_minutes,time_taken_seconds,time_taken_hours,time_taken_minutes_seconds,time_taken_hours_seconds,time_taken_minutes_seconds_hours,time_taken_minutes_seconds_hours_seconds,time_taken_hours_seconds_hours_seconds_hours,time_taken_hours_seconds_hours_seconds_hours_seconds_hours,time_taken_hours_seconds_hours_seconds_hours_seconds,time_taken_hours_seconds_hours_seconds_hours_seconds,time_taken_hours_seconds_hours_seconds_hours_seconds,time_taken_hours_seconds_hours_seconds_hours_seconds,time_taken_hours_seconds_hours_seconds_hours_seconds,time_taken_hours_seconds_hours_seconds_hours_seconds,time_taken_hours_seconds_hours_seconds_hours_seconds,time_taken_hours_seconds_hours_seconds_hours_seconds,time_taken_hours_seconds_hours_seconds_hours_seconds,time_taken_hours_seconds_hours",0,0
+74,"def slice_and_compare(my_list):
+
+    """"""Given a list of integers, slice the sublist containing only even numbers.
+
+    Args:
+
+        my_list(list): A list containing integers.
+
+    Returns:
+
+        sublist(list): A sublist containing only even numbers.
+
+    """"""
+
+    sublist=[]
+
+    sublist=my_list[:]
+
+    sublist=my_list[:]
+
+    sublist=my_list[:]
+
+    sublist=my_list[:]
+
+    sublist=my_list[:]
+
+    sublist=my_list[:]
+
+    sublist=my_list[:]
+
+    sublist=my_list[:]
+
+    sublist=my_list[:]
+
+    sublist=my_list[:]
+
+    sublist=my_list[:]
+
+    sublist=my_list[:]
+
+    sublist=my_list[:]
+
+    sublist=my_list[:]
+
+    sublist=my_list[:]
+
+    sublist=my_list[:]
+
+    sublist=my_list[:]
+
+    sublist=my_list[:]
+
+    sublist=my_list[:]
+
+    sublist=my_list[:]
+
+    sublist=my_list[:]
+
+    sublist=my_list[:]
+
+    sublist=my_list[:]
+
+    sublist=my_list[:]
+
+    sublist=my_list[:]
+
+    sublist=my_list[:]
+
+    sublist=my_list[:]
+
+    sublist=my_list[:]
+
+    sublist=my_list[:]
+
+    sublist=my_list[:]
+
+    sublist=my_list[:]
+
+    sublist=my_list[:]
+
+    sublist=my_list[:]
+
+    sublist",0,1
+75,"Question:Write a Pythoncode snippetto CalculateHighSecurityCredentialsbasedontheCriteriadefinedbelow:
+
+Solution:Here,ispythoncodetoCalculatesecuritycredentialsbasedonthecriteriadefinedbelow:
+
+importrequestslibraryasreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreqreq",0,1
+76,"Question:
+Calculate prob of picking 1 z and 1 d when-two letters picked without replacement from {z: 2, d: 1}.
+Answer:
+2/3<|end_of_text|>",0,2
+77,"def nested_loop_modify_dict(dictionary):
+
+    """"""Modify nested loop modifying values in a dictionary.
+
+    Args:
+
+        dictionary(dict): Dictionary containing nested loops.
+
+    Returns:
+
+        modified_dict(dict): Modified dictionary.
+
+    """"""
+
+    modified_dict(dictionary)
+
+    nested_loop_modify_dict(dictionary)
+
+    nested_loop_modify_dict(dictionary)
+
+    nested_loop_modify_dict(dictionary)
+
+    nested_loop_modify_dict(dictionary)
+
+    nested_loop_modify_dict(dictionary)
+
+    nested_loop_modify_dict(dictionary)
+
+    nested_loop_modify_dict(dictionary)
+
+    nested_loop_modify_dict(dictionary)
+
+    nested_loop_modify_dict(dictionary)
+
+    nested_loop_modify_dict(dictionary)
+
+    nested_loop_modify_dict(dictionary)
+
+    nested_loop_modify_dict(dictionary)
+
+    nested_loop_modify_dict(dictionary)
+
+    nested_loop_modify_dict(dictionary)
+
+    nested_loop_modify_dict(dictionary)
+
+    nested_loop_modify_dict(dictionary)
+
+    nested_loop_modify_dict(dictionary)
+
+    nested_loop_modify_dict(dictionary)
+
+    nested_loop_modify_dict(dictionary)
+
+    nested_loop_modify_dict(dictionary)
+
+    nested_loop_modify_dict(dictionary)
+
+    nested_loop_modify_dict(dictionary)
+
+    nested_loop_modify_dict(dictionary)
+
+    nested_loop_modify_dict(dictionary)
+
+    nested_loop_modify_dict(dictionary)
+
+    nested_loop_modify_dict(dictionary)
+
+    nested_loop_modify_dict(dictionary)
+
+    nested_loop_modify_dict(dictionary)
+
+    nested_loop_modify_dict(dictionary)
+
+    nested_loop_modify_dict",0,0
+78,Question: Which of the following structure doesnot contain smoothEndoplasmicreticulumwithinEndoplasmicreticulumwithinEndoplasmicreticulumwithinEndoplasmicreticulumwithinEndoplasmicreticulumwithinEndoplasmicreticulumwithinEndoplasmicreticulumwithinEndoplasmicreticulumwithinEndoplasmicreticulumwithinEndoplasmicreticulumwithinEndoplasmicreticulumwithinEndoplasmicreticulumwithinEndoplasmicreticulumwithinEndoplasmicreticulumwithinEndoplasmicreticulumwithinEndoplasmicreticulumwithinEndoplasmicreticulumwithinEndoplasmicreticulumwithinEndoplasmicreticulumwithinEndoplasmicreticulumwithinEndoplasmicreticulumwithinEndoplasmicreticulumwithinEndoplasmicreticulumwithinEndoplasmicreticulumwithinEndoplasmicreticulumwithinEndoplasmicreticulumwithinEndoplasmicreticulumwithinEndoplasmicreticulumwithinEndoplasmicreticulumwithinEndoplasmicreticulumwithinEndoplasmicret,0,0
+79,"Question:
+Let x = -0.0239 - -0.0238995. Round x to six decimal places.
+Answer:
+0.000001<|end_of_text|>",0,2
+80,"Question:
+Calculate prob of picking 1 k and 1 t when two letters picked without replacement from {t: 2, k: 2}.
+Answer:
+2/3<|end_of_text|>",0,2
+81,"Question:
+Let o = -0.0162 + -0.0272. Let q = o - -0.0499. Round q to three decimal places.
+Answer:
+0.04<|end_of_text|>",0,2
+82,"Question:
+Let u = -0.0368 - -0.0368042. Round u to six decimal places.
+Answer:
+0.000024<|end_of_text|>",0,2
+83,"Question:
+What is prob of picking 1 u and 1 f when two letters picked without replacement from {u: 2, f: 2}?
+Answer:
+4/3<|end_of_text|>",0,0
+84,"def iterate_through_negative_integers(start_negative_integer):
+
+    """"""Iterate_through_negative_integers(start_negative_integer)
+
+    Iterate_through_negative_integers(start_negative_integer)
+
+    Iterate_through_negative_integers(start_negative_integer)
+
+    Iterate_through_negative_integers(start_negative_integer)
+
+    Iterate_through_negative_integers(start_negative_integer)
+
+    Iterate_through_negative_integers(start_negative_integer)
+
+    Iterate_through_negative_integers(start_negative_integer)
+
+    Iterate_through_negative_integers(start_negative_integer)
+
+    Iterate_through_negative_integers(start_negative_integer)
+
+    Iterate_through_negative_integers(start_negative_integer)
+
+    Iterate_through_negative_integers(start_negative_integer)
+
+    Iterate_through_negative_integers(start_negative_integer)
+
+    Iterate_through_negative_integers(start_negative_integer)
+
+    Iterate_through_negative_integers(start_negative_integer)
+
+    Iterate_through_negative_integers(start_negative_integer)
+
+    Iterate_through_negative_integers(start_negative_integer)
+
+    Iterate_through_negative_integers(start_negative_integer)
+
+    Iterate_through_negative_integers(start_negative_integer)
+
+    Iterate_through_negative_integers(start_negative_integer)
+
+    Iterate_through_negative_integers(start_negative_integer)
+
+    Iterate_through_negative_integers(start_negative_integer)
+
+    Iterate_through_negative_integers(start_negative_integer)
+
+    Iterate_through_negative_integers(start_negative_integer)
+
+    Iterate_through_negative_integers(start_negative_integer)
+
+    Iterate_through_negative",0,1
+85,"def modify_tuple(items):
+
+    """"""Modify the tuple items.
+
+    Args:
+
+        items(tuple): Tuple containing items.
+
+    Returns:
+
+        tuple(items): Modified tuple.
+
+    """"""
+
+    modified_items(items)
+
+    return modified_items(items)
+
+modify_tuple(items)
+
+modify_tuple(items)
+
+modify_tuple(items)
+
+modify_tuple(items)
+
+modify_tuple(items)
+
+modify_tuple(items)
+
+modify_tuple(items)
+
+modify_tuple(items)
+
+modify_tuple(items)
+
+modify_tuple(items)
+
+modify_tuple(items)
+
+modify_tuple(items)
+
+modify_tuple(items)
+
+modify_tuple(items)
+
+modify_tuple(items)
+
+modify_tuple(items)
+
+modify_tuple(items)
+
+modify_tuple(items)
+
+modify_tuple(items)
+
+modify_tuple(items)
+
+modify_tuple(items)
+
+modify_tuple(items)
+
+modify_tuple(items)
+
+modify_tuple(items)
+
+modify_tuple(items)
+
+modify_tuple(items)
+
+modify_tuple(items)
+
+modify_tuple(items)
+
+modify_tuple(items)
+
+modify_tuple(items)
+
+modify_tuple(items)
+
+modify_tuple(items)
+
+modify_tuple(items)
+
+modify_tuple(items)
+
+modify_tuple(items)
+
+modify_tuple(items)
+
+modify_tuple(items)
+
+modify_tuple(items)
+
+modify_tuple(items)
+
+modify_tuple(items)
+
+modify_tuple(items)
+
+modify_tuple(items)
+
+modify_tuple(items)
+
+modify_tuple(items)
+
+modify_tuple(items)
+
+modify_tuple(items)
+
+modify_tuple(items)
+
+modify_tuple(items)
+
+modify_tuple(items)
+
+modify_tuple(items)
+
+modify_tuple(items)
+
+modify_tuple(items)
+
+modify_tuple",0,0
+86,"Question:
+Calculate prob of picking 2 o when two letters picked without replacement from {o: 2}.
+Answer:
+1<|end_of_text|>",0,2
+87,Question:Create a Python script snippet that Calculates Extreme Eye hygiene: ProtectingeyesfromDryEyeDryEyeProtectionusingPythonा._use_cases_for_extreme_eye_hygieneProtectingeyesfromdryeyeProtectionusingpython्््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््््,1,0
+88,"Question:
+Let w = 0.1 - -0.2. Let h = -0.6 + w. Let o = h - -0.7. Which is the closest to -1/4?  (a) -2/11  (b) o  (c) -3/8
+Answer:
+a<|end_of_text|>",0,2
+89,"Question:
+Calculate prob of picking 1 q and 1 m when-two letters picked without replacement from {q: 1, m: 1}.
+Answer:
+1/6<|end_of_text|>",0,0
+90,"def modify_and_combine_tuples(tuples):
+    """"""
+    Modify the tuples by concatenating them together.
+
+    Args:
+        tuples: a list of tuples
+
+    Returns:
+        concatenated_tuples: concatenated_tuples(list)
+
+    Examples:
+
+    modify_and_combine_tuples([(1,), (2,), (3,), (4,),])       =>           [(1,), (2,), (3,), (4,),]
+
+    modify_and_combine_tuples([(1,), (), (), (), ())])       =>           [(1,), (), (), (), ())]
+
+    modify_and_combine_tuples([(1,), (), (), (), ())])       =>           [(1,), (), (), (), ())]
+
+    modify_and_combine_tuples([(1,), (), (), ())])       =>           [(1,), (), (), (), ())]
+
+    modify_and_combine_tuples([(1,), (), (), ())])       =>           [(1,), (), (), ())]
+
+    modify_and_combine_tuples([(1,), (), (), ())])       =>           [(1,), (), (), ())]
+
+    modify_and_combine_tuples([(1,), (), (), ())])       =>           [(1,), (), (), ())]
+
+    modify_and_combine_tuples([(1,), (), (), ())])       =>           [(1,), (), (), ())]
+
+    modify_and_combine_tuples([(1,), (), (), ())])       =>           [(1,),",0,2
+91,"Question:
+What is the remainder when 44 is divided by 12?
+Answer:
+8<|end_of_text|>",0,2
+92,"Question:
+Calculate prob of picking 1 o and 2 q when three letters picked without replacement from {q: 2, o: 2}.
+Answer:
+1/2<|end_of_text|>",0,2
+93,"Question:
+Calculate prob of picking 2 z when two letters picked without replacement from {b: 5, z: 4}.
+Answer:
+3/14<|end_of_text|>",0,2
+94,Question:Develop a Python program snippet to Transform High RegularRESpirationRate برايانسريهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهايهاي,1,1
+95,"Question:
+Let o = 0.2 + -0.2. Let q = o - -0.2. Let j = -0.2 + q. Which is the closest to -1/3?  (a) j  (b) -0.2  (c) -2/3
+Answer:
+b<|end_of_text|>",0,2
+96,"Question:
+Let f = -0.1 + 0.1. Let q = f - -0.2. Let n = q + -0.2. Which is the closest to -0.1?  (a) n  (b) -0.3  (c) -0.5
+Answer:
+b<|end_of_text|>",0,2
+97,"Question:
+Let c = -0.5 - -0.3. Let u = c - -0.40000156. What is u rounded to seven decimal places?
+Answer:
+0.0000016<|end_of_text|>",0,2
+98,"Question:
+Let q = -4 - -8. Suppose -q*j = -2*j - 10. Suppose -j*a = -2*a + 2*g - 10, -4*a = -4*g - 16. Calculate the remainder when 18 is divided by a.
+Answer:
+6<|end_of_text|>",0,2
+99,"def calculate_median(patient_data):
+    """"""
+    Calculates the median for a list of patient data.
+
+    Args:
+        patient_data: A list of patient data.
+
+    Returns:
+        median(patient_data): The median of patient data.
+
+    Raises:
+        ValueError: If patient_data contains negative values.
+
+    Examples:
+
+    >>> calculate_median([{'age':50},{'age':40},{'age':30}])
+    {'age':30}
+
+    >>> calculate_median([{'age':50},{'age':40},{'age':30},{'age':20}])
+    {'age':30}
+
+    >>> calculate_median([-50,-40,-30])
+    ValueError('Negative valuesNotAllowed')
+
+    >>> calculate_median([{'age':50},{'age':40},{'age':30},{'age':20},{'age':20},{'age':20}])
+    ValueError('NegativevaluesNotAllowed')
+
+    """"""
+
+    median(patient_data)
+
+calculate_median(patient_data)
+
+calculate_median(patient_data)
+
+calculate_median(patient_data)
+
+calculate_median(patient_data)
+
+calculate_median(patient_data)
+
+calculate_median(patient_data)
+
+calculate_median(patient_data)
+
+calculate_median(patient_data)
+
+calculate_median(patient_data)
+
+calculate_median(patient_data)
+
+calculate_median(patient_data)
+
+calculate_median(patient_data)
+
+calculate_median(patient_data)
+
+calculate_median",0,0

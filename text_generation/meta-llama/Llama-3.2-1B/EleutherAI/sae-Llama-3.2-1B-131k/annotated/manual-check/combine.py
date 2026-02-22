@@ -4,11 +4,13 @@ from pathlib import Path
 
 import pandas as pd
 
-root_dir = Path(__file__).parent
-output_excel = root_dir / "combined_outputs.xlsx"
+current_dir = Path(__file__).parent
+data_dir = current_dir.parent / "all"
+
+output_excel = current_dir / "combined_outputs.xlsx"
 
 with pd.ExcelWriter(output_excel, engine="xlsxwriter") as writer:
-    for subdir, _, files in os.walk(root_dir):
+    for subdir, _, files in os.walk(data_dir):
         for file in files:
             if file.endswith(".csv"):
                 file_path = os.path.join(subdir, file)

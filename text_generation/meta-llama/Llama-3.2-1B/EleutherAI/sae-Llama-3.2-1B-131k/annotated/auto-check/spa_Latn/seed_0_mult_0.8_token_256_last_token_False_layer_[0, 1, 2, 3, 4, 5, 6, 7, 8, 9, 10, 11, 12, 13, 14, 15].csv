@@ -1,0 +1,752 @@
+seed,generated_text,occurrence,coherence
+0,"Question:Write a Python code que es un programa que se enciende cuando se presiona la tecla de apriete. El programa se enciende cuando se presiona la tecla de apriete, pero se puede encender sin la presion de apriete. El programa se enciende cuando se presiona la tecla de apriete, pero se puede encender sin la presion de apriete. El programa se enciende cuando se presiona la tecla de apriete, pero se puede encender sin la presion de apriete. El programa se enciende cuando se presiona la tecla de apriete, pero se puede encender sin la presion de apriete. El programa se enciende cuando se presiona la tecla de apriete, pero se puede encender sin la presion de apriete. El programa se enciende cuando se presiona la tecla de apriete, pero se puede encender sin la presion de apriete. El programa se enciende cuando se presiona la tecla de apriete, pero se puede encender sin la presion de apriete. El programa se enci",1,2
+1,"Question:
+Let w = 0.03 + -0.13. Let s = 0.02 + w. Let u = s - -0.1. What is the third smallest value in u, 0.3, 0.1?
+Answer:
+0.1<|end_of_text|>",0,2
+2,"Question:
+Let l = -3 + 5. Let c = l + -2. Let g = -3 + c. Suppose -2*a + 6*a = -4. Which is the nearest to -1?  (a) g  (b) -3  (c) 1
+Answer:
+b<|end_of_text|>",0,2
+3,"Question:
+Let g = 0.02 - -0.18. Let w = -0.04 + g. Let m = -0.06 + w. Which is the closest to 0.1?  (a) m  (b) 0.3  (c) 2
+Answer:
+b<|end_of_text|>",0,2
+4,"Question:
+Let v = 0.02 - 0.02. Let t = 0.03 + v. Let y = t + -0.3. Which is the closest to 1?  (a) y  (b) 2/3  (c) -1/4
+Answer:
+b<|end_of_text|>",0,2
+5,"Question:Develop a Ruby program que se enciende y se apaga, que se enciende cuando el usuario ingresa un numero, y se apaga cuando no es un número. El programa debe mostrar un mensaje de se cumple la condición, y que el usuario puede cambiar el valor de la variable, y que es el valor de la variable que cambia.
+<|end_of_text|>",1,2
+6,"def carpinteres(a, b, c, d):
+    """"""Es un carpinter que se encarga de construir una casa. 
+    Tiene que construir una casa de tres habitaciones y debe tener un precio de 1000€.
+    Se le pide que cree un programa que lo haga saber cuantos habitantes tiene y su precio.
+    El programa debe tener una estructura de datos que sirva para saber el número de habitantes y el precio de la casa.
+    El programa debe tener un ciclo que va a ser un bucle for que se va a realizar en la esquina superior derecha de la pantalla y se va a realizar en la esquina inferior esquerda.
+    El programa debe tener una estructura de datos que sirva para saber el número de habitantes y el precio de la casa.
+    El programa debe tener un ciclo que va a ser un bucle for que se va a realizar en la esquina superior derecha de la pantalla y se va a realizar en la esquina inferior esquerda.
+    El programa debe tener una estructura de datos que sirva para saber el número de habitantes y el precio de la casa.
+    El programa debe tener un ciclo que va a ser",1,2
+7,"# 2.11.2018
+
+## 2.11.2018
+
+### Se trata de un video que se ha visto en los medios de comunicación.
+
+### Un video que se ha visto en los medios de comunicación.
+
+### Un video que se ha visto en los medios de comunicación.
+
+### Un video que se ha visto en los medios de comunicación.
+
+### Un video que se ha visto en los medios de comunicación.
+
+### Un video que se ha visto en los medios de comunicación.
+
+### Un video que se ha visto en los medios de comunicación.
+
+### Un video que se ha visto en los medios de comunicación.
+
+### Un video que se ha visto en los medios de comunicación.
+
+### Un video que se ha visto en los medios de comunicación.
+
+### Un video que se ha visto en los medios de comunicación.
+
+### Un video que se ha visto en los medios de comunicación.
+
+### Un video que se ha visto en los medios de comunicación.
+
+### Un video que se ha visto en los medios de comunicación.
+
+### Un video que se ha visto en los medios de comunicación.
+
+### Un video que se ha visto en los medios de comunicación.
+
+### Un video que se ha visto en los medios de",1,2
+8,"Question:Develop a C# es6 function que sume los números impares entre el 1 al 10 y los pares entre el 1 y 5. El resultado debe ser un array de tamaño 2. Es decir, el 1 debe ir en el array es 1 y el 5 debe ir en el otro.
+
+Para hacerlo, se debe crear una función que reciba un array de números y un valor, por ejemplo, 1 o 5, y se debe llamar a la función que reciba el array y se debe mostrar el resultado.<|end_of_text|>",1,2
+9,"Question:
+Let x = -0.2 - -0.1. Let p = 0.1 + x. Let l = p - 0.1. Which is the closest to l?  (a) 2  (b) 0.3  (c) 0.1
+Answer:
+b<|end_of_text|>",0,2
+10,"Question:Create a Java programa que pida al usuario que ingrese un número y que este sea divisible por 3. Si no es, se debe mostrar un mensaje de error. Es decir, el programa debe imprimir el mensaje: ""El número ingresado no es divisible por 3"". Por el contrario, si el número es divisible, debe imprimir el mensaje: ""El número ingresado es divisible por 3"". ¿Por qué es así? ¿Por qué no se puede dividir por 3? ¿Por qué se puede dividir por 3? ¿Por qué no se puede dividir por 3? ¿Por qué se puede dividir por 3? ¿Por qué no se puede dividir por 3? ¿Por qué se puede dividir por 3? ¿Por qué no se puede dividir por 3? ¿Por qué se puede dividir por 3? ¿Por qué no se puede dividir por 3? ¿Por qué se puede dividir por 3? ¿Por qué no se puede dividir por 3? ¿Por qué se puede dividir por 3? ¿Por qué no se puede dividir por 3? ¿Por qué se puede dividir por 3? ¿Por qué no",1,1
+11,"Question: A 50-year-old man with esophageal cancer presenta en su consulta de es oncologia una enfermedad que se le ha diagnosticado con anter cie. La causa es que es un paciente de riesgo, es decir que es es que es un paciente de riesgo. Es un paciente de riesgo por ser que es un paciente de riesgo. Es un paciente de riesgo por ser que es un paciente de riesgo. Es un paciente de riesgo por ser que es un paciente de riesgo. Es un paciente de riesgo por ser que es un paciente de riesgo. Es un paciente de riesgo por ser que es un paciente de riesgo. Es un paciente de riesgo por ser que es un paciente de riesgo. Es un paciente de riesgo por ser que es un paciente de riesgo. Es un paciente de riesgo por ser que es un paciente de riesgo. Es un paciente de riesgo por ser que es un paciente de riesgo. Es un paciente de riesgo por ser que es un paciente de riesgo. Es un paciente de riesgo por ser que es un paciente de riesgo. Es un paciente de riesgo por ser que es un paciente de riesgo. Es un paciente de",1,1
+12,"Question:
+Let r = 0.011 + -0.071. Let f = 0.039 + r. Let t = -0.004 - f. What is the smallest value in t, 1/5, 0.2?
+Answer:
+1/5<|end_of_text|>",0,2
+13,"Question:
+Let h = -0.05 + 0.05. Let w = 0.07 + h. Let x = 0.007 - w. What is x rounded a 0.01?
+Answer:
+0.001<|end_of_text|>",0,2
+14,"Question:Design un programa que pida al usuario un numero, y le diga si es un número par o impar, y si no, que es mayor o menor que 5.
+```escribe{
+    var n = int (5)
+    if(n % 2 == 0){
+        console.log(""Es un número par"")
+    }else{
+        console.log(""Es un número impar"")
+    }
+    var es una variable
+    var es un programa que pida al usuario un número y le diga si es un número par o impar y si no, que es mayor o menor que 5.
+```escribe{
+    var n = int (5)
+    if(n % 2 == 0){
+        console.log(""Es un número par"")
+    }else{
+        console.log(""Es un número impar"")
+    }
+    var es una variable
+    var es un programa que pida al usuario un número y le diga si es un número par o impar y si no, que es mayor o menor que 5.
+```escribe{
+    var n = int (5)
+    if(n % 2 == 0){
+        console.log(""Es un número par"")
+    }else{
+        console",1,1
+15,"Question:
+Let y = -0.01 - 0.01. Let m = -0.06 - y. Let r = 1.05 - m. Which is the nearest to 0?  (a) -1  (b) r  (c) 2/3
+Answer:
+b<|end_of_text|>",0,2
+16,"Question:
+Let j = -0.03 + 0.22. Let y = 0.17 + j. Let l = -0.07 - y. Which is the closest to -1?  (a) 0.3  (b) l  (c) -2
+Answer:
+b<|end_of_text|>",0,2
+17,"Question:
+Let u = 0.009 - 0.011. Let h = 0.003 + 0.003. Let z = h - u. What is z rounded to 1 decimal place?
+Answer:
+0.1<|end_of_text|>",0,2
+18,"Question:
+Let y = 3.8 - 3.8. Let o = -2.2 + y. Let c = o - -0.2. Which is the nearest to 0?  (a) c  (b) 0.3  (c) 0.1
+Answer:
+c<|end_of_text|>",0,2
+19,"Question:Build una aplicación que le permita al usuario crear una lista de películas, con el nombre de la misma y un resumen de los datos del esquema. Cada película debe mostrar el nombre de la misma, un resumen y el precio. Los datos deben ser almacenados en un archivo llamado ""DatosEsquema.txt"" y debe contener el nombre de la película, el resumen y el precio.
+* Escribir un programa que se encarga de crear un listado de películas, con el nombre de la misma y un resumen de los datos del esquema. Cada película debe mostrar el nombre de la misma, un resumen y el precio. Los datos deben ser almacenados en un archivo llamado ""DatosEsquema.txt"" y debe contener el nombre de la película, el resumen y el precio.
+* Escribir un programa que se encarga de crear un listado de películas, con el nombre de la misma y un resumen de los datos del esquema. Cada película debe mostrar el nombre de la misma, un resumen y el precio. Los datos deben ser almacenados en un archivo llamado ""DatosEsquema.txt"" y debe contener",1,2
+20,"Question:Develop un programa que pida al usuario que ingrese un número y que le muestre su factorial, pero en este caso no debe mostrar los números que no son multiplos de 3 o 5, sino que mostrar los que son multiplos de 3 y 5. Se debe crear un programa que pida al usuario que ingrese un número y que le muestre su factorial, pero en este caso no debe mostrar los números que no son multiplos de 3 o 5, sino que mostrar los que son multiplos de 3 y 5. Se debe crear un programa que pida al usuario que ingrese un número y que le muestre su factorial, pero en este caso no debe mostrar los números que no son multiplos de 3 o 5, sino que mostrar los que son multiplos de 3 y 5. Se debe crear un programa que pida al usuario que ingrese un número y que le muestre su factorial, pero en este caso no debe mostrar los números que no son multiplos de 3 o 5, sino que mostrar los que son multiplos de 3 y 5. Se debe crear un programa que pida al usuario que ingrese un número y",1,2
+21,"Question:
+Let g = -0.012 + 0.003. Let y = 0.012 + g. Let w = 0.009 + y. Which is the closest to 0.1?  (a) -0.3  (b) w  (c) 2
+Answer:
+b<|end_of_text|>",0,2
+22,"Question: Which of the following is the most probable es causa de la enfermedad?
+A. Es un proceso autosimpio
+B. Es un proceso multifactorial
+C. Es un proceso multifactorial
+D. Es un proceso multifactorial
+Answer: C
+Es un proceso multifactorial<|end_of_text|>",1,2
+23,"Question: Which of the following is the most probable causa de que los esquemas de la era del esclavo de esmera no se han podido aplicar en el esquema de la era del esclavo de esmera?
+A. La falta de apoyo de los medios de comunicación.
+B. La falta de una adecuada estructura para la transparecencia.
+C. La falta de una adecuada coordinación entre los esquemas.
+D. La falta de un adecuado intercambio entre los esquemas.
+E. La falta de un adecuado esquema de trabajo entre los esquemas.
+Answer: B<|end_of_text|>",1,2
+24,"Question:Write a C# code para imprimir el factorial de un numero n.
+*Importante: no se puede utilizar el método Math.factorial() para realizar el cálculo, ya que se puede usar el método Math.factorial() para calcular el factorial de numeros enteros grandes, pero no para calcular el factorial de numeros no enteros.
+Se puede usar el método Math.factorial() para calcular el factorial de numeros enteros grandes, pero no para calcular el factorial de numeros no enteros.
+Es decir, el método se puede usar para calcular el factorial de numeros enteros grandes, pero no para calcular el factorial de numeros no enteros.
+¿Cómo se puede calcular el factorial de un numero no entero?
+*Importante: no se puede utilizar el método Math.factorial() para realizar el cálculo, ya que se puede usar el método Math.factorial() para calcular el factorial de numeros enteros grandes, pero no para calcular el factorial de numeros no enteros.
+Es decir, el método se puede usar para calcular el factorial de numeros enteros grandes, pero no para calcular el factorial de numeros no enteros.
+¿Cómo se puede calcular el factorial de un numero no entero?
+*Importante: no se puede utilizar el método Math.factorial",1,2
+25,"# Héctor Esquena
+
+Héctor Esquena (Buenos Aires, 25 de febrero de 1981) es un esquenista y productor musical argentino de canta y pop latino. Es uno de los esquenistas más conocidos por el esquema de producción de sus discos, aunque también es reconocido como un artista independiente. 
+
+## Biografía
+
+Es es un artista independiente que ha logrado un gran éxito de ventas en su país, especialmente en Argentina. Su música ha sido muy reconocida por sus fans esporc, que ha sido una de las bandes más exitosas de la indust esquenista en el país.
+
+Su trabajo ha sido muy reconocido por su música, y el éxito que tiene es es un ejemplo de lo que se puede hacer con un talento para la indust esquenista. Es una de las bandes más importantes de la esquena en el mundo, y es una de las bandas más exitosas de la indust esquenista en el país.
+
+Su música es reconocida por sus fans esporc, que ha sido una de las bandas más exitosas de la indust esquenista",1,1
+26,"Question:
+Let s = -4.2 + 4.2. Let x = 0.2 + s. Let p = x + 0.1. Which is the second biggest value?  (a) -0.3  (b) p  (c) 0.2
+Answer:
+a<|end_of_text|>",0,2
+27,"Question:Develop a Java Program que se conecte a un servidor web y que utilice el método GET para obtener el contenido de un archivo HTML y mostrarlo en un navegador. El archivo se encuentra en la carpeta /public_html/especifico_archivo.
+    Se debe mostrar el resultado en el navegador. 
+    El archivo se debe llamar archivoHTML.especifico_archivo.
+    Se debe mostrar el contenido de la pagina en el navegador.
+    El programa debe realizar una peticion al servidor web para obtener el contenido del archivo HTML.
+    Se debe mostrar el resultado en el navegador.
+    El programa debe realizar una peticion al servidor web para obtener el contenido del archivo HTML.
+    Se debe mostrar el contenido de la página en el navegador.
+    El programa debe realizar una peticion al servidor web para obtener el contenido del archivo HTML.
+    Se debe mostrar el contenido de la página en el navegador.
+    El programa debe realizar una peticion al servidor web para obtener el contenido del archivo HTML.
+    Se debe mostrar el contenido de la página en el navegador.
+    El programa debe realizar una peticion al servidor web para obtener el contenido del archivo HTML.
+    Se debe mostrar el contenido de la página en el navegador.
+    El",1,2
+28,"Question:
+Let t = 0.05 - 0.05. Let c = 0.001 - t. Let r = -0.029 + c. What is r rounded to 2 decimales?
+Answer:
+-0.03<|end_of_text|>",0,2
+29,"Question:Write a C# code que se ocupa de calcular el área de un polígono. El polígono se define mediante la función de datos, es decir, se define un vector con los datos que se va a calcular. El programa deberá calcular el área de un polígono dado, se debe ingresar el nombre del polígono, la longitud y el radio de los lados, y se debe calcular el área del polígono. El programa debe ser esencialmente en lenguaje de C#.
+```
+// Definicion de funciones
+
+// Definicion de funciones
+void calcularArea(){
+    var poligono = new Vector();
+    var poligono2 = new Vector();
+    var poligono3 = new Vector();
+    var poligono4 = new Vector();
+
+    // Se define un vector
+    var vector1 = new Vector();
+    var vector2 = new Vector();
+    var vector3 = new Vector();
+    var vector4 = new Vector();
+    var vector5 = new Vector();
+    var vector6 = new Vector();
+    var vector7 = new Vector();
+    var vector8 = new Vector();
+    var vector9 = new Vector();
+    var vector10 = new Vector();
+   ",1,2
+30,"Question:
+Let y = -0.009 - -0.053. Let s = y - 0.100003. What is s rounded a 3 decimales?
+Answer:
+0.001<|end_of_text|>",0,2
+31,"Question:
+Let m = -1.07 - -1.07. Let w = 0.03 + -0.03. Let a = w + m. Which is the nearest to 0?  (a) 2/3  (b) 0.1  (c) -1/3
+Answer:
+b<|end_of_text|>",0,2
+32,"Question:
+Let t = 0.002 - -0.038. Let x = 0.009 + t. Let g = x + -0.001. What is g rounded to 3 decimales?
+Answer:
+-0.001<|end_of_text|>",0,2
+33,"def calculate_presupuesto(inventario):
+    """"""Funcion que calcula el presupuesto de un inventario de productos
+
+    Args:
+        inventario (list): lista de productos con su precio
+
+    Se debe mostrar el total de la compra con un mensaje en consola.
+    """"""
+    total = 0
+
+    for producto in inventario:
+        total += producto.precio
+
+    print(""El total de la compra es de:"", total)
+
+    # Se puede mostrar el total de la compra
+    # se puede mostrar el total de la compra
+    # se puede mostrar el total de la compra
+    # se puede mostrar el total de la compra
+<|end_of_text|>",1,2
+34,"Question: Which of the following es un elemento de la familia de los árboles?
+A. Árbol de la familia de los árboles
+B. Árbol de la familia de los arbustos
+C. Árbol de la familia de los arbales
+D. Árbol de la familia de los arbustos
+Answer: D
+Es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es",1,1
+35,"Question:
+What is the third biggest value in 0.1, 3/5, -0.3, 1?
+Answer:
+0.1<|end_of_text|>",0,2
+36,"Question:
+Let o = 0.004 + -0.0042. Let u = 0.048 - o. Let w = u + -0.004. Which is the closest to 0?  (a) w  (b) -1  (c) -0.1
+Answer:
+c<|end_of_text|>",0,2
+37,"# List of esquelas en el cine: 2017
+
+Lista de esquelas en el cine para 2017.
+
+## Películes
+
+* 2017: El asno de esquelas (cine, TV y radio)
+* 2017: Esquinas de esquelas (cine, TV y radio)
+* 2017: El esqueta de esquelas (cine, TV y radio)
+* 2017: El esqueta de esquelas (cine, TV y radio)
+* 2017: El esqueta de esquelas (cine, TV y radio)
+* 2017: El esqueta de esquelas (cine, TV y radio)
+* 2017: El esqueta de esquelas (cine, TV y radio)
+* 2017: Esqueta de esquelas (cine, TV y radio)
+* 2017: Esqueta de esquelas (cine, TV y radio)
+* 2017: Esqueta de esquelas (cine, TV y radio)
+* 2017: Esqueta de esquelas (cine, TV y radio",1,2
+38,"Question:
+What is the common denominator of 33/10 and 89/10?
+Answer:
+10<|end_of_text|>",0,2
+39,"Question:
+Let t = -0.06 + 0.07. Let x = -0.04 + t. Let y = 0.04 + x. What is the closest to 0 in 1/2, y, -0.3?
+Answer:
+-0.3<|end_of_text|>",0,2
+40,"# 5.6.3. Ejercicio 4
+# Crea un programa que pida al usuario un número y le pida que el programa calcula su valor factorial y lo imprima.
+
+# Debe mostrar el siguiente mensaje:
+# El número es factorial: 6!
+# El número es factorial: 5!
+# El número es factorial: 3!
+# El número es factorial: 2!
+# El número es factorial: 1!
+
+# Funcion
+def factorial(n):
+    if n > 0:
+        if n == 1:
+            print(""El número es factorial: "", n)
+        else:
+            print(""El número es factorial: "", n)
+            for i in range(1,n):
+                print(n,"" es factorial de "", i)
+                factorial(n, i)
+# Funcion Recursiva
+def factorial(n, suma):
+    if n > 0:
+        if n == 1:
+            print(""El número es factorial: "", n)
+        else:
+            print(""El número es factorial: "", n)
+            for i in range(1,n):
+                print(n,"" es factorial de "", i)
+                factorial(n, i, suma)
+# Funcion recursiva
+def factorial(n,",1,2
+41,"Question:
+Let a = -1.1 + 0.7. Let j = -2.2 + a. Let x = j + 2.9. What is x rounded a 1 decimal?
+Answer:
+-1<|end_of_text|>",0,2
+42,"Question:
+Let l = 0.033 - 0.053. Let z = -0.3 + l. Let f = 0.3 - z. What is the closest to f in -0.4, 0.1, -1?
+Answer:
+0.1<|end_of_text|>",0,2
+43,"Question:
+Let u = -0.037 + 0.035. Let w = u + -0.052. Let d = -0.06 - w. What is d rounded to 1 dp?
+Answer:
+-0.1<|end_of_text|>",0,2
+44,"Question:
+Let o = 2.1 - 2.1. Let m = -0.8 + 0. Let j = 0.2 + m. Which is the closest to o?  (a) 1/4  (b) j  (c) -1/2
+Answer:
+b<|end_of_text|>",0,2
+45,"Question:
+Let x = 0.02 + 0.02. Let d = 0.029 + x. Let v = -0.027 - d. What is the closest to 0 in 0, v, 2?
+Answer:
+v<|end_of_text|>",0,2
+46,"Question:Write a C# code que se ejecite en el servidor, se ejecite en el cliente, y que es independiente de la implementación de servidor o cliente. En el caso de ser independiente, debe tener un método que se ejecite en el servidor y otro en el cliente, que se llene de datos de la base de datos, se puede mostrar en el navegador, o es una aplicación web independiente. 
+
+En el caso de que se vea como un servicio web, se puede mostrar en el navegador, o es una aplicación web independiente.
+
+Para hacer el servicio de un servidor, se puede hacer que sea un cliente, o se puede utilizar una aplicación web independiente.
+
+En el caso de que se vea como un servicio web, se puede mostrar en el navegador, o es una aplicación web independiente.
+
+Para hacer el servicio de un servidor, se puede hacer que sea un cliente, o se puede utilizar una aplicación web independiente.
+
+En el caso de que se vea como un servicio web, se puede mostrar en el navegador, o es una aplicación web independiente.
+
+Para hacer el servicio de un servidor, se puede hacer que sea un cliente, o se puede utilizar una aplicación web independiente.
+
+En el caso de que",1,1
+47,"# Generated by esfuerzo es el nombre del programa
+# y se le asigna a la variable global
+var es un programa que se ejecuta en es la es una funcion
+# que se ejecuta en un programa
+# y se le asigna a la variable global
+def suma():
+    var1 = 10
+    var2 = 20
+    var3 = 30
+
+    var4 = var1 + var2
+    var5 = var1 - var2
+    var6 = var1 * var2
+    var7 = var1 / var2
+
+    var3 = var1 * var2
+
+    var4 = var1 + var2
+    var5 = var1 - var2
+    var6 = var1 * var2
+    var7 = var1 / var2
+
+    var3 = var1 * var2
+
+    var4 = var1 + var2
+    var5 = var1 - var2
+    var6 = var1 * var2
+    var7 = var1 / var2
+
+    var3 = var1 * var2
+
+    var4 = var1 + var2
+    var5 = var1 - var2
+    var6",1,1
+48,"Question: Which of the following is the most probable causa de que se presenta un esquema de control de una persona es es esquizofràncico?
+A. El esquema de control de la persona es es esquizofràncico no se ha establecido.
+B. El esquema de control de la persona es es esquizofràncico se ha establecido pero no se ha cumplido.
+C. El esquema de control de la persona es es esquizofràncico se ha establecido y se ha cumplido.
+D. El esquema de control de la persona es es esquizofràncico se ha establecido y no se ha cumplido.
+Answer: A
+Es más probable que el esquema de control de la persona se es es esquizofràncico se ha establecido pero no se ha cumplido.
+Se ha establecido el esquema de control de la persona pero no se ha cumplido.
+No se ha establecido el esquema de control de la persona se es es esquizofràncico se ha establecido y se ha cumplido.
+No se ha establecido el esquema de control de",1,1
+49,"Question:Create a Java es es un programa que pide al usuario que ingrese un número y que el programa responda con el mensaje ""El número es un número"" si el número es un número positivo, y que el programa responda con el mensaje ""El número es un número"" si el número es un número negativo. Utiliza la función ""switch"" para poder realizar la operación.
+<|end_of_text|>",1,2
+50,"Question:
+Let g = 0.0112 - 0.0112. Let h = g + -0.01. Let o = -0.3 - 0.2. Which is the third biggest value?  (a) o  (b) h  (c) 0.2
+Answer:
+b<|end_of_text|>",0,2
+51,"Question:
+Let w = 0.002 + -0.003. Let j = -0.004 - w. Let q = -0.2 + 0.2. Which is the closest to j?  (a) q  (b) -2/5  (c) 2
+Answer:
+c<|end_of_text|>",0,2
+52,"def create_list_compras(nombre, precio, descuento):
+    """"""Funcion que crea un listado de productos con los datos proporcionados
+    y devuelve el valor total a pagar.
+
+    Se debe crear un listado de productos que se puede comprar en una tienda de
+     productos es el nombre, precio y descuento de cada producto.
+
+    La función debe recibir los datos como parámetros por consuena y debe
+    retornar el valor total a pagar.
+
+    Se debe crear un listado de productos que se puede comprar en una tienda de
+     productos es el nombre, precio y descuento de cada producto.
+
+    La función debe recibir los datos como parámetros por consuena y debe
+    retornar el valor total a pagar.
+
+    Se debe crear un listado de productos que se puede comprar en una tienda de
+     productos es el nombre, precio y descuento de cada producto.
+
+    La función debe recibir los datos como parámetros por consuena y debe
+    retornar el valor total a pagar.
+
+    Se debe crear un listado de productos que se puede comprar en una tienda de
+     productos es el nombre, precio y descuento de cada producto.
+
+    La función debe",1,2
+53,"Question:
+What is the common denominator of -59/16 and -53/4?
+Answer:
+16<|end_of_text|>",0,2
+54,"Question:Develop a Java Program que pida al usuario que ingrese su nombre y su edad, el programa debe mostrar una seccion con el nombre de los alumnos, su edad y el nombre del profesor, en la seccion se debe mostrar el nombre del alumno y el nombre del profesor, y también el nombre de la asignatura que se esta cursando. 
+
+<|end_of_text|>",1,2
+55,"def count_cervezas(cerveza):
+    """"""Toma el nombre de las cervezas que se puede producir en el mundo, y escribe el número de eses que se puede producir en el mundo, pero no se puede producir la cantidad que se puede producir en el mundo, pero no se puede producir la cantidad que se puede producir en el mundo, pero no se puede producir la cantidad que se puede producir en el mundo, pero no se puede producir la cantidad que se puede producir en el mundo, pero no se puede producir la cantidad que se puede producir en el mundo, pero no se puede producir la cantidad que se puede producir en el mundo, pero no se puede producir la cantidad que se puede producir en el mundo, pero no se puede producir la cantidad que se puede producir en el mundo, pero no se puede producir la cantidad que se puede producir en el mundo, pero no se puede producir la cantidad que se puede producir en el mundo, pero no se puede producir la cantidad que se puede producir en el mundo, pero no se puede producir la cantidad que se puede producir en el mundo, pero no se puede producir",1,1
+56,"Question:
+What is the common denominator of 33/4 and 7/5?
+Answer:
+20<|end_of_text|>",0,2
+57,"Question:
+Let w = -0.006 + 0.015. Let t = -0.035 + w. Let y = t + 0.000000003. What is y rounded a 3 decimales?
+Answer:
+0.001<|end_of_text|>",0,2
+58,"def marketing_promocion(mensaje, nombre, edad, sexo):
+    """"""Se debe mostrar un mensaje con el nombre de un empleado, su edad y su sexo, si es un es el primer año de su carrera y si es el segundo año de su carrera.
+
+    Los datos son los siguientes:
+    - Nombre: es el nombre de un empleado.
+    - Edad: es la edad del empleado.
+    - Sexo: es su sexo (m/f).
+
+    Se debe mostrar un mensaje con el nombre de un empleado, su edad y su sexo, si es un es el primer año de su carrera y si es el segundo año de su carrera.
+
+    Los datos son los siguientes:
+    - Nombre: es el nombre de un empleado.
+    - Edad: es la edad del empleado.
+    - Sexo: es su sexo (m/f).
+
+    Se debe mostrar un mensaje con el nombre de un empleado, su edad y su sexo, si es un es el primer año de su carrera y si es el segundo año de su carrera.
+
+    Los datos son los siguientes:
+    - Nombre: es el nombre de un empleado.
+    - Edad: es la edad del empleado.
+    - Sexo: es su sexo (m/f).
+
+    Se debe mostrar",1,2
+59,"Question:
+What is the common denominator of 23/2 and 57/25?
+Answer:
+50<|end_of_text|>",0,0
+60,"Question:
+Let h = -7 + 6. Suppose 0 = -h*d - 3*d + 2*a + 16, 4*a = -2*d + 8. Let v be d + (-1)/(-1) + 1. Which is the closest to 0?  (a) 2/3  (b) v  (c) 2
+Answer:
+b<|end_of_text|>",0,2
+61,"Question:
+Let l = -7.7 - -7.7. Let p = -0.3 + l. Let x = -0.2 - p. What is x rounded to 1 decimal place?
+Answer:
+0.2<|end_of_text|>",0,2
+62,"Question:
+Let g = -0.004 - 0.005. Let a = -0.014 + g. Let z = 0.014 + a. What is z rounded a 0.01?
+Answer:
+-0.1<|end_of_text|>",0,2
+63,"Question:
+Let o = -0.027 + 0.027. Let p = 0.049 - o. Let t = 0.041 + p. What is t rounded to 1 dp?
+Answer:
+0.2<|end_of_text|>",0,2
+64,"Question:
+Let q = -0.045 + 0.045. Let l = -1.1 - q. Let v = -0.2 + 0.2. Which is the closest to v?  (a) l  (b) 2  (c) 0.1
+Answer:
+c<|end_of_text|>",0,2
+65,"Question:
+Let h = -0.046 - -0.057. Let p = 0.017 + h. Let j = -0.019 - p. What is j rounded to 2 dps?
+Answer:
+-0.02<|end_of_text|>",0,2
+66,"Question:Create a Python script que es un programa que pida al usuario que ingrese un número, y luego se lo muestre por pantalla en una lista, mientras no es un número. El programa debe contar hasta ese número, y mostrar el resultado en pantalla.
+<|end_of_text|>",1,2
+67,"Question:Create a Python script que se encarga de calcular el área de un polígono dado en radciones (es decir, la esfera de un radio r) y de calcular la superficie de un polígono dado en puntos (es decir, la esfera de un radio r) y de calcular el área de un polígon dado en puntos (es decir, la esfera de un radio r).
+<|end_of_text|>",1,1
+68,"Question:
+What is 3/10 of a ton en peso a peso, a medio que en kilos?
+Answer:
+150<|end_of_text|>",1,1
+69,"Question:
+Let d = -0.046 - 0.054. Let a = 0.034 + d. Let m = -1.7 - a. What is m rounded to 1 dp?
+Answer:
+-1.3<|end_of_text|>",0,2
+70,Question: Which of the following is the best esquema de control de esquemas de esquemas de esquemas de esquemas de esquemas de esquemas de esquemas de esquemas de esquemas de esquemas de esquemas de esquemas de esquemas de esquemas de esquemas de esquemas de esquemas de esquemas de esquemas de esquemas de esquemas de esquemas de esquemas de esquemas de esquemas de esquemas de esquemas de esquemas de esquemas de esquemas de esquemas de esquemas de esquemas de esquemas de esquemas de esquemas de esquemas de esquemas de esquemas de esquemas de esquemas de esquemas de esquemas de esquemas de esquemas de esquemas de esquemas de esquemas de esquemas de esquemas de esquemas de esquemas de esquemas de esquemas de esquemas de esquemas de esquemas de esquemas de esquemas de esquemas de es,1,1
+71,"Question:
+Let a = 0.021 - 0.052. Let r = 0.0481 - a. Let y = 0.0001 - r. What is y rounded a 0.01?
+Answer:
+0.0001<|end_of_text|>",0,2
+72,"Question:
+Let m = 0.012 + 0.078. Let d = 0.02 + m. Let z = -0.002 + d. What is the third biggest value in -1, z, 1/5?
+Answer:
+-1<|end_of_text|>",0,2
+73,"def calculate_promedio(medidos):
+    """"""Calcula el promedio de los datos de un listado de mediciones.
+
+    Se debe crear un nuevo listado con los datos de los medicos que se han
+    hecho los datos de la lista de medicos, se debe calcular el promedio de los datos
+    y se debe mostrar el resultado.
+
+    Args:
+    - medidos: es un listado de medicos que se han hecho los datos.
+
+    Se debe calcular el promedio de los datos de la lista y se debe mostrar el resultado.
+
+    Se debe mostrar el resultado de la calcula promedio de los datos de la lista de medicos.
+
+    Args:
+    - medidos: es un listado de medicos que se han hecho los datos.
+
+    Se debe calcular el promedio de los datos de la lista y se debe mostrar el resultado.
+
+    Se debe mostrar el resultado de la calcula promedio de los datos de la lista de medicos.
+
+    Args:
+    - medidos: es un listado de medicos que se han hecho los datos.
+
+    Se debe calcular el promedio de los datos de la lista y se debe mostrar el resultado.
+
+    Se debe mostrar el resultado de la calcula promedio",1,1
+74,"Question:Develop a Java es 2016-2017 que se ejecuta en el servidor web. El servidor debe recibir un parámetro que será un valor de un tipo de dato y mostrar el resultado de su operación.
+<|end_of_text|>",1,2
+75,"Question:Create a C# es6 function que se llame “escribir en consola” que pase el valor 10 y que es la suma de 2 y 3, y que imprima el valor de esa suma en la consola.
+* escribe en consola
+
+function suma2y3() {
+  var es = 2+3;
+  console.log(""es es la suma de 2 y 3"");
+}
+
+console.log(es);
+<|end_of_text|>",1,1
+76,"Question:
+Calculate prob of picking 1 n and 1 d when two letters picked without replacement from {n: 2, d: 1, v: 1, a: 1}.
+Answer:
+2/15<|end_of_text|>",0,2
+77,"def create_lista(lista):
+    """"""Función que crea una lista de números""""""
+    lista = []
+    for i in range(5):
+        lista.append(i)
+    return lista
+
+#Funcion que crea una lista de números
+#Funcion que crea una lista de números
+#Funcion que crea una lista de números
+#Funcion que crea una lista de números
+#Funcion que crea una lista de números
+#Funcion que crea una lista de números
+#Funcion que crea una lista de números
+#Funcion que crea una lista de números
+#Funcion que crea una lista de números
+#Funcion que crea una lista de números
+#Funcion que crea una lista de números
+#Funcion que crea una lista de números
+#Funcion que crea una lista de números
+#Funcion que crea una lista de números
+#Funcion que crea una lista de números
+#Funcion que crea una lista de números
+#Funcion que crea una lista de números
+#Funcion que crea una lista de números
+#Funcion que crea una lista de números
+#Funcion que crea una lista de números
+#Funcion que crea una lista de números
+#Funcion que crea una lista de números",1,2
+78,"Question: Which of the following es una causa de disminución de la glomerulos en el esquema de Riegle?
+A. Diabetes
+B. Vaginitad
+C. Hepatitis
+D. Cistitis
+Answer: C<|end_of_text|>",1,2
+79,"Question:
+Let x = 0.023 - 0.063. Let f = 0.03 - x. Let u = -0.1 + f. What is u rounded a 0.01?
+Answer:
+0.2<|end_of_text|>",0,2
+80,"Question:
+What is the next term in 12, 24, 36, 48, 60, 72?
+Answer:
+84<|end_of_text|>",0,2
+81,"Question:
+Let o = -2.6 - -2.7. Let x = 0.2 - o. Let p = x - -0.4. Which is the third smallest value?  (a) -3  (b) p  (c) 1/3
+Answer:
+c<|end_of_text|>",0,2
+82,"Question:
+Let u = -0.009 - 0.091. Let v = u + 0.09. Let q = -0.026 + v. Round q to 1 decimal place.
+Answer:
+-0.2<|end_of_text|>",0,2
+83,"Question:
+Let w = 0.017 - 0.058. Let h = 0.035 + w. Let c = 0.035 + h. Which is the closest to 2/3?  (a) -1  (b) c  (c) 2
+Answer:
+b<|end_of_text|>",0,2
+84,"def update_medico(medico, nuevo_medico):
+    """"""
+    Se debe actualizar el nombre de un médico.
+    No se debe modificar el valor de los atributos.
+    El nuevo nombre debe ser el mismo que el anterior.
+    """"""
+    medico.nombre = ""Dr. José""
+    medico.especialidad = ""Cardiología""
+    medico.edad = 35
+
+    print(""El nuevo médico es:"", medico.nombre)
+
+    print(""El nuevo médico tiene"", medico.edad, "" años"")
+
+    print(""El nuevo médico es especialista en"", medico.especialidad)
+
+<|end_of_text|>",1,2
+85,"def modify_lista(lista, esv, valor):
+    lista[esv] = valor
+    lista[esv] = 0
+    return lista
+
+<|end_of_text|>",0,2
+86,"Question:Create a C# es una clase que hereda de la clase Persona. En esta clase debe tener un atributo que es un string y un metodo que es un string. En el metodo debe imprimir el valor de esta variable.
+```
+public class Persona {
+    private String nombre;
+    private String apellido;
+    private String espeje;
+    private String se puede;
+
+    public Persona(){
+        this.nombre=""Pedro"";
+        this.apellido=""Cruz"";
+        this.se puede=""Es un espeje de plata"";
+    }
+}
+```
+A continuación se puede ver el valor de las variables de la clase, que son de tipo String, en el metodo imprime el valor de esta variable.
+```
+public String espeje {
+    return ""Es un espeje de plata"";
+}
+```
+A continuación se puede ver el valor de la variable, que es de tipo String, en el metodo imprime el valor de esta variable.
+```
+public String nombre {
+    return ""Pedro"";
+}
+```
+A continuación se puede ver el valor de la variable, que es de tipo String, en el metodo imprime el valor de esta variable.
+```
+public String apellido {
+    return ""Cruz"";
+}
+```
+",1,2
+87,"Question:Create a Ruby es un programa que pide un nombre, se pregunta si es un es un numero y se muestra el mensaje si no es un es un numero. Si es un numero, se le muestra un mensaje, si no, se le pide que ingrese un nombre.
+ 
+```ruby
+def es_numero(nombre)
+    if (es_numero){
+        if (es es un numero){
+            print(""es un numero"")
+        }else{
+            print(""no es un numero"")
+        }
+    }
+    
+    es es un numero
+    {
+        def es es un numero
+            if (es es un numero){
+                print(""es un numero"")
+            }else{
+                print(""no es un numero"")
+            }
+    }
+```<|end_of_text|>",1,1
+88,"Question:
+Let w = 0.1 - -0.2. Let s = -0.1 + w. Let m = -0.003 + s. What is m rounded to 3 decimales?
+Answer:
+-0.001<|end_of_text|>",0,2
+89,"Question:
+Let n = -0.031 - 0.049. Let m = 0.05 - n. Let d = 1.2 - m. What is d rounded to 2 dps?
+Answer:
+0.2<|end_of_text|>",0,2
+90,"def add_frase(frase, palabra):
+    frase += palabra
+    return frase
+
+<|end_of_text|>",0,2
+91,"Question:
+What is the remainder when 103 is divided by 2?
+Answer:
+1<|end_of_text|>",0,2
+92,"Question:
+Calculate prob of picking 1 n and 1 a when two letters picked without replacement from {n: 2, a: 2, p: 2}.
+Answer:
+4/5<|end_of_text|>",0,2
+93,"Question:
+Let j = 0.001 - -0.039. Let l = 0.004 + j. Let f = -0.003 + l. Which is the closest to 1?  (a) f  (b) 2/7  (c) -0.2
+Answer:
+a<|end_of_text|>",0,2
+94,"Question:Build un programa que pida un número al usuario y que le calcule su factorial, es decir, el producto de todos los números del 1 al número solicitado, sin usar la función factorial() que se encuentra en la librería Math. 
+
+Crea un programa que pida un número y que lo calcule de forma manual, de esta manera:
+a) Se debe usar el método de escribe el programa en un archivo se debe utilizar la librería Math, se debe de usar el método factorial() y se debe de usar la función Math.
+b) Se debe utilizar el método de escribe el programa en un archivo se debe utilizar la librería Math, se debe de usar el método factorial() y se debe de usar la función Math.
+c) Se debe utilizar el método de escribe el programa en un archivo se debe utilizar la librería Math, se debe de usar el método factorial() y se debe de usar la función Math.
+d) Se debe utilizar el método de escribe el programa en un archivo se debe utilizar la librería Math, se debe de usar el método factorial() y se debe de usar la función Math.
+e) Se debe utilizar el método de escribe el programa en un archivo se",1,1
+95,"Question:
+Let o = 0.2 + 1.2. Let m = 0.06 - o. Let j = 0.01 + m. Which is the closest to -1/3?  (a) 0.2  (b) j  (c) -2/3
+Answer:
+c<|end_of_text|>",0,2
+96,"# 2004 en Chile
+
+2004 fue un año de esces y acuerdos, de la que se dice que fue «el año del esclavo» (2004: Año 2004, 24 de septiembre), el que se convirtió en un año de esces y acuerdos, de la que se dice que fue «el año de esclavos» (2004: Año 2004, 24 de septiembre), el que se convirtió en un año de esclavos. Es una película de Chile, protagonizada por María Pita, el director, y su compañera de esclavos, el actor, que es el protagonista, se dirige a un joven esclavo, es el que se convirtió en un esclavo, y que se convirtió en un esclavista. Es un film de esclavos, en el que se da cuenta de la esclavitud de una familia que se ve en la era de sus esclavos, en el año 2004.
+
+## Enlaces externos
+
+*  Wikimedia Comunicaciones es el 2004 en Chile
+
+<|end_of_text|>",1,2
+97,"Question:
+Let c = 0.049 - -0.041. Let u = c + -0.09. Let v = 0.027 + u. What is v rounded a 0.01?
+Answer:
+0.027<|end_of_text|>",0,2
+98,Question:Develop a Java programa que reciba un string de entrada y que lo convierta a una cadena de caracteres. El programa debe mostrar el resultado de convertir el string de entrada en un string de caracteres. Se debe mostrar el resultado en pantalla en consola. El programa debe tener una estructura que permita el procesamiento de datos en una variable. El programa debe tener un método que recibe un string de entrada y devuelve un string de salida. Se debe mostrar el resultado en pantalla en consola. El programa debe tener una estructura que permite el procesamiento de datos en una variable. El programa debe tener un método que recibe un string de entrada y devuelve un string de salida. Se debe mostrar el resultado en pantalla en consola. El programa debe tener una estructura que permite el procesamiento de datos en una variable. El programa debe tener un método que recibe un string de entrada y devuelve un string de salida. Se debe mostrar el resultado en pantalla en consola. El programa debe tener una estructura que permite el procesamiento de datos en una variable. El programa debe tener un método que recibe un string de entrada y devuelve un string de salida. Se debe mostrar el resultado en pantalla en consola. El programa debe tener,1,2
+99,"def psychologist(args):
+    """"""Define un programa que crea una función que recibe una lista de datos y devuelve una lista de datos. La función debe recibir como parámetro una lista de datos y debe devolver otra lista de datos.
+    El programa debe recibir una lista de datos y debe devolver otra lista de datos. El programa debe recibir una lista de datos y debe devolver una lista de datos. El programa debe recibir una lista de datos y debe devolver una lista de datos. El programa debe recibir una lista de datos y debe devolver una lista de datos. El programa debe recibir una lista de datos y debe devolver una lista de datos. El programa debe recibir una lista de datos y debe devolver una lista de datos. El programa debe recibir una lista de datos y debe devolver una lista de datos. El programa debe recibir una lista de datos y debe devolver una lista de datos. El programa debe recibir una lista de datos y debe devolver una lista de datos. El programa debe recibir una lista de datos y debe devolver una lista de datos. El programa debe recibir una lista de datos y debe devolver una lista de datos. El programa debe recibir una lista de datos y debe devolver una lista de datos. El programa debe",1,1

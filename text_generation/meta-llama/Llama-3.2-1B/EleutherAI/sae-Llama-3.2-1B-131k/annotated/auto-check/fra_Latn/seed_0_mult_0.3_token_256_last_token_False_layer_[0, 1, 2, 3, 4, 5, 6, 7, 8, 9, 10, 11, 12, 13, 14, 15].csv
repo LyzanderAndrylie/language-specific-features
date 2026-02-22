@@ -1,0 +1,638 @@
+seed,generated_text,occurrence,coherence
+0,"Question:Write a Python code snippet to Display Low Hygiene during illness: Disinfecting Lesions et de l’hygiène des patients. Ce qui est la solution la plus simple?
+Solution:Le code Python suivant permet de vérifier la présence d’un cas de maladie et de l’identifier en fonction de la nature de l’affection. Il permet également de déterminer si la personne est en contact avec un autre patient ou non. Le code utilise également le l’opérateur de l’or (||) pour l’union des deux conditions. Ce qui permet de réduire la complexité de l’écriture du code.<|end_of_text|>",1,2
+1,"Question:
+Let d = 0.03 + -0.13. Let s = 0.02 + d. Let j = s - 0.01. What is j rounded to 1 dp?
+Answer:
+-0.1<|end_of_text|>",0,2
+2,"Question:
+Let l = -3.4 - -3. Let m = 0.0000018 - l. What is m rounded to 7 dps?
+Answer:
+0.0000018<|end_of_text|>",0,2
+3,"Question:
+Let x = 0.02 - -0.18. Let k = x - 0.3. Let m = -0.1 + k. Which is the closest to 0.1?  (a) m  (b) -0.3  (c) 2/9
+Answer:
+c<|end_of_text|>",0,2
+4,"Question:
+Let v = -0.02 - -0.02. Let t = 0.03 + v. Let l = t + -0.03. Which is the nearest to 1?  (a) l  (b) 2/3  (c) -1/4
+Answer:
+b<|end_of_text|>",0,2
+5,"Question:
+Let a = 0.001 - 0.0010000001. Round a to 7 decimal places.
+Answer:
+-0.0000001<|end_of_text|>",0,2
+6,"def set_deletion(set_1, set_2):
+    """"""
+    Given two sets, set_1 and set_2, remove all elements of set_2 from set_1.
+    """"""
+    for element in set_2:
+        if element in set_1:
+            set_1.remove(element)
+    return set_1
+<|end_of_text|>",0,2
+7,"# 2. Les lésions cérébrales
+L’ensemble de l’ensemble de l’ensemble des lésions cérébrales est beaucoup plus grand que les lésions de l’ensemble des lésions de la mémoire et de l’attention. Les lésions cérébrales ne sont pas seulement des lésions de l’ensemble des lésions de la mémoire et de l’attention, elles sont aussi des lésions de l’ensemble des lésions de la perception, de la perception et de la perception. Les lésions cérébrales sont aussi des lésions de l’ensemble des lésions de la connaissance et de l’acquisition de la connaissance. Les lésions cérébrales sont aussi des lésions de l’ensemble des lésions de l’ensemble des lésions de l’ensemble des lésions de la communication, de l’expression et de la communication. Les lésions cérébrales sont aussi des lésions de l’ensemble des lésions de la mémoire et de l’attention. Les lésions cérébrales sont aussi des lésions de",1,1
+8,"Question:
+Let o = -0.016 + 0.026. Let t = o - 0.02007. What is t rounded to four dps?
+Answer:
+-0.0001<|end_of_text|>",0,2
+9,"Question:
+Let x = -0.1 - -0.1. Let p = 0.1 + x. Let l = p - 0.1. Which is the second biggest value?  (a) l  (b) 1/2  (c) -1/6
+Answer:
+a<|end_of_text|>",0,2
+10,"Question:Build a C# module snippet qui t'auto-remarque les éléments qui sont à l'origine de l'erreur et qui peuvent être corrigés. Ce que vous voulez faire est de mettre un commentaire sur l'erreur. Quelques exemples de commentaires sont les suivants :
+
+1. « #1 : l'objet `c` n'est pas l'objet `c` ».
+2. « #2 : l'objet `d` n'est pas l'objet `d` ».
+3. « #3 : l'objet `e` n'est pas l'objet `e` ».
+4. « #4 : l'objet `f` n'est pas l'objet `f` ».
+5. « #5 : l'objet `g` n'est pas l'objet `g` ».
+6. « #6 : l'objet `h` n'est pas l'objet `h` ».
+7. « #7 : l'objet `i` n'est pas l'objet `i` ».
+8. « #8 : l'objet `j` n'est pas l'objet `j` ».
+9. « #9",1,2
+11,"Question: A 40-year-old woman presents to the emergency department with a laceration to the left anterior duodeume. She has been bleeding for 5 minutes. She is hemodynamiquement stable. The bleeding has been controlled by compression and ligation of the laceration. The laceration is repaired. The patient is placed on a compression bandage and is admitted to the hospital. What is the best indication for the use of a compression bandage?
+A. To prevent laceration de-laissement
+B. To prevent hematoma
+C. To prevent infection
+D. To prevent lésions
+Answer: A<|end_of_text|>",1,2
+12,"Question:
+Let r = 0.0117 - 0.0117. Let u = -0.0000025 + r. What is u rounded to 6 decimal places?
+Answer:
+-0.000003<|end_of_text|>",0,2
+13,"Question:
+Let c = -0.05 + 0.05. Let l = 0.07 + c. Let x = 0.01 - l. What is x rounded to 1 dp?
+Answer:
+0.1<|end_of_text|>",0,2
+14,"Question:Design a C# function snippet to Calculate High Hand hygiene: Hygiène des mains dans l'industrie de la santé et de la sécurité de l'homme. Le linge de soin est-il à l'abri de la contamination par le virus SARS-CoV-2?
+Solution:Here is un C# code qui calcule la probabilité que les linge de soin soient contaminés par le virus SARS-CoV-2 :
+
+    ```csharp
+    public static double CalculerProbaContaminationDeLaLingeDeSoin() {
+        // On initialise la probabilité à 0
+        double probaContamination = 0;
+
+        // On initialise la variable qui va contenir la probabilité de contamination
+        double probaContaminationParVirus = 0;
+
+        // On initialise la variable qui va contenir la probabilité de contamination par le linge de soin
+        double probaContaminationParLingeDeSoin = 0;
+
+        // On initialise la variable qui va contenir la probabilité de contamination par le virus
+        double probaContaminationParVirusSarsCov2 = 0;
+
+        // On initialise la variable qui",1,2
+15,"Question:
+Let y = -0.01 - 0.31. Let f = -0.06 - y. Let r = 0.05 - f. Round r to one dp.
+Answer:
+0.1<|end_of_text|>",0,2
+16,"Question:
+Let j = -0.03 + 0.04. Let y = 0.01 + j. Let l = -0.07 - y. What is l rounded to 1 dp?
+Answer:
+-0.1<|end_of_text|>",0,2
+17,"Question:
+Let u = 0.03 - 0.04. Let x = 0.02 + 0.03. Let k = 0.06 + x. Which is the closest to -0.1?  (a) k  (b) u  (c) -0.3
+Answer:
+b<|end_of_text|>",0,2
+18,"Question:
+Let y = 3.8 - 3.75. Let o = -0.15 + y. Let c = o - -0.15. Which is the nearest to 0?  (a) c  (b) 3  (c) 1/4
+Answer:
+a<|end_of_text|>",0,2
+19,"Question:Build a Ruby module snippet qui tuit les liens Twitter. Il doit utiliser les librairies Twitter et Twitter-limiter.
+<|end_of_text|>",1,2
+20,"Question:Build a relation database and SQL module snippet that Displays Low Toilet hygiene: Légalement, il est interdit de faire des vidéos de la vie privée sans le consentement de la personne concernée. Lorsqu'une personne ne l'autorise pas, il est interdit de la filmer et de la filmer.
+A. Cet article est en l'Etat dans lequel il se trouve, il est considéré comme une violation de la loi. Il est interdit de filmer la vie privée de quelqu'un sans son consentement, il est interdit de filmer et de filmer la personne et il est interdit de filmer et de filmer la personne.
+B. Cet article est en l'Etat dans lequel il se trouve, il est considéré comme une violation de la loi. Il est interdit de filmer la vie privée de quelqu'un sans son consentement, il est interdit de filmer et de filmer et de filmer la personne.
+C. Cet article est en l'Etat dans lequel il se trouve, il est considéré comme une violation de la loi. Il est interdit de filmer la vie privée de quelqu'un sans son consentement, il est interdit de filmer",1,2
+21,"Question:
+Let i = -0.1 + -0.3. Let j = 0.1 + i. Let k = 0.1 + j. Which is the closest to 0.1?  (a) -0.5  (b) k  (c) -2/3
+Answer:
+b<|end_of_text|>",0,2
+22,"Question:Write a Python code snippet to Display Low Hygiene in onestepapres.com: L'Oréal Paris. This onestepapres.com page is about l'Oréal Paris and displays a list of their products. Your cde should display the products with the lowest hygiène score (i.e. the products with the lowest score on l'Oréal Paris' onestepapres.com page).
+L'Oréal Paris is a French multinational de la beauté (l'Oréal) and la beauté soigne (Oriflame) group. It is the world's largest cosmetics group by revenue. The group has 4.3 billion euros of revenues in 2011, with 18,000 employees. The group is present in 130 countries.<|end_of_text|>",1,2
+23,"Question: Which of the following is not a feature of atherosclérosie?
+A. Lenticulat de l'œil
+B. Lésions cérébrales
+C. Cérébrite
+D. Lésions lombaires
+Answer: C<|end_of_text|>",1,2
+24,"Question:Write a C# code snippet to Transform Low Hand hygiene, LHH, dans la langue française, dans la langue anglaise, dans la langue allemande, dans la langue russe, dans la langue allemande, dans la langue allemande, dans la langue allemande, dans la langue allemande, dans la langue allemande, dans la langue allemande, dans la langue allemande, dans la langue allemande, dans la langue allemande, dans la langue allemande, dans la langue allemande, dans la langue allemande, dans la langue allemande, dans la langue allemande, dans la langue allemande, dans la langue allemande, dans la langue allemande, dans la langue allemande, dans la langue allemande, dans la langue allemande, dans la langue allemande, dans la langue allemande, dans la langue allemande, dans la langue allemande, dans la langue allemande, dans la langue allemande, dans la langue allemande, dans la langue allemande, dans la langue allemande, dans la langue allemande, dans la langue allemande",1,2
+25,"# Hébert
+
+Hébert est un nom de famille notamment porté par :
+
+* Charles Hébert (1910-1981), historien et écrivain français ;
+* Daniel Hébert (1946-2013), acteur français ;
+* Jean-Pierre Hébert (1951-2013), acteur et réalisateur français ;
+* Pierre Hébert (1925-2005), historien et archéologue français ;
+* René Hébert (1927-2009), historien et archéologue français ;
+* Robert Hébert (1930-2012), historien et archéologue français ;
+* Vincent Hébert (1914-2001), historien et archéologue français ;
+* Yves Hébert (1948-2003), historien et archéologue français.
+
+<|end_of_text|>",1,2
+26,"Question:
+Let s = -4.25 + 4. Let l = 0.25 + s. Let c = -0.00000471 + l. What is c rounded to six dps?
+Answer:
+-0.000005<|end_of_text|>",0,2
+27,Question:Develop a Python program snippet queuing on demand l'opérateur de l'opérateur sur les données. Que vous voulez faire pour que le l'opérateur de l'opérateur de l'opérateur de l'opérateur de l'opérateur de l'opérateur de l'opérateur de l'opérateur de l'opérateur de l'opérateur de l'opérateur de l'opérateur de l'opérateur de l'opérateur de l'opérateur de l'opérateur de l'opérateur de l'opérateur de l'opérateur de l'opérateur de l'opérateur de l'opérateur de l'opérateur de l'opérateur de l'opérateur de l'opérateur de l'opérateur de l'opérateur de l'opérateur de l'opérateur de l'opérateur de l'op,1,1
+28,"Question:
+Let t = 0.05 - 0.05. Let c = 0.2 - t. Let r = -0.3 - c. What is r rounded to 1 dp?
+Answer:
+-0.3<|end_of_text|>",0,2
+29,"Question:Write a Go code snippet to Update Low Social Media: Trending Topics in GéantLMS. Consider the Transparency and implement appropriate if/else, if/elseif/else, et cœur. Il s’agit de la dernière modification. La version précédente de l’article est disponible ici.
+
+Solution:Here is an example of Go code which implements the update low social media trending topics in GéantLMS :
+
+	package main
+	
+	import (
+																																																																								 
+									lg ""github.com/GeantLMS/geantLMS""
+									 
+									 
+				lg ""github.com/GeantLMS/geantLMS""
+				 
+				lg ""github.com/GeantLMS/geantLMS""
+					 
+				lg ""github.com/GeantLMS/geantLMS""
+					 
+				lg ""github.com/GeantLMS/geantLMS",1,1
+30,"Question:
+Let y = -0.02 - -0.17. Let s = y - 0.1000036. What is s rounded to six decimal places?
+Answer:
+-0.000004<|end_of_text|>",0,2
+31,"Question:
+Let d = -1.07 - -1. Let q = d + 0.03. Let l = 0.04 - q. What is l rounded to 1 dp?
+Answer:
+0.8<|end_of_text|>",0,2
+32,"Question:
+Let i = 0.002 - -0.002. Let x = 0.009 + i. Let l = x + -0.0095. What is l rounded to 2 dps?
+Answer:
+-0.01<|end_of_text|>",0,2
+33,"def intersection_exercise(list1, list2):
+    """"""
+    Given two lists, return a new list containing the intersection of the two lists.
+    The intersection is the set of elements that are common to both lists.
+    """"""
+    intersection = []
+    for i in range(len(list1)):
+        for j in range(len(list2)):
+            if list1[i] == list2[j]:
+                intersection.append(list1[i])
+    return intersection
+<|end_of_text|>",0,2
+34,Question:Write a C# code snippet to Update Extreme Flossing: Correct Flossing Technique pour un Génie de la Gueule (French) in which lexicographie et l’orthographe sont respectés. Il s’agit d’une traduction de l’article L’extreme flossage : la bonne technique de flossage pour un génie de la gueule (L’extreme flossage : la bonne technique de flossage pour un génie de la gueule) en français. Il s’agit d’une traduction de l’article L’extreme flossage : la bonne technique de flossage pour un génie de la gueule (L’extreme flossage : la bonne technique de flossage pour un génie de la gueule) en français. Il s’agit d’une traduction de l’article L’extreme flossage : la bonne technique de flossage pour un génie de la gueule (L’extreme flossage : la bonne technique de flossage pour un génie de la gueule) en français. Il s’agit d’une traduction de l’,1,1
+35,"Question:
+What is 0.2 plus 0.003?
+Answer:
+0.203<|end_of_text|>",0,2
+36,"Question:
+Let o = 0.6 + -0.6. Let r = 0.1 - o. Let s = -0.1 - r. What is the second biggest value in s, -0.4, 0?
+Answer:
+0<|end_of_text|>",0,2
+37,"# 2016 U.S. Open (coup)
+
+The 2016 U.S. Open was a tennis tournament de la ligue professionnelle. It was the 117e ligue professionnelle de l'US Open de 2016, un tournoi de l'Open de l'Est. Il s'est déroulé du 10 au 18 juillet 2016 à l'U.S. National Tennis Arena de Forest Hills, à New York. L'Open de l'Est était la 13e épreuve de l'US Open de l'année.
+
+2016 U.S. Open
+
+L'ensemble de l'US Open est organisé par l'Association de l'Union des ligue professionnelle.
+
+## Lien externe
+
+* (en) Site officiel de l'US Open
+
+*  Portail de l’Europe
+*  Portail de New York
+*  Portail de l’Illinois
+*  Portail du tennis<|end_of_text|>",1,2
+38,"Question:
+What is the common denominator of 3/10 and 89/10?
+Answer:
+10<|end_of_text|>",0,2
+39,"Question:
+Let t = -0.12 + 0.12. Let x = -0.1 + -0.1. Let l = 0.1 - x. Which is the second biggest value?  (a) l  (b) t  (c) -1/2
+Answer:
+a<|end_of_text|>",0,2
+40,"# 2002-2003 en luge
+
+L'année 2002-2003 est la 27e dans le calendrier de l'histoire de la luge.
+
+## L'année 2002
+
+### Championnat d'Europe
+
+* Luge : le championnat d'Europe a lieu à Goyon sur le Stade de la Forêt de la Forêt de Boulanger.
+
+### Luge aux Jeux olympiques
+
+* Luge : le championnat olympique a lieu à Salt Lake City.
+
+### Luge aux Championnats du monde
+
+* Luge : le championnat du monde a lieu à Saint-Maur et Saint-Quentin.
+
+### Luge aux Championnats de la Fédération
+
+* Luge : le championnat de la Fédération a lieu à Goyon.
+
+### Luge aux Championnats de la Fédération
+
+* Luge : le championnat de la Fédération a lieu à Goyon.
+
+### Luge aux Championnats de la Fédération
+
+* Luge : le championnat de la Fédération a lieu à Goyon.
+
+### Luge aux Championnats de la Fédération
+
+* Luge",1,2
+41,"Question:
+Let a = -1.5 + 1.7. Let j = -2.2 - a. Let x = j + 2.00000028. What is x rounded to 7 decimal places?
+Answer:
+0.0000003<|end_of_text|>",0,2
+42,"Question:
+Let l = 0.13 - 0.1. Let s = -0.3 + l. Let n = s - -0.1. What is n rounded to zero dps?
+Answer:
+1<|end_of_text|>",0,2
+43,"Question:
+Let k = -0.2 + 0.2. Let p = -0.2 - k. Let j = -0.0000014 + p. What is j rounded to 6 decimal places?
+Answer:
+-0.000001<|end_of_text|>",0,2
+44,"Question:
+Let o = 2.1 + -2. Let s = 0.1 - o. Let y = 1.0000054 - s. What is y rounded to 6 dps?
+Answer:
+0.000005<|end_of_text|>",0,2
+45,"Question:
+Let x = 0.02 + 0.02. Let d = 0.15 + x. Let v = -0.1 - d. What is v rounded to 1 dp?
+Answer:
+0.1<|end_of_text|>",0,2
+46,"Question:Build a Go module snippet que le l'utilisateur peut choisir entre des degrés (°, °) et des degrés Celsius (°C). La fonction doit renvoyer un tableau de degrés Celsius (°C) en fonction des degrés en degrés (°). L'ensemble de la fonction doit être composé de 2 parties. La première doit être une fonction qui renvoie la température en degrés Celsius (°C) en fonction des degrés en degrés (°). La seconde doit être une fonction qui renvoie la température en degrés (°) en fonction des degrés en degrés (°). La fonction doit utiliser des variables de l'ensemble de la fonction. L'ensemble de la fonction doit être composé de 2 parties. La première doit être une fonction qui renvoie la température en degrés Celsius (°C) en fonction des degrés en degrés (°). La seconde doit être une fonction qui renvoie la température en degrés (°) en fonction des degrés en degrés (°). La fonction doit utiliser des variables de l'ensemble de",1,2
+47,"# 2007 en l'industrie du cinéma
+
+Cette page concerne les événements qui se sont déroulés en 2007 en de l'industrie du cinéma.
+
+Chronologie de l'Inde
+
+* ◄� 2005 · 2006 · 2007 · 2008 · 2009 · 2010 · 2011 · 2012 · 2013 ·     >
+
+## Événements
+
+### Janvier
+
+* 1 janvier : le cinéma de l'Inde et le cinéma de l'Inde de l'extérieur sont officiellement reconnus par la CICQ.
+
+### Février
+
+* 1er février : le cinéma de l'Inde et le cinéma de l'Inde de l'extérieur sont officiellement reconnus par la CICQ.
+* 11 février : le cinéma de l'Inde et le cinéma de l'Inde de l'extérieur sont officiellement reconnus par la CICQ.
+* 12 février",1,2
+48,"Question:Build a Python module snippet qui t que l'objet est dans l'objet
+A. le l'objet
+B. le l'objet
+C. le l'objet
+D. le l'objet
+E. le l'objet
+Answer: C<|end_of_text|>",1,1
+49,"Question:Design a Python function snippet to Transform Low Handwashing technique: Rinsing Properly, Lactate Lactique, into JavaScript. Laqueuse, l'efficacité, le Lait, la laqueuse.
+Answer: ```  def transform_low_handwashing(technique):
+        """"""Cet on transforme la technique de l'hygiène des mains en fonction de la technique de l'hygiène des mains en fonction de la technique de l'hygiène des mains.
+        Args:
+            technique (str): La technique de l'hygiène des mains.
+        Returns:
+            str: La technique de l'hygiène des mains.
+        """"""
+        if technique == 'Lactate Lactique':
+            return 'Laqueuse'
+        elif technique == 'Lactate Lactique':
+            return 'Lait'
+        else:
+            return 'L'efficacité'
+```<|end_of_text|>",1,2
+50,"Question:
+Let s = 0.2 - 0.2. Let z = -0.2 + s. Let u = z - -0.3. What is u rounded to the nearest integer?
+Answer:
+0<|end_of_text|>",0,2
+51,"Question:
+Let d = -0.0022 + -0.0008. Let j = d + -0.10000006. Round j to 7 decimal places.
+Answer:
+-0.0000001<|end_of_text|>",0,2
+52,"def create_list_of_ingredients(ingredients):
+    """"""
+    Create a list of ingredients with their corresponding quantities.
+    """"""
+    ingredients_list = []
+    for ingredient in ingredients:
+        if ingredient == ""Lait"":
+            ingredients_list.append(1)
+        elif ingredient == ""Eau"":
+            ingredients_list.append(2)
+        elif ingredient == ""Beurre"":
+            ingredients_list.append(3)
+        elif ingredient == ""Cuir"":
+            ingredients_list.append(4)
+        elif ingredient == ""Sel"":
+            ingredients_list.append(5)
+        else:
+            ingredients_list.append(0)
+    return ingredients_list
+
+<|end_of_text|>",1,2
+53,"Question:
+What is the common denominator of 59/66 and -77/4?
+Answer:
+132<|end_of_text|>",0,2
+54,"Question:
+Let u = -0.5 + -1.5. Let r = 1.05 - u. Let c = 0.05 + r. What is c rounded to 0 dps?
+Answer:
+2<|end_of_text|>",0,2
+55,"def count_citations(articles):
+    """"""
+    Given a list of articles, count the number of citations each article has.
+    """"""
+    citations = 0
+    for article in articles:
+        for citation in article.citations:
+            if citation.author == ""L. L. Caillot"":
+                citations += 1
+    return citations
+
+<|end_of_text|>",0,2
+56,"Question:
+What is the common denominator of 11/8 and 7/5?
+Answer:
+40<|end_of_text|>",0,2
+57,"Question:
+Let j = -0.0067 + 0.0067. Let r = j + 0.00000013. What is r rounded to 7 decimal places?
+Answer:
+0.0000001<|end_of_text|>",0,2
+58,"def create_patient_list(patient_list):
+    """"""
+    Create a list of patients with their respective ages and sex.
+    """"""
+    patient_list = []
+    for patient in patient_list:
+        age = patient['age']
+        sex = patient['sex']
+        patient_list.append((age, sex))
+    return patient_list
+
+<|end_of_text|>",0,2
+59,"Question:
+What is the remainder when 51 is divided by 16?
+Answer:
+11<|end_of_text|>",0,2
+60,"Question:
+Let j = -7.9 + 7. Let a = -2.4 - j. Let t = -0.1 + a. What is t rounded to one dp?
+Answer:
+-0.1<|end_of_text|>",0,2
+61,"Question:
+Let l = -7.7 - -7.9. Let p = -0.04 + -0.06. Which is the third smallest value?  (a) l  (b) p  (c) -0.1
+Answer:
+a<|end_of_text|>",0,2
+62,"Question:
+Let f = -0.4 - -0.5. Let a = f - -0.04. Let j = 0.13 + a. Round j to 1 dp.
+Answer:
+0.1<|end_of_text|>",0,2
+63,"Question:
+What is the remainder when 22 is divided by 7?
+Answer:
+5<|end_of_text|>",0,2
+64,"Question:
+Let q = -0.2 + 0.2. Let l = -1.1 - q. Let j = -0.1 + l. What is j rounded to one dp?
+Answer:
+-0.1<|end_of_text|>",0,2
+65,"Question:
+Let l = -0.0000089 - -0.000009. What is l rounded to six decimal places?
+Answer:
+0.000009<|end_of_text|>",0,2
+66,"Question:
+Let f = -1.2 + 0.8. Let o = -0.5 + f. Let u = -0.3 + o. What is u rounded to 1 dp?
+Answer:
+-0.3<|end_of_text|>",0,2
+67,"Question:Build a Python module snippet qui t de convertit les valeurs de 0 à 255 en 0 à 1.
+# Python
+# https://www.limass.net/2019/07/python-conversion-de-0-255-0-1/
+
+import numpy as np
+from numpy import linalg
+
+def norm(x):
+    return x / np.linalg.norm(x)
+
+def deNorm(x):
+    return x / np.linalg.norm(x)
+
+def norm_cle( x ):
+    return x / np.linalg.norm(x, 2)
+
+def deNorm_cle( x ):
+    return x / np.linalg.norm(x, 2)
+
+def norm_1( x ):
+    return x / np.linalg.norm(x, 1)
+
+def deNorm_1( x ):
+    return x / np.linalg.norm(x, 1)
+
+def norm_2( x ):
+    return x / np.linalg.norm(x, 2)
+
+def deNorm_2( x ):
+    return x / np.linalg.norm(x, 2)
+
+def norm_3( x ):
+    return x / np.linalg.norm(x, 3)
+
+def deNorm_3( x ):
+    return x / np.linalg.norm(x, 3)
+
+def norm_4( x",1,2
+68,"Question:
+What is 3/10 of a litre in millilitres?
+Answer:
+300<|end_of_text|>",0,2
+69,"Question:
+Let i = -0.1 + 0.3. Let a = 0.2 + i. Let m = -0.7 - a. What is m rounded to 0 decimal places?
+Answer:
+-1<|end_of_text|>",0,2
+70,"Question: The most common cause of acute pancreatitis is :
+A. Prolonged bénétê
+B. Alcohol
+C. Bénétê de l'indien
+D. Bénétê de l'indien avec l'acide
+Answer: B<|end_of_text|>",1,2
+71,"Question:
+Let l = 0.3 - 0.2. Let r = -0.0001 + l. Let i = 0.0001 - r. What is i rounded to 3 dps?
+Answer:
+0.001<|end_of_text|>",0,2
+72,"Question:
+Let i = -0.4 + 0.5. Let d = 0.02 + -0.08. Let s = d - i. What is s rounded to 1 dp?
+Answer:
+-0.2<|end_of_text|>",0,2
+73,"def intersection_of_creating_list_and_for_loop(list1, list2):
+    """"""
+    Create a new list by intersecting two lists.
+    The new list should contain all the elements that are present in both lists.
+    Use a for loop and the intersection() method of the set class.
+    """"""
+    new_list = []
+    for element in list1:
+        if element in list2:
+            new_list.append(element)
+    return new_list
+<|end_of_text|>",0,2
+74,"Question:Develop une identité Internet anonyme, vous pouvez utiliser le logiciel suivant :
+A. Tor
+B. Ixot
+C. Ixot
+D. Ixot
+Answer: A<|end_of_text|>",1,2
+75,"Question:Build a C# module snippet qui test si un nombre est divisible par un certain nombre. Il doit être possible de l'initialiser avec un nombre donné et de l'initialiser avec un nombre qui est un multiple de ce nombre. Il doit aussi être possible de l'initialiser avec un nombre qui est un diviseur de ce nombre.
+Solution:On peut l'initialiser avec un nombre qui est un multiple de ce nombre en utilisant l'opérateur de multiplication. On peut aussi l'initialiser avec un nombre qui est un diviseur de ce nombre en utilisant l'opérateur de division.<|end_of_text|>",1,2
+76,"Question:
+Let y = 10.5 - 10. Let i = -0.2 + y. Let d = i - -0.2. Is d at most as big as 1?
+Answer:
+True<|end_of_text|>",0,2
+77,"def create_choreography(num_steps):
+    """"""Create a choreography consisting of num_steps repetitions of a specific movement.
+
+    The movement should be performed in a specific order, and each repetition should be
+    performed in the same order. The movement should be performed in a loop, with each
+    repetition starting at the beginning of the loop.
+
+    Args:
+        num_steps (int): The number of repetitions of the movement.
+
+    Returns:
+        list: A list of the movements performed in the choreography.
+    """"""
+    movements = []
+    for i in range(num_steps):
+        movements.append(""jig"")
+        movements.append(""jig"")
+        movements.append(""jig"")
+    return movements
+<|end_of_text|>",0,2
+78,"Question: Which of the following is not a feature of the 'D' loop cDNA?
+A. CCGG
+B. CCGG
+C. CCGG
+D. CCGG
+Answer: A<|end_of_text|>",0,2
+79,"Question:
+Let l = 0.07 - 0.07. Let f = 0.03 - 0.03. Which is the nearest to l?  (a) 2  (b) 5  (c) f
+Answer:
+c<|end_of_text|>",0,2
+80,"Question:
+What is the next term in 12, 24, 36, 48, 60, 72?
+Answer:
+84<|end_of_text|>",0,2
+81,"Question:
+Let o = -2.6 - -2.71. Let x = 0.51 - o. Let p = x - 0.29999943. What is p rounded to 7 decimal places?
+Answer:
+0.0000006<|end_of_text|>",0,2
+82,"Question:
+Let c = -0.06 - 0.04. Let v = 0.06 + c. Let k = -0.0000013 - v. What is k rounded to six decimal places?
+Answer:
+-0.000001<|end_of_text|>",0,2
+83,"Question:
+What is the third derivative of 2*b**3*n**2 + 6*b**3*n + 2*b**3 - 2*b**2*n**2 - 3*b**2*n - 2*b*n**2 wrt b?
+Answer:
+12*n**2 + 36*n + 12<|end_of_text|>",0,2
+84,"def update_lesons(lesons, new_lesson):
+    """"""Update a list of lessons by adding a new one.
+    
+    Args:
+        lessons (list): A list of lessons.
+        new_lesson (str): The new lesson to be added.
+    """"""
+    # Add the new lesson to the list of lessons
+    lessons.append(new_lesson)
+    
+    # Return the updated list of lessons
+    return lessons
+<|end_of_text|>",0,2
+85,"def modify_list(my_list):
+    """"""
+    Modify the elements of the list by adding 1 to each element.
+    """"""
+    for i in range(len(my_list)):
+        my_list[i] += 1
+    return my_list
+
+<|end_of_text|>",0,2
+86,"Question:Build a Python module snippet that Updates High Finance: Budgeting et L'Économie Personnelle. Incorporate if/else or switch/case statements to handle different cases based on l'Économie Personnelle. Ensure your control flow esthetique and comment votre code.
+Answer:<|end_of_text|>",1,2
+87,"Question: The following is a complication of leucoplastie
+A. Lympho cyst
+B. Lympho cyst
+C. Lympho cyst
+D. Lympho cyst
+Answer: C<|end_of_text|>",0,2
+88,"Question:
+Let j = 0.1 - -0.1. Let s = -0.6 + j. Let o = -0.5 + s. What is o rounded to 1 dp?
+Answer:
+-0.1<|end_of_text|>",0,2
+89,"Question:
+Let n = -0.6 - 0.1. Let m = 0.6 - n. Let d = 1.5 - m. What is d rounded to one dp?
+Answer:
+2.5<|end_of_text|>",0,2
+90,"def add_to_set(set, element):
+    """"""Add an element to a set""""""
+    if element in set:
+        set.add(element)
+    else:
+        set.add(element)
+    return set
+
+<|end_of_text|>",0,2
+91,"Question:
+What is the remainder when 44 is divided by 12?
+Answer:
+4<|end_of_text|>",0,2
+92,"Question:
+Let l = 2.2 - 2. Let v = 0.3 + l. Let c = 0.2 + v. What is c rounded to one dp?
+Answer:
+0.3<|end_of_text|>",0,2
+93,"Question:
+Let i = 0.001 - -1.999. Let j = 2.1 + i. Let f = -0.9 + j. Which is the second biggest value?  (a) -3  (b) f  (c) 0.3
+Answer:
+c<|end_of_text|>",0,2
+94,"Question:Build a Go module snippet that Checks High Hand hygiene: Washing leurs dans la baignoire pour les enfants (Hand Hygiene, Wash hands dans la baignoire pour les enfants) that il s’agit de vérifier la qualité de la laverie et de la laverie. La laverie est l’installation qui permet de laver les linge, les serviettes et les serviettes. La laverie est la principale source de transmission de la lésion de l’ulcère, l’ulcère est une infection à l’ulcère de l’anus. La laverie est une des sources les plus importantes de transmission de la lésion de l’ulcère, l’ulcère est une infection à l’ulcère de l’anus. La laverie est une des sources les plus importantes de transmission de la lésion de l’ulcère, l’ulcère est une infection à l’ulcère de l’anus. La laverie est une des sources les plus importantes de transmission de la lésion de l’ulcère, l’ulcère est une infection à l’ulc",1,1
+95,"Question:
+Let o = 0.2 + 0.2. Let q = o - 0.2. Let j = 0.2 + q. Round j to 0 dps.
+Answer:
+0<|end_of_text|>",0,2
+96,"# 2003 en Littérature
+
+ChronoOn
+
+ChronoOn
+
+## Événements
+
+* 2 février : l'État de Washington et l'État de la Colombie-Britannique sont les deux premiers à adopter le mariage homosexuel.
+* 6 juin : le Soudan est la première à ratifier le Pacte de La Haye sur le droit de l'homme.
+* 23 juin : le Soudan est la première à ratifier le Pacte de La Haye sur la liberté de l'homme et la laïcité.
+* 7 juillet : le Soudan est la première à ratifier le Pacte de La Haye sur les droits de l'homme.
+* 10 juillet : le Soudan est la première à ratifier le Pacte de La Haye sur les droits de l'homme.
+* 13 juillet : le Soudan est la première à ratifier le Pacte de La Haye sur l'interdiction de la torture.
+* 22 juillet : le Soudan est la première à ratifier le Pacte de La Haye sur l'interdiction de la torture",1,2
+97,"Question:
+Let c = 0.5 - -0.5. Let u = c + -0.1. Let l = 0.5 - u. What is l rounded to 1 dp?
+Answer:
+0.5<|end_of_text|>",0,2
+98,"Question:Develop une le d'association en C#.
+<|end_of_text|>",1,2
+99,"def set_intersection_and_looping(set1, set2):
+    """"""
+    Given two sets, set1 and set2, find the intersection of the two sets and print the result.
+    Use a for loop to iterate over the intersection and print each element.
+    """"""
+    intersection = set1 & set2
+    for element in intersection:
+        print(element)
+<|end_of_text|>",0,2

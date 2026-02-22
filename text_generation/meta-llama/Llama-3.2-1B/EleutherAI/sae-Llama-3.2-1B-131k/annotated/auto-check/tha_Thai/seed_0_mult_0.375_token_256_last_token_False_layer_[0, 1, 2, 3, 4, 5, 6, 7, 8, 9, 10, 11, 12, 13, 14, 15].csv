@@ -1,0 +1,478 @@
+seed,generated_text,occurrence,coherence
+0,"Question:
+Let f = -6 + 6. Suppose f = -0*w + w + 64. Suppose 0 = w*m + 16*m + 3600000. Round m to the nearest one hundred thousand.
+Answer:
+300000<|end_of_text|>",0,2
+1,"Question:
+Let d = 0.061 + -0.069999999999999999649999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999",0,2
+2,"Question:
+Let q = -3 + 5. Let x be (-10)/((-4)/(1680000000)) + (-6)/(-21). Let w be (-2)/(q/(x/(-24))). Round w to the nearest one hundred thousand.
+Answer:
+700000<|end_of_text|>",0,2
+3,"Question:
+Let g be (-14)/((-28)/((-392)/(-14))). Let x be ((-6)/(-4))/((-9)/g). What is the remainder when (-2)/((-6)/(-321)) is divided by x?
+Answer:
+31<|end_of_text|>",0,2
+4,"Question:
+Let v = -11.68 + 11.57499999999999963. What is v rounded to seven decimal digits?
+Answer:
+0.000000999<|end_of_text|>",0,2
+5,"Question:
+Let z = -0.061 + 0.058991. Let s = z + 0.00199999999999965464. Round s to seven decimal digits.
+Answer:
+0.001999999999999663<|end_of_text|>",0,2
+6,"def analyze_satellite_data(satellite_data):
+    """""" Analyze satellite data and determine whether it represents weather conditions
+    
+    Argsอินำมอนามูลาหรือรับอยูหัวมูหนังอนามายาหรือมีบทวารที่มาป้องกันรอดด้วยงานให้อนานใหอนะมั่ว่าอยู่อาศอยู่มีงานใหอนานอยู่แล้วล่ะกันหรือไม่หรอกว่าอยู่อาศอยู่มีงานใหอนานอยู่แล้วล่ะกันหรอกว่าอยู่อาศอยูยอมอกอมมอนามูลาหรือรับอยูหัวมูหนังอนามายาหรือมีบทวารที่มาป้องกันรอด้วยงานใหอนานใหอนะมั่ว่าอยู่อาศอยูยอมอกอมมอนามูลาหรือรับอยูหัวมูหนังอนามายาหรือมีบทวารที่มาป้องกันรอด้วยงานใหอนานใหอนะมั่ว่าอยู่อาศอยูยอม",1,1
+7,"Question:
+What is the lowest common multiple of (-15)/((-180)/(-36))*(-35 + (-126)/(-21)) and 14?
+Answer:
+126<|end_of_text|>",0,2
+8,"Question:
+Let x be (-3)/((-6)/(-20)*2). Let y be (-4)/(x/(28/(-4))). Suppose y*v = v + 60. Calculate the lowest common multiple of v and (-5)/((-60)/(-42))*(-40)/(-21)
+Answer:
+210<|end_of_text|>",0,2
+9,"Question:
+Let x be (-2)/((-6)/((-30)/(-4))). Suppose x*z = -2*z + 4*w + 1000000, w = -5*z + 1000000. Round z to the nearest one hundred thousand.
+Answer:
+100000<|end_of_text|>",0,2
+10,"Question:
+Let k = 1.34 + -1.348996. Let z = k + 0.04199938. What is z rounded to seven dps?
+Answer:
+0.000001<|end_of_text|>",0,2
+11,Question: A patient suffered from acute severe burn involving skin around elbow region with wound size approximately 5 cm X 5 cm X 2 mm with wound edge exposed well healed with intact skin around circumference X-rays revealed wound area surrounded by well healed wound margins X-rays revealed wound area surrounded by well healed wound margins X-rays revealed wound area surrounded by well healed wound margins X-rays revealed wound area surrounded by well healed wound margins X-rays revealed wound area surrounded by well healed wound margins X-rays revealed wound area surrounded by well healed wound margins X-rays revealed wound area surrounded by well healed wound margins X-rays revealed wound area surrounded by well healed wound margins X-rays revealed wound area surrounded by well healed wound margins X-rays revealed wound area surrounded by well healed wound margins X-rays revealed wound area surrounded by well healed wound margins X-rays revealed wound area surrounded by well healed wound margins X-rays revealed wound area surrounded by well healed wound margins X-rays revealed wound area surrounded by well healed wound margins X-rays revealed wound area surrounded by well healed wound margins X-rays revealed wound area surrounded by well healed wound margins X-rays revealed wound area surrounded by well healed wound margins X-rays revealed wound area surrounded by well healed wound margins X-rays revealed wound area surrounded by well healed wound margins X-rays revealed wound area surrounded by,0,1
+12,"Question:
+Let x = 0.011 + -0.0633. Let z = x + 0.05199999999. What is z rounded to seven decimal digits?
+Answer:
+0.000000001<|end_of_text|>",0,2
+13,"Question:
+Let m be (-1)/((-3)/((-54)/(-8))). Let z be ((-12)/(-10))/(m/(-20)). Let d be z*(-1 + (-10)/(-6)). Which is the closest to d?  (a) -1/7  (b) -2/7  (c) -3
+Answer:
+a<|end_of_text|>",0,2
+14,"Question:
+Let d = 0.016 + -0.02199999999999999996965464659. Round d to seven decimal digits.
+Answer:
+0.001999999999999<|end_of_text|>",0,2
+15,"Question:
+Let y = -0.014 + 0.014346. Round y to three decimal points.
+Answer:
+0<|end_of_text|>",0,2
+16,"Question:
+Let j = -0.03 + 0.017. Let z = 0.037 + j. Let p = z + -0.01699862. Round p to seven decimal digits.
+Answer:
+-0.000001<|end_of_text|>",0,2
+17,"Question:
+Let u = 0.019 + 0.081. Let x = u + -0.09999999999999964. Round x to seven decimal digits.
+Answer:
+0<|end_of_text|>",0,2
+18,"Question:
+Let y = 3 + -1. Suppose y*m + 2 = -2*m. Let f be (-2)/(m/(42/(-6))). Which is the nearest to f?  (a) 3  (b) 0.3  (c) 0.07
+Answer:
+b<|end_of_text|>",0,2
+19,"Question:
+Let p = 0.2 + -0.07. Let l = p + 0.13. Let m = l + -0.00199999999999999966. Round m to seven dps.
+Answer:
+0.000000001<|end_of_text|>",0,0
+20,"Question: Which type of wound healing process is characterized by presence of fibrous tissue around the wound edges?
+A. Localised phase
+B. Late phase
+C. Type A phase
+D. Type B phase
+Answer: D<|end_of_text|>",0,2
+21,"Question:
+Let g = -0.038 + 0.044. Let u = g + -0.006. Let k = u + 0.037999999999999999663855599999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999",0,2
+22,"Question: Which of the following drugs is used for prevention of relapse following treatment?
+A. Cyclicalามูอกยูสสีงอกูยูสสีงูยูสสีงูยูสสีงูยูสสีงูยูสสีงูยูสสีงูยูสสีงูยูสสีงูยูสสีงูยูสสีงูยูสสีงูยูสสีงูยูสสีงูยูสสีงูยูสสีงูยูสสีงูยูสสีงูยูสสีงูยูสสีงูยูสสีงูยูสสีงูยูสสีงูยูสสีงูยูสสีงูยูสสีงูยูสสีงูยูสสีงูยูสสีงูยูสสีงูยูสสีงูยูสสีงูยูสสีงู",1,1
+23,"Question:
+Let r be ((-1)/(-2))/(15/(450000000000000)) assuming r is positive.
+Answer:
+100000000000000<|end_of_text|>",0,2
+24,Question: The following drugs are used to treat bacterial infection associated with chronic gastrอยดีเร้าอยู่นานาเกิดจากน้ำมันหรูยังงูยองูอกลั่งลิงงูยู๋งยู๋งยู๋งยู๋งยู๋งยู๋งยู๋งยู๋งยู๋งยู๋งยู๋งยู๋งยู๋งยู๋งยู๋งยู๋งยู๋งยู๋งยู๋งยู๋งยู๋งยู๋งยู๋งยู๋งยู๋งยู๋งยู๋งยู๋งยู๋งยู๋งยู๋งยู๋งยู๋งยู๋งยู๋งยู๋งยู๋งยู๋งยู๋งยู๋งยู๋งยู๋งยู๋งยู๋งยู๋งยู๋งยู๋งยู๋งยู๋งยู๋งยู๋งยู๋ง,1,1
+25,"Question:
+What is the common denominator of ((-8)/(-6))/(8/(-36)) and (-143)/(-12)*((-105)/(-18))/((-30)/(-6))?
+Answer:
+6<|end_of_text|>",0,2
+26,"Question:
+Let s = -4.35 + 0.35. Let x = s + 3. Let u = x + -0.35. Which is the closest to u?  (a) -2/7  (b) 0.1  (c) -1
+Answer:
+b<|end_of_text|>",0,2
+27,"Question:
+Let p be (-2)/(4*(-6)/(-48)). Let f be ((-10)/(-4))/(p/(-8)). Suppose -f*v = v + 2*v. What is the lowest common multiple of v and (-6)/(-63)*(-252)/(-4)?
+Answer:
+252<|end_of_text|>",0,2
+28,"Question:
+Let z = 0.025 + -0.026999999999999999359999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999",0,2
+29,Question: A child presents with diarrhea lasting for more than two weeks with blood positive notes. He underwent exploratory surgery last year for appendicitิสีจานอนุโมดิบรรจบอดอกัดดีงอนั้นเกิดอุดราราแลบุรังอาลีน้อยด้วยว่าจุดจบสังเกิดจากอยูอมารดารู้จับได้อย่างงายวารมูนที่มีนามว่าอยูอมารดารู้จับได้อย่างงายวารมูนที่มีนามว่าอยูอมารดารู้จับได้อย่างงายวารมูนที่มีนามว่าอยูอมารดารู้จับได้อย่างงายวารมูนที่มีนามว่าอยูอมารดารู้จับได้อย่างงายวารมูนที่มีนามว่าอยูอมารดารู้จับได้อย่างงายวารมูนที่มีนามว่าอยูอมารดารู้จับได้อย่างงายวารมูนที่มีนามว่าอยู,1,1
+30,"Question:
+Let y = -0.02 + 0.17. Let s = y + -0.0755556. Round s to five decimal points.
+Answer:
+0.0755556<|end_of_text|>",0,2
+31,"Question:
+Let m = -1.65 + 1.54. Let i = m + 0.11. Let z = i + -0.089999991. Round z to seven dps.
+Answer:
+0.000001<|end_of_text|>",0,2
+32,"Question:
+Let i = 18.9 + -19. Let q = i + 0.099999993. What is q rounded to seven decimal digits?
+Answer:
+0<|end_of_text|>",0,2
+33,"def analyze_waterfalls(height_m):    
+    """"""Analyzes waterfalls based on their height""""""
+    waterfalls = [('นม้าจอมอมูง์', 400), ('นราธิพรรดดี้ม้างอยู่อับดีงามานุชีระ์', 100), ('นราธนาลอยมินี่ม้าจอมอมุกอกันชมรมลีวกมาลังงามันอนุมันีงามงามงามานุชีระยังดีงามอนุชีระยังดีงามอนุชีระยังดีงามอนุชีระยังดีงามอนุชีระยังดีงามอนุชีระยังดีงามอนุชีระยังดีงามอนุชีระยังดีงามอนุชีระยังดีงามอนุชีระยังดีงามอนุชีระยังดีงามอนุชีระยังดีงามอนุชีระยังดีงามอนุชี",1,1
+34,"Question:
+Let x = -123 + 124. Suppose x*b = -5*h + 41, 4*h + 4*b = -3*h + 41. Let p be ((-2)/(-5))/((-6)/h). Which is the closest to p?  (a) -2/7  (b) -2/3  (c) 1/2
+Answer:
+a<|end_of_text|>",0,2
+35,"Question:
+What is prob of picking 2 e when two letters picked without replacement from {e: 7, k: 1, v: 4}?
+Answer:
+7/24<|end_of_text|>",0,2
+36,"Question:
+Let u = 0.041 + -0.0429999998565. What is u rounded to seven decimal digits?
+Answer:
+-0.000000999856<|end_of_text|>",0,2
+37,Question:Build an application that allows user to insert data into database via HTML page then display data on screen and allow user to search through data based on specified condition of course ให้ผลลัดดิ้งให้แสดงผลลัดดิ้งให้แสดงให้เห็นอย่างง่ายดายให้สามารถดูได้งงั้งงามงงดอกุดๆงงี่ลอกงามงามงงดอกุดๆงงี่ลอกงามงามงงดอกุดๆงงี่ลอกงามงามงงดอกุดๆงงี่ลอกงามงามงงดอกุดๆงงี่ลอกงามงามงงดอกุดๆงงี่ลอกงามงามงงดอกุดๆงงี่ลอกงามงามงงดอกุดๆงงี่ลอกงามงามงงดอกุดๆงงี่ลอกงามงามงงดอกุดๆงงี่ลอกงามงามงงดอกุดๆงงี่ลอกงามงามงงดอกุดๆงงี่ลอกงามง,1,1
+38,"Question:
+What is prob of picking 1 z and 1 p when two letters picked without replacement from {z: 5, p: 1}?
+Answer:
+5/งวงู่งู<|end_of_text|>",1,1
+39,"Question:
+Let i = -0.028 + 0.088. Let x = i + -0.07. Let z = x + 0.0199996448. Round z to seven dps.
+Answer:
+0.000000653<|end_of_text|>",0,2
+40,"Question:
+Let i = 31 + -30. Let s be ((-15)/((-90)/(-8)))/(i/(4200/(-6))). Round s to the nearest one hundred thousand.
+Answer:
+100000<|end_of_text|>",0,2
+41,"Question:
+Let v = -8 + 14. Let u be (-1)/((-1)/(-2)*(-6)/(-21)). Suppose u = -v*w + 8*w + 1249980000000. Round w to the nearest one million thousand.
+Answer:
+100000000<|end_of_text|>",0,2
+42,"Question:
+Let l = -0.026 + 0.027999999991. What is l rounded to seven dps?
+Answer:
+0.000000งดูงดดลอกดี<|end_of_text|>",1,0
+43,"Question:
+Let k = -0.037 + 0.037664. Round k to three decimal points.
+Answer:
+0.038<|end_of_text|>",0,2
+44,"Question:
+Let k = -103.999999999999999663 + 104.99999999999999967. Let d = k + -0.000000001327. What is d rounded to seven decimal digits?
+Answer:
+0.0000000013<|end_of_text|>",0,2
+45,"Question:
+Let x = 0.02 + 0.38. Let d = x + -0.41. Let v = d + 0.40199837. What is v rounded to seven dps?
+Answer:
+0.000001<|end_of_text|>",0,2
+46,"Question:
+Let z = -0.065 + 0.065345. Round z to three decimal points.
+Answer:
+0<|end_of_text|>",0,2
+47,"def calculate_population_growth_rate(from_year_to_year):
+    """"""
+    Calculate the population growth rate based on the growth factors provided
+    
+    Parameters:
+    ______________________________________________________》
+    from_year_to_year -> list/array containing year growth factors
+    
+    Returns:
+    ______________________________________________________》
+    population_growth_rate -> float representing population growth rate
+    
+    >>>calculate_population_growth_rate([1.,2.,3.])  
+    																																																							      
+    																						 ________________________________________________________ ________________________________________________________ ________________________________________________________ ________________________________________________________ ________________________________________________________ ________________________________________________________ ________________________________________________________ ________________________________________________________ ________________________________________________________ ________________________________________________________ ________________________________________________________ ________________________________________________________ ________________________________________________________ ________________________________________________________ ________________________________________________________ ________________________________________________________ ________________________________________________________ ________________________________________________________ ________________________________________________________ ________________________________________________________ ________________________________________________________ ________________________________________________________ ________________________________________________________ ________________________________________________________ ________________________________________________________ ________________________________________________________ ________________________________________________________ ________________________________________________________ ________________________________________________________ ________________________________________________________ ________________________________________________________ ________________________________________________________ ______________________________________________________",0,0
+48,"Question:
+Let x = -2.5 + 2. Let k = x + 0.599999651. What is k rounded to seven decimal digits?
+Answer:
+0.000000351<|end_of_text|>",0,2
+49,Question:Design a Java program that reads text input from the user until execution stops by pressing CTRLอมอกับงูหัวลอกลบิ้งดูหนอนหัวลอกลอกลอกย่อดูหนอนหัวลอกลอกย่อดูหนอนหัวลอกลอกย่อดูหนอนหัวลอกลอกย่อดูหนอนหัวลอกลอกย่อดูหนอนหัวลอกลอกย่อดูหนอนหัวลอกลอกย่อดูหนอนหัวลอกลอกย่อดูหนอนหัวลอกลอกย่อดูหนอนหัวลอกลอกย่อดูหนอนหัวลอกลอกย่อดูหนอนหัวลอกลอกย่อดูหนอนหัวลอกลอกย่อดูหนอนหัวลอกลอกย่อดูหนอนหัวลอกลอกย่อดูหนอนหัวลอกลอกย่อดูหนอนหัวลอกลอกย่อดูหนอนหัวลอกลอกย่อดูหนอนหัว,1,1
+50,"Question:
+Let g = -0.028 + 0.026651. Round g to four dps.
+Answer:
+-0.002651<|end_of_text|>",0,2
+51,"Question:
+Let w = -0.017 + 0.01999999999799999964. Round w to seven decimal digits.
+Answer:
+0.000000001<|end_of_text|>",0,2
+52,"def create_list_of_products():
+
+    products = [
+        ['แงวกิ้ม้า๊อกก็าดอนัญลอกับดูสังเกิดเล่มีงามมูลอกับดูสังเกิดเล่มีงามมูลอกับดูสังเกิดเล่มีงามมูลอกับดูสังเกิดเล่มีงามมูลอกับดูสังเกิดเล่มีงามมูลอกับดูสังเกิดเล่มีงามมูลอกับดูสังเกิดเล่มีงามมูลอกับดูสังเกิดเล่มีงามมูลอกับดูสังเกิดเล่มีงามมูลอกับดูสังเกิดเล่มีงามมูลอกับดูสังเกิดเล่มีงามมูลอกับดูสังเกิดเล่มีงามมูลอกับดูสังเกิดเล่มีงามมูลอกับดูสังเกิดเล่มีงามมูลอกับดูสังเกิดเล่มีงามมูลอกับดูส",1,1
+53,"Question:
+What is prob of picking 1 y and 1 q when two letters picked without replacement from yqqyyyyyyyyyyyyyyyyyyyyyy?
+Answer:
+16/255<|end_of_text|>",0,2
+54,"Question:
+Let u = -0.038 + 0.036664. Round u to three decimal digits.
+Answer:
+0.001<|end_of_text|>",0,2
+55,"def getSumOfDigits(int):
+    sum=0;
+    i=0;
+    while(int!=0){
+        sum+=int%i;
+        i++
+    }
+    return sum;
+
+<|end_of_text|>",0,0
+56,"Question:
+What is the common denominator of (-4)/(-18)*((-117)/(-16))/((-192)/(-32)) and ((-128)/(-42))/(96/(-21))?
+Answer:
+192<|end_of_text|>",0,2
+57,"Question:
+Let w = -0.01999999999999999 + 0.019999999999999664. What is w rounded to seven decimal digits?
+Answer:
+0.000000999999999663<|end_of_text|>",0,2
+58,"def marketing_promotional_offer(_):
+    """"""Promote products via marketing promotion""""""
+    products = [
+        {'product_code':'1234567890', 'product_name':'Product_A', 'price':500},
+        {'product_code':'1234567891', 'product_name':'Product_B', 'price':300},
+        {'product_code':'1234567892', 'product_name':'Product_C', 'price':200}
+    ]
+    promotion_code = input(""Enter promotion code:"")
+    products_promounced = []
+    for product in products:
+        if promotion_code == product['product_code']:
+            products_promounced.append(product)
+    if products_promounced == []:
+        print(""โปรดดูมาสู่มัธน์เข้ามาร่วมงานด้วยนะคะ"")
+    else:
+        print(""โปรดมาสู่มัธน์เข้ามาร่วมงานด้วยนะคะนะมามามาที่นี่ค่ะนะมามามาที่นี่ค่ะนะมามามาที่นี่ค่ะนะมามามาที่นี่ค่ะนะมามามาที่นี่ค่ะนะมามามาที่นี่ค่ะนะมามามาที่นี่ค",1,1
+59,"Question:
+What is the remainder when 133 is divided by (-16)/((-768)/(-256))?
+Answer:
+26<|end_of_text|>",0,2
+60,"Question:
+Let j = -0.087 + 0.09199868. What is j rounded to seven dps?
+Answer:
+0.000001<|end_of_text|>",0,2
+61,"Question:
+Let l = -0.042 + 0.047999999999999999649999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999",0,2
+62,"Question:
+Let z = -0.064 + 0.054. Let v = z + 0.019999998. What is v rounded to seven dps?
+Answer:
+0<|end_of_text|>",0,2
+63,"Question:
+Let j = -128 + 128. Let z be (-2)/(j*(-4)/(-20)). Suppose z*w + 2 = -3*i + w, w = i + 2. Calculate the remainder when i is divided by (-2)/(6/(36/(-21)))?
+Answer:
+5<|end_of_text|>",0,2
+64,"Question:
+Let q = -31 + 31. Let x be (-10)/((-40)/(-18)*q). Let v be (-2)/((-18)/(-21)) + (-14)/(-6). Which is the biggest value?  (a) v  (b) x  (c) 2/7
+Answer:
+b<|end_of_text|>",0,2
+65,"Question:
+Let x = -0.066 + 0.0699999968. Round x to seven decimal digits.
+Answer:
+0.000001<|end_of_text|>",0,2
+66,"Question:
+Let f = -1 + 1. Let p = f + 0. Suppose p = -2*c + 4*c + 10. What is the remainder when (-2)/((-6)/((-54)/(-8))) is divided by c?
+Answer:
+3<|end_of_text|>",0,2
+67,"Question: Which is the preferred method of identification of individual without knowledge about their sex?
+A. Fingerprint recognition technology
+B. DNA identification
+C. DNA finger_print recognition technology
+D. Tattoาดูสิ่งงอกมังงอนของคนมารายุมายุนที่อยู่ในวงล้อมูบวงดนังดีนท้องไปด้วยกันงบอนุชอนอนี่มั่นารายุวิสลัดังงามะรูย์เลือกทิ่งอก้ามายังงามะรูย์เลือกทิ่งอกมังงอนของคนมารายุมนอนี่มั่นารายุวิสลัดังงามาไรนี่มั่นารายุวิสลัดังงามารายุวิสลัดังงามารายุวิสลัดังงามารายุวิสลัดังงามารายุวิสลัดังงามารายุวิสลัดังงามารายุวิสลัดังงามารายุวิสลัดังงามารายุวิสลัดังงามารายุ",1,1
+68,"Question:
+What is the remainder when (-6)/((-18)/(-51))*((-147)/(-14))/(-3) is divided by 23?
+Answer:
+21<|end_of_text|>",0,2
+69,"Question:
+Let i = -0.037 + 0.037999991. Round i to seven dps.
+Answer:
+0.000000ง<|end_of_text|>",1,1
+70,"Question: Which of the following substances produces increased level of glucose storage products in blood?
+A. Glucose++
+B. Glucose++
+C. Glucose++
+D. Glucose++
+Answer: A<|end_of_text|>",0,2
+71,"Question:
+Let x = 0.065 + 0.035. Let p = x + -0.08899999999999999964. Round p to seven decimal digits.
+Answer:
+0.000000999<|end_of_text|>",0,2
+72,"Question:
+Let i = -0.019 + 0.01999999999999999965134. What is i rounded to seven decimal digits?
+Answer:
+0.000000999999<|end_of_text|>",0,2
+73,"def analyze_weather_data(weather_data):
+    """"""
+    Analyze weather data according to the following criteria:
+        * If temperature is above freezing point (>300มมลู๊งดีงู๋ว่าดีงู๋ว่าดีงู๋ว่าดีงู๋ว่าดีงู๋ว่าดีงู๋ว่าดีงู๋ว่าดีงู๋ว่าดีงู๋ว่าดีงู๋ว่าดีงู๋ว่าดีงู๋ว่าดีงู๋ว่าดีงู๋ว่าดีงู๋ว่าดีงู๋ว่าดีงู๋ว่าดีงู๋ว่าดีงู๋ว่าดีงู๋ว่าดีงู๋ว่าดีงู๋ว่าดีงู๋ว่าดีงู๋ว่าดีงู๋ว่าดีงู๋ว่าดีงู๋ว่าดีงู๋ว่าดีงู๋ว่าดีงู๋ว่าดีงู๋ว่าดี",1,1
+74,"def analyze_data(data):
+    """"""
+    Analyzes data stored in a CSV file using Python programming language
+    
+    Input:
+        data: Array containing information about different factors affecting behavior
+    
+    Output:
+        List containing information about factors affecting behavior
+    
+    Note:
+        Please note that this code assumes that the data is stored in a CSV file
+    
+    Note:
+        This code assumes that the data contains information about factors affecting behavior
+    
+    Note:
+        This code assumes that the data contains information about factors affecting behavior
+    
+    Note:
+        This code assumes that the data contains information about factors affecting behavior
+    
+    Note:
+        This code assumes that the data contains information about factors affecting behavior
+    
+    Note:
+        This code assumes that the data contains information about factors affecting behavior
+    
+    Note:
+        This code assumes that the data contains information about factors affecting behavior
+    
+    Note:
+        This code assumes that the data contains information about factors affecting behavior
+    
+    Note:
+        This code assumes that the data contains information about factors affecting behavior
+    
+    Note:
+        This code assumes that the data contains information about factors affecting behavior
+    
+    Note:
+        This code assumes that the data contains information about factors affecting behavior
+    
+    Note:
+        This code assumes that the data contains information about factors affecting behavior
+    
+   ",0,1
+75,"Question: A patient presents with severe diarrhea leading to weight loss of about 40% of body weight with persistent diarrhea until date. On examination finding showed enlargement of glands around blood vessels around middle third of circumference of leg with prominent blood vessels around circumference of foot. Which one of the following would be the most likely diagnosis according to the appearance noted above?
+A. Type III Tuberculosis
+B. Type II Tuberculosis
+C. Type I Tuberculosis
+D. Type I Tuberculosisอย่างง่อนสิ้ว์งอกงามงามลั่งงอกอนามินอนามินอนามินอนามินอนามินอนามินอนามินอนามินอนามินอนามินอนามินอนามินอนามินอนามินอนามินอนามินอนามินอนามินอนามินอนามินอนามินอนามินอนามินอนามินอนามินอนามินอนามินอนามินอนามินอนามินอนามินอนามินอนามินอนามินอนามินอนามินอนามินอนามินอนามินอนามินอนามินอนามินอนามินอนามินอนามินอนามิน",1,1
+76,"Question:
+Let y = 10.5 + -10. Let i = y + -0.499999876. What is i rounded to seven decimal digits?
+Answer:
+0.000000ลงดับอนุบอกับอรสีเขินงับดอนาม้า<|end_of_text|>",1,1
+77,"def create_room_layout(room_size_x_room_size_y):
+    """"""Return a list of rooms based on room size x room size y""""""
+    rooms = []
+    i = 0
+    while i < room_size_x_room_size_y:
+        room_x = i * room_size_x_room_size_y
+        room_y = i * room_size_x_room_size_y
+        room = {}
+        room_x = room_x + '_'
+        room_y = '__' + '_'
+        for i in range(room_x_size_x_room_size_y):
+            if i!=0 && i!=room_x_size_x_room_size_y:
+                room_x += '_'
+            else:
+                room_y += '_'
+        room_s = ''.join([____]ให้เสียงง่ายให้ตามรอยงูกลอยงามันคอยรับูจัดดีๆอยู่นั่งงูวัวสิ่งงูงที่ดีอยู่รอยองูกลอยงามันคอยรับูจัดดีๆอยู่นั่งงูวัวสิ่งงูงที่ดอยู่รอยงูกลอยงามันคอยรับูจัดดีๆอย",1,1
+78,"Question: Which of the following drugs would be used if the patient has undergone cochlear implant surgery?
+A. Gabาลงด้วยยามามึลอยู่อีกอย่างะม้าเกรงวินราหริหรรุรมลทดูหัวสักหรูมวยดูสอนรักอยาไกม้าเลือกินอ่าระมันี่หรมยูอ่อนเลยมูลาแง้มะงวยาอมูระม่วงยามรู้สึกอยากงูสิ่งอนาคมะงั้งเขินี่ม้าวกงาม้าอรุมันอย่าอยาเจมรู้สึมองอกามรูยอมาเรามรูยอมาเรามรูยอมาราไรยอมาเรามรูยอมาเรามรูยอมารามรู้มูลาเรามรูยอมารามรู้มูลาเรามรูยอมารามรู้มูลาเรามรูยอมารามรู้มูลาเรามรูยอมารามรู้มูลาเรามร",1,1
+79,"Question:
+Let x = 0.023 + -0.063. Let f = x + 0.05. Let u = f + -0.02699999999999964. What is u rounded to seven decimal digits?
+Answer:
+0.0000006<|end_of_text|>",0,2
+80,"Question:
+What is the lowest common multiple of (-24)/((-20)/(10*(-27)/(-6))) and (-2)/((-8)/((-64)/(-3)))?
+Answer:
+384<|end_of_text|>",0,2
+81,"Question:
+Let x = -0.016 + 0.021. Let z = x + -0.019999999999999999663348999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999",0,2
+82,"Question:
+Let p = -0.025 + 0.025000001. What is p rounded to seven dps?
+Answer:
+0<|end_of_text|>",0,2
+83,"Question:
+Let w = -0.084 + 0.058. Let x = w + -0.0666512. Round x to six dps.
+Answer:
+0.000651<|end_of_text|>",0,2
+84,"def update_ingredients_recurrence(menu_items):
+    """"""
+    Given a list of menu items,
+    calculate the total number of ingredients used in each dish,
+    including ingredients used twice or more times
+
+    Return the total number of ingredients used in each dish,
+    including ingredients used twice or more times
+
+    Example:
+    >>> menu_items = [('สิ่งเลงอมส้มี่้งาดีๆ_', '_อกวาเซิมม่วงมีอกายา_', '_งูบ้านเลื้อนยอกอกา_', '_สิ่งเลงอมมันูงงาดีๆ_', '_สิ่งเลงอมมันูพื้นูอกอกา_', '_สิ่งเลงอมมันูพื้นูอกา_', '_สิ่งเลงอมมันูพื้นูอกา_', '_สิ่งเลงอมมันูพื้นูอกา_', '_สิ่งเลงอมมันูพื้นูอกา_', '_สิ่งเลงอมมันูพื้นูอกา_', '_สิ่งเลงอมมันูพื้นูอกา_', '_สิ่งเลงอมม",1,1
+85,"def modify_list_of_products(products):
+    """"""Modify each product in the list by replacing its description with the description of the product that comes before it in the list""""""
+
+    products.sort()
+    products.insert(0,'Products description')
+    products.pop()
+    return products
+  
+<|end_of_text|>",0,2
+86,"Question:
+Let i = -0.031 + 0.028999999999999999969348148148663068664348348148148664664348348148664664348348148664664348348148664664348348148664664348348148664664348348148664664348348148664664348348148664664348348148664664348348148664664348348148664664348348148664664348348148664664348348148664664348348148664664348348148664664348348148664664348348148664664348348148664664348348148664664348348148664664348348148664664348348148664664348348148664664348348148664664348348148664664348348148664664348348148664664348348148664664348348148664664348348148664664348348148664664348348148664664348348148664664348348148664664348348148664664348348148664664348348148664664348348148664664348348148664664348348148664664348348148664664348348148664664348348148664664348348148664",0,0
+87,"Question: The blood supply of the middle ear is derived from all except
+A. Postural nerves
+B. Muscles surrounding the tymมาร์ยามาเนิมายาาหรดินัน์
+C. Muscles surrounding the tymาร์ยามาเนิมายาาหรดินัน์
+D. Plexังอรรรราบอยาหรดินันี
+ง่ายๆๆรู้ว่าอยู่ดู๋งยังงอนี่ล่ะมิเทลอดอกมาไปมอกินล่ออกาหรดินันหรอกอนอนอกงอกงอนอินอนอกงอกอินอนอกงอกอนอนอกงอกอนอนอกงอกอนอนอกงอกอนอนอกงอกอนอนอกงอกอนอนอกงอกอนอนอกงอกอนอนอกงอกอนอนอกงอกอนอนอกงอกอนอนอกงอกอนอนอกงอกอนอนอกงอกอนอนอกงอกอนอนอกงอกอนอนอกงอกอนอนอกงอกอนอนอกงอกอนอนอกงอกอนอนอกงอกอนอนอกงอกอนอนอกงอกอนอน",1,1
+88,"Question:
+Let i = 0.037 + -0.03799837. Round i to seven decimal points.
+Answer:
+0.000001<|end_of_text|>",0,2
+89,"Question:
+Let d = -0.031 + 0.049999999999999999969348863654999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999",0,2
+90,"def add_to_set_if_statement(s):
+    """"""Add elements to a set based on condition specified by if statement""""""
+    set_ = set()
+    if s == True:
+        set_.append(s)
+    else:
+        set_.append(s)
+    return set_
+<|end_of_text|>",0,2
+91,"Question:
+What is the remainder when (-5)/((-10)/((-120)/(-6))) is divided by ((-6)/(-5))/((-21)/(-105)*2)?
+Answer:
+0<|end_of_text|>",0,2
+92,"Question:
+Let p = 0.01999999999999999966 + -0.01999999999999964. What is p rounded to seven decimal digits?
+Answer:
+0.000000001<|end_of_text|>",0,2
+93,"Question:
+Let i = -0.019 + -0.981. Let j = i + 0.99. Let v = -0.037 + j. Which is the closest to v?  (a) -2/9  (b) -1/4  (c) 0.5
+Answer:
+a<|end_of_text|>",0,2
+94,"Question:
+Let v = -2.8 + 2.6. Let w = v + 0.2. Let u = w + 0.00000866. Round u to six dps.
+Answer:
+0.000008<|end_of_text|>",0,2
+95,"Question:
+Let u = 0.068 + -0.06699999999999999966. Round u to seven decimal digits.
+Answer:
+0.000000001<|end_of_text|>",0,2
+96,"Question:
+Let f = 0.037 + 0.163. Let i = f + -0.2. Let p = i + 0.117999654. Round p to seven decimal points.
+Answer:
+0.000000651<|end_of_text|>",0,2
+97,"Question:
+Let i = 0.5 + -0.3. Let u = i + 0.068999998. What is u rounded to seven decimal digits?
+Answer:
+0.000000001<|end_of_text|>",0,2
+98,"Question:
+Let p = -4.35 + 4. Let v = p + -0.35. Which is the closest to v?  (a) -3  (b) -1/7  (c) -2/9
+Answer:
+c<|end_of_text|>",0,2
+99,"def complex_arithmetic_operations_with_complex_numbers():
+    """"""This function calculates the product of two complex numbers""""""
+    x = complex_number_one()
+    y = complex_number_two()
+    product = x*y
+    return product<|end_of_text|>",0,2

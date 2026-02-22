@@ -1,0 +1,467 @@
+seed,generated_text,occurrence,coherence
+0,"Question:Write a Python code snippet to Display Low Hygiene in shared spaces: Respecting Hygiene Guidelines in und und. Include a Link zum Download. Die Ladezeiten, die bei uns zu finden sind, ist auf 3. Die Ladezeiten, die bei uns zu finden sind, ist auf 3. Lade. Lade. In. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20. 21. 22. 23. 24. 25. 26. 27. 28. 29. 30. 31. 32. 33. 34. 35. 36. 37. 38. 39. 40. 41. 42. 43. 44. 45. 46. 47. 48. 49. 50. 51. 52. 53. 54. 55. 56. 57. 58. 59. 60. 61. ",1,1
+1,"Question:
+Let d = 0.2 + -0.3. Let s = 0.2 + d. Let b = -0.1 + s. What is b rounded to 1 dp?
+Answer:
+-0.1<|end_of_text|>",0,2
+2,"Question:
+Let l = -3.4 - -3. Let m = 0.2 - l. Let w = -0.2 + m. Which is the closest to 0.1?  (a) 1  (b) 0.2  (c) w
+Answer:
+b<|end_of_text|>",0,2
+3,"Question:
+Let g = 0.11 - -0.49. Let k = 0.6 - g. Let m = -0.3 + k. What is m rounded to 0 dps?
+Answer:
+-4<|end_of_text|>",0,2
+4,"Question:
+Let v = 0.02 - 0.02. Let t = 0.03 + v. Let k = 0.07 - t. What is k rounded to 2 dps?
+Answer:
+0.1<|end_of_text|>",0,2
+5,"Question: A 5 year old child was brought to the OPD. The patient is afebrile, the rest of the clinical and the laboratory. Anamnese, was negative. No. of 3. 1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20. 21. 22. 23. 24. 25. 26. 27. 28. 29. 30. 31. 32. 33. 34. 35. 36. 37. 38. 39. 40. 41. 42. 43. 44. 45. 46. 47. 48. 49. 50. 51. 52. 53. 54. 55. 56. 57. 58. 59. 60. 61. 62. 63. 64. 65. 66. 67. 68. 69. 70.",1,1
+6,"def set_ternary(my_set, condition, true_value, false_value):
+    """"""
+    Given a set, a condition, a true value, and a false value, add the
+    condition to the set if the condition is true, and the false value
+    otherwise. The set is not a valid set, as it is not a valid set.
+    """"""
+    my_set = {x for x in my_set if condition(x)}
+    my_set = my_set | {x for x in my_set if not condition(x)}
+    my_set = my_set | {x for x in my_set if x == true_value}
+    my_set = my_set | {x for x in my_set if x == false_value}
+    return my_set
+<|end_of_text|>",0,2
+7,"# 2.1: The 5-Element
+2.1.1: 5-Element
+2.1.2: 5-Element
+2.1.3: 5-Element
+2.1.4: 5-Element
+2.1.5: 5-Element
+2.1.6: 5-Element
+2.1.7: 5-Element
+2.1.8: 5-Element
+2.1.9: 5-Element
+2.1.10: 5-Element
+2.1.11: 5-Element
+2.1.12: 5-Element
+2.1.13: 5-Element
+2.1.14: 5-Element
+2.1.15: 5-Element
+2.1.16: 5-Element
+2.1.17: 5-Element
+2.1.18: 5-Element
+2.1.19: 5-Element
+2.1.20: 5-Element
+2.1.21: 5-Element
+2.1.22: 5-Element
+2.",0,0
+8,"Question: In a 35 year old man, a 1.5 cm, 1.5 x 2.5 cm, well
+circumscribed, nontumorigenic, radiol. - und. P. und. 2. 1.5 x 2.0 cm. und. 2. 1.0 x 1.5 cm. R. be. und. 1.5 x 2.0 cm. 1.0 x 1.0 cm. 2. 1.0 x 2.0 cm. 2. 1.0 x 2.0 cm. 1.5 x 2.0 cm. 2. 1.0 x 2.0 cm. 2. 1.0 x 2.0 cm. 1.5 x 2.0 cm. 2. 1.0 x 2.0 cm. 1.0 x 2.0 cm. 2. 1.0 x 2.0 cm. 1.0 x 2.0 cm. 2. 1.0 x 2.0 cm. 1.0 x ",1,0
+9,"Question:
+Let x = -0.1 - -0.1. Let p = 0.1 + x. Let l = 0.1 - 0.1. What is the nearest to 1/4 in l, p, 1?
+Answer:
+l<|end_of_text|>",0,2
+10,"Question:Create a C# script to check if a string is in a given list. If so, print ""in list"". If not, print ""not in list"". If the string is in a list, the number of elements in the list should be displayed.<|end_of_text|>",0,2
+11,"Question: A 4.5 kg baby is born. The mother has a 10 mm Hg blood pressure. The baby has a low Apgar, 6. What is the best next step?
+A. No treatment
+B. Immediate L. am. B. 1. 0. 1. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. ",0,1
+12,"Question:
+Let n = 0.5 + -0.4. Let f = 0.3 - n. Let t = -0.3 - f. What is the nearest to 0.2 in 0.1, t, 0.4?
+Answer:
+t<|end_of_text|>",0,2
+13,"def count_infinite_loops(my_list):
+    """"""Write a for loop to iterate over the elements in my_list, and
+    count the number of times a ""infinite"" loop is executed.
+    The ""infinite"" loop is a loop that never ends, but it is
+    not an ""infinite"" loop in the usual sense, it is a loop
+    that has an infinite number of iterations.
+    In this case, an ""infinite"" loop is a loop that has an
+    unbounded number of iterations, which is a ""infinite"" loop
+    in the sense of the ""infinite"" loop.
+    """"""
+    count = 0
+    for element in my_list:
+        if element in my_list:
+            count += 1
+    return count
+<|end_of_text|>",0,2
+14,"Question:Design a C# - C#-.Net-Programm, das die Klasseneigenschaft ""gilt"" in C# und ""wurde"" in C#.Net. Die Klasseneigenschaft ""gilt"" in C# und ""wurde"" in C#-Net.<|end_of_text|>",1,2
+15,"Question:
+Let y = 0.01 - 0.31. Let m = -0.5 - -0.8. Let s = y - m. Round s to 0 decimal places.
+Answer:
+-3<|end_of_text|>",0,2
+16,"Question:
+Let j = 0.03 + 0.22. Let b = 0.2 + j. Let l = -0.2 - b. What is l rounded to 1 dp?
+Answer:
+-0.1<|end_of_text|>",0,2
+17,"Question:
+Let f = 0.2 - 0.1. Let h = 0.3 + 0.2. Let k = h - f. What is k rounded to 1 dp?
+Answer:
+-0.3<|end_of_text|>",0,2
+18,"Question:
+Let y = 3.8 - 3.4. Let u = -2.8 + y. Let p = u - -2.1. What is p rounded to 1 dp?
+Answer:
+1.1<|end_of_text|>",0,2
+19,"Question:Build a Java module snippet that Transforms Low Flossing: Correct Flossing Technique for Analysis for Experts. Incorporate if/else or switch/case statements to handle different cases based on the Trust. Ensure your control flow is well-documented with comments explaining your approach.
+
+Solution:Here is a possible implementation of this requirement in java:
+
+1. Start mit der Klasse ""Floss"" (flosse), die die korrekte Flosfahrt abgab. 
+2. Verwende die Klasse ""Flos"" in der Klasse ""Flosfahrt"" (flosfahrt) um die Flosfahrt abzub. 
+3. Erstelle eine Klasse ""Flosfahrt"" (flosfahrt) um die Flosfahrt abzub. 
+4. Füge diese Klasse in die Klasse ""Flos"" (flos) ein. 
+5. Erstelle eine Klasse ""Flosfahrt"" (flosfahrt) um die Flosfahrt abzub. 
+6. Füge diese Klasse in die Klasse ""Flos"" (flos) ein",1,1
+20,"Question:Build a C# module snippet that Checks High Handwashing und Gesund ist, und siehe: https://de.wikipedia.org/wiki/Highhandwäsche. Your C#-M
+<|end_of_text|>",1,1
+21,"Question:
+Let g = 0.1 + -0.3. Let j = 0.1 + g. Let k = 0.1 + j. What is k rounded to 1 dp?
+Answer:
+-0.2<|end_of_text|>",0,2
+22,"Question: Which of the following is a common site of
+A. Carotin
+B. Pflanzen
+C. Tann
+D. Lignin
+Answer: D<|end_of_text|>",1,2
+23,"Question: Which of the following is not a feature of atherosclerotic B/L Carotid aery?
+A. High Intenstion
+B. B/L
+C. W. B. B. A. B. A. B. A.
+D. B. B. A. B. A. B. A.
+Answer: B<|end_of_text|>",0,1
+24,"Question: The best method to diagnose a 9.8-cm (3.8- in. long) transmural, aorto-iliakn. E. in 2.5-4.0 kg. schweren, 2. 1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20. 21. 22. 23. 24. 25. 26. 27. 28. 29. 30. 31. 32. 33. 34. 35. 36. 37. 38. 39. 40. 41. 42. 43. 44. 45. 46. 47. 48. 49. 50. 51. 52. 53. 54. 55. 56. 57. 58. 59. 60. 61. 62. 63. 64. 65. 66. 67. ",1,1
+25,# H. P. L. 1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20. 21. 22. 23. 24. 25. 26. 27. 28. 29. 30. 31. 32. 33. 34. 35. 36. 37. 38. 39. 40. 41. 42. 43. 44. 45. 46. 47. 48. 49. 50. 51. 52. 53. 54. 55. 56. 57. 58. 59. 60. 61. 62. 63. 64. 65. 66. 67. 68. 69. 70. 71. 72. 73. 74. 75. 76. 77. 78. 79. 80. 81. 82. 83.,0,0
+26,"Question:
+Let b = -4.1 + 4. Let l = 0.1 + b. Let w = -0.1 + l. What is the closest to w in -0.2, 2, 5?
+Answer:
+-0.2<|end_of_text|>",0,2
+27,"Question:Develop a Python program to check, whether a given number is a multiple of 3. The program should use an if-else- und eine for-Schleife.<|end_of_text|>",1,2
+28,"Question:
+Let t = 0.05 - 0.05. Let a = 0.2 - 0.1. Let h = a - 0.2. What is the nearest to 0.1 in h, t, -2/9?
+Answer:
+h<|end_of_text|>",0,2
+29,"Question:Write a Julia code snippet to Update Low Flossing: Correct Flossing Technique for Analysis for Experts. Consider the Privacy und implement appropriate if/else oder switch/case. Be specific in your und. Explain what each part of the if/else oder switch/case does, und document all possible input und und. Implement a robust und, so dass die Ergebnisse korrekt sind.<|end_of_text|>",1,2
+30,"Question:
+Let y = 0.02 - -0.18. Let s = 0.2 - y. Let u = s - 0.4. What is u rounded to 1 dp?
+Answer:
+-0.4<|end_of_text|>",0,2
+31,"Question:
+Let m = -1.07 - -1. Let a = m + 0.03. Let n = 0.04 - 0.08. What is the closest to a in -2, n, 1?
+Answer:
+n<|end_of_text|>",0,2
+32,"Question:
+Let i = 0.002 - -0.038. Let b = 0.06 + i. Let g = 0.07 - b. What is g rounded to 1 dp?
+Answer:
+0.1<|end_of_text|>",0,2
+33,"def analyze_rock_formation(rock_formation):
+    """"""
+    Analyze a rock formation and return a list of the
+    most common mineral types.
+    """"""
+    # Initialize an empty list to store the mineral types
+    mineral_types = []
+
+    # Loop through the rock formation and
+    # extract the mineral types
+    for mineral in rock_formation:
+        # Add the mineral to the list of mineral types
+        mineral_types.append(mineral)
+
+    # Sort the list of mineral types
+    mineral_types = sorted(mineral_types, key=abs, reverse=True)
+
+    # Return the list of mineral types
+    return mineral_types
+<|end_of_text|>",0,2
+34,"Question: Which of the following is a common cause of an acute, febrile, undetecable, sub-acute, self-limited, undiagnosable, undetetabes, und bestragte, und nicht mit E. Coli, E. S. und B. M. verknupftes, subkutane, seltene, nicht sichtbare, nicht erkanbare, nicht durch Mikrobiogramm ermittelbare, nicht durch Röntgen, nicht durch Computertomographie, nicht durch M. R. und nicht durch R. T. diagnostizierbar, sicht- und durchfassbar, sicht- und durchfassbar, sicht- und durchfassbar, sicht- und durchfassbar, sicht- und durchfassbar, sicht- und durchfassbar, sicht- und durchfassbar, sicht- und durchfassbar, sicht- und durchfassbar, sicht- und durchfassbar, sicht- und durchfassbar, sicht- und durchfassbar, sicht- und durchfassbar, sicht",1,1
+35,"Question:
+What is 0.2 take 2.7, 2.1, 2.3, 2.2, 2.0, 1.7?
+Answer:
+1.5<|end_of_text|>",0,2
+36,"Question:
+Let r = 0.6 + -0.6. Let v = 0.1 + r. Let s = -0.1 - v. What is the second smallest value in s, 0.4, -0.5?
+Answer:
+-0.5<|end_of_text|>",0,2
+37,"# 1996 U. S. Open (Tennis)
+
+Die 1996 U. S. Open war ein Tennis- und Billardturnier in New York. Es war das 20. Turnier der U. S. Open, die 1. Turnier in der Tennis- und Billard-Welt. Die U. S. Open fand vom 1. bis 9. August 1996 in New York statt. Der 1996 U. S. Open wurde in der Tennis- und Billard-Welt erstmals in der Tennis- und Billard-Welt. Es wurde in der Tennis- und Billard-Welt erstmals in der Tennis- und Billard-Welt erstmals in der Tennis- und Billard-Welt erstmals in der Tennis- und Billard-Welt erstmals in der Tennis- und Billard-Welt erstmals in der Tennis- und Billard-Welt erstmals in der Tennis- und Billard-Welt erstmals in der Tennis- und Billard-Welt erstmals in der Tennis- und Billard-Welt erstmals in der Tennis- und Billard-Welt erstmals in der Tennis- und Billard-Welt erstm",1,1
+38,"Question:
+What is 4.8 less than 0.3?
+Answer:
+-4.5<|end_of_text|>",0,2
+39,"Question:
+Let t = -0.12 + 0.5. Let k = t - 0.6. Let m = 0.2 + k. What is m rounded to 0 dps?
+Answer:
+0<|end_of_text|>",0,2
+40,"# St. L. C. (Berga) 1. FC 07
+
+Der St. L. C. (Berga) 1. FC 07, kurz St. L. C. 07, ist ein 2019 gegründeter Fußballverein aus Berga, einer Stadt im Landkreis Hohenlohe. Die 2019 gegründete Mannschaft der 1. F. C. 07, die sich in der Kreisliga Hohenlohe, ist in der Saison 2019/20 in der Kreisliga B. Die Vereinsfarben sind Blau-Weiß. Die Heimspiele werden im Heimstättenstadion, einer ehemaligen Turnhalle, in Berga ausgetragen. Die Mannschaft hat 2020/21 in der Kreisliga A, der höchsten Spielklasse im Landkreis Hohenlohe, in die Landesliga aufgestiegen.
+
+## Geschichte
+
+Die Vereinsgründung erfolgte am 1. August 2019. Die 1. F. C. 07, die sich in der Kreisliga B, der drit",1,2
+41,"Question:
+Let a = -1.1 + 0.7. Let j = -2.2 + a. Let h = 0.2 - j. What is h rounded to 1 dp?
+Answer:
+-0.2<|end_of_text|>",0,2
+42,"Question: In a 3 month old infant, a 2.0 kg, 15 cm, 10 kg, 60 cm. R. (H. influenzae) was isolated. The most likely source of infection was
+A. Hand
+B. Nasal
+C. G. an. 3
+D. G. an. 2
+Answer: C<|end_of_text|>",0,2
+43,"Question:
+Let k = -0.2 + 0.2. Let w = 0.2 - 0.4. Let v = w - 0.1. What is the closest to k in -1, v, 0.3?
+Answer:
+v<|end_of_text|>",0,2
+44,"Question:
+Let k = 2.1 + 0.9. Let m = -0.8 - k. Let n = 0.4 + m. What is n rounded to 1 dp?
+Answer:
+-0.4<|end_of_text|>",0,2
+45,"Question: A 9 year old boy is brought to the emergency in a D. A. in a drowe. He has a. 2, 4, 5, 6, 7, 8, 9, 10. 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30. 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78",0,0
+46,"Question:Build a Java module snippet that Transforms High Handwashing und Gesundheitsanf
+, und 4. Handse. A. In die Hand. B. In den F. C. In die Hand. D. In den F. 5. In die Hand. E. In die. F. In die. 6. In die. G. In die. 7. In die. H. In die. 8. In die. 9. In die. 10. In die. 11. In die. 12. In die. 13. In die. 14. In die. 15. In die. 16. In die. 17. In die. 18. In die. 19. In die. 20. In die. 21. In die. 22. In die. 23. In die. 24. In die. 25. In die. 26. In die. 27. In die. 28. In die. 29. In die. 30. In die. 31. In die. 32. In die. 33. In die. 34. In die. 35.",1,1
+47,"# A 2.2 GHz, 0.5 m, 1.2 m, 0.1 m, 0.2 m, 0.5 m, 1.2 m, 0.1 m, 0.2 m, 0.5 m, 1.2 m, 0.1 m, 0.2 m, 0.5 m, 1.2 m, 0.1 m, 0.2 m, 0.5 m, 1.2 m, 0.1 m, 0.2 m, 0.5 m, 1.2 m, 0.1 m, 0.2 m, 0.5 m, 1.2 m, 0.1 m, 0.2 m, 0.5 m, 1.2 m, 0.1 m, 0.2 m, 0.5 m, 1.2 m, 0.1 m, 0.2 m, 0.5 m, 1.2 m, 0.1 m, 0.2 m, 0.5 m, 1",0,0
+48,"Question: In a 5 year old, 2/5 of the bone in the
+periosteum was eroded. The most
+likely diagnosis is
+A. Osteoplasia
+B. Osteosarcoma
+C. Osteofibrose
+D. Osteoschrose
+Answer: B
+Explanation: (B) Osteosarcoma# Osteosarcomas are the most common primary bone tumor in children. They are usually benign, but in 10% of the cases are they malignant, so in 10-20% of the cases. In 2-5% of the cases are osteosarcomas of the extremite, in 1-2% of the mesen. 5.0% of all osteosarcomas. In 80-90% of the cases is a local, her- oder heranwachsende, in 10-20% ist eine entz. (tum. Tum. D. A. H. 5.0. In 1-2. 5. 0. 0. 0. 0. 0. 0. 0. 0.",1,1
+49,"Question:Design a Java program to Calculate the Sum of a 2D-Array. The 2D-Array is in the form of a String. The String is in the format ""a b c d a b c d a b c d..."". The ""a"" is the first column, the ""b"" the second, and so on. The ""c"" is the first row, ""d"" the second, and so on. The ""a"" to ""d"" are the elements of the 2D-Array. The ""a"" is the first element of the 2D-Array, ""b"" is the second, ""c"" the third, and so on. The ""a"" to ""d"" are the elements of the 2D-Array. The ""a"" is the first element of the 2D-Array, ""b"" is the second, ""c"" the third, and so on. The ""a"" to ""d"" are the elements of the 2D-Array. The ""a"" is the first element of the 2D-Array, ""b"" is the second, ""c"" the third, and so on. The ""a"" to ""d""",0,2
+50,"Question:
+Let g = 0.2 - 0.2. Let z = 0.2 + 0.2. Let l = 0.3 + z. What is the closest to g in l, 1/4, 2/3?
+Answer:
+l<|end_of_text|>",0,2
+51,"Question:Create a C# script snippet that Transforms High Hygiene in a Restaurant: Cleaning Fingernägel und Füßern. Implemente eine Methode, die eine Anwendung der hygrometrischen Messwerte in der Restaurant. Sollten die Messwerte nicht ermittelt werden, so werden die Anwender mit einem ""Fehlern"" benachrichtigt. Die Anwender können in dieser Falle eine ""Fehlern"" aus. Die Anwender können in dieser Falle eine ""Fehlern"" aus. Die Anwender können in dieser Falle eine ""Fehlern"" aus. Die Anwender können in dieser Falle eine ""Fehlern"" aus. Die Anwender können in dieser Falle eine ""Fehlern"" aus. Die Anwender können in dieser Falle eine ""Fehlern"" aus. Die Anwender können in dieser Falle eine ""Fehlern"" aus. Die Anwender können in dieser Falle eine ""Fehlern"" aus. Die Anwender können in dieser Falle eine ""Fehlern"" aus. Die Anwender können in dieser F",1,1
+52,"def is_in_list(s, l):
+  """"""
+  Checks, ob ein Element in einer Liste ist.
+  :param s: Ein Element
+  :param l: Die Liste
+  :return: True, wenn in der Liste
+  """"""
+  if s in l:
+    return True
+  else:
+    return False
+<|end_of_text|>",1,2
+53,"Question:
+What is 0.2 - 0.025?
+Answer:
+0.175<|end_of_text|>",0,2
+54,"Question:Create a Python script snippet that Transforms Low Hygiene in shared und private Flächen in der Gesundheitskommun. The Text in the question is a Text, the answer should also be in a Text. In the following, we will go in the order of ""1. Input"", ""2. Text in der Klasse"" und ""3. Text in der Klasse und 4. Text in der Klasse"" und ""5. Text in der Klasse und 6. Text in der Klasse"" und ""7. Text in der Klasse und 8. Text in der Klasse"". In the ""Text in der Klasse"" we are to go in ""9. Text in der Klasse und 10. Text in der Klasse"" und ""11. Text in der Klasse und 12. Text in der Klasse"" und ""13. Text in der Klasse und 14. Text in der Klasse"" und ""15. Text in der Klasse und 16. Text in der Klasse"" und ""17. Text in der Klasse und 18. Text in der Klasse"" und ""19. Text in der Klasse und 20. Text in der Klasse""",1,2
+55,"def get_first_100_undertakungen(undertakungen, max_undertag, max_zeit):
+    """"""Gibt die 100 ersten, die am 1. und 2. Jan. 2020 an
+    und die 100 ersten, die am 1. und 2. Jan. 2021 an
+    ab.
+    
+    # Tests
+    get_first_100_undertag(undertag, max_undertag, 0)
+    # Test 1
+    assert get_first_100_undertag(2020, 1, 1) == 100
+    # Test 2
+    assert get_first_100_undertag(2021, 1, 1) == 100
+    # Test 3
+    assert get_first_100_undertag(2020, 2, 1) == 99
+    # Test 4
+    assert get_first_100_undertag(2021, 2, 1) == 98
+    # Test 5
+    assert get_first_100_undertag(2020, 3, 1) == 97
+   ",1,2
+56,"Question:
+What is 0.5 of a tonne in kilograms?
+Answer:
+500<|end_of_text|>",0,2
+57,"Question:
+Let w = -0.1 + 0.3. Let b = -0.4 + 0.3. Let f = -0.2 - b. What is the smallest value in f, w, 0?
+Answer:
+f<|end_of_text|>",0,2
+58,"def create_artwork(artwork, color, size, position, orientation, is_undisturbed, is_undisturbed, is_undisturbed, is_undisturbed, is_undisturbed, is_undisturbed, is_undisturbed, is_undisturbed, is_undisturbed, is_undisturbed, is_undisturbed, is_undisturbed, is_undisturbed, is_undisturbed, is_undisturbed, is_undisturbed, is_undisturbed, is_undisturbed, is_undisturbed, is_undisturbed, is_undisturbed, is_undisturbed, is_undisturbed, is_undisturbed, is_undisturbed, is_undisturbed, is_undisturbed, is_undisturbed, is_undisturbed, is_undisturbed, is_undisturbed, is_undisturbed, is_undisturbed, is_undisturbed, is_undisturbed, is_undisturbed, is_undisturbed, is_undisturbed, is_undisturbed, is_undisturbed,",0,0
+59,"def find_repetitve_elements(my_list, n, m, k, max_length):
+    """"""Find the nth element in a list of m elements, which is at least k, in a list of m, at most k, in a list of m, and in a list of m, at most k, in a list of m, at most k, in a list of m, at most k, in a list of m, at most k, in a list of m, at most k, in a list of m, at most k, in a list of m, at most k, in a list of m, at most k, in a list of m, at most k, in a list of m, at most k, in a list of m, at most k, in a list of m, at most k, in a list of m, at most k, in a list of m, at most k, in a list of m, at most k, in a list of m, at most k, in a list of m, at most k, in a list of m, at most k, in a list of m, at most k, in a list of m, at most k,",0,1
+60,"Question:Develop a C# program snippet to Check High Hygiene in shared spaces: Respecting Distance, Hygrosanitierung, und mehr. Implemente eine effiziente Software, die einen guten Umgang mit der Hygiene in der Gemeinschaft ermöglicht. Lasse dich von der Debatte inspirieren und mache einen Beitrag zu einer besseren Gesundheit. Kombiniere Wissen und Erfahrung, um die Ressourcen effizient zu nutzen. Biete ein kundfreundliches, effizien- und effizienkundliches Anbieten an. Lasse dich von der Debatte inspirieren und mache einen Beitrag zu einer besseren Gesundheit. Kombiniere Wissen und Erfahrung, um die Ressourcen effizien zu nutzen. Biete ein kundfreundliches, effizien- und effizienkundliches Anbieten an.
+     public  void  CheckHygrosanitierung(  )  {
+         // Die hygrosanitierende Maßnahme wird hier erledigt
+     public  void  RespektHygrosanit(  )  {
+",1,1
+61,"Question:
+Let l = 0.1 - 0.1. Let p = 0.1 + l. Let b = -0.2 - p. What is b rounded to 2 decimal places?
+Answer:
+-0.2<|end_of_text|>",0,2
+62,"def geospatial_analysis(geometries, start, end, step):
+    """"""
+    This function performs a geospatial analysis of a set of geometries.
+    The analysis is performed in a loop, where the geometries are iterated over.
+    The analysis is performed in a 3D space, and the result is a 3D array.
+    The 3D array is a 3D array, where the first dimension is the x- und y- Koordinaten, the
+    second dimension is the z- Koordinaten, and the third dimension is the 3D- Koordinaten.
+    The 3D- Koordinaten werden in der 3D- Koordinaten- Array in einer 3D- Koordinaten- Struktur
+    gespeichert.
+    Die 3D- Koordinaten werden in einer 3D- Koordinaten- Struktur gespeichert, die in einer 3D- Koordinaten- Struktur
+    gespeichert.
+    Die 3D- Koordinaten werden in einer 3D- Koordinaten- Struktur gespeichert, die in einer 3D- Koordinaten- Struktur
+    gespe",1,1
+63,"Question:
+Let h = -0.1 + 0.1. Let p = 0.6 - h. Let n = 0.4 + p. What is n rounded to 0 decimal places?
+Answer:
+0<|end_of_text|>",0,2
+64,"Question:
+Let i = -0.2 + 0.2. Let b = -1.1 + 1. Let v = i - b. Is v at most 1?
+Answer:
+True<|end_of_text|>",0,2
+65,"Question:
+Let k = -0.2 - -0.2. Let p = k + 0.3. Let j = -0.4 - -0.4. What is the nearest to 1 in p, j, 2?
+Answer:
+j<|end_of_text|>",0,2
+66,"Question: In a 4 year old child, the treatment of a 2 cm. Intra- und 2.0 cm. Submandibulare, e. Tumst. und 1.0 cm. In der unteren, 0.5 cm. In der oberen, 0.5 cm. In der oberen, 0.5 cm. In der unteren, 0.5 cm. In der unteren, 0.5 cm. In der unteren, 0.5 cm. In der unteren, 0.5 cm. In der unteren, 0.5 cm. In der unteren, 0.5 cm. In der unteren, 0.5 cm. In der unteren, 0.5 cm. In der unteren, 0.5 cm. In der unteren, 0.5 cm. In der unteren, 0.5 cm. In der unteren, 0.5 cm. In der unteren, 0.5 cm. In der unteren, 0.5 cm. In der unteren, 0.5 cm. In der unteren, 0.5 cm.",1,1
+67,Question:Design a Python function to determine the sum of a list of numbers. The function should take a list of numbers as an argument and return the sum. The list of numbers can be of any length. The function should be as short as possible.<|end_of_text|>,0,2
+68,"Question:
+What is 3.9 - 0.1?
+Answer:
+3.8<|end_of_text|>",0,2
+69,"Question:
+Let i = 0.1 + 0. Let k = -0.1 + i. Let b = 0.1 + k. What is b rounded to 1 dp?
+Answer:
+0.2<|end_of_text|>",0,2
+70,"Question: A 4 year old girl has a 1.5-cm, 1.1-cm, and 0.5-cm, respectively, right, left, and. undetected, 1.5-cm, 1.1-cm, and 0.5-cm, respectively, undetected, 1.5-cm, 1.1-cm, and 0.5-cm, respectively, 1.5-cm, 1.1-cm, and 0.5-cm, respectively, 1.5-cm, 1.1-cm, und 0.5-cm, 1.1-cm, und 0.5-cm, 1.5-cm, 1.1-cm, 0.5-cm, 1.5-cm, 1.1-cm, 0.5-cm, 1.5-cm, 1.1-cm, 0.5-cm, 1.5-cm, 1.1-cm, 0.5-cm, 1.5-cm, 1.1-cm, ",1,1
+71,"Question:
+Let a = 0.3 - 0.2. Let r = 0.3 - a. Let i = 0.4 - r. What is i rounded to 1 dp?
+Answer:
+0.2<|end_of_text|>",0,2
+72,"Question:
+Let m = 0.4 + 0. Let n = 0.2 - m. Let l = 0.6 + n. Which is the nearest to l?  (a) -2  (b) 2  (c) 1/2
+Answer:
+c<|end_of_text|>",0,2
+73,"def is_zebra(zebra, color, fur):
+    """"""
+    This function checks if a zebra is a zebra, based on a given color and fur.
+    :param zebra: The zebra to be checked.
+    :param color: The color of the zebra.
+    :param fur: The fur of the zebra.
+    :return: A boolean, if the zebra is a zebra.
+    """"""
+    if zebra == ""zebra"" and color in (""bunt, grün, rot, weiß, dunkel, braun, blau, gelb, rot, rot, rot, rot, rot, rot, rot, rot, rot, rot, rot, rot, rot, rot, rot, rot, rot, rot, rot, rot, rot, rot, rot, rot, rot, rot, rot, rot, rot, rot, rot, rot, rot, rot, rot, rot, rot, rot, rot, rot, rot, rot, rot, rot, rot, rot, rot, rot, rot, rot, rot, rot, rot, rot, rot, rot, rot, rot, rot, rot, rot, rot, rot, rot, rot,",1,1
+74,"def get_undesireables(undesireables, desirables, desirabes, wunschbaren, wunschlos, wunschkonig, wunschtum, wunschtum, wunschtum, wunschtum, wunschtum, wunschtum, wunschtum, wunschtum, wunschtum, wunschtum, wunschtum, wunschtum, wunschtum, wunschtum, wunschtum, wunschtum, wunschtum, wunschtum, wunschtum, wunschtum, wunschtum, wunschtum, wunschtum, wunschtum, wunschtum, wunschtum, wunschtum, wunschtum, wunschtum, wunschtum, wunschtum, wunschtum, wunschtum, wunschtum, wunschtum, wunschtum, wunschtum, wunschtum, wunschtum, wunschtum, wunschtum, wunschtum, wunschtum, wunscht",1,0
+75,"Question: A 3 year old child has an amine in her urine. The most likely cause is
+A. Alkohol
+B. Drogen
+C. Schlaftap
+D. Dusche
+E. Narkose
+Answer: B<|end_of_text|>",1,2
+76,"Question:
+Let r = 0.1 - -0.1. Let d = -0.4 + r. Let g = -1.2 + d. What is g rounded to 1 dp?
+Answer:
+-0.3<|end_of_text|>",0,2
+77,"def create_astronomical_data(planet, start, stop, step, data):
+  """"""Create a list of data for a planet, using a
+  for loop, an if statement, and a list of all
+  the possible data. The list of all data
+  should be a list of all data, with an
+  ""n"" in the ""n"" of ""n"" in the ""n"" of ""n""
+  in the ""n"" of ""n"" in the ""n"" of ""n""
+  in the ""n"" of ""n"" in the ""n"" of ""n""
+  in the ""n"" of ""n"" in the ""n"" of ""n""
+  in the ""n"" of ""n"" in the ""n"" of ""n""
+  in the ""n"" of ""n"" in the ""n"" of ""n""
+  in the ""n"" of ""n"" in the ""n"" of ""n""
+  in the ""n"" of ""n"" in the ""n"" of ""n""
+  in the ""n"" of ""n"" in the ""n"" of ""n""
+  in the ""n"" of ""n"" in the """,0,1
+78,"Question: A 22 year old man has a 4.0 L intravasation. The most common site is
+A. Sub- undic
+B. L. C. und. O. L. K. H. F. 1
+C. L. C. 2
+D. L. C. 3
+Answer: D<|end_of_text|>",0,2
+79,"Question:
+Let n = 0.023 - 0.033. Let f = n - -0.01. Let b = -0.1 + f. What is b rounded to 2 dps?
+Answer:
+-0.01<|end_of_text|>",0,2
+80,"Question:
+What is the next term in 12, 24, 36, 48, 60, 72?
+Answer:
+84<|end_of_text|>",0,2
+81,"Question:
+Let x = 2.6 - 2.5. Let a = 0.2 - 0.1. Let n = x - a. What is n rounded to 0 dps?
+Answer:
+0<|end_of_text|>",0,2
+82,"Question:
+Let g = 0.06 - 0.1. Let v = g + 0.09. Let k = 0.09 + v. Round k to 1 dp.
+Answer:
+0.1<|end_of_text|>",0,2
+83,"Question:
+What is the third biggest value in -1, 1, -2/3, -0.4?
+Answer:
+-1<|end_of_text|>",0,2
+84,"def update_undiscounted_items(inventory, update, undiscounted):
+  """"""
+  Update the inventory in a list of items, in case an item is in the list of undiscounted items. 
+  The list of items is a list of strings, in which an item is denoted by a ""X"" in the string. 
+  The ""undiscounted"" list of items is a list of strings, in which an item is denoted by a ""U"" in the string. 
+  The ""update"" list of items is a list of strings, in which an item is denoted by a ""U"" in the string. 
+  The ""update"" list of items is a list of strings, in which an item is denoted by a ""U"" in the string. 
+  The ""update"" list of items is a list of strings, in which an item is denoted by a ""U"" in the string. 
+  The ""update"" list of items is a list of strings, in which an item is denoted by a ""U"" in the string. 
+  The ""update"" list of items is a list of strings, in which an item is denoted by a """,0,1
+85,"def list_slicing_exercise(thera, t, s, p, s1, s2, s3, s4, s5, s6, s7, s8, s9, s10, s11, s12, s13, s14, s15, s16, s17, s18, s19, s20, s21, s22, s23, s24, s25, s26, s27, s28, s29, s30, s31, s32, s33, s34, s35, s36, s37, s38, s39, s40, s41, s42, s43, s44, s45, s46, s47, s48, s49, s50, s51, s52, s53, s54, s55, s56, s57, s58, s59, s60, s61, s62, s63, s64, s65, s66, s67, s68, s69, s70, s71, s72, s73, s74, s75, s76, s77, s78, s79, s80,",0,0
+86,"Question: In a 40 year old male, a 1.5 cm. mass in the 7th interkammonal. Parotid. Gland. Bi. 5. In. B. 4. In. B. 5. In. B. 4. In. B. 5. In. B. 4. In. B. 5. In. B. 4. In. B. 5. In. B. 4. In. B. 5. In. B. 4. In. B. 5. In. B. 4. In. B. 5. In. B. 4. In. B. 5. In. B. 4. In. B. 5. In. B. 4. In. B. 5. In. B. 4. In. B. 5. In. B. 4. In. B. 5. In. B. 4. In. B. 5. In. B. 4. In. B. 5. In. B. 4. In. B. 5. In. B. ",0,0
+87,"Question: The most common of the ""R"" in R. P. und. M. R. P. is
+A. R. P. = 0.9
+B. R. P. = 0.2
+C. R. P. = 1.0
+D. R. P. = 0.1
+Answer: D<|end_of_text|>",0,2
+88,"Question:
+Let w = 0.1 - -0.2. Let s = 0.1 + w. Let m = 0.1 + s. What is m rounded to 1 dp?
+Answer:
+-0.1<|end_of_text|>",0,2
+89,"Question:
+Let n = -0.6 - 0.4. Let m = 0.6 - n. Let d = 1.1 + m. What is d rounded to 1 dp?
+Answer:
+1<|end_of_text|>",0,2
+90,"def add_to_set(books, new_book, book_list):
+    """"""Add a new book to a set of books. The book is only added if it is not already in the set.
+    The book is only added, if the book is not in the book list. If the book is in the book list, it is not added.
+    The book is added to the set of books, if it is not in the book list. If the book is in the book list, it is not added.
+    """"""
+    # Add the book to the set of books
+    if book in book_list:
+        return
+    # Check, if the book is in the book list
+    if new_book in book_list:
+        # Add the book to the set of books
+        book_list.add(new_book)
+<|end_of_text|>",0,2
+91,"Question:
+What is the remainder when 103 is divided by 29?
+Answer:
+27<|end_of_text|>",0,2
+92,"Question:
+Let s = 2.2 - 2. Let g = 0.3 + 0. Let n = g - s. Round n to 2 decimal places.
+Answer:
+0.2<|end_of_text|>",0,2
+93,"Question:
+Let i = 0.001 - -1.999. Let j = 0.1 + i. Let f = -0.9 + 0.9. Which is the nearest to j?  (a) f  (b) 1/5  (c) 0
+Answer:
+a<|end_of_text|>",0,2
+94,Question:Build a Go module snippet that Transforms Low Flossing: Correct Flossing Technique for Analysis for Professionals. Incorporate if/else or switch/case statements to handle different cases based on the Trust. Ensure your code is well-structured und löslich. Test und kontrollieren dein Module.<|end_of_text|>,1,2
+95,"Question:
+Let h = 0.2 + 1.8. Let b = 0.8 - h. Let j = 0.2 + 0.2. Which is the closest to j?  (a) 1  (b) 0.4  (c) 0
+Answer:
+c<|end_of_text|>",0,2
+96,"# 2003 in Osteuropa
+
+Die Liste 2003 in Osteuropa enthält die wichtigsten in Osteuropa stattfindende, in der Region Osteuropa stattfindende, in Osteuropa stattgefundene und in Osteuropa stattgefundene, in Osteuropa stattgefundene, in Osteuropa stattgefundene, in Osteuropa stattgefundene, in Osteuropa stattgefundene, in Osteuropa stattgefundene, in Osteuropa stattgefundene, in Osteuropa stattgefundene, in Osteuropa stattgefundene, in Osteuropa stattgefundene, in Osteuropa stattgefundene, in Osteuropa stattgefundene, in Osteuropa stattgefundene, in Osteuropa stattgefundene, in Osteuropa stattgefundene, in Osteuropa stattgefundene, in Osteuropa stattgefundene, in Osteuropa stattgefundene, in Osteuropa stattgefundene, in Osteuropa stattgefundene",1,1
+97,"Question:
+Let j = 0.5 - -0.3. Let u = j + -0.8. Let v = 0.5 + u. What is v rounded to 1 dp?
+Answer:
+0.1<|end_of_text|>",0,2
+98,"Question:Develop a Java program to Display High Flossing: A Guide to Healthy Flossing for Denture. Implement if/else or switch/case statements to handle different cases. Dry run, test, and document your program.
+<|end_of_text|>",0,2
+99,"def set_intersection(sets, n):
+    """"""
+    Given a set of n n-ary (i.e. n-tupel) of sets, compute the set of all n-tupel, where each element is a set of all n-tupel, where each element is a set of all n-tupel, where each element is a set of all n-tupel, where each element is a set of all n-tupel, where each element is a set of all n-tupel, where each element is a set of all n-tupel, where each element is a set of all n-tupel, where each element is a set of all n-tupel, where each element is a set of all n-tupel, where each element is a set of all n-tupel, where each element is a set of all n-tupel, where each element is a set of all n-tupel, where each element is a set of all n-tupel, where each element is a set of all n-tupel, where each element is a set of all n-tupel, where each element is a set of all n-tupel, where each element is a set of",0,1

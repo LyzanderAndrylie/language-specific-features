@@ -1,0 +1,511 @@
+seed,generated_text,occurrence,coherence
+0,Question:Write a Python code snippet to Display Low Weather Forecastे के लिए इसे सेट करना के लिए ही एक बेसा सॉफ्टवेयर ये है आप को ही हो सकता है जो के एक बेसा सा ही हो सकता है के लिए से से ले करे से ले करे से ले करे से ले करे से ले करे से ले करे से ले करे से ले करे से ले करे से ले करे से ले करे से ले करे से ले करे से ले करे से ले करे से ले करे से ले करे से ले करे से ले करे से ले करे से ले करे से ले करे से ले करे से ले करे से ले करे से ले करे से ले करे से ले करे से ले करे से ले कर,1,1
+1,"Question:
+Let d = 0.03 + -0.13. Let s = 0.02 + d. Let u = -0.01 + s. What is the nearest to 0.1 in 0.2, 0.4, u?
+Answer:
+u<|end_of_text|>",0,2
+2,"Question:
+Let l = -3 + 5. Let c = 0.03 - 0.02. Let i = 0.03 + c. Which is the nearest to -0.1?  (a) l  (b) 0.2  (c) i
+Answer:
+c<|end_of_text|>",0,2
+3,"Question:
+Let x = 0.11 - -0.49. Let f = x + 0.3. Let m = -0.06 + f. Which is the closest to 0?  (a) m  (b) 2/7  (c) 3
+Answer:
+a<|end_of_text|>",0,2
+4,"Question:
+Let v = 0.02 - 0.02. Let i = 0.11 - 0.13. Let s = i - -0.05. What is the smallest value in s, v, 0?
+Answer:
+s<|end_of_text|>",0,2
+5,"Question:Build a TypeScript module (e.g., a library) that allows users to add a new attribute to a user account, such as email, password, gender, etc. These attributes should be added to the user account in a way that they are immutable, meaning they cannot be deleted or change. These attributes should also be able to be fetched from the user account.
+   The attribute should be added to the user account through the API, not through the UI.
+   The attribute should be saved into the user account in such a way that it is not possible to change it.
+   The attribute should be able to be fetched from the user account through the API.
+   The attribute should be able to be updated through the API.
+   The attribute should be able to be deleted through the API.
+   The attribute should be able to be added to the user account through the API.
+   The attribute should be able to be updated through the API.
+   The attribute should be able to be deleted through the API.
+   The attribute should be able to be added to the user account through the API.
+   The attribute should be able to be updated through the API.
+   The attribute should be able to be deleted through the API.
+   The attribute should be able to be added",0,1
+6,"def count_actors(actors):
+    """"""
+    Count the number of actors in a list.
+    
+    Args:
+        actors (list): A list of actors.
+    """"""
+    count = 0
+    for actor in actors:
+        if actor!= ""actor"":
+            count += 1
+    return count
+<|end_of_text|>",0,2
+7,# 2-डे ही लिए काेकेेाााेाेााेााेाेाेााेाेााेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाे,1,0
+8,Question:Build a Python module snippet that Checks High Security: Identity Verification for Engineer for Professionals. Incorporate if/ेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेे,1,0
+9,"Question:
+Let x = -0.1 - -0.1. Let p = 0.7 - 0.4. Let d = 0.3 - p. What is the nearest to x in 0.1, d, 0?
+Answer:
+0<|end_of_text|>",0,2
+10,Question:Create a Python script snippet that Transforms High Social Engagement: Social Media Advertising for Decisionate 2020-01-29 11:11:30 से बेहा के बारे में से जाेेाेाेाेेाेेाेेाेाेाेेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेा,1,1
+11,"Question: A 25-year-old man fell into a deep sleep after 10 minutes. On awakening he found that he is unable to move his limbs. His blood glucose is 300 mg/dL. Which of the following is the most probable diagnosis?
+A. Hyperviscosity syndrome
+B. Hypervascularia
+C. Delirium
+D. Narेंा के नला वाला रोगा
+Answer: A<|end_of_text|>",1,2
+12,"Question:
+Let n = 0.5 + -0.3. Let f = 0.3 - n. Let l = -0.3 - f. Which is the nearest to 0?  (a) 0  (b) 1  (c) l
+Answer:
+a<|end_of_text|>",0,2
+13,"Question:
+Let h = -0.05 + 0.05. Let i = 0.07 + 0.17. Let y = i - 0.19. Which is the closest to -2?  (a) h  (b) y  (c) 0.2
+Answer:
+a<|end_of_text|>",0,2
+14,Question:Build a Python module snippet that Transforms High Dental hygiene: Cleaning Tongue के लिए सुना हुआ खाना का सेले को हो गया है के साथ से बिखरा ही कााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााा,1,1
+15,"Question:
+Let y = 0.01 - 0.1. Let f = -0.06 - -0.8. Let s = f - -0.4. Which is the closest to y?  (a) 0.1  (b) s  (c) -2
+Answer:
+a<|end_of_text|>",0,2
+16,"Question:
+Let s = -0.03 + 0.2. Let y = 0.17 + s. Let l = -0.07 - y. Round l to 0 decimal placements.
+Answer:
+0<|end_of_text|>",0,2
+17,"Question:
+Let u = 0.03 - 0.04. Let x = 0.02 - 0.2. Let s = 0.1 - x. Which is the closest to -0.1?  (a) u  (b) s  (c) -0.1
+Answer:
+c<|end_of_text|>",0,2
+18,"Question:
+Let y = 3.8 - 3.4. Let o = -2.8 + 2. Let h = 2.0 + o. Which is the closest to -0.1?  (a) y  (b) 0  (c) h
+Answer:
+b<|end_of_text|>",0,2
+19,"Question:Build a Python module that takes a list of numbers and returns the sum of all the squares.
+Hint: Use the built-in function sqrt().
+Note: The sqrt() function is not part of the base Python package.
+The answer is 10.<|end_of_text|>",0,2
+20,"Question:Build a TypeScript module that calculates the square of a number.
+```
+function square(a: number): number {
+  return a * a;
+}
+```
+## Answers:
+  - 1: Use a switch statement. ``` switch (type) {   case 0:     return 0;   case 1:     return 1;   case 2:     return 2;   case 3:     return 3;   case 4:     return 4;   case 5:     return 5;   case 6:     return 6;   case 7:     return 7;   case 8:     return 8;   case 9:     return 9; } ```
+  - 2: Use a switch block. ``` switch (type) {   case 0:     return 0;   case 1:     return 1;   case 2:     return 2;   case 3:     return 3;   case 4:     return 4;   case 5:     return 5;   case 6:     return 6;   case 7:     return 7;   case 8:    ",0,2
+21,"Question:
+Let i = -0.1 + 0.3. Let y = 1.1 + i. Let h = 0.3 + y. Round h to 0 decimalया बारे के लिए से से के बारे के लिए से के बारे के लिए से के बारे के लिए से के बारे के लिए से के बारे के लिए से के बारे के लिए से के बारे के लिए से के बारे के लिए से के बारे के लिए से के बारे के लिए से के बारे के लिए से के बारे के लिए से के बारे के लिए से के बारे के लिए से के बारे के लिए से के बारे के लिए से के बारे के लिए से के बारे के लिए से के बार",1,1
+22,"Question: Which of the following is a component of the WHO’s National Programme for Prevention of Blindness?
+A. 1.00% Polाची
+B. 2.00% Polाचा
+C. 3.00% Polचा
+D. 4.00% Polचा
+Answer: C<|end_of_text|>",1,2
+23,"Question: Which is the largest muscle of leg?
+A. Tibialis Anterior
+B. Hamरे में
+C. गठाला
+D. अंडरा वाला
+Answer: A<|end_of_text|>",1,2
+24,Question:Write a C++ code snippet that Updates Low Weather Forecast: Temperature in Real-Time on Warnings Based on the Weather Forecast: Temperature for Engineer के लिए दिखाए वाले रिजले के सेे के लिए सेे के लिए सेे के लिए सेे के लिए सेे के लिए सेे के लिए सेे के लिए सेे के लिए सेे के लिए सेे के लिए सेे के लिए सेे के लिए सेे के लिए सेे के लिए सेे के लिए सेे के लिए सेे के लिए सेे के लिए सेे के लिए सेे के लिए सेे के लिए सेे के लिए सेे के लिए सेे के लिए सेे के लिए सेे के लिए सेे के लिए सेे के लिए सेे के लिए सेे के लिए स,1,1
+25,Question:Build a Python module snippet that Checks Low Dental hygiene: Brushing और सोचने के लिए पैटरा लेंटा है। का प्रता करता है। के पासे के लिए दिखे बैठा कर ले करा करा करा करा करा का मे से से ले करा का का से से ले करा का से ले करा का से ले करा का से ले करा का से ले करा का से ले करा का से ले करा का से ले करा का से ले करा का से ले करा का से ले करा का से ले करा का से ले करा का से ले करा का से ले करा का से ले करा का से ले करा का से ले करा का से ले करा का से ले करा का से ले करा क,1,0
+26,"Question:
+Let s = -4.25 + 0.25. Let x = 4.8 + s. Let p = x + 0.08. What is p rounded to one decimal place?
+Answer:
+-0.1<|end_of_text|>",0,2
+27,Question:Develop a Python program that Transforms Low Dental से के लिए को पुरे से के लिए डेले ले की से के ले के लिए ले से के ले के ले के ले से के ले के ले के ले से के ले के ले के ले से के ले के ले के ले से के ले के ले के ले से के ले के ले के ले से के ले के ले के ले से के ले के ले के ले से के ले के ले के ले से के ले के ले के ले से के ले के ले के ले से के ले के ले के ले से के ले के ले के ले से के ले के ले के ले से के ले के ले के ल,1,1
+28,"Question:
+Let n = 0.05 - 0.05. Let c = 0.2 - 0.1. Let h = c - 0.2. What is the nearest to 0.1 in -0.4, h, n?
+Answer:
+h<|end_of_text|>",0,2
+29,Question:Write a Python code snippet to Display Low Fitness: Heart Rate Zoneिखायेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेे,1,0
+30,"Question:
+Let n = -0.02 - -0.17. Let s = 0.05 - n. Let u = s - -0.03. What is u rounded to 0 decimal spots?
+Answer:
+-3<|end_of_text|>",0,2
+31,"Question:
+Let m = -1.07 - -0.07. Let i = 0.03 + -0.8. Let h = i + m. Which is the nearest to 0?  (a) 2/3  (b) 0  (c) h
+Answer:
+b<|end_of_text|>",0,2
+32,"Question:
+Let i = 0.002 - -0.094. Let x = 0.095 - i. Let l = x + -0.0935. What is l rounded to 2 decimal places?
+Answer:
+-0.01<|end_of_text|>",0,2
+33,"def analyze_ancient_archaeological_site(archaeological_site):
+    """"""Analyzing the archaeologists' findings on an ancient site.
+    
+    Args:
+        archaeological_site: A list of strings, each string representing a single artifact found on the site.
+    """"""
+    # Use a list comprehension to extract the first 5 artifacts from the list
+    first_5 = [artifact for artifact in archaeological_site if len(artifact) <= 5]
+    # Use a list comprehension to extract the last 5 artifacts from the list
+    last_5 = [artifact for artifact in archaeological_site if len(artifact) >= 5]
+    # Use a list comprehension to extract the first 10 artifacts from the list
+    first_10 = [artifact for artifact in archaeological_site if len(artifact) <= 10]
+    # Use a list comprehension to extract the last 10 artifacts from the list
+    last_10 = [artifact for artifact in archaeological_site if len(artifact) >= 10]
+    # Print the first 10 artifacts
+    print(""First 10 artifacts: "")
+    print(first_10)
+    # Print the last 10 artifacts
+    print(""Last 10 artifacts: "")
+    print(last_10)
+   ",0,2
+34,"Question:Write a Python code snippet that Checks High Hair Care: Conditioning और बालों के लिए कीकरना के से जोड़ने के लिए काेरने का कीकरा करता है।
+  - सरे में को बारे से के को पे से ही के से में के पे से के के के में के पे से के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के",1,1
+35,"Question:
+Let s = 0.029 + -0.289. Let i = 0.27 - 0.3. Let u = i + s. Which is the nearest to 0?  (a) u  (b) -0.4  (c) 0.1
+Answer:
+c<|end_of_text|>",0,2
+36,"Question:
+Let o = 0.6 + -0.2. Let r = 0.1 - o. Let s = -0.1 - -0.2. Which is the nearest to s?  (a) -0.5  (b) 2/7  (c) r
+Answer:
+c<|end_of_text|>",0,2
+37,# -*- केााेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेा,1,0
+38,"Question:
+What is 4.8 take away 0.3?
+Answer:
+4.5<|end_of_text|>",0,2
+39,"Question:
+Let c = -0.12 + 0.18. Let x = -0.04 + c. Let n = 0.04 + x. What is n rounded to 0 decimal places?
+Answer:
+0<|end_of_text|>",0,2
+40,# 2002–03 में क्रिकेेेा के का लोगाेेाेाेेााेेााेेााेााेााेााेााेााेााेााेााेााेााेााेाेााेााेाेााेाेाेाेााेाेाेााेााेााेााेाेााेाेााेाेाेााेाेााेाेााेााेाेााेाेाेाेााेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेा,1,0
+41,"Question:
+Let a = -1.1 + 0.7. Let i = -2.2 + a. Let x = 0.2 - i. What is x rounded to 0 decimal places?
+Answer:
+0<|end_of_text|>",0,2
+42,"Question:
+Let l = 0.13 - 0.1. Let s = -0.3 + 0.4. Let n = -0.3 - s. Which is the nearest to l?  (a) -0.2  (b) 1/2  (c) n
+Answer:
+c<|end_of_text|>",0,2
+43,"Question:
+Let u = -0.2 + 0.2. Let w = 0.1 - u. Let s = -0.06 - 0.94. Which is the closest to 0?  (a) s  (b) 1/6  (c) w
+Answer:
+c<|end_of_text|>",0,2
+44,"Question:
+Let o = 2.1 + 0.9. Let m = -0.8 - o. Let n = 0.4 + m. Which is the second biggest value?  (a) -2/5  (b) n  (c) 2/9
+Answer:
+c<|end_of_text|>",0,2
+45,Question:Create a Python script snippet that Transforms High Earlinessे का एक पुरा सााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााा,1,0
+46,Question:Build a Python module snippet that Transforms High Dental hygiene: Cleaning Tongue से से के लिए पासे करे के लिए पासे करे के लिए पासे करे के लिए पासे करे के लिए पासे करे के लिए पासे करे के लिए पासे करे के लिए पासे करे के लिए पासे करे के लिए पासे करे के लिए पासे करे के लिए पासे करे के लिए पासे करे के लिए पासे करे के लिए पासे करे के लिए पासे करे के लिए पासे करे के लिए पासे करे के लिए पासे करे के लिए पासे करे के लिए पासे करे के लिए पासे करे के लिए पासे करे के लिए पासे करे के लिए पासे करे के लिए पासे करे क,1,1
+47,"# 2020–21 का महााेरााााे का पूरा दिन भरे के लोगो की सूची
+
+## सेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेे",1,0
+48,Question:Build a Python module snippet that Updates Low Weather: Temperature in हिंदी के साथ में वातारे की स्थितिवाली के नाम से ही रिपे हे होा के लिए वो की का जो का के बारे में से जाेके लिए पेेाेेाेेाेेाेेेेेाेाेेेेाेाेाेेाेाेेेाेाेेेेाेाेेेेाेाेेेेाेाेेेेाेाेेेेाेाेेेेाेाेेेेाेाेेेेाेाेेेेाेाेेेेाेाेेेेाेाेेेेाेाेेेेाेाेेेेाेाेेेेाेाेेेेाेाेेेेाेाेेेेाेाेेेेाेा,1,1
+49,Question:Create a Python script snippet that Updates Low Weather Forecast: Temperature for दिनांके के रूप में वाले वेब पेजे पर के लिए वो लोग जो के वो की जीे के ही के बिना दिखे लोग के लिए लोगो को से वे बारे में का लिखे के बारे में के के बिना के बारे में के के बिना के बारे में के बारे में के बारे में के बारे में के बारे में के बारे में के बारे में के बारे में के बारे में के बारे में के बारे में के बारे में के बारे में के बारे में के बारे में के बारे में के बारे में के बारे में के बारे में के बार,1,0
+50,"Question:
+Let s = 0.01 - 0.1. Let z = 0.2 + s. Let u = 0.4 - z. Round u to 1 decimal digit.
+Answer:
+1<|end_of_text|>",0,2
+51,"Question:
+Let w = 0.002 - 0.003. Let r = -0.004 - -0.096. Let i = -0.089 - r. Which is the nearest to -1?  (a) i  (b) 0.2  (c) w
+Answer:
+c<|end_of_text|>",0,2
+52,"def create_new_list(s):
+    """"""Create a new list by concatenating the first 10 elements of the input list""""""
+    return [s[i] + "" "" + s[i + 10] for i in range(0, 10)]
+<|end_of_text|>",0,2
+53,"Question:
+Let n = 3 + -3. Suppose -s - 4*s = -n. Suppose 4*v - 2*x - 16 = 0, -2*v + 3*v = 3*x + 6. What is the smallest value in v, 0.2, s?
+Answer:
+v<|end_of_text|>",0,2
+54,Question:Create a Python script snippet that Transforms Low Dental सेेेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाे,1,0
+55,"def count_cows(animals):
+    """"""
+    Count the total number of cows in the list of animals.
+    """"""
+    count = 0
+    for animal in animals:
+        if ""cow"" in animal:
+            count += 1
+    return count
+<|end_of_text|>",0,2
+56,"Question:
+What is 0.0000000000000341 rounded to 7 decimal places?
+Answer:
+0.000000<|end_of_text|>",0,2
+57,"Question:
+Let w = -0.001 - 0.499. Let x = -0.51 + 0.43. Let f = x - w. What is f rounded to 1 decimal place?
+Answer:
+0.1<|end_of_text|>",0,2
+58,"def evaluate_patient_data(patient_data):
+    """"""
+    Evaluate the patient's data and determine if they have any medical conditions.
+    """"""
+    # Use nested if-elif-conditions to check for various medical conditions
+    if ""Heart"" in patient_data:
+        if ""Heart"" is ""Heart"" or ""Heart"" is ""Heart"":
+            if ""Heart"" is ""Heart"":
+                if ""Heart"" is ""Heart"":
+                    if ""Heart"" is ""Heart"":
+                        if ""Heart"" is ""Heart"":
+                            if ""Heart"" is ""Heart"":
+                                if ""Heart"" is ""Heart"":
+                                    if ""Heart"" is ""Heart"":
+                                        if ""Heart"" is ""Heart"":
+                                            if ""Heart"" is ""Heart"":
+                                                if ""Heart"" is ""Heart"":
+                                                    if ""Heart"" is ""Heart"":
+                                                        if ""Heart"" is ""Heart"":
+                                                            if ""Heart"" is ""Heart"":
+                                                                if ""Heart"" is ""Heart"":
+                                                                    if ""Heart"" is ""Heart"":
+                                                                        if ""Heart"" is ""Heart"":
+                                                                            if ""Heart"" is ""Heart"":
+                        if ""Heart"" is ""Heart"":
+                            if ""Heart"" is ""Heart"":
+                                if ""Heart"" is ""Heart"":
+                if ""Heart"" is ""Heart",0,1
+59,"def find_primes(n):
+    """"""
+    Return a list of prime numbers up to n.
+    """"""
+    prime_list = []
+    for i in range(2, n):
+        if i <= 0:
+            continue
+        for i in range(2, i):
+            if i % 2 == 0:
+                continue
+            if i % 3 == 0:
+                continue
+            if i % 5 == 0:
+                continue
+            if i % 7 == 0:
+                continue
+            if i % 11 == 0:
+                continue
+            if i % 17 == 0:
+                continue
+            if i % 19 == 0:
+                continue
+            if i % 23 == 0:
+                continue
+            if i % 29 == 0:
+                continue
+            if i % 31 == 0:
+                continue
+            if i % 37 == 0:
+                continue
+            if i % 41 == 0:
+                continue
+            if i % 43 == 0:
+                continue
+            if i % 47 == 0:
+                continue
+            if i % 53 == 0:
+                continue
+            if i % ",0,0
+60,Question:Develop a Python program that Transforms Low Dental से हाेेेेेेेाेाेाेाेाेाेाेाेेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेा,1,0
+61,"Question:
+Let l = 0.031 - 0.03099992. Round l to 6 decimalों में से रिका में 0.0.
+Answer:
+-0.000001<|end_of_text|>",1,1
+62,"Question: The most common cause of blindness due to catarra is:
+A. Glauराााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााा",1,0
+63,"Question:
+Let o = -0.1 + 0.1. Let p = 0.6 - o. Let n = 0.06 + -0.16. Which is the second biggest value?  (a) -1  (b) p  (c) n
+Answer:
+b<|end_of_text|>",0,2
+64,"Question:
+Let i = -0.2 + 0.1. Let l = -1.1 - -1.3. Let h = 0.1 - l. Which is the closest to 0?  (a) h  (b) i  (c) 2
+Answer:
+b<|end_of_text|>",0,2
+65,"Question:
+Let c = -0.00000112 - -0.000001. Round c to 6 decimal inches.
+Answer:
+-0.000001<|end_of_text|>",0,2
+66,Question:Build a Python module snippet that Displays Low Weather Forecast: Weather Forecastे के लिए प्रगाेटेशन से जानकाराे के लिए एक मेंे के लिए से जाेे की पीे केाे बाेाेाे वो के के पे के पे के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के के,1,1
+67,Question:Build a Python module snippet that Updates High Weatherे के लिए से से राते से के रासा में लोगे के लिए के से से रे रे का के से का का रे रे के रे के रे के रे के रे के रे के रे के रे के रे के रे के रे के रे के रे के रे के रे के रे के रे के रे के रे के रे के रे के रे के रे के रे के रे के रे के रे के रे के रे के रे के रे के रे के रे के रे के रे के रे के रे के रे के रे के रे के रे के रे के रे के रे के रे के रे के रे के रे के रे क,1,0
+68,"Question:
+What is 0.0000075 rounded to 6 decimalोंे में?
+Answer:
+0.000007<|end_of_text|>",1,2
+69,"Question:
+Let i = -0.1 - 0.3. Let w = 0.3 + -0.4. Let m = w + i. What is the closest to 0 in 0, 2, m?
+Answer:
+0<|end_of_text|>",0,2
+70,"Question: Which of the following is a cause of hypercholesterolaemia?
+A. Hypervagal
+B. Hypervagal
+C. Hypervagal
+D. Hypervagal
+Answer: A<|end_of_text|>",0,2
+71,"Question:
+Let l = 0.3 - 0.2. Let r = 0.3 - l. Let i = 0.4 - 0.4. What is the nearest to 0.1 in -3/2, i, r?
+Answer:
+r<|end_of_text|>",0,2
+72,"Question:
+Let i = 0.4 + 0.6. Let x = 0.4 + -0.3. Let s = x + -0.1. Which is the nearest to 0?  (a) i  (b) -1  (c) s
+Answer:
+c<|end_of_text|>",0,2
+73,"def evaluate_heart_rate_data(heart_rate_data):
+    """"""
+    Evaluate the heart rate data and determine whether it is high, medium, or low.
+    The heart rate data is provided in a list of integers, where each integer represents the heart rate in beats per minute.
+    The heart rate is considered high if it is above 100, medium if it is between 40 and 100, and low if it is below 40.
+    """"""
+    # Use a nested if-elif-else construct to evaluate the heart rate data
+    if 0 <= heart_rate_data[0] <= 100:
+        if 0 <= heart_rate_data[1] <= 100:
+            if 0 <= heart_rate_data[2] <= 100:
+                print(""Heart rate is low"")
+            else:
+                print(""Heart rate is medium"")
+        else:
+            print(""Heart rate is high"")
+    else:
+        print(""Invalid input"")
+<|end_of_text|>",0,2
+74,"def find_uniques(list):
+    """"""
+    This function takes a list and returns a set of unique elements
+    """"""
+    uniques = set()
+    for item in list:
+        if item not in uniques:
+            uniques.add(item)
+    return uniques
+<|end_of_text|>",0,2
+75,Question:Build a Python module snippet that Updates Low Social Engagement: Social Media Advertising in Python. Incorporate if/ेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेे,1,0
+76,"Question:
+Let r = 0.1 - -0.1. Let i = -2.4 + 2.2. Let h = 0.1 - i. What is the nearest to r in 0.4, h, 0.5?
+Answer:
+0.5<|end_of_text|>",0,2
+77,"def create_a_tuple_from_a_string(string):
+    """"""
+    Create a tuple from a given string.
+
+    Args:
+        string (str): A string containing comma separated items.
+
+    Returns:
+        tuple: A tuple containing the items from the string.
+    """"""
+    # Convert the input string into a list
+    list = list(string)
+
+    # Convert the list into a tuple
+    return tuple(list)
+<|end_of_text|>",0,2
+78,"Question: Which of the following is not true about hepatitis A?
+A. Transmitted by contaminated food
+B. Causes acute fever
+C. May cause liver necrosis
+D. Can be transmitted by blood transfusion
+Answer: C<|end_of_text|>",0,2
+79,"Question:
+Let x = 0.023 - 0.063. Let s = 0.03 - 0.05. Let n = s + x. What is n rounded to 2 decimalे?
+Answer:
+0<|end_of_text|>",1,2
+80,"Question:
+What is the next term in 12, 24, 36, 48, 60, 72?
+Answer:
+84<|end_of_text|>",0,2
+81,"Question:
+Let o = 0.016 - 0.056. Let x = 0.02 - o. Let p = -0.000001 - x. Round p to 6 decimal inches.
+Answer:
+-0.000001<|end_of_text|>",0,2
+82,"Question:
+Let c = -0.036 - 0.064. Let v = 0.00000109 - c. Round v to 7 decimal places.
+Answer:
+0.000001<|end_of_text|>",0,2
+83,"Question:
+Let w = 0.017 - 0.058. Let h = 0.03 + 0.04. Let n = h + 0.27. What is the nearest to -1 in w, 0.4, n?
+Answer:
+w<|end_of_text|>",0,2
+84,"def update_wood_planks(wood_planks, new_wood_planks):
+    """"""
+    Update the list of wood planks based on the new_wood_planks list.
+    The new_wood_planks list contains the updated list of wood planks.
+    The function should return a new list of updated wood planks.
+    """"""
+    # Your code here
+    return []
+<|end_of_text|>",0,2
+85,"def nested_ternary_operator(temperature):
+    """"""
+    Write a program that uses nested ternary operators to check if the temperature is above 100°C,
+    and if it is, then it should print ""It is very hot"", otherwise it should print ""It is not very hot"".
+    """"""
+    return ""It is very hot"" if temperature > 100 else ""It is not very hot""
+<|end_of_text|>",0,2
+86,"Question:Build a Python module archive that provides a simple interface to upload, download, and delete a file or directory from a server.
+# Create a function to upload a file or directory from local to remote.
+# Create a function to download a file or directory from remote to local.
+# Create a function to delete a file or directory from remote.
+# Create a function to check if a file or directory is present in server.
+# Create a function to check if a file or directory is present in local.
+# Create a function to create a link to a file or directory on the server.
+# Create a function to create a link to a file or directory on the server.
+# Create a function to copy a file or directory from one location to another.
+# Create a function to copy a file or directory from one location to another.
+# Create a function to move a file or directory from one location to another.
+# Create a function to move a file or directory from one location to another.
+# Create a function to rename a file or directory.
+# Create a function to rename a file or directory.
+# Create a function to copy a file or directory from one location to another.
+# Create a function to copy a file or directory from one location to another.
+# Create",0,2
+87,Question:Create a Python script snippet that Updates High Eye से जो भी लिखे हो से दूसरे में बदलने के लिए के लिए के लिए के लिए के लिए के लिए के लिए के लिए के लिए के लिए के लिए के लिए के लिए के लिए के लिए के लिए के लिए के लिए के लिए के लिये के लिए के लिए के लिए के लिए के लिए के लिए के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ले के ल,1,1
+88,"Question:
+Let i = 0.1 - -0.1. Let s = 0.1 + i. Let o = 0.01 - s. Round o to 0 decimal placements.
+Answer:
+0<|end_of_text|>",0,2
+89,"Question:
+Let n = -0.031 - 0.169. Let m = 0.18 - n. Let o = 0.000004 + m. What is o rounded to 5 decimalों?
+Answer:
+0.00004<|end_of_text|>",1,2
+90,"def add_to_set(set_a, set_b):
+    """"""
+    Given two sets, add them together and return the result.
+    """"""
+    return set_a | set_b
+<|end_of_text|>",0,2
+91,"Question:
+What is the remainder when 44 is divided by 12?
+Answer:
+0<|end_of_text|>",0,2
+92,"Question:
+Let s = 2.2 - 0.2. Let h = -0.4 - 0.6. Let x = -0.2 + h. What is the nearest to 0.1 in s, x, -0.1?
+Answer:
+-0.1<|end_of_text|>",0,2
+93,"Question:
+Let i = 0.001 - -1.999. Let l = 0.11 + -0.16. Let h = l + 0.02. Which is the nearest to 0?  (a) h  (b) i  (c) -0.2
+Answer:
+a<|end_of_text|>",0,2
+94,"Question:Build a Python module file named ""randengine.py"" which is part of the main package. This file should implement the Random Engine. 
+This Random Engine should allow you to generate random numbers between 0 and 1.
+The Random Engine should allow you to generate random vectors such as 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 0.0.
+The Random Engine should allow you to generate random vectors such as 0.01, 0.02, 0.03, 0.04, 0.05, 0.06, 0.07, 0.08, 0.09, 0.0.
+The Random Engine should allow you to generate random vectors such as 0.00001, 0.00002, 0.00003, 0.00004, 0.00005, 0.00006, 0.00007, 0.00008, 0.00009, 0.0.
+The Random Engine should allow you to generate random vectors such as 0",0,2
+95,"Question:
+Let o = 0.2 + 0.2. Let s = 0.3 - o. Let x = 0.2 - 0.1. Which is the closest to s?  (a) x  (b) 0  (c) 0.2
+Answer:
+b<|end_of_text|>",0,2
+96,# 2000–01 सुनीकरा क्रिके के टिमीपरा खेला वाला पांचवा राष्टाे राजे काााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााा,1,1
+97,"Question:
+Let c = 0.5 - -0.3. Let u = 0.3 - c. Let x = 0.5 + u. What is the closest to 0 in 1/2, x, -0.4?
+Answer:
+-0.4<|end_of_text|>",0,2
+98,Question:Develop a Python program that Transforms Low Dental से के लिए में बिना के रूपा ली की से के लिए में बिना के रूपा ली की से के लिए में बिना के रूपा ली की से के लिए में बिना के रूपा ली की से के लिए में बिना के रूपा ली की से के लिए में बिना के रूपा ली की से के लिए में बिना के रूपा ली की से के लिए में बिना के रूपा ली की से के लिए में बिना के रूपा ली की से के लिए में बिना के रूपा ली की से के लिए में बिना के रूपा ली की से के लिए में बिना के रूपा ली की से के ल,1,1
+99,"def psychologist_exercise(person):
+    """"""
+    Write a function that takes a person object as input and returns the person's 
+    overall personality rating, based on the following criteria:
+    
+        - If the person is a psychologist, their overall rating is 10%
+        - If the person is not a psychologist, their overall rating is 5%
+        - If the person is a psychologist and has a PhD, their overall rating is 10%
+        - If the person is not a psychologist and has a PhD, their overall rating is 5%
+        - If the person is a psychologist and has a PhD, but has not earned a PhD, their overall rating is 5%
+        - If the person is not a psychologist and has a PhD, but has not earned a PhD, their overall rating is 0%
+    """"""
+    if person.is_aphologist():
+        return 10
+    else:
+        return 5
+<|end_of_text|>",0,2

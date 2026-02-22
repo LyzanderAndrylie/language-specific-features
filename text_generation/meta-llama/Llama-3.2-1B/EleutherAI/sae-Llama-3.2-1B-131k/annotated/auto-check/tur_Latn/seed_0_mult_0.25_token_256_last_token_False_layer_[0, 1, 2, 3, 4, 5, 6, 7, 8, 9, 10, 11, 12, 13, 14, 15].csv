@@ -1,0 +1,530 @@
+seed,generated_text,occurrence,coherence
+0,"Question:Write an Python 5.4 program, which will check the if a number is a prime number or not. If the number is a
+1. The number is not a number.
+2. The number is 1.
+3. The number is 2.
+4. The number is 3.
+5. The number is 4.
+6. The number is 5.
+7. The number is 6.
+8. The number is 7.
+9. The number is 8.
+10. The number is 9.
+11. The number is 10.
+12. The number is 11.
+13. The number is 12.
+14. The number is 13.
+15. The number is 14.
+16. The number is 15.
+17. The number is 16.
+18. The number is 17.
+19. The number is 18.
+20. The number is 19.
+21. The number is 20.
+22. The number is 21.
+23. The number is 22.
+24. The number is 23.
+25. The number is 24.
+26. The number is 25.
+27. The number is 26.
+28. The number is 27.
+",0,2
+1,"Question:
+Let d = 0.2 + -0.3. Let s = 0.2 + d. Let b = s - -0.6. Which is the nearest to 0.1?  (a) b  (b) 3  (c) 1/4
+Answer:
+c<|end_of_text|>",0,2
+2,"Question:
+Let l = -3.4 - -3. Let m = 0.2 - l. Let n = m + -2.2. Which is the closest to 0?  (a) -2/5  (b) n  (c) -5
+Answer:
+a<|end_of_text|>",0,2
+3,"Question:
+Let g = 0.4 - -0.2. Let k = g - 0.3. Let m = -0.3 + k. Which is the closest to 0.1?  (a) m  (b) -0.3  (c) 2/9
+Answer:
+c<|end_of_text|>",0,2
+4,"Question:
+Let v = 0.1 - -1.9. Let t = 1.7 - v. Let o = t + 0.3. Which is the nearest to 2/3?  (a) -1/2  (b) o  (c) 1/5
+Answer:
+c<|end_of_text|>",0,2
+5,"Question: The number of normal anemiy
+A. Anemia
+B. Aplastik anem
+C. Hematürk
+D. Haplo en
+E. Sızdı
+Answer: B<|end_of_text|>",1,1
+6,"def nested_ternary_slicing(my_list):
+    """"""
+    Given a list, return the element at the 2. index of the list, or the element at the 2. index of the list, if the list is not empty.
+    If the list is empty, return 0.
+    """"""
+    return my_list[2] if my_list else 0
+<|end_of_text|>",0,2
+7,"# O. A. N. Türler
+
+O. A. N. Türler (21. yüzyıl) (d. 1943, İstanbul), Türk yazar. 1977 yılında yayınlanan kitapları, 1978 yılında yayınlanan kitapları ve 1979 yılında yayınlanan kitapları ile dikkat çekmiş.<|end_of_text|>",1,2
+8,"Question:Develop a Python program that checks whether a given number is an integer, a whole number, a fraction, or a number with a fraction.<|end_of_text|>",0,2
+9,"Question:
+Let r = -0.2 - -0.1. Let p = 0.7 - r. Let z = p - 0.1. Which is the nearest to z?  (a) 2/9  (b) -3  (c) 0.1
+Answer:
+c<|end_of_text|>",0,2
+10,"Question:Create a C# Beiller, which will print 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, ",0,2
+11,"Question: A 54-year-old man is admitted to the hospital after an operation. The operation was not normal. He is not able to walk on his own, and his gait is not normal. A radiograph was taken and it was found that the left tibia had a shortness of 3 cm. The X-ray of the right tibia was normal. The X-ray of the right femur was normal. Which of the following is the most probable diagnosis?
+A. Alergiler
+B. Aneuriz
+C. Ameblik
+D. Amelgik
+Answer: A<|end_of_text|>",1,2
+12,"Question:
+Let r = 1.5 + -0.5. Let f = 2.7 - r. Let t = f + 3.5. Which is the nearest to 0?  (a) -1  (b) t  (c) 2
+Answer:
+b<|end_of_text|>",0,2
+13,"Question:
+Let h = -0.1 + 1.1. Let i = 0.6 + h. Let o = 0.6 - i. Which is the closest to -1?  (a) o  (b) 1/3  (c) 2/7
+Answer:
+a<|end_of_text|>",0,2
+14,Question:Design a C# API. The API should be able to run a specified program. The program will be run on the system specified by the user. The program will be run in the background. The program will be able to be stopped. The program will be able to be started from the start.<|end_of_text|>,0,2
+15,"Question:
+Let y = -1.9 - 0.1. Let m = -1.5 - y. Let r = 1.4 - m. Which is the nearest to r?  (a) 2/3  (b) 2  (c) -2/11
+Answer:
+c<|end_of_text|>",0,2
+16,"Question:
+Let g = -0.03 + 0.3. Let b = 0.4 + g. Let m = -0.2 - b. Which is the smallest value?  (a) m  (b) -2  (c) 1
+Answer:
+b<|end_of_text|>",0,2
+17,"Question:
+Let f = 0.2 - 0.2. Let h = 0.3 - 1.3. Let k = h - -1.4. Which is the closest to f?  (a) k  (b) -1/2  (c) -0.1
+Answer:
+b<|end_of_text|>",0,2
+18,"Question:
+Let y = 3.8 - -0.2. Let o = -2.8 + y. Let g = o - -3.9999961. Round g to 5 decimal places.
+Answer:
+-0.00001<|end_of_text|>",0,2
+19,"Question: A 2.5 year old child is admitted to the hospital with a history of a 3.5 hour old. After 3 days of his admission, his condition is: 1. Hb: 1.5 g/dl 2. ESR: 5.5 3. RBC: 3,3,3 4. WBC: 2,2,1 5. Vb: 6,3,2 6. R: 4,2,1 7. B: 3,1,1 8. G: 3,2,1 9. A: 3,2,1 10. L: 2,1,1 11. T: 1,1,1 12. H: 1,1,1 13. O: 1,1,1 14. S: 1,1,1 15. Sg: 1,1,1 16. N: 1,1,1 17. B2g: 1,1,1 18. A2g: 1,1,1 19. K: 1,1,",0,0
+20,"Question: A 62 year old female had a 2.5 kg postmolar. The post was removed, and a 1.5 cm bur was made on the mucoglar sin. The post was taken. The post was 1.2 cm. The post was not spon bul. The post was 2.3 cm. The post was 1.5 cm. The post was 1.2 cm. The post was 1.2 cm. The post was 1.2 cm. The post was 1.2 cm. The post was 1.2 cm. The post was 1.2 cm. The post was 1.2 cm. The post was 1.2 cm. The post was 1.2 cm. The post was 1.2 cm. The post was 1.2 cm. The post was 1.2 cm. The post was 1.2 cm. The post was 1.2 cm. The post was 1.2 cm. The post was 1.2 cm. The post was 1.2 cm. The post was 1.2 cm. The post was 1.2 cm. The post was ",0,1
+21,"Question:
+Let g = -0.1 + -1.9. Let y = 1.9 - g. Let k = 2.3 - y. Which is the nearest to 0.1?  (a) -2/5  (b) k  (c) -2
+Answer:
+a<|end_of_text|>",0,2
+22,"Question: Which of the following is a risk factor for Acute Graft- Vincantria Dergi
+A. 6.0 g/l. B. 7.0 g/l. C. 7.5 g/l. D. 7.5 g/l. E. 7.5 g/l.
+A. A
+B. B
+C. C
+D. D
+E. E<|end_of_text|>",0,0
+23,Question: Which of the following is not a feature of a 4.5/6/7/8/9/10/11/12/13/14/15/16/17/18/19/20/21/22/23/24/25/26/27/28/29/30/31/32/33/34/35/36/37/38/39/40/41/42/43/44/45/46/47/48/49/50/51/52/53/54/55/56/57/58/59/60/61/62/63/64/65/66/67/68/69/70/71/72/73/74/75/76/77/78/79/80/81/82/83/84/85/86/87/88/89/90/91/92/93/94/95/96/97/98/99/100/101/102/103/104/105/106/107/108/109/110/111/112/113/114/115/116/117/118/119/120/121/122/123/124/125,0,2
+24,"Question: The following is not a risk factor for deep postmik
+A. Bile dam
+B. Bile Damar
+C. Bile Damar Tırmak
+D. Bile Damar Tırmak
+E. Bile Damar Tırmak
+Answer: A<|end_of_text|>",1,2
+25,"# Hızdır, Yemişli
+
+Hızdır, Yemişli is a village in Marmarar, Yemişli, Sığır, Yöllü, Umut, Tırak, Çaralık, Tırıcı, Tufan, Akçakası, Cazıcı, Yalık, Hacı, Çarlık, Tuncer, Hacılar, Tercan, Aşı, Kaya, Aşkent, Akçakent, Tırıkler, Kılıç, Kılıç, Karayazı, Yavşan, Cevmiş, Oymaz, Kaya, Sönmez, Oğur, Oğur, Tırık, Çağıl, Bahadır, Çan, Çan, Sığır, Tırık, Tüba, Kaya, Kızıdır, Ağıllar, Oğur, Tırık, Yüğü, Yalık, Yürek, Nüşer, Çarlık, Böğüntü, Eren, Bük, Aşı, Tüğer, Sığıllar, Ayrak, İncer, Bahar, Yavas, Yü",1,2
+26,"Question:
+Let s = -4.9 + -5.1. Let a = 6.8 + s. Let t = -1.4 - a. What is t rounded to one dp?
+Answer:
+0.6<|end_of_text|>",0,2
+27,"Question:Develop a Python program that checks whether a number is a multiple of 3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, ",0,2
+28,"Question:
+Let t = 0.05 - 0.53. Let i = t + 0.3. Let r = -3.7 - i. What is r rounded to the nearest integer?
+Answer:
+3<|end_of_text|>",0,2
+29,"Question:Write an Go program that will print the following:
+1. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20. 21. 22. 23. 24. 25. 26. 27. 28. 29. 30. 31. 32. 33. 34. 35. 36. 37. 38. 39. 40. 41. 42. 43. 44. 45. 46. 47. 48. 49. 50. 51. 52. 53. 54. 55. 56. 57. 58. 59. 60. 61. 62. 63. 64. 65. 66. 67. 68. 69. 70. 71. 72. 73. 74. 75. 76. 77. 78. 79. 80. 81. 82. 83. 84. 85",0,2
+30,"Question:
+Let y = -0.1 - -0.1. Let s = y - -0.5. Let u = s - -0.4. Which is the closest to 0?  (a) -3/2  (b) u  (c) 0.2
+Answer:
+c<|end_of_text|>",0,2
+31,"Question:
+Let m = -1.7 - -1.3. Let i = 3.9 - m. Let o = i - 4.1. Which is the nearest to 0?  (a) o  (b) 1/2  (c) 2/3
+Answer:
+b<|end_of_text|>",0,2
+32,"Question:
+Let i = 0.9 - -0.1. Let b = 0.8 - i. Let g = 0.7 - b. What is g rounded to 1 dp?
+Answer:
+0.6<|end_of_text|>",0,2
+33,"def nested_ternator(a, b, c):
+    """"""
+    In this exercise, we will use nested ternary operators to determine the result of an operation.
+    The program will first check if the first element of the list is equal to 1, and if so, it will return the result of the operation.
+    If the first element is not 1, the program will check if the second element is equal to 1, and if so, it will return the result of the operation.
+    If the second element is not 1, the program will check if the third element is equal to 1, and if so, it will return the result of the operation.
+    If none of the above conditions are true, the program will return 0.
+    """"""
+    return a if a > 0 else b if b > 0 else c
+<|end_of_text|>",0,2
+34,"Question: Which of the following is not a risk factor for post natal preeclam i
+A. Gastroaneroid s
+B. Gastroaneroid s
+C. Uterine aner
+D. Uterine aner
+E. A e
+Answer: B<|end_of_text|>",0,0
+35,"Question:
+What is 0.2 take away -0.2?
+Answer:
+0.4<|end_of_text|>",0,2
+36,"Question:
+Let o = 0.6 + -1.6. Let r = o + 1. Let t = r + -1.7. Which is the nearest to 0?  (a) -2/7  (b) t  (c) 3
+Answer:
+a<|end_of_text|>",0,2
+37,"# B. A. Bulucu
+
+B. A. Bulucu, 1953 yılında İstanbul’da doğdu. 1979 yılında, 5. sınıf ikinci öğretim öğrencği. 1990 yılında, 3. sınıf ikinciöğretim öğrencği. 1991 yılında, 5. sınıf ikinciöğretim öğrencği. 1992 yılında, 1. sınıf ikinciöğretim öğrencliği. 1993 yılında, 1. sınıf ikinciöğretim öğrenici. 1994 yılında, 2. sınıf ikinciöğretim öğrenici. 1995 yılında, 2. sınıf birinciöğretim öğrenici. 1996 yılında, 1. sınıf öğretmen. 1997 yılında, 1. sınıf öğretmen. 1998 yılında, 1. sınıf öğretmen. 1999 yılında, 1. sınıf öğretmen. 2000 yılında, 1. sınıf öğretmen. 2001 yılında, 1. sınıf öğretmen. 2002 yılında, 1. sınıf öğretmen. 2003 yılında, 1. sınıf öğretmen. 2004 yılında, 1. sınıf öğretmen. 2005 yılında, 1. sınıf öğretmen. 2006 yılında, 1. sınıf öğretmen. 2007 yılında, ",1,2
+38,"Question:
+What is the common denominator of 3/10 and 89/10?
+Answer:
+10<|end_of_text|>",0,2
+39,"Question:
+Let t = -0.12 - -0.5. Let k = t - 1.6. Let m = 1.7 + k. What is m rounded to 0 dps?
+Answer:
+-3<|end_of_text|>",0,2
+40,"# 7.6: Sınırlar (M.5.3) (M.5.3)
+
+## Sınırlar
+
+### 7.6.1: Sınırlar
+
+Sınırlar, sınır arasındaki en küçük uzaklık. Sınırlar, aynı zamanda ""sınır çizgileri"" veya ""sınır çizgileri"" olarak tanıdır. Sınırlar, tanıdık olduğumuz gibi, en küçük uzaklık olarak tanıdır. Sınırlar, tanıdık olduğumuz gibi, aynı olduğu için aynı sınırlar arasındaki en küçük uzaklık olarak tanıdır. Sınırlar, tanıdık olduğumuz gibi, aynı olduğu için aynı sınırlar arasındaki en küçük uzaklık olarak tanıdır. Sınırlar, tanıdık olduğumuz gibi, aynı olduğu için aynı sınırlar arasındaki en küçük uzaklık olarak tanıdır. Sınırlar, tanıdık olduğumuz gibi, aynı olduğu için aynı sınırlar arasındaki en küçük uzaklık olarak tanıdır. Sınırlar, tanıdık olduğumuz gibi, aynı olduğu için aynı sınırlar arasındaki en küçük uzaklık olarak tanıdır. Sınırlar, tanıdık olduğumuz gibi, aynı olduğu için aynı s",1,1
+41,"Question:
+Let a = -8.5 + 8. Let t = a - -2.5. Let d = -2.9 + t. What is d rounded to 1 decimal place?
+Answer:
+-2.5<|end_of_text|>",0,2
+42,"Question:
+Let l = 0.3 - 0.3. Let s = -0.3 + l. Let d = s - -0.4. What is d rounded to 1 dp?
+Answer:
+1<|end_of_text|>",0,2
+43,"Question:
+Let k = -0.2 + -3.8. Let h = k + 3.99999897. Round h to 6 decimal places.
+Answer:
+-0.000001<|end_of_text|>",0,2
+44,"Question:
+Let o = 2.1 - 2. Let s = 0.5 - 0.5. Let m = 0.2 + s. Which is the nearest to o?  (a) m  (b) -1/3  (c) -3/2
+Answer:
+b<|end_of_text|>",0,2
+45,Question: A 72-year old post-mim. has had a 3.5-kg. He had a 2-1.3-1.5-1.2-1.6-1.7-1.8-1.9-1.2-1.1-1.0-1.1-1.2-1.3-1.4-1.5-1.6-1.7-1.8-1.9-1.8-1.9-1.8-1.9-1.8-1.9-1.8-1.9-1.8-1.9-1.8-1.9-1.8-1.9-1.8-1.9-1.8-1.9-1.8-1.9-1.8-1.9-1.8-1.9-1.8-1.9-1.8-1.9-1.8-1.9-1.8-1.9-1.8-1.9-1.8-1.9-1.8-1.9-1,0,0
+46,"Question: The most common cause of the post natal depression is
+A. Post natal depression
+B. Post natal depresyon
+C. Post natal psikolojik sorun
+D. Post natal mali sorun
+E. Post natal psikolojik sorun
+Answer: A<|end_of_text|>",1,2
+47,"# Eğil, Ayrıcılar
+
+Eğil, Ayrıcılar is a Mahull village in Alanya.<|end_of_text|>",1,2
+48,"Question: The characteristic feature of pheochetidiler
+A. Phe·sön
+B. Phe·sün
+C. Phe·ni
+D. Phe·ler
+Answer: B<|end_of_text|>",0,0
+49,Question:Design a Python function. The function should return the number of characters in the string. The function should be as short as possible.<|end_of_text|>,0,2
+50,"Question:
+Let g = 4.5 - 0.5. Let z = g - 2.6. Let b = z - -0.3. Which is the nearest to b?  (a) -0.2  (b) -0.5  (c) 2/9
+Answer:
+c<|end_of_text|>",0,2
+51,"Question:
+Let d = 0.2 + 0.1. Let r = d - 0.4. Let b = -0.2 + r. Which is the nearest to 1?  (a) 2/7  (b) b  (c) 1/2
+Answer:
+c<|end_of_text|>",0,2
+52,"def is_vacant(rooms: List[str]) -> List[str]:
+    """"""Determine which rooms are vacant
+
+    :param rooms: A list of rooms
+    :return: A list of rooms that are not occupied
+    """"""
+    return [room for room in rooms if not room.is_occupied()]
+
+
+<|end_of_text|>",0,2
+53,"Question:
+What is 2.9 take away -0.1?
+Answer:
+2.9<|end_of_text|>",0,2
+54,Question: Which of the following is not a feature of a Kessler I? 1. 1. 1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20. 21. 22. 23. 24. 25. 26. 27. 28. 29. 30. 31. 32. 33. 34. 35. 36. 37. 38. 39. 40. 41. 42. 43. 44. 45. 46. 47. 48. 49. 50. 51. 52. 53. 54. 55. 56. 57. 58. 59. 60. 61. 62. 63. 64. 65. 66. 67. 68. 69. 70. 71. 72. 73. 74. 75. 76. 77. 78.,0,2
+55,"def count_culturally_dissimilar(people):
+    """"""Return the number of people in the list whose cultures are not the same.
+    
+    A person's culture is the combination of their two cultures. For example, if the two cultures are ""A"" and ""B"", the person's culture is ""AB"".
+    
+    :param people: A list of people. Each element is a dictionary with the keys ""name"" and ""family"" (optional).
+    :return: The number of people in the list whose cultures are not the same.
+    """"""
+    # Your code here
+    return
+<|end_of_text|>",0,2
+56,"Question:
+What is the common denominator of 11/8 and 7/5?
+Answer:
+40<|end_of_text|>",0,2
+57,"Question:
+Let d = -2.3 - -2.3. Let b = -0.4 + -0.6. Let f = b - d. What is f rounded to 1 dp?
+Answer:
+1<|end_of_text|>",0,2
+58,"def nested_slicing(arr):
+    """"""
+    Given a 2D array, return the sum of the elements in the first column.
+    If the array is not two dimensional, return 0.
+    If the array is empty, return 0.
+    If the array has less than 2 elements, return 0.
+    """"""
+    if not arr:
+        return 0
+    if not arr[0]:
+        return 0
+    return sum(arr[0])
+<|end_of_text|>",0,2
+59,"Question:
+What is the common denominator of 1/2 and 57/10?
+Answer:
+10<|end_of_text|>",0,2
+60,"Question:Develop a Python program that checks whether a given number is an integer or not. (Hint: Use the modulo operator)
+Answer:<|end_of_text|>",0,2
+61,"Question:
+Let l = -7.9 - -7.9. Let p = -0.3 + 0.3. Which is the nearest to 1?  (a) l  (b) p  (c) 0.4
+Answer:
+c<|end_of_text|>",0,2
+62,"Question: The term ""Ama"" is
+A. Sermadan
+B. Hafif
+C. Sermat
+D. Sermeye
+Answer: A<|end_of_text|>",0,2
+63,"Question:
+Let o = -1.5 + 1.5. Let r = 4.6 - 4.6. Let m = r + o. Which is the closest to 0?  (a) 2/5  (b) m  (c) 0.4
+Answer:
+b<|end_of_text|>",0,2
+64,"Question:
+Let i = -1.6 + 1.6. Let b = -1.1 - i. Let v = 0.2 + 0.2. Which is the closest to v?  (a) 0.2  (b) 1/3  (c) -0.2
+Answer:
+c<|end_of_text|>",0,2
+65,"Question:
+Let r = -0.2 - -0.2. Let m = 0.1 - r. Let t = -0.4 - m. What is t rounded to 1 dp?
+Answer:
+-1.1<|end_of_text|>",0,2
+66,"Question: Which of the following is not a component of the normal afferent for the cerebrum?
+A. Dorsal afferent
+B. Anterior afferent
+C. Posterior afferent
+D. Posterior afferent
+Answer: A<|end_of_text|>",0,2
+67,"Question:Design a Python function. The function should check if a given integer is a multiple of 3, 5, 7, 8, 9. If it is a multiple, then it should return the number. If not, then it should return ""Not a multiple"".
+```<|end_of_text|>",0,2
+68,"Question:
+What is 3.9 take away 0.2?
+Answer:
+3.7<|end_of_text|>",0,2
+69,"Question:
+Let i = -0.1 - 0.3. Let a = 1.3 - i. Let m = -1.7 - a. What is m rounded to the nearest integer?
+Answer:
+2<|end_of_text|>",0,2
+70,"Question: The most common cause of acute respiratory insin f
+A. Aspirin
+B. Sert
+C. Aspirin
+D. Sert
+E. Sert
+Answer: A<|end_of_text|>",0,0
+71,"Question:
+Let a = 0.3 - 0.3. Let r = -0.3 - a. Let i = 2.4 - r. What is i rounded to 1 dp?
+Answer:
+2<|end_of_text|>",0,2
+72,"Question:
+Let m = 0.4 + 0.6. Let d = 0.6 - m. Let z = -0.9 - d. What is z rounded to 1 dp?
+Answer:
+-0.9<|end_of_text|>",0,2
+73,"def is_baner_kapalı(baner):
+    """"""
+    Bir baniyadan bularak, baniyayı sınıyor ve varsa bularak, baniyayı 3. bularak, bularak, bularak, bularak, bularak, bularak, bularak, bularak, bularak, bularak, bularak, bularak, bularak, bularak, bularak, bularak, bularak, bularak, bularak, bularak, bularak, bularak, bularak, bularak, bularak, bularak, bularak, bularak, bularak, bularak, bularak, bularak, bularak, bularak, bularak, bularak, bularak, bularak, bularak, bularak, bularak, bularak, bularak, bularak, bularak, bularak, bularak, bularak, bularak, bularak, bularak, bularak, bularak,",1,1
+74,"def get_galactic_bulb(sun: str, planet: str, number: int):
+    """"""
+    Returns the number of galactic bulgular
+    :param sun: The sun
+    :param planet: The planet
+    :param number: The number of bulgular
+    :return: The number of bulgular
+    """"""
+    if sun == ""S"" and planet == ""G"" and number > 0:
+        return 1
+    elif sun == ""M"" and planet == ""M"" and number > 0:
+        return 2
+    elif sun == ""M"" and planet == ""M"" and number < 0:
+        return 3
+    elif sun == ""M"" and planet == ""M"" and number == 0:
+        return 4
+    elif sun == ""S"" and planet == ""S"" and number > 0:
+        return 5
+    elif sun == ""S"" and planet == ""S"" and number < 0:
+        return 6
+    elif sun == ""S"" and planet == ""S"" and number == 0:
+        return 7
+    elif sun == ""M"" and planet == ""M""",0,1
+75,"Question: A 3 year old child had an operation. In the postoperative room, the child is found to have an A2. On the 2nd postoperative day, the child had an A2. On the 3rd postoperative day, the child had an A2. On the 4th postoperative day, the child had an A2. On the 5th postoperative day, the child had an A2. On the 6th postoperative day, the child had an A2. On the 7th postoperative day, the child had an A2. On the 8th postoperative day, the child had an A2. On the 9th postoperative day, the child had an A2. On the 10th postoperative day, the child had an A2. On the 11th postoperative day, the child had an A2. On the 12th postoperative day, the child had an A2. On the 13th postoperative day, the child had an A2. On the 14th postoperative day, the child had an A2. On the 15th postoperative day, the child had an A2. On the 16",0,2
+76,"Question:
+Calculate the least common multiple of 5 and 30.
+Answer:
+30<|end_of_text|>",0,2
+77,"def create_astronomical_dish(ingredients, quantity):
+    """"""
+    Create an astronomical dish with the given ingredients and quantity.
+    The dish should be a combination of the ingredients in a random order.
+    The number of ingredients in the dish should be equal to the number of ingredients in the list.
+    """"""
+    # Create an empty list to store the ingredients
+    ingredients_list = []
+
+    # Add the ingredients to the list in a random order
+    for i in range(0, len(ingredients)):
+        ingredients_list.append(ingredients[i])
+
+    # Return the dish
+    return ingredients_list
+<|end_of_text|>",0,2
+78,"Question: Which of the following is not a risk factor for atherosclerosis?
+A. A. Cigarette
+B. B. High blood pressure
+C. C. High blood cholesterol
+D. D. High triglycerides
+Answer: C<|end_of_text|>",0,2
+79,"Question:
+Let n = 1.7 - 1.8. Let f = 0.03 - n. Let b = f - -1.99999982. Round b to 6 dps.
+Answer:
+-0.000002<|end_of_text|>",0,2
+80,"Question:
+What is the next term in 1, 6, 17, 42, 87, 154, 261?
+Answer:
+402<|end_of_text|>",0,2
+81,"Question:
+Let o = 2.6 - 2.6. Let a = 0.2 - o. Let i = -0.1 - a. Which is the nearest to i?  (a) -3/7  (b) 2/5  (c) -0.2
+Answer:
+c<|end_of_text|>",0,2
+82,"Question:
+Let g = -0.3 - 0.1. Let v = g + 0.3. Let k = -1.4 + v. What is k rounded to one dp?
+Answer:
+-1.2<|end_of_text|>",0,2
+83,"Question:
+Let b = 0.7 - 0.7. Let h = 0.2 + b. Let d = 0.3 + h. Which is the nearest to 2/3?  (a) -1/5  (b) 2/3  (c) d
+Answer:
+b<|end_of_text|>",0,2
+84,"def update_oldest_age(oldest_age, new_oldest_age):
+    """"""
+    A program that updates the oldest age in a list
+    :param oldest_age: an integer that is the oldest age in a list
+    :param new_oldest_age: an integer that is the new oldest age
+    :return: the updated list
+    """"""
+    # if we are in the first list
+    if oldest_age < 0:
+        # if the old list is empty
+        if not old_list:
+            # then we are in the first list
+            return old_list
+        # if the old list is not empty
+        else:
+            # then we are in the second list
+            return old_list
+    # if we are in the second list
+    if new_oldest_age < 0:
+        # if the old list is empty
+        if not old_list:
+            # then we are in the first list
+            return old_list
+        # if the old list is not empty
+        else:
+            # then we are in the second list
+            return old_list
+    # if the old list is not empty
+    if old_list:
+        # if the old list is not empty
+",0,2
+85,"def nested_ternary_dosun(a, b, c):
+    """"""
+    verilen üç sayıları birer birliği olarak yazınız.
+    Bu sayilarin toplamını bulalım
+    :param a: bir sayı
+    :param b: bir sayı
+    :param c: bir sayı
+    :return: topluyor
+    """"""
+    return a * b * c
+<|end_of_text|>",1,2
+86,"Question: In which of the following condition, the risk of anemia is highest?
+A. Bile hidrasyonu
+B. Sermi bülün
+C. Marmak bülünden
+D. Uretik bülünden
+Answer: D<|end_of_text|>",1,2
+87,"Question: The most common cause of anemia in a 5 year old child is
+A. Siderdizan anemi
+B. Siderofren anemi
+C. Graft iman anemi
+D. Alergik
+E. Graftin
+Answer: B<|end_of_text|>",1,2
+88,"Question:
+Let i = 0.1 - -0.9. Let s = -0.6 + i. Let m = 1.5 - s. What is m rounded to the nearest integer?
+Answer:
+-1<|end_of_text|>",0,2
+89,"Question:
+Let n = -0.6 - 4.4. Let m = 0.6 - n. Let d = m - 0.9. What is d rounded to one dp?
+Answer:
+-1.2<|end_of_text|>",0,2
+90,"def add_furniture_to_room(furniture_list, room):
+    """"""
+    Adds furniture to a room.
+
+    :param furniture_list: A list of furniture to be added to the room.
+    :param room: The room to which the furniture is to be added.
+    :return: The number of pieces of furniture added to the room.
+    """"""
+    for furniture in furniture_list:
+        if furniture not in room:
+            room.add(furniture)
+            return 1
+    return 0
+<|end_of_text|>",0,2
+91,"Question:
+What is the remainder when 44 is divided by 12?
+Answer:
+4<|end_of_text|>",0,2
+92,"Question:
+Calculate the remainder when 102 is divided by 13.
+Answer:
+1<|end_of_text|>",0,2
+93,"Question:
+Let i = 0.5 - -1.5. Let r = 0.1 + i. Let f = -0.9 - r. Which is the closest to 1?  (a) f  (b) 2/7  (c) -5
+Answer:
+b<|end_of_text|>",0,2
+94,"Question: The most common type of urolojik amanıklığı
+A. Farken
+B. Kastrıcı
+C. Katar
+D. Kavurma
+E. Köt
+Answer: B<|end_of_text|>",1,2
+95,"Question:
+Let o = 0.2 + 1.8. Let b = o - 1.9. Let s = 4.5 - 4.5. Which is the closest to s?  (a) b  (b) 1/2  (c) -2/3
+Answer:
+a<|end_of_text|>",0,2
+96,"# 2023-1-29
+# https://dunyacak.com/2023/01/29/okun-gezeg-mal-1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20-21-22-23-24-25-26-27-28-29-30-31-32-33-34-35-36-37-38-39-40-41-42-43-44-45-46-47-48-49-50-51-52-53-54-55-56-57-58-59-60-61-62-63-64-65-66-67-68-69-70-71-72-73-74-75-76-77-78-79-80-81-82-83-84-85-86-87-88-89-90-91-92-93-94-95-96-97-98-99-100-101-102-103-104-105-106-107-108-109-110-111",1,2
+97,"Question:
+Let c = 0.5 - -0.5. Let u = c - 1. Let m = u - 1.5. Which is the nearest to -1/4?  (a) -1/2  (b) m  (c) 3
+Answer:
+a<|end_of_text|>",0,2
+98,"Question:Develop a Python program that calculates the total of the 5.5, 3.5, 2.5, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5",0,2
+99,"def nested_ternary_slicing(my_list):
+    """"""
+    In this exercise, you will be given a list of integers and you will need to use nested ternary operators to perform a task. The task is to return a list of integers in which the first element of the list is 0, and the rest of the elements are the sum of the corresponding elements of the original list.
+
+    For example, if the input list is [1, 2, 3, 4, 5], the output list should be [0, 3, 5, 7, 9].
+
+    Hints:
+    * To use nested ternary operators, you need to use the following format: <result> = <condition>? <result if condition is true> : <result if condition is false>
+    * To use nested ternary operators, you need to use the following format: <result> = <condition>? <result if condition is true> : <result if condition is false>
+    * To use nested ternary operators, you need to use the following format: <result> = <condition>? <result if condition is true> : <result if condition is false>
+    * To use nested ternary operators, you",0,2

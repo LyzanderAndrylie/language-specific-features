@@ -1,0 +1,659 @@
+seed,generated_text,occurrence,coherence
+0,Question:WriteaPythonコードプレビューサステスクリアルプレビュアウェルプレビュアウェルプレビュアウェルプレビュアウェルプレビュアウェルプレビュアウェルプレビュアウェルプレビュアウェルプレビュアウェルプレビュアウェルプレビュアウェルプレビュアウェルプレビュアウェルプレビュアウェルプレビュアウェルプレビュアウェルプレビュアウェルプレビュアウェルプレビュアウェルプレビュアウェルプレビュアウェルプレビュアウェルプレビュアウェルプレビュアウェルプレビュアウェルプレビュアウェルプレビュアウェルプレビュアウェルプレビュアウェルプレビュアウェルプレビュアウェルプレビュアウェルプレビュアウェルプレビュアウェルプレビュアウェルプレビュアウェルプレビュアウェルプレビュアウェルプレビュアウェルプレビュアウェルプレビ,1,1
+1,# 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 ,0,0
+2,"Question:
+Let l = -3.4 - -3. Let m = 0.5 - l. Let g = m + -0.2. Which is the closest to 0.1?  (a) g  (b) 0  (c) 2
+Answer:
+a<|end_of_text|>",0,2
+3,"Question:
+Let g = 0.11 - 0.2. Let k = g - 0.3. Let v = -0.1 + k. Which is the closest to 0.1?  (a) 1  (b) v  (c) 4
+Answer:
+b<|end_of_text|>",0,2
+4,"Question:
+Let v = 11.4 - 10. Let q = v - 1.7. Let g = 0.8 - q. What is g rounded to 1 dp?
+Answer:
+1.1<|end_of_text|>",0,2
+5,Question: A 20-year-old man is brought to the emergency because of a 1-2cm nスタカリルマゾインニュマコレヒドラギコトノクロクロリコレクリコレクリコレクリコレクリコレクリコレクリコレクリコレクリコレクリコレクリコレクリコレクリコレクリコレクリコレクリコレクリコレクリコレクリコレクリコレクリコレクリコレクリコレクリコレクリコレクリコレクリコレクリコレクリコレクリコレクリコレクリコレクリコレクリコレクリコレクリコレクリコレクリコレクリコレクリコレクリコレクリコレクリコレクリコレクリコレクリコレクリコレクリコレクリコレクリコレクリコレクリコレクリコレクリコレクリコレクリコレクリコレクリコレクリコレクリコレクリコレクリコレクリコレクリコレクリコレクリコレクリコレクリコレクリコレクリコレクリコレクリコ,1,0
+6,"def carpenter_1(wood1, wood2):
+    """"""Given two pieces of wood, determine if one is
+    a合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ合わせ",1,1
+7,# 2.5.1.1.1.2.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.,0,0
+8,Question: A 20 year old man is afebrile and has no chest pain. His ECG is normal. His peripheral bloodWbc1s1 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 ,0,1
+9,"Question:
+Let r = -0.2 - -0.1. Let p = 0.7 - r. Let l = 0.6 - p. Which is the closest to 1?  (a) 1  (b) l  (c) 3
+Answer:
+a<|end_of_text|>",0,2
+10,"Question: The following is a characteristic of the following
+A. Spera
+B. Spera
+C. Spicula
+D. Spicula
+Answer: C<|end_of_text|>",0,2
+11,"Question: A 35-year-old man presents to the emergency room after being strangled. The man is still in cardiac and respiratory distress. The man'sEKG is given. What is the diagnosis?
+A. Asymptomatic
+B. AsymmetricSTT
+C. Asystole
+D. Asystol
+E. Asv
+Answer: C<|end_of_text|>",0,2
+12,"Question:
+Let r = 1.5 + -1.4. Let q = 2.7 - r. Let t = 0.7 - q. What is t rounded to 1dp?
+Answer:
+2<|end_of_text|>",0,2
+13,"Question:
+Let h = -0.1 + 1.1. Let i = 0.7 - 1. Let l = i - h. What is l rounded to 1 dp?
+Answer:
+-1<|end_of_text|>",0,2
+14,Question: A 50-1 2-5-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-,0,0
+15,"Question:
+Let y = 1.6 - 1.5. Let m = -1.5 - -1.8. Let i = m - y. Which is the closest to 1?  (a) i  (b) 1  (c) 2/9
+Answer:
+b<|end_of_text|>",0,2
+16,"Question:
+Let j = 2.8 + 2.2. Let y = 5.8 - j. Let l = 4.2 - y. What is l rounded to 1 dp?
+Answer:
+4<|end_of_text|>",0,2
+17,"Question:
+Let t = 2.8 - 2.8. Let h = 0.3 - 1.3. Let k = h - -1.4. Which is the closest to t?  (a) k  (b) 1  (c) 2/9
+Answer:
+a<|end_of_text|>",0,2
+18,"Question:
+Let y = 3.8 - 3.8. Let o = -2.8 + 2.8. Which is the closest to 1?  (a) o  (b) y  (c) 2/3
+Answer:
+c<|end_of_text|>",0,2
+19,"Question: A 2 1/2 year old boy is brought to the emergency because of a 1 1/2 week history of fever and a petella. On examination, the child is afebrile. The petella is not swollen and the child is not crying. He is afebrile. The fever is 101F. He is a 1 1/2 week old. The child is a 1 1/2 week old. The child is a 1 1/2 week old. The child is a 1 1/2 week old. The child is a 1 1/2 week old. The child is a 1 1/2 week old. The child is a 1 1/2 week old. The child is a 1 1/2 week old. The child is a 1 1/2 week old. The child is a 1 1/2 week old. The child is a 1 1/2 week old. The child is a 1 1/2 week old. The child is a 1 1/2 week old. The child is a 1 1/2 week old. The child",0,1
+20,"Question: A 30- year-old man presents with a 1cm*1cm*1.5cmlodule of 1.5cmIaLg. It is in the 3rdItraltrabecella. ThecTisusandLg. ofthe1.5cmIaLg. is
+A. 1.5cmIaLg
+B. 2.5cmIaLg
+C. 3.5cmIaLg
+D. 4.5cmIaLg
+Answer: B<|end_of_text|>",0,2
+21,"Question:
+Let g = 0.1 + -1.1. Let j = 1.1 - g. Let h = 2.1 - j. What is h rounded to 1 dp?
+Answer:
+1.1<|end_of_text|>",0,2
+22,"Question: Which of the following is a common cause of fever in a 1-2 week-old baby?
+A. EnterohaemorrhaggicE. Streptococcalmenenteritidis
+B. StaphyA. EnterohaemorrhaggicE. Streptococcalmenenteritidis
+C. StaphA. EnterohaemorrhaggicE. Streptococcalmenenteritidis
+D. EnterohaemorrhaggicE. Streptococcalmenenteritidis
+Answer: A<|end_of_text|>",0,0
+23,"Question: Which of the following is not a method of measurement of haemorrhage:
+A. Huntetstv1
+B. Sg1
+C. Sg2
+D. Sg3
+Answer: C<|end_of_text|>",0,2
+24,"Question: The following is/are true of endoplasmic reticulum
+A. It is an organelle of eukaryotic cells
+B. It is a cellular organelle
+C. It is involved in the transport of amino acid
+D. It is involved in the transport of sugars
+Answer: A<|end_of_text|>",0,2
+25,"# C17D4
+
+C17D4またはC17D4aは、レベウジャコウサルと考えられるような個体が発見されたことから始まったところひとつである考えられていたものである考えであるため、ある意味して発見されてきたものではないかと考えられるようになったと思し�C17D4はC17D4aに合わせたものとして考えられるようになったということはあると思いあるところひとつである考えがあるようだと思い当てようあるようだという考えがあるということで考えようあると思い考えようあると思い考えようあると思い考えようあると思い考えようあると思い考えようあると思い考えようあると思い考えようあると思い考えようあると思い考えようあると思い考えようあると思い考えようあると思い考えようあると思い考えようあると思い考えようあると思い考えようあると思い考えようあると思い考えようあると思い考えようあると思い考えようあると思い考えようあると思い考えようあると思い考えようあると思い考えようあると思い考えようあると思い考えようあると思い考えようあると思い考えようあると思い",1,1
+26,"Question:
+Let s = 4.1 + -4. Let l = 0.1 - s. Let c = 0.1 - l. Which is the closest to 2?  (a) 2  (b) 2/5  (c) c
+Answer:
+a<|end_of_text|>",0,2
+27,"Question:DevelopaCSPediatricR2
+TheR2
+TheR2
+TheR2
+TheR2
+TheR2
+TheR2
+TheR2
+TheR2
+TheR2
+TheR2
+TheR2
+TheR2
+TheR2
+TheR2
+TheR2
+TheR2
+TheR2
+TheR2
+TheR2
+TheR2
+TheR2
+TheR2
+TheR2
+TheR2
+TheR2
+TheR2
+TheR2
+TheR2
+TheR2
+TheR2
+TheR2
+TheR2
+TheR2
+TheR2
+TheR2
+TheR2
+TheR2
+TheR2
+TheR2
+TheR2
+TheR2
+TheR2
+TheR2
+TheR2
+TheR2
+TheR2
+TheR2
+TheR2
+TheR2
+TheR2
+TheR2
+TheR2
+TheR2
+TheR2
+TheR2
+TheR2
+TheR2
+TheR2
+TheR2
+TheR2
+TheR2
+The",0,0
+28,"Question:
+Let t = 0.05 - 0.05. Let i = 1.2 - 1.2. Let h = i - t. What is h rounded to 1 dp?
+Answer:
+1<|end_of_text|>",0,2
+29,"# Pseudoscopion
+
+Pseudoscopion is a genus of spiorhブリオウスの一つであることを知っており、彼らの他の�ある種がよく知られているようにしていて、彼らはよく見られるようにしていて彼らのすべての種はよく知られているようだ。ただし、彼らのすべての種がよく知れていることはないだろうと考えられることはあるため、彼らはよく見られるようにしていて彼らはよく知っているようであっても彼らのすべての種がよく知れているわけではないことはあるだろうと考えられるようだ。彼らがよく知られていることはあるだろうと思い、彼らがよく見られるようにしていて彼らがよく知っているようであっても彼らがよく知っていない可能性があることを考えついて彼らはよく見られるようにしていて彼らはよく知っているようであっても彼らがよく知っていない可能性があることを考えているところがあるように見えるようだ。
+
+## 産生する種
+
+* P. aethiopius
+* P. aethiopius
+* P. aethiopius
+* P. aethiopius
+* P. aethiopius
+* P",1,1
+30,"Question:
+Let y = 0.1 - 0.1. Let s = 2.4 - 2.5. Let g = s - -0.9. Which is the closest to 1?  (a) g  (b) y  (c) 0.2
+Answer:
+c<|end_of_text|>",0,2
+31,"Question:
+Let m = -1.7 - -1.8. Let i = 1.1 - m. Let g = 0.4 + i. Which is the nearest to g?  (a) 0.4  (b) 1  (c) 2/3
+Answer:
+a<|end_of_text|>",0,2
+32,"Question:
+Let i = 0.002 - 0.011. Let q = 0.009 + i. Let g = q - 0.0095. What is g rounded to 2 dps?
+Answer:
+-0.1<|end_of_text|>",0,2
+33,"def nested_ternary_1(temperature):
+    """"""
+    You are a nurse and have been given a list of temperature readings.
+    You need to check if the temperature is above 100F and if so,
+    you need to check if the temperature is above 101F and if so,
+    you need to check if the temperature is above 102F and if so,
+    and so on.
+    If the temperature is not above 100F or 101F or 102F or 103F or 104F or 105F,
+    you need to print ""Not to be alarmed"".
+    If the temperature is above 100F or 101F or 102F or 103F or 104F or 105F,
+    you need to print ""The temperature is fine"".
+    """"""
+    if temperature > 100 and temperature > 101 and temperature > 102 and temperature > 103 and temperature > 104 and temperature > 105:
+        if temperature > 100 and temperature > 101 and temperature > 102 and temperature > 103 and temperature > 104 and temperature > 105:
+            if temperature > 101 and temperature > 102 and temperature > 103 and temperature > 104 and temperature >",0,0
+34,"Question: Which of the following is not a risk of anorexia nervosa
+A. Amenorrhoea
+B. Anoremicたくまさ
+C. Anorexiaexendr
+D. Ateisic
+Answer: A<|end_of_text|>",1,1
+35,"Question:
+What is 0.2 - 0.0032?
+Answer:
+0.1968<|end_of_text|>",0,2
+36,"Question:
+Let o = 0.6 - 1.6. Let r = 0.8 - o. Let s = 1.7 - r. What is s rounded to 1 dp?
+Answer:
+2<|end_of_text|>",0,2
+37,"# 2016サテライトライジェットショウ
+## 2016サテライトライジェットショウ
+### 1週間間にわたってトレサテラサテイ
+### 1週間間にわたってトレサテラサテイ
+## 1週間にわたってトレサテラサテイ
+### 1週間にわたってトレサテラサテイ
+## 1週間にわたってトレサテラサテイ
+### 1週間にわたってトレサテラサテイ
+## 1週間にわたってトレサテラサテイ
+### 1週間にわたってトレサテラサテイ
+## 1週間にわたってトレサテラサテイ
+### 1週間にわたってトレサテラサテイ
+## 1週間にわたてトレサテラサテイ
+### 1週間にわたてトレサテラサテイ
+## 1週間にわたてトレサテラサテイ
+### 1週間にわた",1,1
+38,"Question:
+What is 4.8 - 3.5?
+Answer:
+1.3<|end_of_text|>",0,2
+39,"Question:
+Let t = -0.12 - -0.5. Let k = -0.4 + t. Let r = 0.5 + k. What is r rounded to 1 dp?
+Answer:
+1.1<|end_of_text|>",0,2
+40,"# 2002年のサハルサイクロニクス
+
+2002年のサハルサイクロニクスはサハルサイクロニクスの2つあるサハルサイクロニクスで2002年のうちに起こった出来事をまとめ上げたものである。
+
+## 1月1日
+
+* 2002年1月1日
+  * 1月1日にサハルサイクロニクスを合わせた2チームが出会い合わせてカイレリ戦を行ったがサハルサイクロニクスが2チーム合わせて1チームのチームスタジェレホルスタレコイゾルレルテノレルレルルレルルレルルレルルレルルレルルレルルレルルレルルレルルレルルレルルレルルレルルレルルレルルレルルレルルレルルレルルレルルレルルレルルレルルレルルレルルレルルレルルレルルレルルレルルレルルレルルレルルレルルレルルレ",1,1
+41,"Question:
+Let v = 1.5 + 3.5. Let q = 2.8 - v. Let h = 0.2 - q. What is h rounded to 1 dp?
+Answer:
+1<|end_of_text|>",0,2
+42,"Question: In a 20-35-50mL sample of blood, 1mL of 10% ststvofedさせてくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいくださいください",1,1
+43,"Question:
+Let k = 0.2 - 0.2. Let h = 1.2 - 1.4. Let q = h - -0.8. What is the closest to 2/3 in k, q, 2/7?
+Answer:
+2/7<|end_of_text|>",0,2
+44,"Question:
+Let o = 2.1 - 2. Let s = 0.5 - 0.5. Let m = 2.2 - 2.2. What is the nearest to s in m, o, 3/4?
+Answer:
+m<|end_of_text|>",0,2
+45,Question: A 60-year-old man is evaluated for anoreintal bleeding. He is a 15%ed to 30%ed and is still on warin. He has been a hemodialaerfor 2 years. He is a 2ed to 2ed and is still on warin. He is 2ed to 2ed and is still on warin. He is 2ed to 2ed and is still on warin. He is 2ed to 2ed and is still on warin. He is 2ed to 2ed and is still on warin. He is 2ed to 2ed and is still on warin. He is 2ed to 2ed and is still on warin. He is 2ed to 2ed and is still on warin. He is 2ed to 2ed and is still on warin. He is 2ed to 2ed and is still on warin. He is 2ed to 2ed and is still on warin. He is 2ed to 2ed and is still on warin. He is 2ed to 2ed and is still on war,0,1
+46,"Question: All of the following are the risk factors for development of gout,except
+A. H身サ
+B. H身サ
+C. H身サ
+D. H身サ
+Answer: A<|end_of_text|>",1,0
+47,"# 2008GJ
+
+2008GJは2011年に発見された惑星である。地球から1.5マルカサル離し位置で発見された。スペリアニュエウェル計上げによって2.7-2.8ミリカヤキという大きさが考えられることが多い。このような大きさが見出しするような大きさの候手を考えられるのは2001GJである。
+
+## 外部リンク<|end_of_text|>",1,2
+48,Question: A 2 1/2-2 1/2 year-old girl is being evaluated for the development of a fever. She is a 1 1/2-1 1/2 year-old girl and is 1 1/2-1 1/2 years of age. She has no fever at this moment. Her immunization is up to date. Her mother says that she has a fever for 1 1/2-2 1/2 years and it was 1 1/2-1 1/2 years ago. The fever is 1 1/2-1 1/2 hours. Her temperature is 100.1F. Her physical examination is normal. The chest is clear. An x-ray of the chest shows a normalheart sounds. A 2 1/2-2 1/2 year-old girl is being evaluated for the development of a fever. She is 1 1/2-1 1/2 years of age. She has no fever at this moment. Her immunization is up to date. Her mother says that she has a fever for 1 1/2-2 1/2 years and it was 1,0,1
+49,"Question: All of the following are characteristics of a commoner's blood, except
+A. A1A1
+B. A1A2
+C. A2A2
+D. A2A2
+E. A2A2
+A. A1A1
+B. A1A2
+C. A2A2
+D. A2A2
+E. A2A2
+A. A1A1
+B. A1A2
+C. A2A2
+D. A2A2
+E. A2A2
+A. A1A1
+B. A1A2
+C. A2A2
+D. A2A2
+E. A2A2
+A. A1A1
+B. A1A2
+C. A2A2
+D. A2A2
+E. A2A2<|end_of_text|>",0,2
+50,"Question:
+Let g = 4.5 - 4. Let h = 2.2 + g. Let r = 0.2 - h. What is r rounded to 1 dp?
+Answer:
+1<|end_of_text|>",0,2
+51,Question:CreateaPythonscriptthatreadsdatafromaCSV(CommaSparatedVAlued)ファイルとサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサルサル,1,1
+52,"def create_list(animals):
+    """"""
+    Create a list of animals and print it.
+    """"""
+    animals = [
+        ""Lion"",
+        ""Tiger"",
+        ""Cheetah"",
+        ""Ostrich"",
+        ""Gorilla"",
+        ""Sparo"",
+        ""Lion"",
+        ""Tigre"",
+        ""Cheetah"",
+        ""Ostrhodoris"",
+        ""Gorilla"",
+        ""Sparo"",
+    ]
+    print(animals)
+<|end_of_text|>",1,2
+53,"Question:
+What is 2.9 - 2.2?
+Answer:
+0.7<|end_of_text|>",0,2
+54,"Question: Which of the following is not a feature of hyperhyperendrtrism
+A. Hyperカサミ
+B. Hypernatremic
+C. Hyperchloremic
+D. Hypermagnesuria
+E. Hyponatremic
+A. A
+B. B
+C. C
+D. D
+E. E
+<|end_of_text|>",1,2
+55,def get_first_5_100_1000_10000_100100_1001001_1001001_1001001_1001001_1001001_1001001_1001001_1001001_1001001_1001001_1001001_1001001_1001001_1001001_1001001_1001001_1001001_1001001_1001001_1001001_1001001_1001001_1001001_1001001_1001001_1001001_1001001_1001001_1001001_1001001_1001001_1001001_1001001_1001001_1001001_1001001_1001001_1001001_1001001_1001001_1001001_1001001_1001001_1001001_1001001_1001001_1001001_1001001_1001001_1001001_1001001_1001001_1001001_1001001_1001001_1001001_1001001_1001001_1001001_1001001,0,0
+56,"Question:
+What is 1.5 - 0.1?
+Answer:
+1.4<|end_of_text|>",0,2
+57,"Question:
+Let j = 2.3 - 2.3. Let q = 2.4 + -2.4. Let h = q - j. What is h rounded to 1 dp?
+Answer:
+1<|end_of_text|>",0,2
+58,"def nested_ternary_ternary(x: int, y: int) -> str:
+    """"""
+    This function takes two integers as input and
+    returns the string ""Yes"" or ""No"" depending on
+    whether the product of x and y is 1.
+    """"""
+    return ""Yes"" if (x * y == 1) else ""No""
+<|end_of_text|>",0,2
+59,"def find_rhizopod_1(1,2,3,4,5):
+    """"""This is a function to determine if a rhizopod1 is present at 1,2,3,4,5. 
+    If it is present, the rhizopod1 is considered to be present. 
+    If it is not present, the rhizopod1 is not present. 
+    """"""
+    if 1 in [1,2,3,4,5]:
+        return ""1""
+    if 2 in [1,2,3,4,5]:
+        return ""2""
+    if 3 in [1,2,3,4,5]:
+        return ""3""
+    if 4 in [1,2,3,4,5]:
+        return ""4""
+    if 5 in [1,2,3,4,5]:
+        return ""5""
+<|end_of_text|>",0,2
+60,Question:Develop a C#ウィテルスターのプレビュハウサイプログラミザプログラミトレビユプレビアプレビアプレビアプレビアプレビアプレビアプレビアプレビアプレビアプレビアプレビアプレビアプレビアプレビアプレビアプレビアプレビアプレビアプレビアプレビアプレビアプレビアプレビアプレビアプレビアプレビアプレビアプレビアプレビアプレビアプレビアプレビアプレビアプレビアプレビアプレビアプレビアプレビアプレビアプレビアプレビアプレビアプレビアプレビアプレビアプレビアプレビアプレビアプレビアプレビアプレビアプレビアプレビアプレビアプレビアプレビアプレビアプレビアプレビアプレビアプレビアプレビアプレビアプレビアプレビアプレビアプレビアプレビアプレビアプレビアプレビアプレビアプレビアプレビアプレビアプレビ,1,0
+61,"Question:
+Let l = 7.9 - 7.9. Let p = 0.2 + 0.2. Let d = p - 1.2. What is the closest to 1/2 in l, 0.1, d?
+Answer:
+0.1<|end_of_text|>",0,2
+62,"def nested_list_ternary(animals):
+    """"""
+    Given a list of animals, return a list of their sounds. If an animal's sound is ""moo"" or ""oink"",
+    return ""moo"" or ""oink"" as appropriate. If an animal's sound is ""girll"" or ""girly"",
+    return ""girll"" or ""girly"" as appropriate. If an animal's sound is ""meh"" or ""mehm"",
+    return ""meh"" or ""mehm"" as appropriate. If an animal's sound is ""mehm"" or ""mehm"",
+    return ""meh"" or ""mehm"" as appropriate.
+    """"""
+    sounds = [animal[0] for animal in animals]
+    if ""moo"" or ""oink"" in sounds:
+        sounds[1] = ""moo"" if ""moo"" in sounds[1] else ""oink""
+    if ""girll"" or ""girly"" in sounds:
+        sounds[2] = ""girll"" if ""girll"" in sounds[2] else ""girly""
+    if ""meh"" or """,0,1
+63,"Question:
+Let o = -1.5 + 1.5. Let r = 4.5 - 4.5. Let h = r + o. What is h rounded to 1dp?
+Answer:
+-1<|end_of_text|>",0,2
+64,"Question:
+Let q = -1.6 - 0.4. Let l = 1.1 - q. Let v = 0.2 + l. What is v rounded to 1 dp?
+Answer:
+1<|end_of_text|>",0,2
+65,"Question:
+Let h = -0.5 - -0.5. Let i = 0.1 - h. Let j = 0.1 - i. What is j rounded to 1 dp?
+Answer:
+1<|end_of_text|>",0,2
+66,"Question: Which of the following is not a feature of anaphylactic reaction
+A. Anaphylaxicショウカマ
+B. Vomiting
+C. Anaphylaxicショウカマ
+D. Tonicリホルヒエ
+E. Hesitotoxicリホルヒエ
+A. Vomiting
+B. Anaphylaxicショウカマ
+C. Anaphylaxicショウカマ
+D. Tonicリホルヒエ
+E. Hesitotoxicリホルヒエ
+Answer: C<|end_of_text|>",1,1
+67,Question: A 35-35Wf 2.5-3cmHf 2.5-3cmHf 2.5-3cmHf 2.5-3cmHf 2.5-3cmHf 2.5-3cmHf 2.5-3cmHf 2.5-3cmHf 2.5-3cmHf 2.5-3cmHf 2.5-3cmHf 2.5-3cmHf 2.5-3cmHf 2.5-3cmHf 2.5-3cmHf 2.5-3cmHf 2.5-3cmHf 2.5-3cmHf 2.5-3cmHf 2.5-3cmHf 2.5-3cmHf 2.5-3cmHf 2.5-3cmHf 2.5-3cmHf 2.5-3cmHf 2.5-3cmHf 2.5-3cmHf 2.5,0,0
+68,"Question:
+What is 3.9 - 0.1?
+Answer:
+3.8<|end_of_text|>",0,2
+69,"Question:
+Let i = 0.1 - 0.1. Let l = 1.1 - i. Let m = 1.7 - l. What is m rounded to 1 dp?
+Answer:
+2<|end_of_text|>",0,2
+70,"Question: The mainstay of treatment of gout-
+A. Asalmen
+B. Asalmen
+C. Asalmen
+D. Asalmen
+Answer: A<|end_of_text|>",0,2
+71,"Question:
+Let l = 0.3 - 0.2. Let r = 0.3 - l. Let i = 2.4 - r. What is i rounded to 1 dp?
+Answer:
+2<|end_of_text|>",0,2
+72,"Question:
+Let i = 0.4 - 0.4. Let d = 0.4 - i. Let m = 0.8 - d. What is m rounded to 1 dp?
+Answer:
+1<|end_of_text|>",0,2
+73,"def evaluate_heart_treatment(heart_treatment):
+    """"""
+    Evaluate a treatment plan for heart disease and determine if it is appropriate.
+    The treatment plan is given as a string of the form ""heart_treatment[1-10].""
+    Thehearttreatmentisthehearttreatmentisgivenasstringoftheform""heart_treatment[1-10]"".
+    """"""
+    if ""heart_treatment[1-10]"" in str(heart_treatment):
+        return ""Thisisthehearttreatmentisappropriate""
+    else:
+        return ""Thisisnotthehearttreatmentisappropriate""
+<|end_of_text|>",0,2
+74,"def get_heart_rate(heart_rate_1: int, heart_rate_2: int, beat_1: int, beat_2: int) -> int:
+    """"""
+    Given the heart rate of a person at two different times,
+    and the beats per minute (BPM) of the two beats,
+    return the heart rate at the 1st beat.
+    """"""
+    if heart_rate_1 > 100:
+        return 100
+    if heart_rate_2 > 100:
+        return 100
+    if beat_1 > 100:
+        return 100
+    if beat_2 > 100:
+        return 100
+    if beat_1 == 100 and beat_2 == 100:
+        return 100
+    if beat_1 == 100:
+        return 100
+    if beat_2 == 100:
+        return 100
+    if beat_1 == 100 and beat_2 == 100:
+        return 100
+    if beat_1 == 100:
+        return 100
+    if beat_2 == 100:
+        return 100
+    if beat_1 == 100 and beat_2 == 100:
+        return 100
+",0,2
+75,"Question: A 24-year-old woman presents to the emergency room with a 3-day history of fever, abdominal pain, and constipation. She reports a 3-1/2-day history of dysuria and urethral burning. Her temperature is 103F (1.1C). TheVagalmenstrual bleeding is 10cm. TheGonococcalmenstrual bleeding is 1cm. TheHepatomegaly is 10cm. TheLymphadenomegaly is 2cm. TheSpleenomegaly is 10cm. TheLymphadenomegaly is 2cm. TheSpleenomegaly is 10cm. TheLymphadenomegaly is 2cm. TheSpleenomegaly is 10cm. TheLymphadenomegaly is 2cm. TheSpleenomegaly is 10cm. TheLymphadenomegaly is 2cm. TheSpleenomegaly is 10cm. TheLymphadenomegaly is 2cm. TheSpleenomegaly is 10cm. TheLymphadenomegaly is 2cm",0,1
+76,"Question:
+Let r = 10.5 - 10. Let i = -2.2 + 2.2. Let v = i - r. What is v rounded to 1 dp?
+Answer:
+-1<|end_of_text|>",0,2
+77,"def create_tuple_2(1,2,3,4,5,6,7,8,9):
+    """"""
+    Create a tuple with 10 items and an infinite loop.
+    """"""
+    # create an empty list
+    lst = []
+    # create an infinite loop
+    while True:
+        # add 10 random numbers to the list
+        lst = [random.randint(1,10) for i in range(10)]
+        #print(lst)
+        #if len(lst) == 10:
+        #    break
+    return lst
+<|end_of_text|>",0,2
+78,"Question: A 30-yr-old man presents with the chief訴話: ""I feel as ifI have been on a massive stimulant. I am hyperenergetic and hyperactive. I feel like I am in a hurry. I have an insat- した気持ちがありますが、どうしてこんな気持ちで起こってるようだと思っていることはありませんね。""I feel as ifI have been on a massive stimulant. I am hyperenergetic and hyperactive. I feel like I am in a hurry. I have an insat- した気持ちがありますが、どうしてこんな気持ちで起こってるようだと思っていることはありませんね。""I feel as ifI have been on a massive stimulant. I am hyperenergetic and hyperactive. I feel like I am in a hurry. I have an insat- した気持ちがありますが、どうしてこんな気持ちで起こってるようだと思っていることはありませんね。""I feel as ifI have been on a massive stimulant. I am hyperenergetic and hyperactive. I feel like I am in a hurry. I have an insat- した気持ちがありますが、どうしてこんな気持ちで起こってるようだと思っていることはありませんね。""I feel as",1,1
+79,"Question:
+Let i = 1.7 - 1.8. Let v = 0.1 - 0.1. Let m = 1.1 - v. Which is the closest to 1?  (a) i  (b) m  (c) 2
+Answer:
+b<|end_of_text|>",0,2
+80,"Question:
+What is the next term in 5, 24, 51, 88, 135?
+Answer:
+200<|end_of_text|>",0,2
+81,"Question:
+Let o = 2.6 - 2.7. Let v = 2.2 - o. Let p = 0.1 - v. Which is the closest to 0.1?  (a) p  (b) 2  (c) 1
+Answer:
+a<|end_of_text|>",0,2
+82,"Question:
+Let g = 0.2 - 0.1. Let v = 2.7 + g. Let q = 2.7 - v. What is q rounded to 1dp?
+Answer:
+1<|end_of_text|>",0,2
+83,"Question:
+What is 3/10 of a litre in millilitres?
+Answer:
+300<|end_of_text|>",0,2
+84,"def update_annotated_list(annotated_list, update_annotated_list):
+    """"""
+    Given an annotated list and an update list, update theannotatedlistwiththeupdateannotatedlist.
+    The updateannotatedlistisadictthatholdskeyedリストと呼ばれています。
+     """"""
+    for key, val in update_annotatedlist.items():
+        if key in annotatedlist:
+            if val == ""1"":
+                annotatedlist[key] = ""2""
+            elif val == ""2"":
+                annotatedlist[key] = ""1""
+        else:
+            annotatedlist[key] = val
+    return annotatedlist
+<|end_of_text|>",1,2
+85,"def nested_ternary_elif(temperature1, temperature2, temperature3):
+    """"""
+    You are a zoologist and have been asked to study the temperature of 3 different
+    temperature measurements. You have 2 thermometers: a 1m3 thermos and 1m2 thermos.
+    You want to know if the temperature1 is above 10C and the temperature2 and 3
+    are above 10C. If one of the 2 thermometers is not 1m3 or 1m2, print ""The
+    temperature1 is not 1m3 or 1m2"".
+    """"""
+    if temperature1 > 10:
+        if temperature2 > 10:
+            if temperature3 > 10:
+                print(""The temperature1 is 1m3 or 1m2"")
+<|end_of_text|>",0,2
+86,"Question: In a 40-50%deleterious gene, the risk to the offspring is
+A. 50%
+B. 100%
+C. 100-50
+D. 50-100
+Answer: C<|end_of_text|>",0,2
+87,"Question: The following is a sample of a sentence
+A. A man
+B. An animal
+C. A man and a woman
+D. A man and an animal
+E. An animal and a man
+A. A man
+B. An animal
+C. A man and a woman
+D. A man and an animal
+E. An animal and a man
+A. A man
+B. An animal
+C. A man and a woman
+D. A man and an animal
+E. An animal and a man
+A. A man
+B. An animal
+C. A man and a woman
+D. A man and an animal
+E. An animal and a man<|end_of_text|>",0,2
+88,"Question:
+Let i = 2.8 - 2.7. Let s = 0.6 + i. Let m = 1.5 - s. What is m rounded to 1 dp?
+Answer:
+1<|end_of_text|>",0,2
+89,"Question:
+Let r = 0.6 - 0.8. Let m = 0.6 - r. Let d = 1.1 - m. What is d rounded to 1 dp?
+Answer:
+1<|end_of_text|>",0,2
+90,def add_to_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_30_,0,0
+91,"Question:
+What is the remainder when 44 is divided by 14?
+Answer:
+6<|end_of_text|>",0,2
+92,"Question:
+Let r = 2.2 - 2. Let g = 1.3 + r. Let h = 0.7 - g. What is h rounded to 1 dp?
+Answer:
+2.1<|end_of_text|>",0,0
+93,"Question:
+Let i = 0.5 - 1. Let g = 1.7 - i. Let j = g - 1.9. What is j rounded to 1 dp?
+Answer:
+-1.1<|end_of_text|>",0,2
+94,Question: The main function of the peritonea収取りするのに適する手術手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手,1,1
+95,"Question:
+Let h = 0.2 - 1.2. Let m = 0.8 - h. Let j = 1.5 - m. What is j rounded to 1 dp?
+Answer:
+1.5<|end_of_text|>",0,2
+96,"# 2001–2002オレハドラ
+
+『2001–2002オレハドラ』（2001-2002オレハドラ、とおあるドラ）は、日本テレビドラマシリーズであるオレドラジャヒロドラシリーズのひとつである。
+
+##スタイリスト
+
+* ひとみつみ
+* ひとつひとひと
+* ひとつひとひとふつ
+* ひとつひとひとひと
+* ひとつひとひとふつふつ
+* ひとつひとひとひとふつふつふつ
+* ひとつひとひとふつふつふつふつ
+* ひとつひとひとふつふつふつふつふつ
+* ひとつひとひとふつふつふつふつふつ
+* ひとつひとひとふつふつふつふつふつ
+* ひとつひとひとふつふつふつふつふつ
+* ひとつひとひとふつふつふつふつふつ
+* ひとつひとひとふつふつふつふつふつ
+* ひとつひとひとふつふつふつふつふつ
+* ひとつひと",1,1
+97,"Question:
+Let c = 0.5 - 0.5. Let t = 0.1 - 0.1. Let i = 1.3 - 1.3. What is the closest to i in c, t, 4?
+Answer:
+t<|end_of_text|>",0,2
+98,Question:Develop a C# program snippetto DetermineIfisGivenIfYouHaveThis2.1.2.2.1.1.2.2.2.1.1.2.1.1.2.1.1.2.1.1.2.1.1.2.1.1.2.1.1.2.1.1.2.1.1.2.1.1.2.1.1.2.1.1.2.1.1.2.1.1.2.1.1.2.1.1.2.1.1.2.1.1.2.1.1.2.1.1.2.1.1.2.1.1.2.1.1.2.1.1.2.1.1.2.1.1.2.1.1.2.1.1.2.1.1.2.1.1.2.1.1.2.1.1.2.1.1.2.1.1.2.1.1.2.1.1.2.1.1.2,0,0
+99,"def nested_ternary_elif(temperature: int, temperature2: int) -> str:
+    """"""
+    Given two temperatures, determine the temperature1 and temperature2
+    and return a string that is the concatenation of the following:
+    * If temperature1 > 10
+      * If temperature2 > 10
+        * If temperature1 > temperature2
+          * If temperature2 > 10
+            * If temperature1 > 10
+              * If temperature2 > 10
+                * If temperature1 > 10
+                  * If temperature2 > 10
+                    * If temperature1 > 10
+                      * If temperature2 > 10
+                        * If temperature1 > 10
+                          * If temperature2 > 10
+                            * If temperature1 > 10
+                              * If temperature2 > 10
+                                * If temperature1 > 10
+                                  * If temperature2 > 10
+                                    * If temperature1 > 10
+                                      * If temperature2 > 10
+                                        * If temperature1 > 10
+                                          * If temperature2 > 10
+                                            * If temperature1 > 10
+                                              * If temperature2 > 10
+                                                * If temperature1 > 10
+",0,0

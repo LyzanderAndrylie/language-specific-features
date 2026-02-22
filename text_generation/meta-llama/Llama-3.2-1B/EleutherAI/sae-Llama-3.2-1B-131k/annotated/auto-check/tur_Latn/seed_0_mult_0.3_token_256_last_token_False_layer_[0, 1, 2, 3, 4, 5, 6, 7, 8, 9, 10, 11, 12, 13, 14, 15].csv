@@ -1,0 +1,620 @@
+seed,generated_text,occurrence,coherence
+0,"Question: A 75 year old old, had a B.1.1.5, N.2, N.1, N.2, B.1.1.6, B.1.1.6, S.1, S.1, S.1, S.1, S.1, S.1, S.1, S.1, S.1, S.1, S.1, S.1, S.1, S.1, S.1, S.1, S.1, S.1, S.1, S.1, S.1, S.1, S.1, S.1, S.1, S.1, S.1, S.1, S.1, S.1, S.1, S.1, S.1, S.1, S.1, S.1, S.1, S.1, S.1, S.1, S.1, S.1, S.1, S.1, S.1, S.1, S.1, S.1, S.1, S.1, S.1, S.1, S",0,1
+1,"Question:
+Let d = 0.2 + -0.3. Let s = 0.2 + d. Let b = s - -0.6. What is b rounded to 1 dp?
+Answer:
+1<|end_of_text|>",0,2
+2,"Question:
+Let l = -3.4 - -3. Let m = 0.5 - l. Let s = m + -2.2. Which is the closest to 0?  (a) -2/5  (b) s  (c) -5
+Answer:
+a<|end_of_text|>",0,2
+3,"Question:
+Let g = 0.4 - -0.5. Let k = g - 0.3. Let m = -0.3 + k. Which is the closest to 0.1?  (a) m  (b) -0.3  (c) 2/9
+Answer:
+c<|end_of_text|>",0,2
+4,"Question:
+Let v = 0.1 - -1.9. Let t = 1.7 - v. Let o = t + 0.3. Which is the nearest to 2/3?  (a) -1/2  (b) o  (c) 1
+Answer:
+c<|end_of_text|>",0,2
+5,"Question: The number of normal anemiy
+A. 1
+B. 2
+C. 3
+D. 4
+E. 5
+Answer: B<|end_of_text|>",0,2
+6,"def set_mimic(s: str, s1: str, s2: str, s3: str, s4: str, s5: str, s6: str, s7: str, s8: str, s9: str, s10: str, s11: str, s12: str, s13: str, s14: str, s15: str, s16: str, s17: str, s18: str, s19: str, s20: str, s21: str, s22: str, s23: str, s24: str, s25: str, s26: str, s27: str, s28: str, s29: str, s30: str, s31: str, s32: str, s33: str, s34: str, s35: str, s36: str, s37: str, s38: str, s39: str, s40: str, s41: str, s42: str, s43: str, s44: str, s45: str, s46: str, s47: str, s48: str, s49: str, s50",0,2
+7,"# O. O. N. Tüyün
+
+O. O. N. Tüyün, 19. yüzyıl başında bir kişi, 18. yüzyıl başlarında bir kişi ve 21. yüzyıl başlarında bir kişi. O. O. N. Tüyün, 19. yüzyıl boyunca birçok kişi tarafından kullanılmış olup günümüzde ise ""O. O. N. Tüyün"" olarak kullanılmıyor.<|end_of_text|>",1,2
+8,"Question: A 20 year old female is suffering from anemia. The blood test result of 1/3 normal. His T.B. test is negative. His family medical history is not known. His B. I. G. S. 38, B. A. 5, C. E. 5, H. A. 7, D. B 7, H. B. 1, A. G. 1, C. B. 1, B. S. 1, A. S. 1, A. D. 1, A. G. 1, A. D. 1, A. G. 1, A. D. 1, A. G. 1, A. D. 1, A. G. 1, A. D. 1, A. G. 1, A. D. 1, A. G. 1, A. D. 1, A. G. 1, A. D. 1, A. G. 1, A. D. 1, A. G. 1, A. D. 1, A. G. 1, A",0,1
+9,"Question:
+Let r = -0.2 - -0.1. Let t = 0.7 - r. Let z = t - 0.6. Which is the nearest to z?  (a) 2/9  (b) -3  (c) 0.1
+Answer:
+c<|end_of_text|>",0,2
+10,"Question: The most common anesthetic for the operation in the 1st trimester is
+A. Ayrak
+B. K. A
+C. S. A
+D. M. A
+E. A. B
+Answer: A<|end_of_text|>",0,2
+11,Question: A 54-year old postm. has a 6-1/6. old. son. A 3-1/6. old. s. is not yet ondər. O 6-1/6. də. n. b. 2. 6. gün sonra. 7. 6. gün sonra. 10. 6. gün sonra. 12. 6. gün sonra. 1. 1. gün sonra. 1. 1. gün sonra. 1. 1. gün sonra. 1. 1. gün sonra. 1. 1. gün sonra. 1. 1. gün sonra. 1. 1. gün sonra. 1. 1. gün sonra. 1. 1. gün sonra. 1. 1. gün sonra. 1. 1. gün sonra. 1. 1. gün sonra. 1. 1. gün sonra. 1. 1. gün sonra. 1. 1. gün sonra. 1. 1. gün sonra. 1. 1. gün sonra. 1. 1. gün sonra.,1,1
+12,"Question:
+Let r = 1.5 + -0.5. Let f = 2.7 - r. Let t = f + 3.5. What is the nearest to 0.2 in 0.1, t, 3?
+Answer:
+0.1<|end_of_text|>",0,2
+13,"Question:
+Let h = -0.1 + 1.1. Let i = 0.6 + 0. Let z = i - h. What is the nearest to z in -1/3, 0.4, 1/2?
+Answer:
+1/2<|end_of_text|>",0,2
+14,"Question:Design an C program that would print the following:
+```
+Göğer: 1, 2, 3, 4, 5
+```
+## 1. yöntem
+```
+#include <iostream>
+using: for: 1, 2, 3, 4, 5
+```
+## 2. yöntem
+```
+#include <iostream>
+for: 1, 2, 3, 4, 5
+```<|end_of_text|>",1,1
+15,"Question:
+Let y = -1.9 - 1.1. Let m = -3.5 - -4. Let t = 0.5 - m. Which is the closest to 1?  (a) y  (b) t  (c) 2/9
+Answer:
+c<|end_of_text|>",0,2
+16,"Question:
+Let g = -2.8 + 2.6. Let b = 0.4 + g. Let m = -0.2 - b. Which is the smallest value?  (a) m  (b) -2/3  (c) -3
+Answer:
+c<|end_of_text|>",0,2
+17,"Question:
+Let f = 0.2 - 0.2. Let h = 0.3 - 1.3. Let k = h - -1.4. Which is the closest to f?  (a) k  (b) -1/2  (c) 0.3
+Answer:
+b<|end_of_text|>",0,2
+18,"Question:
+Let y = 3.8 - -0.2. Let o = -2.8 + y. Let g = o - -3.9. Which is the nearest to 0?  (a) g  (b) 3  (c) 1
+Answer:
+a<|end_of_text|>",0,2
+19,"Question: A 8-1-er bir çocuk, 2 hafta sonra 1-1,5-er bir çocuk olarak tanı. 3 gün sonra 2-2,5-er bir çocuk olarak tanı. Neler olduğunu bilir?
+B. C
+C. A
+D. B
+E. Həsır
+G. B
+Tüm çocuklar aynı yaşlarda. Bir çocuk 1-1,5-er. Bir diğer 2-2,5-er. Bir diğer 3-3,5-er.<|end_of_text|>",1,1
+20,"Question: A 62 year old female had a 2.1 g. A B. F. Bul, 12.2 g. B. G. Bul, 9.3 g. B. G. Bul, 1.7 g. B. G. Bul, 2.1 g. B. G. Bul, 1.2 g. B. G. Bul, 1.0 g. B. G. Bul, 1.1 g. B. G. Bul, 1.0 g. B. G. Bul, 1.0 g. B. G. Bul, 1.1 g. B. G. Bul, 1.0 g. B. G. Bul, 1.1 g. B. G. Bul, 1.0 g. B. G. Bul, 1.1 g. B. G. Bul, 1.1 g. B. G. Bul, 1.1 g. B. G. Bul, 1.1 g. B. G. Bul, 1.1 g. B. G. Bul, 1.1 g. B. G. Bul, 1.1 g",0,1
+21,"Question:
+Let g = -0.1 + -1.9. Let y = 1.9 - g. Let k = 2.3 - y. Which is the nearest to 1/2?  (a) -2/5  (b) 1/3  (c) k
+Answer:
+b<|end_of_text|>",0,2
+22,"Question: Which of the following is a bulanlık
+A. Bursün
+B. Hızın
+C. Hızın
+D. Bülent
+E. Günü
+Answer: D<|end_of_text|>",1,2
+23,Question: Which of the following is not a feature of a 4.1/5.1/6.1/7.1/8.1/9.1/10.1/11.1/12.1/13.1/14.1/15.1/16.1/17.1/18.1/19.1/20.1/21.1/22.1/23.1/24.1/25.1/26.1/27.1/28.1/29.1/30.1/31.1/32.1/33.1/34.1/35.1/36.1/37.1/38.1/39.1/40.1/41.1/42.1/43.1/44.1/45.1/46.1/47.1/48.1/49.1/50.1/51.1/52.1/53.1/54.1/55.1/56.1/57.1/58.1/59.1/60.1/61.1/62.1/63.1/64.1,0,2
+24,"Question: The following is not an etiolojik risk
+A. Femo
+B. B
+C. A
+D. C
+E. B, A, C
+Answer: B<|end_of_text|>",0,2
+25,"# Hızdır, Yandanık
+
+Hızdır, Yandanık, Sınırmə, Sınır, 7.3.7. Sığınmeler, 7.3.7. Sığınmeler, 7.3.7. Sığınmeler, 7.3.7. Sığınmeler, 7.3.7. Sığınmeler, 7.3.7. Sığınmeler, 7.3.7. Sığınmeler, 7.3.7. Sığınmeler, 7.3.7. Sığınmeler, 7.3.7. Sığınmeler, 7.3.7. Sığınmeler, 7.3.7. Sığınmeler, 7.3.7. Sığınmeler, 7.3.7. Sığınmeler, 7.3.7. Sığınmeler, 7.3.7. Sığınmeler, 7.3.7. Sığınmeler, 7.3.7. Sığınmeler, 7.3.7. Sığınmeler, 7",1,0
+26,"Question:
+Let s = -4.9 + -5.1. Let a = 6.8 + s. Let b = -1.4 - a. What is b rounded to one dp?
+Answer:
+1.7<|end_of_text|>",0,2
+27,Question:Develop a Python program that checks whether the number is a number or not.<|end_of_text|>,0,2
+28,"Question:
+Let t = 0.1 - 0.1. Let i = 1.6 - t. Let r = -1.7 - i. What is r rounded to 1 dp?
+Answer:
+-2.9<|end_of_text|>",0,2
+29,"Question:Write an Go program that will print the following:
+- A 5.5
+- A 5.5
+- A 5.5
+- A 5.5
+- A 5.5
+- A 5.5
+- A 5.5
+- A 5.5
+- A 5.5
+- A 5.5
+- A 5.5
+- A 5.5
+- A 5.5
+- A 5.5
+- A 5.5
+- A 5.5
+- A 5.5
+- A 5.5
+- A 5.5
+- A 5.5
+- A 5.5
+- A 5.5
+- A 5.5
+- A 5.5
+- A 5.5
+- A 5.5
+- A 5.5
+- A 5.5
+- A 5.5
+- A 5.5
+- A 5.5
+- A 5.5
+- A 5.5
+- A 5.5
+- A 5.5",0,2
+30,"Question:
+Let y = -0.1 - -0.1. Let s = 2.7 - 2.7. Let n = -1.9 + s. Which is the nearest to 0?  (a) 1/2  (b) y  (c) n
+Answer:
+b<|end_of_text|>",0,2
+31,"Question:
+Let m = -1.7 - -1.3. Let m2 = 2.7 - 1.7. Which is the nearest to -0.1?  (a) -2/7  (b) m  (c) 3
+I
+c<|end_of_text|>",0,2
+32,"Question:
+Let i = 0.9 - -0.1. Let b = 2.8 - 3. Let m = i - b. What is m rounded to the nearest ten?
+Answer:
+-5<|end_of_text|>",0,2
+33,"def nested_ternar(a, b, c):
+    """"""
+    Bir sayı yazdır. Eğer sayı 0 ise yazdırmıyınız.
+    """"""
+    if a == 0:
+        print(""0"")
+    else:
+        if b > 0:
+            if c > 0:
+                print(""1"")
+            else:
+                print(""2"")
+            if b < 0:
+                if c > 0:
+                    print(""3"")
+                else:
+                    print(""4"")
+            if b > 0:
+                if c < 0:
+                    print(""5"")
+                else:
+                    print(""6"")
+            if b < 0:
+                if c > 0:
+                    print(""7"")
+                else:
+                    print(""8"")
+            if b < 0:
+                if c < 0:
+                    print(""9"")
+                else:
+                    print(""10"")
+            if b > 0:
+                if c < 0:
+                    print(""11"")
+                else:
+                    print(""12"")
+            if b < 0:
+                if c > 0:
+                    print(""13"")
+                else:
+                    print(""14"")
+            if b < 0:
+                if c < 0:
+                    print(""15"")
+               ",1,2
+34,"Question: Which of the following is not a bulanik?
+A. A bursa
+B. G kişi
+C. Günü
+D. Günü
+E. Günü
+Answer: A<|end_of_text|>",1,2
+35,"Question:
+What is 0.2 of a kilogram in grams?
+Answer:
+50<|end_of_text|>",0,0
+36,"Question:
+Let o = 0.6 + -1.6. Let r = 0.1 - o. Let s = -1.7 - r. What is s rounded to 1 dp?
+Answer:
+-1.1<|end_of_text|>",0,2
+37,"# B. A. Bulme
+
+B. A. Bulme, A. B. Bulme, A. B. Bulmek, A. B. Bulme (d. 1937, İstanbul), Türk yazar.
+
+## Dergiler
+
+* 1957: Dört Cilt B. A. Bulme
+* 1973: Dört Cilt B. A. Bulme<|end_of_text|>",1,2
+38,"Question:
+What is the common denominator of 3/10 and 5/12?
+Answer:
+12<|end_of_text|>",0,0
+39,"Question:
+Let t = -0.4 + -1.5. Let k = t - -1.6. Let m = 1.7 + k. What is m rounded to 0 decimaller?
+Answer:
+0<|end_of_text|>",0,2
+40,"# Körük, Ceymiş, Omeğiz
+
+Körük, Ceymiş, Omeğiz is a village in Omeğiz, Koyüldur, Bulak, Söğüş, Oğurhak, Söğüş, Tavşe, Kınıoğlu, Büküm, Gümüşler, Bükü, Çarlık, Aşkent, Kınıl, Gönüs, Kaya, Kütük, Akçakavır, Yalıkılık, Tavşe, Tüyüalık, Müneli, Kınıgöğü, Böğüç, Önce, Günübir, Uçak, Akçakazı, Ayrık, Aşkiler, Cimak, Düğün, Uçak, Kılıç, Cekme, Bülent, Alış, Dadaş, İmaz, Gök, Tır, Gökçe, Yarıgörmü, Kılıç, Böğü, Gönüs, Döğer, Aysin, Cakır, Münik, Gümüş, Kızıoğlu, Ayr, Döğer, Tır, Aysin, Gündoğ",1,1
+41,"Question:
+Let a = -1.5 + 1.7. Let i = -2.2 - a. Let o = i - 2.9. What is o rounded to 1 dp?
+Answer:
+-1<|end_of_text|>",0,2
+42,"Question: In a bursa, which of the following is not found?
+A. Muc
+B. Hes
+C. E
+D. M
+E. K
+Answer: B<|end_of_text|>",0,2
+43,"Question:
+Let k = -0.2 + 0.2. Let h = 1.7 - 1.7. Let o = 0.2 + 0.5. Which is the nearest to k?  (a) o  (b) 1  (c) 2
+Answer:
+a<|end_of_text|>",0,2
+44,"Question:
+Let o = 2.1 - 2. Let s = 0.5 - 0.5. Let m = 0.2 + s. Which is the nearest to o?  (a) m  (b) -1/3  (c) -3/2
+Answer:
+b<|end_of_text|>",0,2
+45,Question: A 72-year old post-mim. is in a A. S. D. A. B. C. D. E. G. H. K. I. C. M. E. S. A. B. E. G. N. M. S. N. M. H. B. M. H. B. M. D. N. M. B. D. A. E. B. D. A. D. A. B. D. A. E. B. D. A. D. A. D. A. D. A. D. A. D. A. D. A. D. A. D. A. D. A. D. A. D. A. D. A. D. A. D. A. D. A. D. A. D. A. D. A. D. A. D. A. D. A. D. A. D. A. D. A. D. A. D. A. D. A. D. A. D. A. D. A. D. A. D. A. D. A. D. A. D. A. D.,0,0
+46,"Question: The most common cause of the post natal ananar is
+A. Diz hizanı
+B. Böçek
+C. Uyseler
+D. Kilo
+E. Kıza
+A. B
+B. C
+C. A
+D. B
+E. A<|end_of_text|>",1,1
+47,"# A 1.2 m. uzunluğundaki bir göğe, 1 m. kadar bir ışığın 3. bacağı aşağıda göster. Eğer bu ışığı 2. bacağı ile 1. bacağı arasında bir bağe oluştur. 2. bacağı ile 1. bacağı arasındaki bağe 3. bacağı ile 1. bacağı arasındaki bağe için nasıl ayar?<|end_of_text|>",1,2
+48,"Question: A 1 1/6-6 1/2 s bır doğum yapan bir erkek, 4 yıl sonra bır küçük olur. Neler var?
+A. Anabir
+B. Anap
+C. Anap Bır
+D. Anap Bır B
+E. Anap Bır Bır
+Answer: B<|end_of_text|>",1,1
+49,"Question:Design a Python function. The function should:
+1. Check if a string is a palidir or not
+2. If a string is a palidir, then print ""The string is a palidir"".
+3. If a string is not a palidir, then print ""The string is not a palidir""
+<|end_of_text|>",0,2
+50,"Question:
+Let g = 4.5 - 0.5. Let z = 2.2 + g. Let b = z - 0.3. Which is the nearest to b?  (a) -0.2  (b) 0.2  (c) 2/9
+Answer:
+b<|end_of_text|>",0,2
+51,"Question:Create a C# program that will read a number from the user, and then if the number is 0, he should be asked for a new number. If the number is not 0, he should be asked for a new number. This program should continue until the user enters 0.<|end_of_text|>",0,2
+52,"def is_vacca(sayi):
+    if (sayı > 0 && sayı < 100):
+        print(""Büyük"")
+    elif (sayi > 0 && sayı > 100):
+        print(""Büyük ve küçük"")
+    elif (sayi < 0 && sayı < 100):
+        print(""Büyük, küçük ve küçük"")
+    else:
+        print(""Büyük, küçük, küçük, büyük, küçük, küçük, büyük, büyük, küçük, büyük, küçük, büyük, küçük, büyük, küçük, büyük, küçük, küçük, büyük, büyük, küçük, büyük, küçük, küçük, büyük, büyük, küçük, büyük, küçük, büyük, küçük, büyük, küçük, büyük, küçük, büyük, büyük, küçük, büyük, küçük, büyük, küçük, büyük, küçük, büyük, büyük, küçük, büyük, küçük, büyük, küçük, büyük, küçük, büyük, küçük, büyük, küçük, büyük, büyük, küçük, büyük, küçük, büyük, küçük, büyük, büyük, küçük, büyük, küçük, büyük, küçük, büyük, büyük, küçük, büyük, küçük, büyük, küçük, büyük, küçük, büyük, küçük, büyük, büyük, küçük, büyük, büyük, küçük",1,1
+53,"Question:
+What is 2.9 plus -0.2?
+Answer:
+2.7<|end_of_text|>",0,2
+54,"Question: Which of the following is not a sign of anapap?.
+A. Dull on
+B. Eklir
+C. Dört
+D. Kış
+E. Kâğıt
+Answer: B<|end_of_text|>",1,2
+55,"def not_in_mis_ile(baslik, notin, notin_ile):
+    print(baslik, ""iler"", notin, ""iler"" )
+
+    # Biraz fazla bilgi eklemek için
+    # varalım bir gününüzde bir kitap okumuyor, bırakıyorsunuz.
+    # Dört saatte okuyünüz.
+    # Yirmi bir. sonra başından bırınız
+    # 2. kez okuyunuz.
+    # A. 3. kez okuyünüz.
+    # A. 4. kez okuyunuz.
+    # A. 5. kez okuyunuz.
+    # A. 6. kez okuyunuz.
+    # A. 7. kez okuyunuz.
+    # A. 8. kez okuyunuz.
+    # A. 9. kez okuyunuz.
+    # A. 10. kez okuyunuz.
+    # A. 11. kez okuyunuz.
+    # A. 12. kez okuyunuz.
+    # A. 13. kez okuyunuz.
+    # A. 14. kez okuyunuz.
+    # A. 15. kez okuyunuz.
+    # A. 16. kez okuyunuz.
+    # A.",1,2
+56,"Question:
+What is the common denominator of 11/8 and 7/5?
+Answer:
+40<|end_of_text|>",0,2
+57,"Question:
+Let d = -2.3 - 0.3. Let b = -2.5 + d. Let m = b + 3.9. What is m rounded to 1 dp?
+Answer:
+1<|end_of_text|>",0,2
+58,"def nested_slicing(arr):
+    """"""
+    Given a 2D array, return the number of elements in the array that are not in the
+    first row or first column. If the array is not 2D, return 0.
+    """"""
+    return sum(1 for i in range(0, len(arr)) if not i < 0 or not i < 0.5)
+<|end_of_text|>",0,2
+59,"Question:
+What is the common denominator of 1/2 and 57/25?
+Answer:
+50<|end_of_text|>",0,2
+60,"Question:Develop a Python program that checks whether a given number is an integer or not. (Hint: Use the modulo 1.0.1.2.3.4... sıalım)
+<|end_of_text|>",1,1
+61,"Question:
+Let l = -7.7 - -3.9. Let b = l + 3.7. Let r = -0.2 - b. What is r rounded to 2 decimallar?
+Answer:
+0<|end_of_text|>",0,2
+62,"Question: The term ""Ama"" is
+A. Sınıg
+B. Hız
+C. Sık
+D. Dur
+E. Geç
+Answer: A<|end_of_text|>",1,2
+63,"Question:
+Let o = -1.5 + 1.5. Let r = 4.6 - 4.6. Let m = r + 2.9. Which is the nearest to o?  (a) m  (b) 2/5  (c) 2
+Answer:
+b<|end_of_text|>",0,2
+64,"Question:
+Let i = -1.6 + 1.6. Let b = -1.1 - i. Let v = 0.2 + 0.6. Which is the closest to v?  (a) 1/2  (b) 1/3  (c) 3
+Answer:
+b<|end_of_text|>",0,2
+65,"Question:
+Let r = -0.2 - -0.2. Let m = 0.1 - r. Let t = -0.4 - m. What is t rounded to 1 dp?
+Answer:
+-1<|end_of_text|>",0,2
+66,"Question: Which of the following is a form of Detergiler
+A. Oligos
+B. Fikir
+C. Miktadır
+D. Tır
+E. Bir
+Answer: A<|end_of_text|>",0,2
+67,"Question:Designan bir bır bakıcı/ bakıcı yardimi görevi yapan kişidir. Bır kişi, öncelikli olarak, çocukların, a çocukların, çocukların ve çocukların üzerinde uyguyor. Bır kişi, çocukların, çocukların ve çocukların üzerinde uygıyor. Bır kişi, çocukların, çocukların, çocukların, çocukların, çocukların, çocukların, çocukların, çocukların, çocukların, çocukların, çocukların, çocukların, çocukların, çocukların, çocukların, çocukların, çocukların, çocukların, çocukların, çocukların, çocukların, çocukların, çocukların, çocukların, çocukların, çocukların, çocukların, çocukların, çocukların, çocukların, çocukların, çocukların, çocukların, çocukların, çocukların, çocukların, çocukların, çocukların, çocukların, çocukların, çocukların, çocukların, çocukların, çocukların, çocukların, çocukların, çocukların, çocukların, çocukların, çocukların, çocukların, çocukların, çocukların, çocukların, çocukların, çocukların, çocukların, çocukların, çocukların, çocukların, çocukların, çocukların, çocukların, çocukların,",1,1
+68,"Question:
+What is 3.9 take if 0.2 is added to 50.7? A) 50.7 B) 50.7 C) 50.7 D) 50.7 E: 50.7
+Answer:
+3.9 = 3.9
+3.9 + 0.2 = 3.9
+A<|end_of_text|>",0,0
+69,"Question:
+Let i = -3.1 - -2.9. Let a = 1.2 - i. Let m = -1.7 - a. What is m rounded to the nearest integer?
+Answer:
+-2<|end_of_text|>",0,2
+70,Question: The most appropriate treatment for a 4 year old with a 3.5 g/ d. B. 4.5 g/ d. B. 5.5 g/ d. B. 6.5 g/ d. B. 7.5 g/ d. B. 8.5 g/ d. B. 9.5 g/ d. B. 10.5 g/ d. B. 11.5 g/ d. B. 12.5 g/ d. B. 13.5 g/ d. B. 14.5 g/ d. B. 15.5 g/ d. B. 16.5 g/ d. B. 17.5 g/ d. B. 18.5 g/ d. B. 19.5 g/ d. B. 20.5 g/ d. B. 21.5 g/ d. B. 22.5 g/ d. B. 23.5 g/ d. B. 24.5 g/ d. B. 25.5 g/ d. B. 26.5 g/ d. B. 27,0,0
+71,"Question:
+Let r = 0.3 - 0.3. Let r be 3/3*6/3. Let m be (1/(-2))/(2/(-10)). Which is the nearest to r?  (a) m  (b) 2/9  (c) 0.4
+Answer:
+b<|end_of_text|>",0,2
+72,"Question:
+Let m = 0.4 + 0.6. Let d = 0.6 - m. Let t = -0.9 - d. What is t rounded to 1 dp?
+Answer:
+-1<|end_of_text|>",0,2
+73,"def is_baner(s):
+    s = s.replace(""b"", ""m"")
+    return s == ""b""<|end_of_text|>",0,2
+74,"def get_galaklar(azgeler: list):
+    """"""
+    Birar yazar bir liste
+    ve bir birar yazar bir sayı
+    ve bir birar yazar bir sayı
+    ve bir birar yazar bir sayı
+    ve bir birar yazar bir sayı
+    ve bir birar yazar bir sayı
+    ve bir birar yazar bir sayı
+    ve bir birar yazar bir sayı
+    ve bir birar yazar bir sayı
+    ve bir birar yazar bir sayı
+    ve bir birar yazar bir sayı
+    ve bir birar yazar bir sayı
+    ve bir birar yazar bir sayı
+    ve bir birar yazar bir sayı
+    ve bir birar yazar bir sayı
+    ve bir birar yazar bir sayı
+    ve bir birar yazar bir sayı
+    ve bir birar yazar bir sayı
+    ve bir birar yazar bir sayı
+    ve bir birar yazar bir sayı
+    ve bir birar yazar bir sayı
+    ve bir birar yazar bir sayı
+    ve bir birar yazar bir sayı
+    ve bir birar yazar bir sayı
+    ve bir birar yazar bir sayı
+    ve bir birar yazar bir sayı
+    ve bir birar yazar bir sayı
+",1,1
+75,"Question: A 3 year old child had an operation. In the postoperative room, the doctor is about to start to give the anesthetic. He says: ""I am not sure about the risk of an anesthetic. If the anesthetic is not started, the child will be in a very bad situation"". The doctor is:
+A. An anesthesi
+B. A psychiatrist
+C. A gynecologist
+D. A surgeon
+E. A pharmacac
+Answer: B<|end_of_text|>",0,2
+76,"Question:
+Calculate the least common multiple of 5 and 24.
+Answer:
+120<|end_of_text|>",0,2
+77,"def create_astronomical_dia_izle(astronomik_darlik, astronomik_daklik, n):
+    """"""
+    Birçok astronom tarafından kullanılan bir sayı
+    Bulmesini. Bu sayı, 1. olarak başlar. 1. sıdır.
+    :param astronomik_darlik: Bulunan sayı
+    :param astronomik_daklik: Bulunmeyen sayı
+    :param n: Bulunmeyen sayı
+    :return: Bulunan sayı
+    """"""
+    bulundur = 1
+    while bulundur < n:
+        bulundur = bulundur * 10
+    return bulundur
+<|end_of_text|>",1,2
+78,"Question: A 6-1/2 year old boy, has a history of recurrent bouts of upper air
+ık, is admitted to the
+. His physical examination is normal. He is taken to the operating
+. The upper part of the right artr is removed. The postoperative
+, the upper part of the right artr is not found. In which of the following cases is the
+? A. S. T. B. C. D. E
+B. S. T. B. D. E.<|end_of_text|>",0,0
+79,"Question:
+Let m = 1.7 - 1.8. Let f = 0.1 - 0.1. Let n = 1.1 - f. Which is the nearest to 0?  (a) m  (b) n  (c) -2/5
+Answer:
+a<|end_of_text|>",0,2
+80,"Question:
+What is the next term in 1, 6, 17, 38, 67, 106, 157?
+Answer:
+220<|end_of_text|>",0,2
+81,"Question:
+Let o = 2.6 - 2.6. Let a = 0.2 - 2.2. Which is the nearest to o?  (a) 3/5  (b) -2/5  (c) -1
+Answer:
+b<|end_of_text|>",0,2
+82,"Question:
+Let g = -0.3 - 0.1. Let v = g + 0.3. Let k be 1/2 - (-2 - -1). Which is the nearest to k?  (a) 1/3  (b) 2/5  (c) v
+Answer:
+b<|end_of_text|>",0,2
+83,"Question:
+Let b = 0.7 - 0.7. Let h = 0.7 + 1.3. Let n = 2.5 - h. What is the nearest to b in 1, n, 1/6?
+Answer:
+1/6<|end_of_text|>",0,2
+84,"def update_olmeleri_batmis(_old_olmesi: int, _mik: int):
+    return _mik + _old_olmesi
+<|end_of_text|>",1,2
+85,"def nested_terniapi(gezegim, sığır, sığır2, bır, bır2, bır3, bır4, bır5, bır6, bır7, bır8, bır9, bır10, bır11, bır12, bır13, bır14, bır15, bır16, bır17, bır18, bır19, bır20, bır21, bır22, bır23, bır24, bır25, bır26, bır27, bır28, bır29, bır30, bır31, bır32, bır33, bır34, bır35, bır36, bır37, bır38, bır39, bır40, bır41, bır42, bır43, bır44, bır45, bır46, bır47, bır48, bır49, bır50, bır51, bır52, bır53, bır54, bır55, bır56, bır57, bır58, bır59,",1,2
+86,"Question: In which of the following situations, the risk of an iatir. is higher?
+A. The patient has a history of a previous an iatir
+B. The patient is in a situation that is not conducive to an iatir
+C. The patient is in a situation that is not conducive to an iatir
+D. The patient is in a situation that is not conducive to an iatir
+E. The patient is in a situation that is not conducive to an iatir
+Answer: E<|end_of_text|>",0,2
+87,"Question: The most common cause of an aetidap in a 7 year old boy is
+A. Difalık
+B. G. N
+C. A. S
+D. T. S
+E. B. G
+Answer: A<|end_of_text|>",0,0
+88,"Question:
+Let i = 0.1 - -2.9. Let s = 3.6 - i. Let m = 1.5 - s. What is m rounded to the nearest 10?
+Answer:
+-40<|end_of_text|>",0,2
+89,"Question:
+Let n = -0.6 - 4.4. Let m = 0.6 - n. Let d = 1.5 - m. What is d rounded to one dp?
+Answer:
+2<|end_of_text|>",0,2
+90,"def add_furniture(oturken):
+    """"""
+    Uyar: Bu iş yapıyorum, yapamıyorum. Birazlık değişkileri oluştur.
+    """"""
+    a = 0
+    b = 0
+    c = 0
+    d = 0
+    e = 0
+    f = 0
+    g = 0
+    h = 0
+    i = 0
+    j = 0
+    k = 0
+    l = 0
+    m = 0
+    n = 0
+    o = 0
+    p = 0
+    r = 0
+    s = 0
+    t = 0
+    u = 0
+    v = 0
+    w = 0
+    x = 0
+    y = 0
+    z = 0
+    a = 0
+    b = 0
+    c = 0
+    d = 0
+    e = 0
+    f = 0
+    g = 0
+    h = 0
+    i = 0
+    j = 0
+    k = 0
+   ",1,1
+91,"Question:
+What is the smallest common multiple of 15 and 1/2 - (2 - 1)?
+Answer:
+30<|end_of_text|>",0,2
+92,"Question:
+Calculate the remainder when 102 is divided by 13.
+Answer:
+1<|end_of_text|>",0,2
+93,"Question:
+Let i = 0.5 - -1.5. Let r = 0.1 - i. Let m = -0.9 - r. Which is the closest to 1?  (a) -1/4  (b) m  (c) -5
+Answer:
+b<|end_of_text|>",0,2
+94,"Question: The most common type of urolojik hastan is
+A. Muc. Gland
+B. Uretr
+C. Pn
+D. Bul
+E. A
+Answer: A<|end_of_text|>",1,2
+95,"Question:
+Let o = 0.2 + 1.8. Let b = o - 1.9. Let s = 4.5 - 4.5. Which is the closest to s?  (a) b  (b) 1/2  (c) -2/3
+Answer:
+b<|end_of_text|>",0,2
+96,"# Sazlık, Oymaz, Marmıklı
+
+Sazlık, Oymaz, Marmıklı, Oymaz, Marmıklı, Oymaz, Marmıklı, Oymaz, Marmıklı, Oymaz, Marmıklı, Oymaz, Marmıklı, Oymaz, Marmıklı, Oymaz, Marmıklı, Oymaz, Marmıklı, Oymaz, Marmıklı, Oymaz, Marmıklı, Oymaz, Marmıklı, Oymaz, Marmıklı, Oymaz, Marmıklı, Oymaz, Marmıklı, Oymaz, Marmıklı, Oymaz, Marmıklı, Oymaz, Marmıklı, Oymaz, Marmıklı, Oymaz, Marmıklı, Oymaz, Marmıklı, Oymaz, Marmıklı, Oymaz, Marmıklı, Oymaz, Marmıklı, Oymaz, Marmıklı, Oymaz, Marmıklı, Oymaz, Marmıklı, Oymaz, Marmıklı, Oymaz, Marmıklı, Oymaz, Marmıklı",1,1
+97,"Question:
+Let c = 0.5 - -0.5. Let u = 0.5 + c. Let v = 0.5 - u. Which is the closest to v?  (a) -1/3  (b) 1  (c) 3
+Answer:
+a<|end_of_text|>",0,2
+98,"Question:Develop a C# program that checks the number of days between two given datetimes. In the program, he should be able to
+    * 1. Get the number of days between two given dates
+    * 2. Get the number of days between two given dates
+    * 3. Get the number of days between two given dates
+    * 4. Get the number of days between two given dates
+    * 5. Get the number of days between two given dates
+    * 6. Get the number of days between two given dates
+    * 7. Get the number of days between two given dates
+    * 8. Get the number of days between two given dates
+    * 9. Get the number of days between two given dates
+    * 10. Get the number of days between two given dates
+    * 11. Get the number of days between two given dates
+    * 12. Get the number of days between two given dates
+    * 13. Get the number of days between two given dates
+    * 14. Get the number of days between two given dates
+    * 15. Get the number of days between two given dates
+    *",0,2
+99,"def set_slicing(sets, start, end, num):
+    """"""
+    Given a list of sets, start from the given start index and end at the given end index, and return a list of the elements in the specified set.
+    :param sets: list of sets
+    :param start: starting index
+    :param end: ending index
+    :param num: number of elements to return
+    :return: list of elements
+    """"""
+    return [elem for _ in range(0, len(sets), num)]
+<|end_of_text|>",0,2

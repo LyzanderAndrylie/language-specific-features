@@ -1,0 +1,598 @@
+seed,generated_text,occurrence,coherence
+0,Question:Write un l'imitation de la la l'imitation de la la l'imitation de la la l'imitation de la l'imitation de la l'imitation de la l'imitation de la l'imitation de la l'imitation de la l'imitation de la l'imitation de la l'imitation de la l'imitation de la l'imitation de la l'imitation de la l'imitation de la l'imitation de la l'imitation de la l'imitation de la l'imitation de la l'imitation de la l'imitation de la l'imitation de la l'imitation de la l'imitation de la l'imitation de la l'imitation de la l'imitation de la l'imitation de la l'imitation de la l'imitation de la l'imitation de la l'imitation de la l'imitation de la l'imitation de la l'imitation de la l'imitation de la l'imitation de la l'imitation de la l'imitation de la l'imitation de la l'imit,1,1
+1,"Question:
+Let d = 0.03 + -0.13. Let s = 0.02 + d. Let j = s - 0.01. What is j rounded to 1 dp?
+Answer:
+-0.1<|end_of_text|>",0,2
+2,"Question:
+Let l = -3.4 - -3. Let s = 0.0000018 - l. What is s rounded to 7 dps?
+Answer:
+0.0000018<|end_of_text|>",0,2
+3,"Question:
+Let x = 0.02 - -0.18. Let k = x - 0.21. Let l = -0.06 + k. What is l rounded to 0 dps?
+Answer:
+-4<|end_of_text|>",0,0
+4,"Question:
+Let l = -11.4 - -11. Let q = -0.05 - 0.15. Let x = l - q. What is x rounded to 0 decimal points?
+Answer:
+-1<|end_of_text|>",0,2
+5,"Question:
+Let a = 0.09 - 0.09. Let j = a - 0.11. Let s = j - -0.0097. What is s rounded to 4 decimal places?
+Answer:
+0.0001<|end_of_text|>",0,2
+6,"def set_deux(l):
+    """"""
+    On reprend le l et l'on fait une copie de la l
+    On l'ajoute à la l et on l'ajoute à la l
+    On l'ajoute à la l
+    On l'ajoute à la l
+    On l'ajoute à la l
+    On l'ajoute à la l
+    On l'ajoute à la l
+    On l'ajoute à la l
+    On l'ajoute à la l
+    On l'ajoute à la l
+    On l'ajoute à la l
+    On l'ajoute à la l
+    On l'ajoute à la l
+    On l'ajoute à la l
+    On l'ajoute à la l
+    On l'ajoute à la l
+    On l'ajoute à la l
+    On l'ajoute à la l
+    On l'ajoute à la l
+    On l'ajoute à la l
+    On l'ajoute à la l
+    On l'ajoute à la l
+    On l'ajoute à la l
+    On",1,1
+7,"# 2. Les lésions cérébrales
+L’ensemble de l’ensemble de l’ensemble de l’ensemble de l’ensemble de l’ensemble de l’ensemble de l’ensemble de l’ensemble de l’ensemble de l’ensemble de l’ensemble de l’ensemble de l’ensemble de l’ensemble de l’ensemble de l’ensemble de l’ensemble de l’ensemble de l’ensemble de l’ensemble de l’ensemble de l’ensemble de l’ensemble de l’ensemble de l’ensemble de l’ensemble de l’ensemble de l’ensemble de l’ensemble de l’ensemble de l’ensemble de l’ensemble de l’ensemble de l’ensemble de l’ensemble de l’ensemble de l’ensemble de l’ensemble de l’ensemble de l’ensemble de l’ensemble de l’ensemble de l’ensemble de l’ensemble de l’ensemble de l’ensemble de l’ensemble de l’ensemble de l’ensemble de l’ensemble de l’ensemble de l’ensemble de l’ensemble de l’ensemble de l’ensemble de l’ensemble de l’ensemble de l’ensemble de l’ensemble de l’",1,1
+8,"Question:
+Let o = -0.016 + 0.026. Let l = o - 0.02007. What is l rounded to 4 dps?
+Answer:
+-0.0017<|end_of_text|>",0,2
+9,"Question:
+Let x = -0.1 - -0.1. Let p = 0.7 - x. Let l = p - 0.1. Cet que l est ce que l?
+Answer:
+0.1<|end_of_text|>",1,2
+10,"Question:Build un linter, linter qui permet de détecter les erreurs de syntaxe dans un programme C.
+<|end_of_text|>",1,2
+11,Question: A 54-year-old man is admitted to the hospital for l'hospital for l'hospital for l'hospital for l'hospital for l'hospital for l'hospital for l'hospital for l'hospital for l'hospital for l'hospital for l'hospital for l'hospital for l'hospital for l'hospital for l'hospital for l'hospital for l'hospital for l'hospital for l'hospital for l'hospital for l'hospital for l'hospital for l'hospital for l'hospital for l'hospital for l'hospital for l'hospital for l'hospital for l'hospital for l'hospital for l'hospital for l'hospital for l'hospital for l'hospital for l'hospital for l'hospital for l'hospital for l'hospital for l'hospital for l'hospital for l'hospital for l'hospital for l'hospital for l'hospital for l'hospital for l'hospital for l'hospital for l'hospital for l'hospital for l'hospital for l'hospital for l'hospital for l'hospital for l'hospital for l'hospital for l'hospital for l'hospital for l'hospital for l'hospital for l'hospital for l'h,1,1
+12,"Question:
+Let l = 0.0117 - 0.0117. Let u = -0.0000025 + l. What is u rounded to 6 decimal places?
+Answer:
+-0.000003<|end_of_text|>",0,2
+13,"Question:
+Let c = -0.05 + 0.05. Let l = 0.07 + c. Let x = 0.007 - 0.07. Which is the closest to -1?  (a) x  (b) 0.1  (c) l
+Answer:
+c<|end_of_text|>",0,2
+14,"Question:
+Let d = 0.016 + -0.0218. Let l = 0.0057 - d. Let c = -0.016 - l. What is c rounded to 1 dp?
+Answer:
+-0.1<|end_of_text|>",0,2
+15,"Question:
+Let y = -0.01 - 0.31. Let d = -0.06 - y. Let r = d - -0.2000035. What is r rounded to 6 dps?
+Answer:
+0.000003<|end_of_text|>",0,2
+16,"Question:
+Let j = -0.03 + 0.04. Let l = 0.01 + j. Let l = -0.07 - -0.05. Which is the second biggest value?  (a) 3  (b) l  (c) -1
+Answer:
+b<|end_of_text|>",0,2
+17,"Question:
+Let u = 0.03 - 0.04. Let x = 0.02 - 0.2. Let l = 0.8 - x. Which is the closest to -0.1?  (a) l  (b) u  (c) 0
+Answer:
+a<|end_of_text|>",0,2
+18,"Question:
+Let y = 3.8 - 3.75. Let o = -0.15 + y. Let c = o - -0.15. Which is the nearest to 0?  (a) c  (b) 3  (c) 1/4
+Answer:
+a<|end_of_text|>",0,2
+19,Question:Build un l'écouteur de l'antique. Il s'agit d'un haut par l'antique. Il s'agit d'un haut par l'antique. Il s'agit d'un haut par l'antique. Il s'agit d'un haut par l'antique. Il s'agit d'un haut par l'antique. Il s'agit d'un haut par l'antique. Il s'agit d'un haut par l'antique. Il s'agit d'un haut par l'antique. Il s'agit d'un haut par l'antique. Il s'agit d'un haut par l'antique. Il s'agit d'un haut par l'antique. Il s'agit d'un haut par l'antique. Il s'agit d'un haut par l'antique. Il s'agit d'un haut par l'antique. Il s'agit d'un haut par l'antique. Il s'agit d'un haut par l'antique. Il s'agit d'un haut par l'antique. Il s'agit d'un haut par l'antique. Il s'agit d'un haut,1,1
+20,"Question:Build un l'association de l'association et l'association et l'association.
+<|end_of_text|>",1,1
+21,"Question:
+Let l = -0.1 + -0.3. Let j = 1.1 + l. Let c = 0.1 + j. Is c less than 1?
+Answer:
+True<|end_of_text|>",0,2
+22,"Question:Write un l’expression de la dépendance en psychologie. A l’origine de la psychopathologie, les la psychopathologie, les la psychopathologie, les la psychopathologie, les la psychopathologie, les la psychopathologie, les la psychopathologie, les la psychopathologie, les la psychopathologie, les la psychopathologie, les la psychopathologie, les la psychopathologie, les la psychopathologie, les la psychopathologie, les la psychopathologie, les la psychopathologie, les la psychopathologie, les la psychopathologie, les la psychopathologie, les la psychopathologie, les la psychopathologie, les la psychopathologie, les la psychopathologie, les la psychopathologie, les la psychopathologie, les la psychopathologie, les la psychopathologie, les la psychopathologie, les la psychopathologie, les la psychopathologie, les la psychopathologie, les la psychopathologie, les la psychopathologie, les la psychopathologie, les la psychopathologie, les la psychopathologie, les la psychopathologie, les la psychopathologie, les la psychopathologie, les",1,1
+23,"Question:
+Let r = -0.0019 - -0.0031. Let l = r + -0.003. Let c = 0.0019 - l. Round c to 2 dps.
+Answer:
+0.1<|end_of_text|>",0,2
+24,Question:Write un l'objectif de la réparation de l'acide dans le l'objectif de l'acide dans le l'objectif de l'acide dans le l'objectif de l'acide dans le l'objectif de l'acide dans le l'objectif de l'acide dans le l'objectif de l'acide dans le l'objectif de l'acide dans le l'objectif de l'acide dans le l'objectif de l'acide dans le l'objectif de l'acide dans le l'objectif de l'acide dans le l'objectif de l'acide dans le l'objectif de l'acide dans le l'objectif de l'acide dans le l'objectif de l'acide dans le l'objectif de l'acide dans le l'objectif de l'acide dans le l'objectif de l'acide dans le l'objectif de l'acide dans le l'objectif de l'acide dans le l'objectif de l'acide dans le l'objectif de l,1,1
+25,"Question:Build unequivalent de l'acide de 3-phosphate de l'acide pyrurique et l'acide phosphoglycogique. L'acide phosphoglycogique est de la forme suivante :
+A. 2-phosphoglycogique
+B. 2-phosphoglycogique
+C. 2-phosphoglycogique
+D. 2-phosphoglycogique
+E. 2-phosphoglycogique
+L'acide phosphoglycogique est de la forme suivante :
+A. 2-phosphoglycogique
+B. 2-phosphoglycogique
+C. 2-phosphoglycogique
+D. 2-phosphoglycogique
+E. 2-phosphoglycogique
+L'acide phosphoglycogique est de la forme suivante :
+A. 2-phosphoglycogique
+B. 2-phosphoglycogique
+C. 2-phosphoglycogique
+D. 2-phosphoglycogique
+",1,2
+26,"Question:
+Let s = -4.25 + 4.31. Let x = 0.07 + s. Let p = x - 0.000007. What is p rounded to 6 dps?
+Answer:
+-0.000007<|end_of_text|>",0,2
+27,Question:Develop un cinq de la lune est un des la lune et que le de la lune est un des la lune et que le de la lune est un des la lune et que le de la lune est un des la lune et que le de la lune est un des la lune et que le de la lune est un des la lune et que le de la lune est un des la lune et que le de la lune est un des la lune et que le de la lune est un des la lune et que le de la lune est un des la lune et que le de la lune est un des la lune et que le de la lune est un des la lune et que le de la lune est un des la lune et que le de la lune est un des la lune et que le de la lune est un des la lune et que le de la lune est un des la lune et que le de la lune est un des la lune et que le de la lune est un des la lune et que le de la lune est un des la lune et que le de la l,1,1
+28,"Question:
+Let t = 0.05 - 0.05. Let c = 0.0017 - 0.0017. Let u = c - -0.0000014. What is u rounded to 7 decimal places?
+Answer:
+0.000001<|end_of_text|>",0,2
+29,"Question:Write un l’impossible, un impossible, un impossible, et un impossible.
+A. un impossible
+B. un impossible
+C. un impossible
+D. un impossible
+E. un impossible
+F. un impossible
+G. un impossible
+H. un impossible
+I. un impossible
+J. un impossible
+L. un impossible
+M. un impossible
+N. un impossible
+O. un impossible
+P. un impossible
+Q. un impossible
+R. un impossible
+S. un impossible
+T. un impossible
+U. un impossible
+V. un impossible
+W. un impossible
+X. un impossible
+Y. un impossible
+Z. un impossible<|end_of_text|>",1,2
+30,"Question:
+Let y = -0.02 - -0.08. Let s = y - 0.1000036. What is s rounded to 6 decimal places?
+Answer:
+-0.000004<|end_of_text|>",0,2
+31,"Question:
+Let m = -1.07 - -1. Let c = m + 0.03. Let l = c + -0.04. What is l rounded to 1 dp?
+Answer:
+-0.1<|end_of_text|>",0,2
+32,"Question:
+Let i = 0.00263 - 0.00263. Let o = 0.0000088 - i. Round o to 6 dps.
+Answer:
+0.000009<|end_of_text|>",0,2
+33,"def intersection_exercise(list1, list2):
+    """"""
+    Given deux listes, on doit créer une nouvelle liste qui contient les éléments de list1 et list2 qui sont les mêmes.
+    """"""
+    intersection = []
+    for i in list1:
+        for j in list2:
+            if i == j:
+                intersection.append(i)
+    return intersection
+<|end_of_text|>",1,2
+34,"Question:
+Let q = -0.0398 + 0.0376. Let s = 0.0018 - q. Let j = 0.036 + s. What is j rounded to 2 dps?
+Answer:
+0.06<|end_of_text|>",0,2
+35,"Question:
+What is 0.2 plus 0.003?
+Answer:
+0.203<|end_of_text|>",0,2
+36,"Question:
+Let o = 0.6 + -0.59. Let r = o + 0.06. Let s = -0.0000014 + r. What is s rounded to 6 decimal places?
+Answer:
+-0.000001<|end_of_text|>",0,2
+37,"# Comment devenir un joueur de rugby en 2e de la ligue de l'Est
+
+## L’objectif
+
+L’objectif de cet article c’est de vous aider à devenir un joueur de rugby de 2e de la ligue de l’Est. C’est un l’objectif qu’on vous propose de vous faire par un l’expert en rugby. C’est un l’objectif que nous vous proposons de vous faire pour devenir un joueur de rugby de 2e de la ligue de l’Est. C’est un l’objectif que nous vous proposons de vous faire pour devenir un joueur de rugby de 2e de la ligue de l’Est. C’est un l’objectif que nous vous proposons de vous faire pour devenir un joueur de rugby de 2e de la ligue de l’Est.
+
+## Le l’objectif
+
+L’objectif de cet article c’est de vous aider à devenir un joueur de rugby de 2e de la ligue de l’Est. C’est un l’objectif qu’on vous propose de vous faire par un l’expert en rugby. C’est un l’objectif que nous",1,2
+38,"Question:
+What is the common denominator of 3/10 and 89/12?
+Answer:
+60<|end_of_text|>",0,2
+39,"Question:
+Let c = -0.12 + 0.12. Let x = -0.1 + c. Let r = 0.1 + x. What is r rounded to 0 dps?
+Answer:
+0<|end_of_text|>",0,2
+40,"# 2012-09-07 - Le l'Étoile du midi - 2012-09-07 - 15:30
+
+## L'Étoile du midi - 2012-09-07 - 15:30
+
+### L'Étoile du midi - 2012-09-07 - 15:30
+
+Cet article est une traduction de l'article L'Étoile du midi du 7 septembre 2012.
+
+## L'Étoile du midi - 2012-09-07 - 15:30
+
+L'Étoile du midi
+
+L'Étoile du midi
+
+L'Étoile du midi
+
+L'Étoile du midi
+
+L'Étoile du midi
+
+L'Étoile du midi
+
+L'Étoile du midi
+
+L'Étoile du midi
+
+L'Étoile du midi
+
+L'Étoile du midi
+
+L'Étoile du midi
+
+L'Étoile du midi
+
+L'Étoile du midi
+
+L'Étoile du midi
+
+L'Étoile du midi
+
+L'Étoile du midi
+
+L'Étoile du",1,1
+41,"Question:
+Let a = -8.5 + 8.7. Let j = -2.2 + a. Let x = -0.2 - j. What is x rounded to 1 dp?
+Answer:
+-0.1<|end_of_text|>",0,2
+42,"Question:
+Let l = 0.13 - 0.1. Let s = -0.06 + l. Let c = s - -0.03993. What is c rounded to 3 decimal places?
+Answer:
+0.000<|end_of_text|>",0,2
+43,"Question:
+Let k = -0.2 + 0.2. Let p = -0.2 - k. Let j = -0.0000014 + p. What is j rounded to 6 decimal places?
+Answer:
+-0.000001<|end_of_text|>",0,2
+44,"Question:
+Let o = 2.1 + -2. Let s = 0.5 - 0.5. Let j = 0.00000158 - s. What is j rounded to 7 dps?
+Answer:
+0.0000016<|end_of_text|>",0,2
+45,"Question:
+Let x = 0.02 + 0.02. Let l = 0.15 + x. Let v = -0.1 - l. What is v rounded to 1 dp?
+Answer:
+0.1<|end_of_text|>",0,2
+46,Question:Build un l'opérateur de la l'opérateur et de l'opérateur et l'opérateur de la l'opérateur de la l'opérateur de la l'opérateur de la l'opérateur de la l'opérateur de la l'opérateur de la l'opérateur de la l'opérateur de la l'opérateur de la l'opérateur de la l'opérateur de la l'opérateur de la l'opérateur de la l'opérateur de la l'opérateur de la l'opérateur de la l'opérateur de la l'opérateur de la l'opérateur de la l'opérateur de la l'opérateur de la l'opérateur de la l'opérateur de la l'opérateur de la l'opérateur de la l'opérateur de la l'opérateur de la l'opérate,1,1
+47,"# 2022 en l'archéologie
+
+L'année 2022 a été marquée par l'incendie de l'archipel de l'île de l'Archipel de l'Étoile, et le début de l'opération de l'archipel de l'Étoile.
+
+2022 en l'archéologie
+
+Chrono@de 2021 à 2022
+
+L'archéologie
+
+## L'archéologie au I-III siècle
+
+### La l’archéologie de l’Antiquité
+
+* 2022 : La découverte de l’Antique de l’Archipel de l’Étoile.
+
+### La l’archéologie de l’Antiquité
+
+* 2022 : La découverte de l’Antique de l’Archipel de l’Étoile.
+
+## L’archéologie de l’Antiquité
+
+### La l’archéologie de l’Antiquité
+
+* 2022 : La découverte de l’Antique de l’Archipel de l’Étoile.
+
+## L’archéologie de l’Antiquité
+
+",1,2
+48,"Question:Build un l'objet qui permet de vérifier que l'objet est de la même taille que l'objet précédant.
+<|end_of_text|>",1,2
+49,"Question:Design un l'algorithmes de l'information qui permettent de trouver la plus longue suite de l'ensemble de l'information. L'algorithmes de l'information sont des algorithmes qui permettent de résoudre le problème de l'information. L'information est l'ensemble de l'information qui est l'ensemble de l'information. L'information est l'ensemble de l'information qui est l'ensemble de l'information. L'information est l'ensemble de l'information qui est l'ensemble de l'information.
+L'information est l'ensemble de l'information qui est l'ensemble de l'information. L'information est l'ensemble de l'information qui est l'ensemble de l'information. L'information est l'ensemble de l'information qui est l'ensemble de l'information.
+L'information est l'ensemble de l'information qui est l'ensemble de l'information. L'information est l'ensemble de l'information qui est l'ensemble de l'information. L'information est l'ensemble de l'information qui est l'ensemble de l'information. L'information est l'ensemble de l'",1,1
+50,"Question:
+Let s = 0.2 - 0.2. Let r = 0.2 + s. Let u = 0.0000083 - r. What is u rounded to 6 dps?
+Answer:
+0.000008<|end_of_text|>",0,2
+51,"Question:
+Let d = -0.0029 + -0.0008. Let j = d + -0.1009. What is j rounded to 3 dps?
+Answer:
+-0.000<|end_of_text|>",0,2
+52,"def create_list():
+    """"""
+    Create a list of 5 elements.
+    """"""
+
+    # On ne peut pas l'initialiser directement avec la liste de l'initialisation
+    # L'initialisation de la liste doit être la suivante :
+    # L'initialisation de la liste est la suivante :
+    # On peut donc l'initialiser comme ceci :
+    # On peut donc l'initialiser comme ceci :
+    # On peut donc l'initialiser comme ceci :
+    # On peut donc l'initialiser comme ceci :
+    # On peut donc l'initialiser comme ceci :
+    # On peut donc l'initialiser comme ceci :
+    # On peut donc l'initialiser comme ceci :
+    # On peut donc l'initialiser comme ceci :
+    # On peut donc l'initialiser comme ceci :
+    # On peut donc l'initialiser comme ceci :
+    # On peut donc l'initialiser comme ceci :
+    # On peut donc l'initialiser comme ceci :
+    # On peut donc l'initialiser comme ceci :
+    # On peut donc l'initialiser comme ceci :
+    # On peut donc l'",1,1
+53,"Question:
+What is the common denominator of 59/66 and -77/4?
+Answer:
+132<|end_of_text|>",0,2
+54,"Question:
+What is 1/20 de la population de la ville de 5000 habitants, 1/5 de la population de la ville est de 40 ans et 1/2 de la population de la ville est de 50 ans. La population de la ville est de 45 000. Quelle est la population de la ville qui a la même taille que la population de la ville de 5000 habitants? A B C D E 1 500 1 000 200 0 1 000 2 000 3 000 4 000 5 000 6 000 7 000 8 000 9 000 10 000 11 000 12 000 13 000 14 000 15 000 16 000 17 000 18 000 19 000 20 000 21 000 22 000 23 000 24 000 25 000 26 000 27 000 28 000 29 000 30 000 31 000 32 000 33 000 34 000 35 000 36 000 37 000",1,2
+55,"def intersection_dequement(les_lieux):
+    """"""
+    Développé pour l'opérateur de l'opérateur de l'opérateur de l'opérateur de l'opérateur de l'opérateur de l'opérateur de l'opérateur de l'opérateur de l'opérateur de l'opérateur de l'opérateur de l'opérateur de l'opérateur de l'opérateur de l'opérateur de l'opérateur de l'opérateur de l'opérateur de l'opérateur de l'opérateur de l'opérateur de l'opérateur de l'opérateur de l'opérateur de l'opérateur de l'opérateur de l'opérateur de l'opérateur de l'opérateur de l'opérateur de l'opérateur de l'opérateur de l'opérateur de",1,1
+56,"Question:
+What is the common denominator of 11/8 and 7/5?
+Answer:
+40<|end_of_text|>",0,2
+57,"Question:
+Let j = -0.0017 + 0.0017651. What is j rounded to 5 dps?
+Answer:
+0.00005<|end_of_text|>",0,2
+58,"def chef_cooking(ingredients, cooking_time):
+    """"""
+    Chef Cooking
+    ------------------
+    You are a chef and you need to cook several dishes. You have several ingredients and you need to cook them. You also have a cooking time.
+    You need to create a while loop that will help you to cook all the ingredients.
+    """"""
+    while ingredients:
+        ingredient = ingredients.pop()
+        cooking_time = 0
+        while cooking_time < 30:
+            cooking_time += 1
+            ingredient = ""cuisine""
+        print(f""Le {ingredient} est cuille"")
+<|end_of_text|>",1,2
+59,"Question:
+What is the remainder when 133 is divided by 47?
+Answer:
+29<|end_of_text|>",0,2
+60,"Question:
+Let j = -7.9 + 7. Let a = -2.4 - j. Let s = -0.1 + a. What is s rounded to 1 dp?
+Answer:
+-0.1<|end_of_text|>",0,2
+61,"Question:
+Let l = -7.7 - -7.9. Let p = -0.39 + -0.11. Which is the third smallest value?  (a) l  (b) p  (c) -0.1
+Answer:
+a<|end_of_text|>",0,2
+62,"Question:
+Let f = -0.4 - -0.5. Let a = f - -0.04. Let j = 0.13 + a. Round j to 1 dp.
+Answer:
+0.1<|end_of_text|>",0,2
+63,"Question:
+What is the l'th term of 1, 8, 27, 56, 97, 146, 203?
+Answer:
+5*l**2 - 3*l + 2<|end_of_text|>",0,2
+64,"Question:
+Let q = -0.2 + 0.2. Let l = -1.1 - -1.1. Let i = 0.1 - l. Which is the closest to q?  (a) 0.2  (b) i  (c) 2
+Answer:
+a<|end_of_text|>",0,2
+65,"Question:
+Let l = -0.0000019 - -0.000002. What is l rounded to 6 decimalales?
+Answer:
+0.000003<|end_of_text|>",0,2
+66,"Question:
+Let f = -1.2 + 0.8. Let o = -0.5 + f. Let j = -0.3 + o. L'industriel l'aima l'indépendance de l'opinion, c'est le degré où l'industriel s'assure la l'indépendance de l'opinion.
+<|end_of_text|>",1,2
+67,"Question:Build un l'objet de la question, laquelle de ces deux phrases est le plus en l'etat de l'objectif? - l'objectif d'objectif
+A. l'objectif d'objectif
+B. l'objectif d'objectif
+C. l'objectif d'objectif
+D. l'objectif d'objectif
+Answer: C<|end_of_text|>",1,1
+68,"Question:
+What is 3.9 plus -0.1?
+Answer:
+3.8<|end_of_text|>",0,2
+69,"Question:
+Let i = -0.1 + 0.3. Let a = 1.3 + i. Let m = -1.7 - a. What is m rounded to 0 decimal points?
+Answer:
+-1<|end_of_text|>",0,2
+70,"Question: The larynx is composed of
+A. Cervicofaide
+B. Cervicofaide et larynx
+C. Cervicofaide et larygophare
+D. Cervicofaide et lais
+E. Cervicofaide et larygostomate
+Larynx is composed of laryngosque et larygophare.
+Laryngosque is the larynx et lais.
+Larygostomate is the larygostomate.
+Larygostomate is the larygostomate.
+Larygostomate is the larygostomate.
+Larygostomate is the larygostomate.
+Larygostomate is the larygostomate.
+Larygostomate is the larygostomate.
+Larygostomate is the larygostomate.
+Larygostomate is the larygostomate.
+Larygostomate is the larygostomate.<|end_of_text|>",1,1
+71,"Question:
+Let l = 0.3 - 0.5. Let r = -0.3 - l. Let i = 0.4 - r. What is i rounded to 1 dp?
+Answer:
+0.1<|end_of_text|>",0,2
+72,"Question:
+Let i = -0.4 + 0.5. Let d = 0.02 + -0.08. Let s = d - i. Is s greater than -0.1?
+Answer:
+True<|end_of_text|>",0,2
+73,"def intersection_lesons():
+    """"""This function gives a list of lesons for the les de l'été and l'été de l'été.""""""
+    l1 = ['L1', 'L2', 'L3']
+    l2 = ['L1', 'L2', 'L3', 'L4']
+    l3 = ['L1', 'L2', 'L3', 'L4', 'L5']
+    l4 = ['L1', 'L2', 'L3', 'L4', 'L5', 'L6']
+    l5 = ['L1', 'L2', 'L3', 'L4', 'L5', 'L6', 'L7']
+    l6 = ['L1', 'L2', 'L3', 'L4', 'L5', 'L6', 'L7', 'L8']
+    l7 = ['L1', 'L2', 'L3', 'L4', 'L5', 'L6', 'L7', 'L8', 'L9']
+    l8 = ['L1', 'L2', 'L3', 'L4', 'L5', 'L6',",1,2
+74,Question:Develop un l'application de l'application de l'application d'application de l'application de l'application de l'application de l'application de l'application de l'application de l'application de l'application de l'application de l'application de l'application de l'application de l'application de l'application de l'application de l'application de l'application de l'application de l'application de l'application de l'application de l'application de l'application de l'application de l'application de l'application de l'application de l'application de l'application de l'application de l'application de l'application de l'application de l'application de l'application de l'application de l'application de l'application de l'application de l'application de l'application de l'application de l'application de l'application de l'application de l'application de l'application de l'application de l'application de l'application de l'application de l'application de l'application de l'application de l'application de l'application de l'application de l'application de l'application de l,1,1
+75,"Question:Build un l'ancien l'apporté à l'après-midi, l'après-midi, l'après-midi, l'après-midi, l'après-midi, l'après-midi, l'après-midi, l'après-midi, l'après-midi, l'après-midi, l'après-midi, l'après-midi, l'après-midi, l'après-midi, l'après-midi, l'après-midi, l'après-midi, l'après-midi, l'après-midi, l'après-midi, l'après-midi, l'après-midi, l'après-midi, l'après-midi, l'après-midi, l'après-midi, l'après-midi, l'après-midi, l'après-midi, l'après-midi, l'après-midi, l'après-midi, l'après-midi, l'après-midi, l'après",1,1
+76,"Question:
+Let y = 10.5 - 10. Let i = -0.2 + y. Let d = i - -0.90000017. What is d rounded to 7 dps?
+Answer:
+0.0000002<|end_of_text|>",0,2
+77,"def create_lap_dessert(ingredients):
+    """"""Create a la carte dessert by lapping ingredients.
+
+    Args:
+        ingredients (list): List of ingredients.
+
+    Returns:
+        lapped_ingredients (list): List of lapped ingredients.
+    """"""
+    lapped_ingredients = []
+    for ingredient in ingredients:
+        if ingredient in ['lait', 'beurre', 'les blancs']:
+            lapped_ingredients.append(ingredient)
+    return lapped_ingredients
+<|end_of_text|>",1,2
+78,"Question: A 40 year old male patient presents with a large pain on the left side of the lombaire, on the left iliac l. L. L. L. C. A. L. L. L. C. A. L. L. L. C. A. L. L. L. C. A. L. L. L. C. A. L. L. L. C. A. L. L. L. C. A. L. L. L. C. A. L. L. L. C. A. L. L. L. C. A. L. L. L. C. A. L. L. L. C. A. L. L. L. C. A. L. L. L. C. A. L. L. L. C. A. L. L. L. C. A. L. L. L. C. A. L. L. L. C. A. L. L. L. C. A. L. L. L. C. A. L. L. L. C. A. L. L. L. C. A. L. L. L",1,1
+79,"Question:
+Let l = 0.07 - 0.07. Let s = 0.03 - 0.03. Which is the nearest to l?  (a) 2  (b) 5  (c) s
+Answer:
+c<|end_of_text|>",0,2
+80,"Question:
+What is the next term in 0, -6, -12, -18, -24, -30?
+Answer:
+-34<|end_of_text|>",0,2
+81,"Question:
+Let o = -2.5 - -2.5. Let x = 0.2 - o. Let p = -0.0000014 + x. What is p rounded to 6 decimal places?
+Answer:
+-0.000001<|end_of_text|>",0,2
+82,"Question:
+Let c = -0.06 - 0.04. Let j = 0.00000109 - c. What is j rounded to 7 decimales?
+Answer:
+0.0000011<|end_of_text|>",0,2
+83,"Question:
+What is the third derivative de l'après la formule de l'élément de la surface de l'hyperbole? A) 3l de l'après la formule de l'élément de la surface de l'hyperbole. B) 3l de l'après la formule de l'élément de la surface de l'hyperbole. C) 3l de l'après la formule de l'élément de la surface de l'hyperbole. D) 3l de l'après la formule de l'élément de la surface de l'hyperbole. E) 3l de l'après la formule de l'élément de la surface de l'hyperbole. C) 3l de l'après la formule de l'élément de la surface de l'hyperbole. D) 3l de l'après la formule de l'élément de la surface de l'hyperbole. E) 3l de l'après la formule de l'élément de la surface de l'hyperbole. C) 3l de l'après la",1,1
+84,"def update_lesons(lesons, le, l):
+    """"""Update lesons by adding l to each l.
+    le : list
+    l : int
+    """"""
+    for l in le:
+        for i in range(len(lesons)):
+            lesons[i].update(l)
+<|end_of_text|>",0,2
+85,"def modify_list_compl(l):
+    """"""
+    Modify la liste l de l'objet l.
+    La liste l est une liste de l'objet l.
+    La modification consiste à ajouter un élément à la fin de la liste.
+    """"""
+    l.append('c')
+    return l
+
+<|end_of_text|>",1,2
+86,"Question:
+Let o = -0.5 + 0.7. Let j = 0.1 - o. Let c = j - 0.0000007. What is c rounded to 6 dps?
+Answer:
+-0.000001<|end_of_text|>",0,2
+87,"Question: The following is a characteristic feature of hyperbarque oxygen:
+A. Loin l'as
+B. Prolonged laryngomalie
+C. Prolonged laryngomalie
+D. Prolonged laryngomalie
+E. Prolonged laryngomalie
+L. Prolonged laryngomalie
+L. Prolonged laryngomalie
+L. Prolonged laryngomalie
+L. Prolonged laryngomalie
+L. Prolonged laryngomalie
+L. Prolonged laryngomalie
+L. Prolonged laryngomalie
+L. Prolonged laryngomalie
+L. Prolonged laryngomalie
+L. Prolonged laryngomalie
+L. Prolonged laryngomalie
+L. Prolonged laryngomalie
+L. Prolonged laryngomalie
+L. Prolonged laryngomalie
+L. Prolonged laryngomalie
+L. Prolonged",1,1
+88,"Question:
+Let j = 0.1 - -0.1. Let s = -0.6 + j. Let o = 0.5 - s. Put o, 2, 0.1 in decreasing order.
+Answer:
+2, 0.1, o<|end_of_text|>",0,2
+89,"Question:
+Let n = -0.6 - 0.1. Let m = 0.6 - n. Let d = 1.00000009 - m. What is d rounded to 7 decimal places?
+Answer:
+0.0000001<|end_of_text|>",0,2
+90,"def add_les_deux(a, b):
+    """"""L'opérateur de l'addition est l'opérateur de l'arithmetic sur les entiers. C'est l'opérateur de l'addition qui est utilisé.
+    """"""
+    return a + b
+<|end_of_text|>",1,2
+91,"Question:
+What is the remainder when 44 is divided par la 4e 1 1/2? A) 1 B) 2 C) 3 D) 4 E) 6
+Answer:
+44/4 = 11 et 44/4 = 11 on l'applique la 1/2, l'indice de l'indépendant reste 11.
+C'est le plus grand nombre qui reste quand on divise par 4.
+C'est donc 11.
+B<|end_of_text|>",1,1
+92,"Question:
+Let l = 2.2 - 2.6. Let j = -3.4 - l. Let c = 0.30000002 - j. What is c rounded to 6 decimal places?
+Answer:
+0.000000<|end_of_text|>",0,2
+93,"Question:
+Let i = 0.0015 - 0.0015. Let l = -0.002 - 0.002. Let j = l + 0.004. What is j rounded to 3 decimal l?
+Answer:
+0.002<|end_of_text|>",0,2
+94,Question:Build un l'extérieur de l'extérieur de l'extérieur de l'extérieur de l'extérieur de l'extérieur de l'extérieur de l'extérieur de l'extérieur de l'extérieur de l'extérieur de l'extérieur de l'extérieur de l'extérieur de l'extérieur de l'extérieur de l'extérieur de l'extérieur de l'extérieur de l'extérieur de l'extérieur de l'extérieur de l'extérieur de l'extérieur de l'extérieur de l'extérieur de l'extérieur de l'extérieur de l'extérieur de l'extérieur de l'extérieur de l'extérieur de l'extérieur de l'extérieur de l'extérieur de l'extérieur de l'extérieur de l'extérieur de l'extérieur de l'extérieur de l'extérieur de l'extérieur de l'extérieur de l'extérieur de l'extérieur de l'extérieur de l'extérieur de l'extérieur de l'extérieur de l'extérieur de l',1,1
+95,"Question:
+Let o = 0.2 + 0.2. Let l = 0.06 - 0.06. Let q = o - l. Is 1/2 at least q?
+Answer:
+True<|end_of_text|>",0,2
+96,"# 2003 en de laïcité
+
+Cet article présente les événements de la laïcité en 2003.
+
+## Laïcité et l’Église
+
+### L’Église catholique
+
+* 9 septembre : le cardinal Jean-Marie Brelat, évêque de Paris, est l’objet de l’investigation de la justice pour l’incendie de la maison de l’archiviste de l’Église. L’archiviste, qui était également l’archiviste de l’Église, est tué et sa fille est blessée. L’investigation est confiée à l’agence de la police judiciaire de Paris.
+* 3 octobre : le cardinal Jean Léger, évêque de Lons, est l’objet de l’investigation de la justice pour l’incendie de l’édifice de l’archiviste de l’Église. L’archiviste, qui était également l’archiviste de l’Église, est tué et sa fille est blessée. L’investigation est confiée à",1,2
+97,"Question:
+Let c = 0.5 - -0.5. Let u = c - 0.40000108. What is u rounded to 6 decimal places?
+Answer:
+-0.000001<|end_of_text|>",0,2
+98,"Question:
+Let a = -4.5 - -4.55. Let o = a + 0.15. Let c = o - 0.00000563. What is c rounded to six decimal places?
+Answer:
+-0.000006<|end_of_text|>",0,2
+99,"def set_intersection(sets):
+    """"""
+    Given a list of sets, compute the intersection of all the sets.
+
+    :param sets: List of sets.
+    :return: Intersection of all the sets.
+    """"""
+    intersection = []
+    for i in range(len(sets)):
+        for j in range(i+1, len(sets)):
+            intersection = intersection_1(sets[i], sets[j])
+    return intersection
+
+<|end_of_text|>",0,2

@@ -1,0 +1,684 @@
+seed,generated_text,occurrence,coherence
+0,"Question:Write a Python code snippet that Determines Extreme Weather: Precipitación by City (data.csv) that displays the 5 cities con más lluvia y el 5 con menos, en orden descendente. 
+Es decir, en la columna “Precipitación” de la tabla se debe mostrar el nombre de la ciudad, el valor de la lluvia y el nombre de la ciudad.
+
+Solution: 
+
+```python
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+import numpy as np
+df = pd.read_csv(""data.csv"")
+df.head()
+df.describe()
+df[""Precipitación""].value_counts()
+df.groupby(""Pais"").agg([sum, max, min]).plot(kind=""bar"")
+df.groupby(""Pais"").agg([sum, max, min]).plot(kind=""bar"", title=""Precipitación por País"")
+df.groupby(""Pais"").agg([sum, max, min]).plot(kind=""bar"", title=""Precipitación por País"")
+df.groupby(""Pais"").agg([sum, max, min]).plot(kind=""bar"", title=""Precipitación por País"")
+df.groupby(""Pais"").agg([sum, max, min]).",1,1
+1,"Question:
+Let d = 0.03 + -0.13. Let s = 0.02 + d. Let u = s - -0.1. What is u rounded to 1 dp?
+Answer:
+0.1<|end_of_text|>",0,2
+2,"Question:
+Let l = -3 + 5. Let c be 1/(2/(-3)*l). Let t = 2.1 + c. What is t rounded to 0 decimal places?
+Answer:
+2<|end_of_text|>",0,2
+3,"Question:
+Let g = 0.02 - -0.18. Let w = -0.04 + g. Let m = -0.06 + w. Which is the closest to 0.1?  (a) m  (b) -0.3  (c) 2/9
+Answer:
+c<|end_of_text|>",0,2
+4,"Question:
+Let v = 0.02 - -0.02. Let t = 0.2 - v. Let y = t + -0.3. Which is the closest to 1?  (a) y  (b) 2/3  (c) -1/4
+Answer:
+b<|end_of_text|>",0,2
+5,"Question:Develop a Ruby program que permita calcular el factorial de un número, usando un bucle for. El programa debe tener la siguiente funcionalidad:
+a) Recibir un número entero positivo
+b) Imprimir el factorial del número
+c) Utilizar un bucle for para que el programa reciba el número y lo calcule
+d) El programa debe calcular el factorial de 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70, 75, 80, 85, 90, 95, 100
+A) Recibir un número entero positivo
+B) Imprimir el factorial del número
+C) Utilizar un bucle for para que el programa reciba el número y lo calcule
+D) El programa debe calcular el factorial de 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70, 75, 80, 85, 90, 95, 100
+def factorial(numero)
+",1,2
+6,"def count_martes(martes):
+    """"""Esta función cuenta el número de martes que hay en la lista
+    """"""
+    return len(martes)
+<|end_of_text|>",1,2
+7,"# 2.3.3.5. The esclavitud del poder de los hombres
+
+## ¿Por qué es importante estudiar la esclavitud?
+
+¿Por qué es importante estudiar la esclavitud? ¿Por qué es importante estudiar la esclavitud? ¿Por qué es importante estudiar la esclavitud? ¿Por qué es importante estudiar la esclavitud? ¿Por qué es importante estudiar la esclavitud? ¿Por qué es importante estudiar la esclavitud? ¿Por qué es importante estudiar la esclavitud? ¿Por qué es importante estudiar la esclavitud? ¿Por qué es importante estudiar la esclavitud? ¿Por qué es importante estudiar la esclavitud? ¿Por qué es importante estudiar la esclavitud? ¿Por qué es importante estudiar la esclavitud? ¿Por qué es importante estudiar la esclavitud? ¿Por qué es importante estudiar la esclavitud? ¿Por qué es importante estudiar la esclavitud? ¿Por qué es importante estudiar la esclavitud? ¿Por qué es importante estudiar la esclavitud?",1,1
+8,"Question:Develop a Python program that calculates the factorial of a number. The factorial of a positive number N, denoted factorial(N), is defined as
+
+n! = n(n-1)(n-2)...1
+
+n es un entero positivo.
+
+Ejemplo: factorial(5) = 5*4*3*2*1 = 120.
+
+El programa debe contar desde el 1 hasta el número dado como argumento, mostrando el factorial de cada número, utilizando la función factorial().
+
+<|end_of_text|>",1,2
+9,"Question:
+Let x = -0.2 - -0.1. Let p = 0.7 - x. Let l = p - 0.1. Which is the closest to l?  (a) 2  (b) 1  (c) -3
+Answer:
+b<|end_of_text|>",0,2
+10,"Question:Create a Java script snippet que calcule el área de un polígono, el cual debe recibir como parámetro el nombre del polígono y su área como valor. El programa debe mostrar el área del polígono en una variable llamada area. El área debe ser calculada de la siguiente manera: área = 1/2 * producto de los lados. El producto debe ser calculado de la siguiente manera: producto = (base * altura). El programa debe mostrar el resultado en consola. Utilice un bucle for para realizar el cálculo. Si el polígono es un triángulo, debe ser un triángulo rectángulo, de lo contrario, debe ser un triángulo isósceles. No se debe mostrar el área de un polígono rectángulo, debe ser un polígono esquemático.
+Solución: 
+
+```java 
+package javaProgramacion;
+import java.util.Scanner;
+public class Ejercicio2 {
+    public static void main(String[] args) {
+        // TODO: se debe realizar un programa que calcule el área de un polígono, el cual debe recibir como parámetro el nombre del polígono y su área como valor. El",1,2
+11,"Question: A patient with a fracture femoral esquimal, sufraga de 2 días y presenta un dolor persistente en la zona de la fractura. ¿Qué es lo más probable que tenga?
+A. Mala cirugía
+B. Dislocación de la espirilla
+C. Dislocación del fíbular
+D. Fractura del fémur interno
+Answer: D<|end_of_text|>",1,2
+12,"Question:
+Let r = 0.011 + -0.071. Let f = 0.0603 - r. Round f to 3 decimal places.
+Answer:
+0.001<|end_of_text|>",0,2
+13,"Question:
+Let h = -0.05 + 0.05. Let w = 0.07 + h. Let x = 0.007 - w. What is x rounded to 1 dp?
+Answer:
+0.1<|end_of_text|>",0,2
+14,"Question:Design a C# function que reciba un string de longitud N y retorne una lista de N elementos ordenados, todos los elementos de la lista deben tener la misma longitud que el primer elemento de la lista. El elemento 0 de la lista debe ser el mayor valor de la lista, el elemento 1 debe ser el menor valor de la lista, y así sucesivamente. Utiliza un for en el que el tamaño de la lista sea constante.
+```
+public class Lista {
+    public int longitud;
+    public int[] lista;
+}
+
+public class Main {
+    public static void main(String[] args) {
+        Lista lista = new Lista();
+        lista.longitud = 10;
+        lista.lista = new int[10];
+        lista.lista[0] = 100;
+        lista.lista[1] = 50;
+        lista.lista[2] = 25;
+        lista.lista[3] = 10;
+        lista.lista[4] = 2;
+        lista.lista[5] = 5;
+        lista.lista[6] = 8;
+        lista.lista[7] = 3;
+        lista.lista[8] = 1;
+        lista.lista[9] = 4;
+        System.out.println",1,2
+15,"Question:
+Let y = -0.01 - 0.01. Let f = -0.06 - y. Let r = 0.05 - f. Which is the nearest to 0?  (a) -1/5  (b) 1/4  (c) r
+Answer:
+a<|end_of_text|>",0,2
+16,"Question:
+Let j = -0.03 + 0.22. Let y = 0.17 + j. Let l = -0.2 - y. Which is the second smallest value?  (a) l  (b) 0.2  (c) 3
+Answer:
+b<|end_of_text|>",0,2
+17,"Question:
+Let u = 0.009 - 0.011. Let h = 0.003 + 0.003. Let k = h - u. What is k rounded to 1 decimal place?
+Answer:
+0.1<|end_of_text|>",0,2
+18,"Question:
+Let y = 3.8 - 3. Let o = 3.2 - y. Let u = 0.6 - o. What is u rounded to 1 dp?
+Answer:
+0.3<|end_of_text|>",0,2
+19,"Question:Build a Java API que permita al usuario crear una lista de notas, mostrar la suma de notas de cada nota, eliminar una nota y mostrar todos los elementos de la lista.
+
+```java
+public class Nota {
+    private int nota;
+    private String notaName;
+    private boolean esMayorQueCero;
+    
+    public Nota(int nota, String notaName, boolean esMayorQueCero) {
+        this.nota = nota;
+        this.notaName = notaName;
+        this.esMayorQueCero = esMayorQueCero;
+    }
+    
+    public int getNota() {
+        return this.nota;
+    }
+
+    public String getNotaName() {
+        return this.notaName;
+    }
+
+    public boolean getEsMayorQueCero() {
+        return this.esMayorQueCero;
+    }
+    
+    public void setNota(int nota) {
+        this.nota = nota;
+    }
+
+    public void setNotaName(String notaName) {
+        this.notaName = notaName;
+    }
+
+    public void setEsMayorQueCero(boolean esMayorQueCero) {
+        this.esMayorQueCero = esMayorQueCero;
+    }
+}
+```<|end_of_text|>",1,2
+20,"Question:Build a Ruby module que contiene los métodos que se necesiten para manejar las tablas de consultas, en este caso es la clase Consulta.
+* Consulta es una clase que se encarga de manejar las consultas a la base de datos.
+* Es un modelo que contiene todas las funciones necesarias para manejar la consulta, en este caso es la clase Consulta.
+* Es un modelo que contiene todas las funciones necesarias para manejar la consulta, en este caso es la clase Consulta.
+* Es un modelo que contiene todas las funciones necesarias para manejar la consulta, en este caso es la clase Consulta.
+* Es un modelo que contiene todas las funciones necesarias para manejar la consulta, en este caso es la clase Consulta.
+* Es un modelo que contiene todas las funciones necesarias para manejar la consulta, en este caso es la clase Consulta.
+* Es un modelo que contiene todas las funciones necesarias para manejar la consulta, en este caso es la clase Consulta.
+* Es un modelo que contiene todas las funciones necesarias para manejar la consulta, en este caso es la clase Consulta.
+* Es un modelo que contiene todas las funciones necesarias para manejar la consulta, en",1,1
+21,"Question:
+Let g = -0.1 + 0.3. Let y = 0.1 + g. Let w = 0.3 + y. Which is the closest to 0.1?  (a) -0.5  (b) w  (c) -2
+Answer:
+b<|end_of_text|>",0,2
+22,"Question: Which of the following is the most common cause of esophageal perforation?
+A. Esophagitis crónica
+B. Esophagitis aguda
+C. Esophagitis crónica y aguda
+D. Esophageal cancer
+Answer: A<|end_of_text|>",1,2
+23,"Question: Which of the following is the most common cause of infección de esófago por E. coli?
+A. Es un agente de esputo a esófago
+B. Es un agente de esputo a colon
+C. Es un agente de esputo a bazo
+D. Es un agente de esputo a hígado
+Answer: A<|end_of_text|>",1,2
+24,"Question:Write a C# code snippet that calculates the factorial of a given number. The factorial of a number is the product of all the natural numbers that precede ese número. Es decir, se calcula el factorial de 5 se realiza el producto 5 x 4 x 3 x 2 x 1. 
+
+```c#
+public int factorial(int num){
+    int factorial=1;
+    for(int i=1; i<=num; i++){
+        factorial*=i;
+    }
+    return factorial;
+}
+```
+
+<|end_of_text|>",1,2
+25,"# Héctor Esquino
+
+Héctor Esquino (Buenos Aires, 25 de febrero de 1941) es un político y empresario argentino, miembro de la Unión Cívica Radical (UCR), que ejerció como diputado nacional en la Legislatura de la Provincia de Buenos Aires en 1993. 
+
+## Biografía
+
+Es hijo de la ex diputada provincial de la Unión Cívica Radical (UCR) Cecilia Esquino y de la ex diputada provincial de la Unión Cívica Radical (UCR) Margarita Esquino, de la provincia de Buenos Aires, y es hermano de la ex diputada provincial de la Unión Cívica Radical (UCR) Margarita Esquino, de la provincia de Buenos Aires.
+
+Fue el segundo hijo de los diputados provinciales Cecilia Esquino y Margarita Esquino, de la provincia de Buenos Aires.
+
+En 1993, fue elegido diputado provincial por el Partido Justicialista (PJ), por el escaño que el Frente de Todos obtuvo en la Provincia de Buenos",1,2
+26,"Question:
+Let s = -4.2 + 4.2. Let x = 0.008 + 0.002. Which is the closest to x?  (a) -1  (b) 2  (c) s
+Answer:
+c<|end_of_text|>",0,2
+27,"Question:Develop a Python program that calculates the factorial of a number. The factorial of a positive number n, denoted n! (read es factorial), es el producto por consecutivo de los números naturales desde 1 hasta n, es decir, es el producto de es N! (1 x 2 x 3 x … x N). Es decir, N! = 1 x 2 x 3 x … x N. Por ejemplo, 5! = 5 x 4 x 3 x 2 x 1 = 120. Hacerlo en Python es un poco más sencillo que en C++. No es necesario crear una función para hacerlo, ya que podemos hacerlo con el modulo factorial en Python. El factorial se puede calcular de la siguiente manera: Es muy importante que se cumpla la siguiente condición: el número a calcular sea positivo, que es decir, que no sea 0. En caso contrario, el resultado se obtendrá erróneamente. Por ejemplo: 5! = 5 x 4 x 3 x 2 x 1 = 120. 5! = 5 x 4 x 3 x 2 x 1 = 120. Para",1,2
+28,"Question:
+Let t = 0.05 - 0.05. Let c = 0.2 - t. Let r = -0.3 - c. What is r rounded to 1 decimal place?
+Answer:
+-0.3<|end_of_text|>",0,2
+29,"Question:Write a C# code snippet to Calculate High Flossing: Cantidad de dientes que debe retirar un paciente de un diente es 1/2 de su anchura, y el número de dientes que debe retirar es el mismo que el de la esquina opuesta. Se le aplica un coeficiente de 2.5. Es un procedimiento de caries severa. Se debe realizar en el esmalzo de los dientes. Se debe aplicar un cuchillo de 2 mm. El diente es de 3 mm. Se debe retirar 1/2 de su anchura. Se le aplica un coeficiente de 2.5. Se debe realizar en el esmalzo de los dientes. Se debe aplicar un cuchillo de 2 mm. El diente es de 3 mm. Se debe retirar 1/2 de su anchura. Se le aplica un coeficiente de 2.5. Se debe realizar en el esmalzo de los dientes. Se debe aplicar un cuchillo de 2 mm. El diente es de 3 mm. Se debe retirar 1/2 de su anchura. Se",1,1
+30,"Question:
+Let y = -0.009 - -0.041. Let s = y - 0.03. Let u = s - -0.001. What is u rounded to 2 decimal places?
+Answer:
+0.01<|end_of_text|>",0,2
+31,"Question:
+Let m = -1.07 - -1.07. Let w = 0.03 + -0.03. Let a = w + m. Which is the nearest to 0.2?  (a) 0.4  (b) -0.4  (c) 2/5
+Answer:
+a<|end_of_text|>",0,2
+32,"Question:
+Let t = 0.002 - -0.003. Let x = 0.009 + t. Let g = x + -0.001. What is g rounded to 3 decimal places?
+Answer:
+-0.001<|end_of_text|>",0,2
+33,"def analyze_venezolanos(venezolanos):
+    """"""Esta función analiza el número de venezolanos que viven en el país, y los suma a un total.
+    El total debe ser igual a 5000.
+    """"""
+    total = 0
+    for venezolano in venezolanos:
+        total += 1
+    return total
+<|end_of_text|>",1,2
+34,"Question: Which of the following is the best therapy para la rehabilitación de la esclerosis múltiple?
+A. Valproato
+B. Diazepam
+C. Dexamidona
+D. Clonazepam
+Answer: C
+Explanation: La esclerosis múltiple es una enfermedad neurológica de origen no conocido. No se sabe con certeza si es una enfermedad autoinmunológica, es una enfermedad multifactorial o una combinación de una enfermedad autoinmunológica y una enfermedad no autoinmunológica. Es un trastorno multifactorial con una alta morbimortalidad, en el que se produce una disminución de la función motora, sensorial y psicomotora. La esclerosis múltiple es una enfermedad neurológica multifactorial, que se caracteriza por la disminución de la función motora, sensorial y psicomotora, y por un aumento de la disfunción de la esfera cerebral. La esclerosis múltiple es una enfermedad que se produce en una amplia variedad de individuos. La esclerosis múltiple es una enfermedad neurológica de origen",1,2
+35,"Question:
+What is prob of picking 2 e when two letters picked without replacement from {e: 3, u: 3, v: 4, w: 4}?
+Answer:
+1/26<|end_of_text|>",0,2
+36,"Question:
+Let o = 0.004 + -0.004001. What is o rounded to six decimal places?
+Answer:
+-0.000001<|end_of_text|>",0,2
+37,"# List of ruedas de fuego
+
+La lista de ruedas de fuego es una lista de ruedas de fuego que se ha ido elaborando desde la época romana, aunque no se sabe cuánta es la antigüedad de su uso. El uso de las ruedas de fuego se ha popularizado en el mundo moderno, aunque no se sabe cuánta antigua es su utilización, pero se sabe que se ha popularizado en el mundo moderno. 
+
+## Antecedentes históricos
+
+### La antigüedad del uso
+
+Las ruedas de fuego se conocen desde la antigüedad, pero no se sabe cuánta antigüedad tienen, pero se sabe que se ha popularizado en el mundo moderno. El uso de las ruedas de fuego se ha popularizado en el mundo moderno, aunque no se sabe cuánta antigua es su utilización, pero se sabe que se ha popularizado en el mundo moderno. 
+
+## Principales tipos
+
+### Ruedas de fuego de fuego
+
+Las ruedas de fuego de fuego son las más comunes y utilizadas en el mundo moderno, pero",1,2
+38,"Question:
+What is the common denominator of 3/10 and 89/10?
+Answer:
+10<|end_of_text|>",0,2
+39,"Question:
+Let t = -0.028 + 0.028000013. What is t rounded to 7 decimal places?
+Answer:
+0.000013<|end_of_text|>",0,2
+40,"# 2002 en televisión
+
+2002 en la televisión ha sido un año en el que se ha producido una serie de cambios en el panorama de la televisión española, como la llegada de la televisión digital, el cambio de las cadenas de televisión por cable, la creación de nuevas cadenas de televisión, la llegada de los nuevos formatos de televisión como el reality y el esportivo, la apertura del mercado de las plataformas de contenidos, el fin de la era de la cadena nacionalista, la aparición de la era de los teleres, la creación de los nuevos formatos de televisión como el documental, la televisión infantil y el deportivo, la creación de las redes de televisión abierta, el fin de la era de los programas de televisión de ficción, la creación de las redes de televisión por cable, la aparición de la era de los teleres, el fin de la era de los programas de televisión de ficción, la creación de las redes de televisión abierta, el fin de la era de los programas de televisión de ficción, la creación de las redes",1,2
+41,"Question:
+Let a = -1.1 + 0.7. Let j = -1.2 - a. Let x = -0.2 - j. What is x rounded to 1 decimal place?
+Answer:
+-0.2<|end_of_text|>",0,2
+42,"Question:
+Let l = 0.033 - 0.053. Let d = -0.3 + l. Let f = d - -0.0299992. Round f to 6 decimal places.
+Answer:
+0.000001<|end_of_text|>",0,2
+43,"Question:
+Let u = -0.037 + 0.0370127. What is u rounded to 5 dps?
+Answer:
+0.00001<|end_of_text|>",0,2
+44,"Question:
+Let o = 2.1 + -2. Let p = 0.1 - o. Let y = 1.4 - p. What is y rounded to one dp?
+Answer:
+1.4<|end_of_text|>",0,2
+45,"Question:
+Let x = 0.007 + 0.042. Let d = 0.041 + x. Let v = -0.1 - d. What is the closest to 0 in 0, v, 0.2?
+Answer:
+0<|end_of_text|>",0,2
+46,"Question:Build a Java Class Library que permita calcular el área de un polígono dado su esquema de contorno, el número de lados y su valor. En el caso de ser un polígono rectángulo, es decir, un polígono con cuatro lados, se puede usar la formula de Heron para calcular su área.
+
+A continuación se muestra el esquema de contorno de un polígono rectángulo, que puede ser un rectángulo, un cuadrado, un trapezoide, un triángulo y un círculo:
+
+![esquema de contorno de un polígono](./img/01.png)
+
+En este ejemplo se ha utilizado el polígono rectángulo, pero en caso de que el polígono sea un polígono de otro tipo, se debe modificar el esquema de contorno para calcular su área.
+
+El polígono rectángulo tiene cuatro lados, que se pueden calcular con la siguiente formula:
+
+![esquema de contorno de un polígono](./img/02.png)
+
+En este ejemplo se ha utilizado el polígono rectángulo, pero en caso de que el polígono sea un pol",1,2
+47,"# Generated by esmeralda
+# 2019-10-17 09:41:34
+
+from time import time
+import json
+import logging
+import os
+import uuid
+
+from esmeralda import Esmeralda
+from esmeralda.esmeralda import EsmeraldaError
+from esmeralda.esmeralda import EsmeraldaException
+
+# esmeralda esmeralda = new Esmeralda(""esmeralda"", ""123"", ""123"", ""123"", ""123"", ""123"")
+esmeralda = Esmeralda(""esmeralda"", ""123"", ""123"", ""123"", ""123"", ""123"")
+# esmeralda = Esmeralda(""esmeralda"", ""123"", ""123"", ""123"", ""123"", ""123"")
+
+# esmeralda = new Esmeralda(""esmeralda"", ""123"", ""123"", ""123"", ""123"", ""123"")
+esmeralda = Esmeralda(""esmeralda"", ""123"", ""123"", ""123"", ""123"", ""123"")
+
+# esmeralda = new Esmeralda(""esmer",0,2
+48,"Question:Build a Java Class Library que contiene los métodos necesarios para generar un sistema de gestión de clientes y de facturas, el cual se puede utilizar desde otros programas de la misma aplicación.
+<|end_of_text|>",1,2
+49,"Question:Design a Java function que reciba un string y devuelva un string con la primera ocurrencia de la palabra ""es"". Si no encuentra la palabra debe devolver el string vacío. El string debe ser en minúsculas.
+- 1. Debe tomar el argumento por consola y devolver el string que se encuentre en la primera ocurrencia de la palabra ""es""
+- 2. Si no encuentra la palabra ""es"" debe devolver el string vacío.
+- 3. El string debe ser en minúsculas.
+- 4. El programa debe mostrar el mensaje ""No se ha encontrado la palabra"" si no encuentra la palabra ""es"".
+
+```java
+public class Es {
+    public static void main(String[] args) {
+        String palabra = ""Es"";
+        String palabra2 = ""No es"";
+        System.out.println(""No se ha encontrado la palabra"");
+    }
+}
+```<|end_of_text|>",1,2
+50,"Question:
+Let g = 0.0124 - -0.0117. Let h = g + -0.01. Let o = h - -0.029. What is o rounded to two dps?
+Answer:
+0.03<|end_of_text|>",0,2
+51,"Question:
+Let w = -0.002 + 0.003. Let j = -0.004 - w. Let n = -0.2 + 0.2. Which is the nearest to j?  (a) n  (b) -2/7  (c) 2
+Answer:
+b<|end_of_text|>",0,2
+52,"def create_tuple_from_string(string):
+    """"""Takes a string and returns a tuple with each character of the string as an element""""""
+
+    result = ()
+
+    for i in range(len(string)):
+        result += (string[i],)
+
+    return result
+
+<|end_of_text|>",0,2
+53,"Question:
+What is prob of picking 1 j and 1 y when two letters picked without replacement from yjyjy?
+Answer:
+1/2<|end_of_text|>",0,2
+54,"Question:Develop a Python program that checks if a number is greater than 1000. If the number is greater than 1000, it must be printed in the console with a message indicating that the number is greater than 1000. If the number is less than or equal to 1000, it must be printed in the console with a message indicating that the number is less than or equal to 1000.
+
+Solution:```python
+def esMayorQue1000(numero):
+    return numero > 1000
+```
+<|end_of_text|>",1,2
+55,"def count_cultivos(cultivos):
+    """"""Toma un listado de cultivos y devuelve la cantidad de cultivos que tienen un valor mayor a 100.""""""
+    return len([x for x in cultivos if x[1] > 100])
+
+cultivos = [
+    {""nombre"": ""Maíz"", ""precio"": 50},
+    {""nombre"": ""Sorgo"", ""precio"": 100},
+    {""nombre"": ""Maíz"", ""precio"": 150},
+    {""nombre"": ""Sorgo"", ""precio"": 200},
+    {""nombre"": ""Maíz"", ""precio"": 50},
+    {""nombre"": ""Sorgo"", ""precio"": 100},
+    {""nombre"": ""Maíz"", ""precio"": 150},
+    {""nombre"": ""Sorgo"", ""precio"": 200}
+]
+
+print(""Se han encontrado"", count_cultivos(cultivos), ""cultivos con un precio mayor a 100."")
+<|end_of_text|>",1,2
+56,"Question:
+What is the common denominator of 11/8 and 7/5?
+Answer:
+40<|end_of_text|>",0,2
+57,"Question:
+Let w = -0.006 + 0.015. Let t = -0.035 + w. Let y = t + 0.000000003. What is y rounded to seven dps?
+Answer:
+0.000000<|end_of_text|>",0,2
+58,"def nested_loops_with_sets(sets):
+    """"""
+    Implementa un programa que calcule el número de elementos que tiene un conjunto de datos
+    y que los muestre por pantalla.
+
+    :param sets: un conjunto de datos
+    :return: None
+    """"""
+    # Escriba el nombre del conjunto de datos
+    print(""Nombre del conjunto de datos: "", sets)
+    # Escriba el número de elementos que tiene el conjunto
+    print(""Número de elementos: "", len(sets))
+<|end_of_text|>",1,2
+59,"Question:
+What is the common denominator of 23/2 and 57/25?
+Answer:
+50<|end_of_text|>",0,2
+60,"Question:
+Let h = -0.046 + 0.046. Let o = -0.7 + 0.5. Let f = h + o. Which is the nearest to f?  (a) -0.1  (b) 0.3  (c) 0.2
+Answer:
+c<|end_of_text|>",0,2
+61,"Question:
+Let l = -7.7 - -7.9. Let p = -0.3 + l. Let x = -0.2 - p. What is x rounded to 1 decimal place?
+Answer:
+-0.2<|end_of_text|>",0,2
+62,"Question:
+Let g = -0.4 - -0.4. Let a = -0.7 - g. Let z = 0.2 - a. What is z rounded to 1 decimal place?
+Answer:
+1<|end_of_text|>",0,2
+63,"Question:
+Let o = -0.027 + 0.0270214. What is o rounded to 4 decimal places?
+Answer:
+0.0023<|end_of_text|>",0,2
+64,"Question:
+Let q = -0.045 + 0.0450068. Round q to five decimal places.
+Answer:
+0.00006<|end_of_text|>",0,2
+65,"Question:
+Let h = -0.046 - -0.057. Let p = 0.017 + h. Let j = -0.019 - p. What is j rounded to 2 dps?
+Answer:
+-0.02<|end_of_text|>",0,2
+66,"Question:Create a Python script que imprima la suma de todos los números pares entre 1 y 20, se debe utilizar un bucle for.
+Solution:Create a Python script that prints the sum of all the even numbers between 1 and 20, it must use a for loop.
+1. Crear una variable que reciba el valor de 1 hasta 20.
+2. Crear un bucle for que recorra el valor de la variable anterior.
+3. Realizar la suma de todos los valores pares entre 1 y 20.
+4. Imprimir la suma por pantalla.
+5. Se debe utilizar la variable para poder realizar la suma.
+6. Se debe utilizar el modulo de la suma que se encuentra en la librería math.
+7. Se debe utilizar la función suma() que se encuentra en la librería math.
+8. Se debe utilizar la función esPar() que se encuentra en la librería math.
+9. Se debe utilizar la función esPar() que se encuentra en la librería math.
+10. Se debe utilizar la función esPar() que se encuentra en la librería math.
+11. Se debe utilizar la función esPar() que se encuentra en la librería math",1,1
+67,"Question:Design una base de datos que muestre la relación entre los departamentos y los municipios, mostrando el nombre del departamento y el nombre del municipio que se relaciona con él, se debe mostrar en la tabla los datos de los municipios que no tienen departamento, y se debe mostrar el nombre del departamento que no tiene municipios, debe ser un diseño de tabla, no de lista.
+<|end_of_text|>",1,2
+68,"Question:
+What is 3/10 of a tonne in kilograms?
+Answer:
+300<|end_of_text|>",0,2
+69,"Question:
+Let d = -0.0461 + 0.046095. Round d to 3 decimal places.
+Answer:
+0.003<|end_of_text|>",0,2
+70,"Question: Which of the following is the best marker para evaluar la estabilidad de la columna vertebral?
+A. Tension de la columna
+B. Presión de la columna
+C. Tension muscular
+D. Tension muscular de la columna
+Answer: D<|end_of_text|>",1,2
+71,"Question:
+Let l = 0.021 - 0.211. Let r = -0.16 - l. Let g = 0.1 - r. What is g rounded to 1 dp?
+Answer:
+0.1<|end_of_text|>",0,2
+72,"Question:
+Let m = -0.012 + 0.062. Let d = 0.056 + m. Let z = d + 0.04999958. Round z to 6 decimal places.
+Answer:
+-0.000001<|end_of_text|>",0,2
+73,"def calculate_gasto(sucio, gasto, porcentaje):
+    """"""Calcula el gasto en una sucursal y el porcentaje de desgaste de la misma.
+
+    Args:
+        sucio (float): Gasto en la sucursal.
+        gasto (float): Gasto total en el total.
+        porcentaje (float): Porcentaje de desgaste de la sucursal.
+
+    Retorna:
+        gasto_total (float): Gasto total en el total.
+        gasto_sucio (float): Gasto en la sucursal.
+        porcentaje (float): Porcentaje de desgaste de la sucursal.
+    """"""
+
+    gasto_total = gasto + sucio * porcentaje
+    gasto_sucio = sucio
+    porcentaje = porcentaje
+
+    return gasto_total, gasto_sucio, porcentaje
+<|end_of_text|>",1,2
+74,"Question:Develop a JavaScript function that, dado un array de números, nos muestre el promedio de esos números y el mayor y el menor de ese array.
+console.log(""Promedio de los números: "" + promedio);
+console.log(""Mayor de los números: "" + mayor);
+console.log(""Menor de los números: "" + menor);
+function promedio(array) {
+  var suma = 0;
+  for (var i = 0; i < array.length; i++) {
+    suma = suma + array[i];
+  var promedio = suma / array.length;
+  return promedio;
+function mayor(array) {
+  var mayor = array[0];
+  for (var i = 0; i < array.length; i++) {
+    if (array[i] > mayor) {
+      mayor = array[i];
+  return mayor;
+function menor(array) {
+  var menor = array[0];
+  for (var i = 0; i < array.length; i++) {
+    if (array[i] < menor) {
+      menor = array[i];
+  return menor;
+//Definir una función para obtener el promedio de los números
+function promedio(array) {
+  var suma = 0;
+  for",1,1
+75,"Question:Create a C# script que determine si el usuario esta usando una computadora con Mac o Windows, y si es el caso, mostrar la pantalla de la misma. El código debe ser esencialmente el siguiente:
+
+```javascript
+if (System.getProperty(""os.name"").equals(""Windows"")) {
+    System.out.println(""El usuario esta usando un PC Windows"");
+} else {
+    System.out.println(""El usuario esta usando un PC Mac"");
+}
+```<|end_of_text|>",1,2
+76,"Question:
+Let y = 0.049 - -0.051. Let d = -0.022 + y. Let g = d - -0.012. What is g rounded to 1 dp?
+Answer:
+0.1<|end_of_text|>",0,2
+77,"def create_tuple_from_string(string):
+    """"""Takes a string and returns a tuple of its characters""""""
+    return tuple(string)
+
+# Escriba un programa que pida un string y lo convierta en una tupla
+# y luego imprima el resultado en consola.
+
+<|end_of_text|>",1,2
+78,"Question: Which of the following is the most common cause of esotropia esotropia esotropia?
+A. Esclerosis
+B. Retinosis
+C. Esclerosis
+D. Esclerosis
+Answer: C<|end_of_text|>",0,2
+79,"Question:
+Let x = 0.023 - 0.033. Let f = 0.03 - x. Let u = -0.1 + f. What is u rounded to zero decimal places?
+Answer:
+-1<|end_of_text|>",0,2
+80,"Question:
+What is the next term in 12, 24, 36, 48, 60, 72?
+Answer:
+84<|end_of_text|>",0,2
+81,"Question:
+Let o = -2.6 - -2.7. Let x = 0.2 - o. Let p = x - 0.4. Which is the third smallest value?  (a) -3  (b) p  (c) 1/3
+Answer:
+c<|end_of_text|>",0,2
+82,"Question:
+Let u = -0.036 - 0.064. Let v = u + 0.09. Let k = -0.09 + v. What is the third smallest value in -2, k, 2/5?
+Answer:
+2/5<|end_of_text|>",0,2
+83,"Question:
+Let w = 0.017 - 0.018. Let h = 0.03 + w. Let c = 0.03 + h. Which is the nearest to 2/3?  (a) -1  (b) c  (c) -2
+Answer:
+b<|end_of_text|>",0,2
+84,"def update_medidas(medidas, valor):
+    """"""Función que se encarga de actualizar las medidas de un paciente
+    en base a un valor ingresado por el usuario.
+    """"""
+    for medida in medidas:
+        if medida[""medida""] == valor:
+            medida[""valor""] = valor
+            print(""Se ha actualizado la medida"")
+        else:
+            print(""No se ha actualizado la medida"")
+<|end_of_text|>",1,2
+85,"def modify_tuple(my_tuple):
+    """"""Modifica el contenido de un tupla usando un ciclo for""""""
+    for i in range(3):
+        my_tuple[0] = my_tuple[0] + 1
+        my_tuple[1] = my_tuple[1] - 1
+    return my_tuple
+
+<|end_of_text|>",1,2
+86,"Question:Build a Python module que calcula el factorial de un número. El factorial de un número N es el producto de todos los números positivos menores que N. Por ejemplo, el factorial de 5 es 5 * 4 * 3 * 2 * 1 = 120. El problema que se debe resolver es el de calcular el factorial de un número que se pasa como parámetro de la función. Por ejemplo: Factorial(5); // se puede escribir como Factorial(5); o Factorial(5, 1); o Factorial(5, 2); etc. La función que se debe escribir debe ser la siguiente: ``` ```def factorial(n):    if n == 0:        return 1    else:        return n * factorial(n-1); ``` ``` El factorial de un número se calcula con la siguiente fórmula: ``` ```n! = n * (n-1) * (n-2) *... * 3 * 2 * 1``` ``` La función factorial debe ser llamada así: ``` ```def factorial(n):    if n == 0:        return 1    else:        return n * factorial(n-1); ```",1,2
+87,"Question:Create a Ruby script que se ejecuta al iniciar el sistema operativo que pida al usuario su nombre y su edad y le muestre una lista de animales de su edad. Por ejemplo, si es un niño, debería aparecer un perro, si es un adolescente un gato, si es adulto un perro, etc. En este script se debe usar un ciclo for, en el que se debe recorrer la lista de animales y se debe mostrar el nombre del animal con su edad, si el animal tiene esta edad, se debe mostrar un mensaje que diga ""Este animal es de su edad"". Si no tiene esta edad, se debe mostrar un mensaje que diga ""Este animal no es de su edad"". Por ejemplo: ""Este perro es de 10 años"", ""Este gato es de 3 años"" etc.
+
+Este es un ejemplo de un programa que se puede ejecutar al iniciar el sistema operativo que pida al usuario su nombre y su edad y le muestre una lista de animales de su edad. Por ejemplo, si es un niño, debería aparecer un perro, si es un adolescente un gato, si es adulto un perro,",1,2
+88,"Question:
+Let w = 0.1 - -0.2. Let s = -0.1 + w. Let m = -0.003 + s. What is m rounded to 3 decimal places?
+Answer:
+-0.003<|end_of_text|>",0,2
+89,"Question:
+Let n = -0.031 - 0.005. Let m = 0.034 - n. Let d = m - 0.044. What is d rounded to two dps?
+Answer:
+-0.04<|end_of_text|>",0,2
+90,"def add_to_set(set, elemento):
+    """"""Agrega un elemento a un set.
+    Si el elemento ya se encuentra en el set, no se agrega.
+    """"""
+    if elemento in set:
+        return
+    set.add(elemento)
+<|end_of_text|>",1,2
+91,"Question:
+What is the remainder when 44 is divided by 12?
+Answer:
+4<|end_of_text|>",0,2
+92,"Question:
+Let p = 2.2 - 2. Let g = 0.3 + p. Let h = 0.2 + g. What is the smallest value in -2, h, 3?
+Answer:
+-2<|end_of_text|>",0,2
+93,"Question:
+Let j = 0.001 - -1.999. Let l = 0.1 + j. Let f = -0.029 + 0.029003. What is f rounded to 5 dps?
+Answer:
+0.00001<|end_of_text|>",0,2
+94,"Question:Build a Go function que imprime el mensaje ""Hola mundo"" en el prompt de consola, pero que el mensaje no se imprima si el usuario introduce el valor ""no"" como argumento.
+Solution: 1. Crear la funcion que imprime el mensaje ""Hola mundo"" en el prompt de consola.
+    fun holaMundo() {
+     println(""Hola mundo"")
+       // No se imprime el mensaje si el usuario introduce el valor ""no"" como argumento
+    // No se imprime el mensaje si el usuario introduce el valor ""no"" como argumento
+    // No se imprime el mensaje si el usuario introduce el valor ""no"" como argumento
+    // No se imprime el mensaje si el usuario introduce el valor ""no"" como argumento
+    // No se imprime el mensaje si el usuario introduce el valor ""no"" como argumento
+    // No se imprime el mensaje si el usuario introduce el valor ""no"" como argumento
+    // No se imprime el mensaje si el usuario introduce el valor ""no"" como argumento
+    // No se imprime el mensaje si el usuario introduce el valor ""no"" como argumento
+    //",1,1
+95,"Question:
+Let o = 0.2 + 1.8. Let w = o - 1. Let t = w + 0.2. What is the nearest to t in -1, 3, -4?
+Answer:
+-1<|end_of_text|>",0,2
+96,"# 2004 en el fútbol argentino
+
+2004 fue un año de los siguientes acontecimientos deportivos:
+
+## Asociaciones deportivas
+
+* La Asociación Nacional de Fútbol Profesional (ANFP) de Argentina, la máxima categoría del fútbol en el país, se reorganiza para dar forma a la nueva liga profesional de fútbol de Argentina. Esta nueva liga profesional, que se llama Primera División de Argentina, se compondrá de 20 equipos que serán los que se clasifican para jugar la Copa Libertadores de América 2004, la Copa de la Liga 2004, la Copa de Campeones de Copa 2004 y la Copa de la Superliga 2004. De esta forma, la ANFP se separa en dos categorías, la Primera División de Argentina y la Segunda División de Argentina, la que será la categoría de descenso a las que accederán los equipos de la Primera División de Argentina que no hayan alcanzado la categoría de Copa Libertadores 2004. En esta categoría, se clasificarán 20 equipos, de los que ",1,2
+97,"Question:
+Let c = 0.5 - -0.3. Let u = c + -0.4. Let v = 0.5 - u. Which is the closest to v?  (a) -1  (b) 0.3  (c) 3
+Answer:
+b<|end_of_text|>",0,2
+98,"Question:Develop a Java program that allows the user to calculate the area of a rectangle and the area of a triangle. The user must enter the base and the height of the triangle or the length of the side of the rectangle. The program must use the formulaes of the area of the rectangle and the area of the triangle. The user must enter the values of the base and height of the triangle or the length of the side of the rectangle, and the program must calculate the area of the triangle or the area of the rectangle. The program must use the functions of the Math library of the java.lang package. The program must use a for loop to calculate the area of the triangle or the rectangle. The program must use the method of the Math library of the java.lang package to calculate the area of the triangle or the rectangle. The user must enter the values of the base and height of the triangle or the length of the side of the rectangle, and the program must calculate the area of the triangle or the rectangle. The program must use the function of the Math library of the java.lang package to calculate the area of the triangle or the rectangle. The user must enter the values of the base and height of the triangle or the length of the side of the rectangle, and",0,2
+99,"def psychologist_exercise(person):
+    """"""
+    Escriba un programa que determine si un personaje es un psicólogo o no, mediante el uso de la función ""isinstance"" y la operación de ""es"", y el uso de la condición ""if"".
+    """"""
+    if isinstance(person, Psychologist):
+        print(""El personaje es un psicólogo"")
+    else:
+        print(""El personaje no es un psicólogo"")
+
+# El ejercicio acaba aquí
+
+<|end_of_text|>",1,2
