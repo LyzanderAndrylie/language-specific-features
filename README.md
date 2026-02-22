@@ -6,9 +6,9 @@ This repository is the official implementation of our paper [Sparse Autoencoders
 
 ## Language-Specific Features by SAE-LAPE
 
-We provide the identified language-specific features in Llama 3.2 1B in the `compressed` directory. The features are identified using the SAE-LAPE method, which is described in the paper.
+We provide the identified language-specific features for Llama 3.2 1B and Gemma 2 in the `compressed` directory. The features are identified using the SAE-LAPE method, which is described in the paper.
 
-In addition, we provide the identfied langauge-specific neurons using the [LAPE](https://arxiv.org/abs/2402.16438) method in Llama 3.2 1B in the `compressed` directory for comparison. We use the code from [Language-Specific-Neurons](https://github.com/RUCAIBox/Language-Specific-Neurons) for the LAPE method and modify it to work with SAE features, which we refer to as SAE-LAPE.
+In addition, we provide the identfied langauge-specific neurons using the [LAPE](https://aclanthology.org/2024.acl-long.309/) method for Llama 3.2 1B and Gemma 2 in the `compressed` directory for comparison. We use the code from [Language-Specific-Neurons](https://github.com/RUCAIBox/Language-Specific-Neurons) for the LAPE method and modify it to work with SAE features, which we refer to as SAE-LAPE.
 
 ## Visualization
 
