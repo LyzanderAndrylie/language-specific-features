@@ -215,6 +215,7 @@ def parse_args() -> Args:
 
 
 def get_logits(
+    model_name: str,
     llm: LanguageModel,
     prompt: str,
     layers: list[str],
@@ -257,10 +258,18 @@ def get_logits(
 
         logits = llm.lm_head.output.save()
 
+    # For gemma models, apply final logit softcapping if specified in the config
+    if model_name == 'google/gemma-2-2b':
+        if llm.config.final_logit_softcapping is not None:
+            logits = logits / llm.config.final_logit_softcapping
+            logits = torch.tanh(logits)
+            logits = logits * llm.config.final_logit_softcapping
+
     return logits
 
 
 def get_logprobs(
+    model_name: str,
     llm: LanguageModel,
     prompt: str,
     layers: list[str],
@@ -277,6 +286,7 @@ def get_logprobs(
     output_ids = inputs["input_ids"][:, 1:].to(llm.device)
 
     logits = get_logits(
+        model_name,
         llm,
         prompt,
         layers,
@@ -295,6 +305,7 @@ def get_logprobs(
 
 
 def compute_perplexity(
+    model_name: str,
     llm: LanguageModel,
     prompt: str,
     layers: list[str],
@@ -308,6 +319,7 @@ def compute_perplexity(
     neuron_intervention_method: str = "fixed",
 ):
     logprobs = get_logprobs(
+        model_name,
         llm,
         prompt,
         layers,
@@ -330,7 +342,7 @@ def compute_perplexity(
 
 @torch.inference_mode()
 def main(args: Args):
-    logger.info(f'Loading Model: {args["model"]}')
+    logger.info(f"Loading Model: {args['model']}")
 
     llm = LanguageModel(args["model"], device_map="auto", dispatch=True)
     layers_modules = {layer: get_nested_attr(llm, layer) for layer in args["layers"]}
@@ -352,7 +364,7 @@ def main(args: Args):
     )
 
     for lang in args["languages"]:
-        logger.info(f'Loading Dataset: {args["dataset"]} ({lang})')
+        logger.info(f"Loading Dataset: {args['dataset']} ({lang})")
 
         intervention_lang_name = (
             lang_choices_to_qualified_name[args["intervention_lang"]]
@@ -375,6 +387,7 @@ def main(args: Args):
         for row in tqdm(dataset, desc="Processing Samples"):
             prompt = prompt_template.format_map(row)
             ppl = compute_perplexity(
+                args["model"],
                 llm,
                 prompt,
                 args["layers"],

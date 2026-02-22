@@ -149,7 +149,7 @@ def parse_args() -> Args:
 
 @torch.inference_mode()
 def main(args: Args):
-    logger.info(f'Loading Model: {args["model"]}')
+    logger.info(f"Loading Model: {args['model']}")
 
     llm = LanguageModel(args["model"], device_map="auto", dispatch=True)
 
@@ -160,7 +160,7 @@ def main(args: Args):
         }
 
         logger.info(
-            f'Loading Dataset: {dataset_config["name"]} ({dataset_config["lang"]})'
+            f"Loading Dataset: {dataset_config['name']} ({dataset_config['lang']})"
         )
 
         dataset = load_dataset_specific(
@@ -206,6 +206,9 @@ def main(args: Args):
             args["dataset"]["start"],
             args["dataset"]["end"],
         )
+
+        del all_activations
+        del all_sae_features
 
 
 if __name__ == "__main__":

@@ -124,7 +124,8 @@ def count_sae_features(
 ):
     if output_type == "EncoderOutput":
         for activations in activations_list:
-            top_acts = activations.top_acts
+            # Convert sparse tensors to dense for processing for JumpRelu activations
+            top_acts = activations.top_acts.to_dense()
             top_indices = activations.top_indices
 
             num_examples += 1
@@ -132,6 +133,12 @@ def count_sae_features(
 
             flat_top_indices = top_indices.flatten()
             flat_top_acts = top_acts.flatten()
+            
+            # TopK -> (batch, tokens, top_K)
+            # JumpRelu -> (batch, tokens, max_K). Need to remove zero activations
+            non_zero_flat_top_acts = flat_top_acts > 0
+            flat_top_indices = flat_top_indices[non_zero_flat_top_acts]
+            flat_top_acts = flat_top_acts[non_zero_flat_top_acts]
 
             unique_feature_indices = torch.unique(flat_top_indices)
             over_zero_example[layer_index, unique_feature_indices] += 1

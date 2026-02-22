@@ -102,6 +102,10 @@ def parse_args() -> Args:
 def extract_features(sae_model: str, sae_features: any):
     if sae_model.startswith("EleutherAI/"):
         return sae_features.top_acts, sae_features.top_indices
+    elif sae_model.startswith("llama_scope") or sae_model.startswith(
+        "gemma-scope"
+    ):
+        pass
 
 
 def process_sae_features(

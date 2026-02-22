@@ -23,6 +23,7 @@ from plotly.subplots import make_subplots
 from scipy.stats import pearsonr
 from tqdm.auto import tqdm
 from utils import get_project_dir
+import colorsys
 
 
 def get_layer_to_lang_count(
@@ -208,7 +209,7 @@ def plot_all_lang_feature_overlap(
         / model_name
         / sae_model_name
         / dataset_name
-        / f"combined.html"
+        / "combined.html"
     )
     plot_combined_lang_feature_overlap(df_lang_feature_count_layers, title, output_path)
 
@@ -445,7 +446,7 @@ def plot_all_cross_co_occurrence(
         / dataset1_name
         / dataset2_name
         / folder_name
-        / f"combined.html"
+        / "combined.html"
     )
     plot_heatmap(df_combined_co_occurrence_matrix, title, output_path, labels=labels)
 
@@ -455,7 +456,6 @@ def plot_all_co_occurrence(
     config: dict,
     specific_feature_lang_count: int | None = None,
 ):
-
     df_combined_co_occurrence_matrix = None
 
     folder_name = (
@@ -516,13 +516,13 @@ def plot_all_co_occurrence(
         / sae_model_name
         / dataset_name
         / folder_name
-        / f"combined.html"
+        / "combined.html"
     )
     plot_heatmap(
         df_combined_co_occurrence_matrix,
         title,
         output_path,
-        labels=dict(x=f"Language", y=f"Language", color="Shared Indices"),
+        labels=dict(x="Language", y="Language", color="Shared Indices"),
     )
 
 
@@ -635,7 +635,7 @@ def plot_all_count_box_plots(
         )
 
 
-def plot_lape_result(lape_result: dict, title, out_dir: Path):
+def plot_lape_result(lape_result: dict, title, out_dir: Path, total_layers: int = 16):
     sorted_lang = lape_result["sorted_lang"]
 
     df_all_langs = None
@@ -660,7 +660,7 @@ def plot_lape_result(lape_result: dict, title, out_dir: Path):
         df_all_langs = pd.concat([df_all_langs, df_lang], ignore_index=True)
 
     plot_combined_lape_lang(df_all_langs, title, out_dir)
-    plot_combined_lape_lang_count(df_all_langs, title, out_dir)
+    plot_combined_lape_lang_count(df_all_langs, title, out_dir, total_layers)
 
 
 def plot_specific_lape_lang(lang, df_lang, title, out_dir):
@@ -745,7 +745,7 @@ def plot_combined_lape_lang(df_all_langs, title, out_dir):
     )
 
     output_dir = get_project_dir() / out_dir
-    output_path = output_dir / f"lape.html"
+    output_path = output_dir / "lape.html"
 
     os.makedirs(output_dir, exist_ok=True)
 
@@ -754,29 +754,22 @@ def plot_combined_lape_lang(df_all_langs, title, out_dir):
     save_image(output_path, fig)
 
 
-def plot_combined_lape_lang_count(df_all_langs, title, out_dir):
+def plot_combined_lape_lang_count(df_all_langs, title, out_dir, total_layers):
     df_copy = df_all_langs.copy()
 
     df_copy["Layer"] = df_copy["Layer"].astype(str)
 
-    # Create a color map for layers 0-15
+    # Create a color map for layers
     layer_colors = {
-        "0": "#1f77b4",  # blue
-        "1": "#ff7f0e",  # orange
-        "2": "#2ca02c",  # green
-        "3": "#d62728",  # red
-        "4": "#9467bd",  # purple
-        "5": "#8c564b",  # brown
-        "6": "#e377c2",  # pink
-        "7": "#7f7f7f",  # gray
-        "8": "#bcbd22",  # olive
-        "9": "#17becf",  # teal
-        "10": "#aec7e8",  # light blue
-        "11": "#ffbb78",  # light orange
-        "12": "#98df8a",  # light green
-        "13": "#ff9896",  # light red
-        "14": "#c5b0d5",  # light purple
-        "15": "#c49c94",  # light brown
+        str(i): "#{:02x}{:02x}{:02x}".format(
+            *[
+                int(c * 255)
+                for c in colorsys.hsv_to_rgb(
+                    (i / max(1, total_layers - 1)) * 0.85, 1.0, 1.0
+                )
+            ]
+        )
+        for i in range(total_layers)
     }
 
     # Group by Lang and sum Counts to determine sorting order
@@ -803,10 +796,10 @@ def plot_combined_lape_lang_count(df_all_langs, title, out_dir):
         color="Layer",
         title=title,
         color_discrete_map=layer_colors,
-        category_orders={
-            "Layer": [str(i) for i in range(16)]
-        },  # Ensure layers are ordered from 0-15
+        category_orders={"Layer": [str(i) for i in range(total_layers)]},
     )
+
+    fig.update_xaxes(tickangle=0)
 
     # Add text annotations for the total counts
     for i, row in df_sums.iterrows():
@@ -843,11 +836,31 @@ def plot_combined_lape_lang_count(df_all_langs, title, out_dir):
     )
 
     output_dir = get_project_dir() / out_dir
-    output_path = output_dir / f"feature_counts.html"
+    output_path = output_dir / "feature_counts.html"
 
     os.makedirs(output_dir, exist_ok=True)
 
     fig.write_html(output_path, include_plotlyjs="cdn")
+
+
+    # Only show particular layers in the legend
+    target_legend_count = 10 
+    legend_layers = set()
+
+
+    if total_layers <= target_legend_count:
+        legend_layers = {str(i) for i in range(total_layers)}
+    else:
+        indices = [
+            int(i * (total_layers - 1) / (target_legend_count - 1))
+            for i in range(target_legend_count)
+        ]
+        legend_layers = {str(i) for i in indices}
+
+    # Apply the filter to the figure
+    for trace in fig.data:
+        if trace.name not in legend_layers:
+            trace.showlegend = False
 
     save_image(output_path, fig)
 
@@ -1494,7 +1507,6 @@ def compute_similarity_metrics(task_df):
         layer2,
         *dataset_row_id_token_id_act_val_list2,
     ) in combinations(task_df[cols].itertuples(index=False), 2):
-
         total_intersection = 0
         total_union = 0
 
@@ -2242,6 +2254,64 @@ def plot_entropy_distribution(sae_features_info, output_dir: Path):
 
     os.makedirs(output_dir, exist_ok=True)
 
+    output_path = output_dir / "distribution.html"
+
+    fig.write_html(
+        output_path,
+        include_plotlyjs="cdn",
+    )
+
+    save_image(output_path, fig)
+
+
+def plot_entropy_distribution_from_lape_result(lape_result, output_dir: Path):
+    records = []
+    features_info = lape_result.get("features_info", {})
+
+    for lang, data in features_info.items():
+        if "entropies" in data:
+            entropies = data["entropies"].detach().cpu().numpy().flatten()
+            for val in entropies:
+                records.append({"lang": lang, "entropy": val})
+
+    df = pd.DataFrame(records)
+    df["lang"] = df["lang"].apply(lambda x: lang_choices_to_iso639_1.get(x, x))
+
+    fig = px.histogram(
+        df,
+        x="entropy",
+        nbins=30,
+        title="Distribution of Feature Entropy",
+        labels={"entropy": "Entropy", "count": "Count", "y": "Count"},
+        color="lang",
+        color_discrete_map=language_colors,
+    )
+    fig.update_layout(yaxis_title="Count")
+    fig.update_layout(
+        bargap=0.1,
+        plot_bgcolor="white",
+        xaxis=dict(
+            tickmode="linear",
+            dtick=0.2,
+        ),
+    )
+
+    fig.update_xaxes(
+        mirror=True,
+        ticks="outside",
+        showline=True,
+        linecolor="black",
+    )
+
+    fig.update_yaxes(
+        mirror=True,
+        ticks="outside",
+        showline=True,
+        linecolor="black",
+        gridcolor="lightgrey",
+    )
+
+    os.makedirs(output_dir, exist_ok=True)
     output_path = output_dir / "distribution.html"
 
     fig.write_html(

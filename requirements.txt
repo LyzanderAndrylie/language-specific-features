@@ -21,3 +21,5 @@ evaluate==0.4.3
 scikit-learn==1.6.1
 XlsxWriter==3.2.3
 fasttext==0.9.3
+kaleido==0.1.0.post1
+sae-lens==6.34.2

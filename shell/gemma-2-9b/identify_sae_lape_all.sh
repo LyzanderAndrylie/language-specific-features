@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+DIR="$(cd "$(dirname "$0")" && pwd)"
+
+python "$DIR/../../scripts/identify.py" \
+    --model 'google/gemma-2-9b' \
+    --sae-model 'gemma-scope-9b-pt-mlp-canonical' \
+    --layer model.layers.{0..41}.post_feedforward_layernorm \
+    --dataset-configs 'facebook/xnli:{en,de,fr,hi,es,th,bg,ru,tr,vi}' 'google-research-datasets/paws-x:{en,de,fr,es,ja,ko,zh}' 'openlanguagedata/flores_plus:{eng_Latn,deu_Latn,fra_Latn,ita_Latn,por_Latn,hin_Deva,spa_Latn,tha_Thai,bul_Cyrl,rus_Cyrl,tur_Latn,vie_Latn,jpn_Jpan,kor_Hang,cmn_Hans}' \
+    --in-path 'sae_features_count/google/gemma-2-9b/gemma-scope-9b-pt-mlp-canonical' \
+    --out-path 'sae_features_specific/google/gemma-2-9b/gemma-scope-9b-pt-mlp-canonical' \
+    --out-filename 'lape_all.pt' \
+    --topk-threshold-ratio 0.5 \
+    --example-rate 0.98 \
+    --algorithm 'sae_lape' \
+    --lang-specific 

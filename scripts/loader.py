@@ -24,6 +24,7 @@ from datasets import load_dataset as hg_load_dataset
 from sparsify import Sae
 from sparsify.sparse_coder import EncoderOutput
 from tqdm.auto import tqdm
+from sae_lens import SAE as SAELens
 
 
 def load_env(name: str, env: Literal["local", "colab", "kaggle"]):
@@ -143,6 +144,7 @@ def load_sae(
     model_name: str, sae_model_name: str, layer: str, local_sae_dir: Path | None = None
 ):
     if sae_model_name.startswith("EleutherAI/"):
+        # Use Sparsify SAE
         if sae_model_name.endswith("/sae"):
             file_dir = (
                 local_sae_dir
@@ -156,6 +158,14 @@ def load_sae(
             )
 
         return sae
+    elif sae_model_name.startswith("llama_scope") or sae_model_name.startswith(
+        "gemma-scope"
+    ):
+        # Use SAE Lens
+        return SAELens.from_pretrained(
+            sae_model_name,
+            sae_model_layer_to_hookpoint[model_name][sae_model_name][layer],
+        )
 
 
 def load_layer_to_summary(
