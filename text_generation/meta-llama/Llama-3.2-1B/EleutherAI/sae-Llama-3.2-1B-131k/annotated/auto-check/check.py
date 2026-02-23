@@ -44,11 +44,11 @@ This criterion evaluates the overall intelligibility and fluency of the generate
     - blblblblbl èèèè $$$$$
     - rerere banana moon qwerty
 
-- Partially Coherent: The general meaning of the text can be inferred, but parts may require guessing or interpretation. This includes major grammatical or syntactic errors, repetitive yet intelligible structures, or repetitions at the end of the text. For examples:
+- Partially Coherent: The general meaning of the text can be inferred, but parts may require guessing or interpretation. This includes major grammatical or syntactic errors, repetitive yet intelligible structures, or repetitions at the end of the text. For example:
     - He go to escuela because want aprender
     - The cat is sleep sleep the bed the bed
 
-- Coherent: The text is readable and understandable, with only minor issues (e.g., minor grammatical or syntactic errors and mid-sentence code-switching that does not obscure meaning). Code-switching is acceptable as long as overall sentence-level coherence is maintained. For examples:
+- Coherent: The text is readable and understandable, with only minor issues (e.g., minor grammatical or syntactic errors and mid-sentence code-switching that does not obscure meaning). Code-switching is acceptable as long as overall sentence-level coherence is maintained. For example:
     - She goes to the bibliothèque every evening to study
     - I like to eat sushi y también tacos
     - Er ist ein Lehrer und he teaches German very well
@@ -74,7 +74,7 @@ current_dir = Path(__file__).parent
 data_dir = current_dir.parent / "all"
 langs = [
     "eng_Latn",
-    # "deu_Latn",
+    "deu_Latn",
     "fra_Latn",
     "ita_Latn",
     "por_Latn",
