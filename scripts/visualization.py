@@ -842,11 +842,9 @@ def plot_combined_lape_lang_count(df_all_langs, title, out_dir, total_layers):
 
     fig.write_html(output_path, include_plotlyjs="cdn")
 
-
     # Only show particular layers in the legend
-    target_legend_count = 10 
+    target_legend_count = 10
     legend_layers = set()
-
 
     if total_layers <= target_legend_count:
         legend_layers = {str(i) for i in range(total_layers)}
@@ -1976,8 +1974,23 @@ def plot_shared_count_bar_chart(
         return
 
     traces = []
-    # Sort shared_counts to ensure consistent trace order and legend colors
+
+    # Sort shared_counts numerically from lowest digit to highest digit
     sorted_shared_counts = sorted(data_dict.keys())
+
+    # Create rainbow color map based on number of languages (lowest digit is red)
+    num_shared_counts = len(sorted_shared_counts)
+    shared_count_colors = {
+        shared_count: "#{:02x}{:02x}{:02x}".format(
+            *[
+                int(c * 255)
+                for c in colorsys.hsv_to_rgb(
+                    (i / max(1, num_shared_counts - 1)) * 0.85, 1.0, 1.0
+                )
+            ]
+        )
+        for i, shared_count in enumerate(sorted_shared_counts)
+    }
 
     for shared_count in sorted_shared_counts:
         features_set = data_dict[shared_count]
@@ -2018,8 +2031,9 @@ def plot_shared_count_bar_chart(
                 name=f"{shared_count}",
                 x=sorted_layer_indices,  # Use integers directly
                 y=y_counts,
+                marker_color=shared_count_colors[shared_count],
                 hovertemplate=(
-                    f"<b>Shared Count: {shared_count}</b><br>"
+                    f"<b>Number of Languages: {shared_count}</b><br>"
                     "Layer Index: %{x}<br>"
                     "Feature Count: %{y}<extra></extra>"
                 ),
@@ -2040,9 +2054,27 @@ def plot_shared_count_bar_chart(
             tickmode="linear",
         ),
         yaxis_title="Count",
-        legend_title_text="Shared Counts",
-        template="plotly_white",
+        legend=dict(
+            title_text="Number of<br>Languages",
+            traceorder="normal",
+        ),
+        plot_bgcolor="white",
         showlegend=True,
+    )
+
+    fig.update_xaxes(
+        mirror=True,
+        ticks="outside",
+        showline=True,
+        linecolor="black",
+    )
+
+    fig.update_yaxes(
+        mirror=True,
+        ticks="outside",
+        showline=True,
+        linecolor="black",
+        gridcolor="lightgrey",
     )
 
     os.makedirs(output_path.parent, exist_ok=True)
