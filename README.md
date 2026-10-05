@@ -288,10 +288,10 @@ We provide several scripts to collect, process, and analyze language-specific fe
 ## Citation
 
 ```bibtex
-@misc{andrylie2025sparseautoencoderscapturelanguagespecific,
+@misc{andrylie2026sparseautoencoderscapturelanguagespecific,
       title={Sparse Autoencoders Can Capture Language-Specific Concepts Across Diverse Languages}, 
       author={Lyzander Marciano Andrylie and Inaya Rahmanisa and Mahardika Krisna Ihsani and Alfan Farizki Wicaksono and Haryo Akbarianto Wibowo and Alham Fikri Aji},
-      year={2025},
+      year={2026},
       eprint={2507.11230},
       archivePrefix={arXiv},
       primaryClass={cs.CL},
